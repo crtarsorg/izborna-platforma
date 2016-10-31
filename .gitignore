@@ -1,8 +1,9 @@
 .idea
 *.pyc
+config.cfg
 venv
 logs
 __pycache__
-config.cfg
+
 
 
