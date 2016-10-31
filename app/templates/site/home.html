@@ -1,0 +1,101 @@
+{% extends "layout.html" %}
+{% block body %}
+
+    <div class="col-md-12">
+        <h1>US Map</h1>
+    </div>
+
+    <div class="col-md-10 col-sm-12 col-xs-12 map">
+        <div id="container"></div>
+    </div>
+    <div class="col-md-2 col-sm-12 col-xs-12 data-map">
+        <p id="statesseleted"></p>
+        <p id="abbreviation"></p>
+    </div>
+
+    <script type="text/javascript">
+        $(function () {
+
+            var mapdata = {
+                "type": "FeatureCollection",
+                "features": {{ countries_json|safe }}
+            }
+            var data = [];
+            var datageojson = {{ countries_json|safe }};
+            var i = 0;
+
+            $.each(datageojson, function (index, key) {
+
+                data.push({
+                    "hc-key": key.properties['hc-key'],
+                    "value": i++
+                });
+            });
+
+            // Initialize the map
+            $('#container').highcharts('Map', {
+                title: {
+                    text: ''
+                },
+                plotOptions: {
+                    series: {
+                        cursor: 'pointer',
+                        point: {
+                            events: {
+                                click: function () {
+                                    $('#statesseleted').html("<b>State:</b>" + this.name);
+
+                                    $.ajax({
+                                        type: "GET",
+                                        url: "/api/states/" + this.name + "",
+                                        async: false,
+                                        dataType: 'json',
+                                        success: function (response) {
+                                            console.log(response.data)
+                                            $('#abbreviation').html("<b>Country:</b>" + response.data.properties.country);
+                                        },
+                                        error: function (error) {
+                                            console.log(error);
+                                        }
+                                    });
+                                }
+                            }
+                        }
+                    }
+                },
+                mapNavigation: {
+                    enabled: true,
+                    buttonOptions: {
+                        verticalAlign: 'bottom'
+                    }
+                },
+
+                colorAxis: {
+                    min: 0
+                },
+
+                series: [{
+                    data: data,
+                    mapData: mapdata,
+                    joinBy: 'hc-key',
+                    states: {
+                        hover: {
+                            color: '#BADA55'
+                        }
+                    },
+                    dataLabels: {
+                        enabled: true,
+                        format: '{point.name}'
+                    }
+                }]
+            });
+            var $iW = $(window).innerWidth();
+            if ($iW < 1000) {
+                $('.data-map').insertBefore('.map');
+            } else {
+            }
+        });
+
+    </script>
+
+{% endblock %}
