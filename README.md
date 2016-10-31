@@ -1,1 +1,2 @@
-# izborna-platforma
+Izborna platforma
+

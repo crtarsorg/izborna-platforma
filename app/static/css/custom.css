@@ -1,0 +1,3 @@
+.navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus{
+    color:#FFFFFF !important;
+}
