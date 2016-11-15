@@ -1,0 +1,14 @@
+
+{% extends "layout.html" %}
+
+{% block body %}
+<div class="row">
+ {% include "include/election_tabs.html" %}
+</div>
+
+    <div class="row">
+         {% for value in data %}
+            <dt>{{ value["izbornaLista"] }}</dt>
+      {% endfor %}
+    </div>
+{% endblock %}

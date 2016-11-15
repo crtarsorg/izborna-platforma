@@ -89,6 +89,8 @@ def init_modules(app):
 
     # Import blueprint modules
     from app.mod_main.views import mod_main
+    from app.mod_type.views import mod_type
 
     app.register_blueprint(mod_main)
+    app.register_blueprint(mod_type)
 

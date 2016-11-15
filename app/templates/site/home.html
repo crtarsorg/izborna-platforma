@@ -1,5 +1,22 @@
 {% extends "layout.html" %}
-{% block body %}
-<h2>Home page here</h2>
 
+{% block body %}
+<div class="row">
+ {% include "include/election_tabs.html" %}
+</div>
+    <div class="row">
+        <div class="col-md-9 lists">
+            <div class="col-md-12">
+                {% include "site/_parList.html" %}
+            </div>
+            <div class="col-md-12">
+                {% include "site/_presList.html" %}
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="col-md-12">
+             {% include "site/_description.html" %}
+            </div>
+        </div>
+    </div>
 {% endblock %}

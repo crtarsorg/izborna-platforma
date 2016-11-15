@@ -1,3 +1,67 @@
+.bg-primary{
+    background-color:#243e88;
+}
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus{
     color:#FFFFFF !important;
+}
+section{
+    padding:50px 0;
+}
+.background-gray{
+    background:lightgray;
+    overflow:auto;
+}
+.election-tabs-link{
+    cursor:pointer;
+    padding-top:15px;
+    padding-left:20px;
+}
+.election-tabs-link p{
+    color:#243e88;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+    border: 1px solid #243e88;
+    background: #243e88;
+}
+.tabs{
+    width:400px;
+    position:absolute;
+    z-index: 10;
+}
+.header-l h4{
+    background-color:#c6363c;
+    color:rgba(255,255,255,.7);
+    padding:10px;
+    margin:0px;
+    padding-left:20px;
+}
+.content-list ul{
+    padding:20px;
+    padding-left: 40px;
+    list-style:none;
+}
+.content-list ul li a{
+    cursor: pointer;
+    color:#337ab7;
+}
+.lists{
+    padding-left: 0px;
+    padding-right:0px;
+}
+.progress{
+    height:30px;
+}
+.year-list{
+    padding:20px;
+    font-size:20px;
+}
+.name-list{
+    padding-left: 20px;
+}
+
+.progressbar-red{
+    background-color: #ef000a;
+}
+.election-description{
+    padding:20px;
 }
