@@ -12,10 +12,11 @@ mod_type = Blueprint('type', __name__, url_prefix="/type",static_folder="static"
 def parlamentarni(year):
     if request.method == 'GET':
         data = []
-        url = "http://datacentar.io/api/izbori/parlamentarni/godina/"+str(year)+"/teritorija"
-        response = urllib.urlopen(url)
+        url2014 = "http://0.0.0.0:5006/api/izbori/2/parlamentarni/godina/2014/instanca/4"
+        response = urllib.urlopen(url2014)
         for line in json.loads(response.read()):
-            data.append(line["rezultat"])
+            data.append(line)
+        print data
         if data:
             return render_template('type/type.html', data=data[0])
         else:

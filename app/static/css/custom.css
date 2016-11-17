@@ -10,6 +10,7 @@ section{
 .background-gray{
     background:lightgray;
     overflow:auto;
+    padding-bottom:40px;
 }
 .election-tabs-link{
     cursor:pointer;
