@@ -1,0 +1,23 @@
+      <div class="tabs_indicators" id="tabs_indicators">
+        <ul>
+            <li><a href="#tabs-results">Rezultati</a></li>
+            <li><a href="#tabs-other">Drugo</a></li>
+
+        </ul>
+          <div id="tabs-results">
+            {% set count = 0 %}
+            {%  for item in data %}
+                    {% set count = count + 1 %}
+                    {%  if count<=5 %}
+                    <p>{{ count }} - {%  if typeizbori=="predsjednicki" %}
+                                                {{ item['kandidat'] }}
+                                            {%  else %}
+                                                    {{ item['izbornaLista'] }}
+                                            {% endif %}</p>
+                    {% endif %}
+              {% endfor %}
+          </div>
+          <div id="tabs-other">
+
+          </div>
+      </div>

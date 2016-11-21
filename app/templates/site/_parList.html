@@ -2,10 +2,10 @@
 
 <div class="row header-l">
     <div class="content-list background-gray">
-        <h4> Parliamentary Elections</h4>
+        <h4>Parlamentarni izbori</h4>
         <!-- beginning of the year 2014 -->
         <!-- first indicator -->
-            <div class="col-md-12 year-list"><a href="#">2014</a></div>
+            <div class="col-md-12 year-list"><a href="type/parlamentarni/2014">2014</a></div>
             <div class="col-md-3 name-list"> {{ data2014[0]['izbornaLista'] }}</div>
             <div class="col-md-1">
                 <p class="nr-votes">    {{ '{0:,}'.format(data2014[0]['glasova'])}}</p>
@@ -17,11 +17,12 @@
                     </div>
                 </div>
             </div>
+         <div class="col-md-1 percentage">
+            {{ '{0:0.2f}'.format(data2014[0]['udeo'])}}%
+            </div>
         <!-- end of the first indicatior -->
         <!-- second indicator -->
-            <div class="col-md-1 percentage">
-            {{ '{0:0.2f}'.format(data2014[1]['udeo'])}}
-            </div>
+
 
                  <div class="col-md-3 name-list"> {{ data2014[1]['izbornaLista'] }}</div>
             <div class="col-md-1">
@@ -35,14 +36,14 @@
                 </div>
             </div>
             <div class="col-md-1 percentage">
-            {{ '{0:0.2f}'.format(data2014[1]['udeo'])}}
+            {{ '{0:0.2f}'.format(data2014[1]['udeo'])}}%
             </div>
         <!-- end of the second indicatior -->
         <!-- end of year 2014 -->
 
         <!-- beginning of the year 2016 -->
         <!-- first indicator -->
-          <div class="col-md-12 year-list"><a href="#">2016</a></div>
+          <div class="col-md-12 year-list"><a href="type/parlamentarni/2016">2016</a></div>
             <div class="col-md-3 name-list"> {{ data2016[0]['izbornaLista'] }}</div>
             <div class="col-md-1">
                 <p class="nr-votes">    {{ '{0:,}'.format(data2016[0]['glasova'])}}</p>
@@ -55,7 +56,7 @@
                 </div>
             </div>
             <div class="col-md-1 percentage">
-            {{ '{0:0.2f}'.format(data2016[0]['udeo'])}}
+            {{ '{0:0.2f}'.format(data2016[0]['udeo'])}}%
             </div>
         <!-- end of the first indicator -->
         <!-- beginning of the   second indicator -->
@@ -71,7 +72,7 @@
                 </div>
             </div>
             <div class="col-md-1 percentage">
-            {{ '{0:0.2f}'.format(data2016[1]['udeo'])}}
+            {{ '{0:0.2f}'.format(data2016[1]['udeo'])}}%
             </div>
         <!-- end of the second indicatior -->
         <!-- begining of the 2016 -->

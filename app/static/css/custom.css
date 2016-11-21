@@ -66,3 +66,41 @@ section{
 .election-description{
     padding:20px;
 }
+.year-list a{
+    cursor: pointer;
+}
+.no-padding{
+    padding:0px;
+}
+.election-tabs-link p{
+    float:left;
+    margin-right:30px;
+}
+.indicators{
+    width:100%;
+    overflow: auto;
+}
+.selected-year{
+    padding:20px;
+    padding-left: 30px;
+}
+.selected-year p {
+    font-size:20px;
+    font-weight:bold;
+}
+.in-header h2{
+    padding: 0px;
+    margin: 0px;
+    color: rgba(255,255,255,.7);
+    padding: 10px;
+
+}
+
+#containermap{
+    height: 700px;
+    width:100%;
+    margin: 0 auto;
+}
+.highcharts-legend{
+    display:none;
+}

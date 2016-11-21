@@ -8,6 +8,12 @@ $( function() {
         collapsible: true
 
     })
+
+    $( "#tabs_indicators" ).tabs({
+        collapsible: true
+
+    })
+
 		$(".meter > span").each(function() {
 				$(this)
 					.data("origWidth", $(this).width())

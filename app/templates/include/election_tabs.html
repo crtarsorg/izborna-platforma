@@ -1,21 +1,40 @@
-<div class="background-gray">
+<div class="background-gray no-padding">
     <div class="col-md-12">
         <div class="election-tabs-link">
-            <p>Elections <span class="arrow_shape">▼</span></p>
+            <p>Izbori <span class="arrow_shape">▼</span></p>
+            <p class="selected-type">{{ typeizbori }} > {{ year }}</p>
         </div>
+
     </div>
 
 </div>
 
       <div class="tabs" id="tabs">
         <ul>
-            <li><a href="#tabs-1">Presidential</a></li>
-            <li><a href="#tabs-2">Parliamentary</a></li>
+            <li><a href="#tabs-1">Predsednički</a></li>
+            <li><a href="#tabs-2">Parlamentarni</a></li>
         </ul>
           <div id="tabs-1">
-
+            <ul>
+                <li><a href="/type/1/predsjednicki/2002/1">2002</a></li>
+                <li><a href="/type/1/predsjednicki/2003/1">2003</a></li>
+                <li><a href="/type/1/predsjednicki/2004/1">2004</a></li>
+                <li><a href="/type/1/predsjednicki/2008/1">2008</a></li>
+                <li><a href="/type/1/predsjednicki/2012/1">2012</a></li>
+            </ul>
           </div>
           <div id="tabs-2">
+            <ul>
 
+                <li><a href="/type/1/parlamentarni/2000/1">2000</a></li>
+                <li><a href="/type/1/parlamentarni/2003/1">2003</a></li>
+                <li><a href="/type/1/parlamentarni/2007/1">2007</a></li>
+                <li><a href="/type/1/parlamentarni/2008/1">2008</a></li>
+                <li><a href="/type/1/parlamentarni/2012/1">2012</a></li>
+                <!-- second data source -->
+                <li><a href="/type/2/parlamentarni/2014/4">2014</a></li>
+                <li><a href="/type/2/parlamentarni/2016/4">2016</a></li>
+                </li>
+            </ul>
           </div>
       </div>

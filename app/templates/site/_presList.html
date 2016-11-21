@@ -1,71 +1,67 @@
 
 <div class="row header-l">
     <div class="content-list background-gray">
-
-            <h4> Presidential Elections</h4>
-       <div class="col-md-12 year-list"><a href="#">2012</a></div>
-            <div class="col-md-3 name-list">Покренимо Србију</div>
+            <h4>Predsednički izbori</h4>
+            <div class="col-md-12 year-list"><a href="type/predsjednicki/2008">2008</a></div>
+            <div class="col-md-3 name-list">{{ data2008pres[0]['kandidat'] }}</div>
             <div class="col-md-1">
-                <p class="nr-votes">940,659</p>
+                <p class="nr-votes">{{ '{0:,}'.format(data2008pres[0]['glasova']) }}</p>
             </div>
             <div class="col-md-7">
                 <div class="progress">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="24.05" aria-valuemin="0" aria-valuemax="100" style="width:24.05%">
-                      <span class="sr-only">24.05% Complete</span>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="{{ data2008pres[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2008pres[0]['udeo'] }}%">
+                      <span class="sr-only">{{ data2008pres[0]['udeo'] }}% Complete</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-1 percentage">
-                24.05%
+                {{ '{0:0.2f}'.format(data2008pres[0]['udeo'])}}%
             </div>
 
-            <div class="col-md-3 name-list">Избор за бољи живот</div>
+            <div class="col-md-3 name-list">{{ data2008pres[1]['kandidat'] }}</div>
              <div class="col-md-1">
-                <p class="nr-votes">863,294</p>
+                <p class="nr-votes">{{ '{0:,}'.format(data2008pres[1]['glasova']) }}</p>
             </div>
             <div class="col-md-7">
                 <div class="progress">
-                    <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="22.07" aria-valuemin="0" aria-valuemax="100" style="width:22.07%">
-                      <span class="sr-only">22.07% Complete</span>
+                    <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="{{ data2008pres[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2008pres[1]['udeo'] }}%">
+                      <span class="sr-only">{{ data2008pres[1]['udeo'] }}% Complete</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-1 percentage">
-               22.07%
+                {{ '{0:0.2f}'.format(data2008pres[1]['udeo'])}}%
             </div>
-            <!-- second -->
-              <div class="col-md-12 year-list"><a>2013</a></div>
-            <div class="col-md-3 name-list">Покренимо Србију</div>
+        <!-- 2012 year -->
+        <div class="col-md-12 year-list"><a href="type/predsjednicki/2012">2012</a></div>
+            <div class="col-md-3 name-list">{{ data2012pres[0]['kandidat'] }}</div>
             <div class="col-md-1">
-                <p class="nr-votes">940,659</p>
+                <p class="nr-votes">{{ '{0:,}'.format(data2012pres[0]['glasova']) }}</p>
             </div>
             <div class="col-md-7">
                 <div class="progress">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="24.05" aria-valuemin="0" aria-valuemax="100" style="width:24.05%">
-                      <span class="sr-only">24.05% Complete</span>
+                    <div class="progress-bar" role="progressbar" aria-valuenow="{{ data2012pres[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2012pres[0]['udeo'] }}%">
+                      <span class="sr-only">{{ data2012pres[0]['udeo'] }}% Complete</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-1 percentage">
-                24.05%
+                {{ '{0:0.2f}'.format(data2012pres[0]['udeo'])}}%
             </div>
 
-            <div class="col-md-3 name-list">Избор за бољи живот</div>
+            <div class="col-md-3 name-list">{{ data2012pres[1]['kandidat'] }}</div>
              <div class="col-md-1">
-                <p class="nr-votes">863,294</p>
+                <p class="nr-votes">{{ '{0:,}'.format(data2012pres[1]['glasova']) }}</p>
             </div>
             <div class="col-md-7">
                 <div class="progress">
-                    <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="22.07" aria-valuemin="0" aria-valuemax="100" style="width:22.07%">
-                      <span class="sr-only">22.07% Complete</span>
+                    <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="{{ data2012pres[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2012pres[1]['udeo'] }}%">
+                      <span class="sr-only">{{ data2012pres[1]['udeo'] }}% Complete</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-1 percentage">
-               22.07%
+                {{ '{0:0.2f}'.format(data2012pres[1]['udeo'])}}%
             </div>
-
-
     </div>
-
-    </div>
+</div>
