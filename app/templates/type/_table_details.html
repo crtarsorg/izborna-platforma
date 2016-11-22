@@ -1,0 +1,45 @@
+   <table id="details" class="display" cellspacing="0" width="100%">
+                <thead>
+                    <tr>
+                        <th>Territorija Ime</th>
+                             {% set count = 0 %}
+                            {%  for item in data %}
+                                    {% set count = count + 1 %}
+                                    {%  if count<=5 %}
+                                    <th>{{ count }} - {%  if typeizbori=="predsjednicki" %}
+                                                                {{ item['kandidat'] }}
+                                                            {%  else %}
+                                                                    {{ item['izbornaLista'] }}
+                                                            {% endif %}</th>
+                                    {% endif %}
+                              {% endfor %}
+
+
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Territorija Ime</th>
+                             {% set count = 0 %}
+                            {%  for item in data %}
+                                    {% set count = count + 1 %}
+                                    {%  if count<=5 %}
+                                    <th>{{ count }} - {%  if typeizbori=="predsjednicki" %}
+                                                                {{ item['kandidat'] }}
+                                                            {%  else %}
+                                                                    {{ item['izbornaLista'] }}
+                                                            {% endif %}</th>
+                                    {% endif %}
+                              {% endfor %}
+                    </tr>
+                </tfoot>
+                <tbody>
+                    {%  for item in territories %}
+                    <tr>
+                        <td>{{ item.teritorija }}</td>
+                        
+                    </tr>
+
+                    {% endfor %}
+                </tbody>
+            </table>

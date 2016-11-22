@@ -17,7 +17,7 @@
                 <p class="nr-votes">    {{ '{0:,}'.format(data[0]['glasova']) }}</p>
             </div>
             <div class="col-md-7">
-                <div class="progress">
+                <div class="progress custom-progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0"
                          aria-valuemax="100" style="width:{{ data[0]['udeo'] }}%">
                         <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
@@ -39,7 +39,7 @@
                 <p class="nr-votes">    {{ '{0:,}'.format(data[1]['glasova']) }}</p>
             </div>
             <div class="col-md-7">
-                <div class="progress">
+                <div class="progress custom-progress">
                     <div class="progress-bar  progressbar-red" role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}"
                          aria-valuemin="0" aria-valuemax="100" style="width:{{ data[1]['udeo'] }}%">
                         <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
@@ -140,4 +140,12 @@
             });
         });
     </script>
+    <div class="row">
+
+        <div class="col-md-12">
+              {% include "type/_table.html" %}
+        </div>
+
+    </div>
+
 {% endblock %}

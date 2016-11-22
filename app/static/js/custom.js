@@ -13,6 +13,10 @@ $( function() {
         collapsible: true
 
     })
+    $( "#tabs_table" ).tabs({
+        collapsible: true
+
+    })
 
 		$(".meter > span").each(function() {
 				$(this)

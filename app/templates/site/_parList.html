@@ -5,13 +5,13 @@
         <h4>Parlamentarni izbori</h4>
         <!-- beginning of the year 2014 -->
         <!-- first indicator -->
-            <div class="col-md-12 year-list"><a href="type/parlamentarni/2014">2014</a></div>
+            <div class="col-md-12 year-list"><a href="type/2/parlamentarni/2014/4">2014</a></div>
             <div class="col-md-3 name-list"> {{ data2014[0]['izbornaLista'] }}</div>
             <div class="col-md-1">
                 <p class="nr-votes">    {{ '{0:,}'.format(data2014[0]['glasova'])}}</p>
             </div>
             <div class="col-md-7">
-                <div class="progress">
+                <div class="progress custom-progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="{{ data2014[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2014[0]['udeo']}}%">
                       <span class="sr-only">{{ data2014[0]['udeo']}}% Complete</span>
                     </div>
@@ -29,7 +29,7 @@
                 <p class="nr-votes">    {{ '{0:,}'.format(data2014[1]['glasova'])}}</p>
             </div>
             <div class="col-md-7">
-                <div class="progress">
+                <div class="progress custom-progress">
                     <div class="progress-bar  progressbar-red" role="progressbar" aria-valuenow="{{ data2014[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2014[1]['udeo']}}%">
                       <span class="sr-only">{{ data2014[1]['udeo']}}% Complete</span>
                     </div>
@@ -43,13 +43,13 @@
 
         <!-- beginning of the year 2016 -->
         <!-- first indicator -->
-          <div class="col-md-12 year-list"><a href="type/parlamentarni/2016">2016</a></div>
+          <div class="col-md-12 year-list"><a href="type/2/parlamentarni/2016/4">2016</a></div>
             <div class="col-md-3 name-list"> {{ data2016[0]['izbornaLista'] }}</div>
             <div class="col-md-1">
                 <p class="nr-votes">    {{ '{0:,}'.format(data2016[0]['glasova'])}}</p>
             </div>
             <div class="col-md-7">
-                <div class="progress">
+                <div class="progress custom-progress">
                     <div class="progress-bar" role="progressbar" aria-valuenow="{{ data2016[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2016[0]['udeo']}}%">
                       <span class="sr-only">{{ data2016[0]['udeo']}}% Complete</span>
                     </div>
@@ -65,7 +65,7 @@
                 <p class="nr-votes">{{ '{0:,}'.format(data2016[1]['glasova'])}}</p>
             </div>
             <div class="col-md-7">
-                <div class="progress">
+                <div class="progress custom-progress">
                     <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="{{ data2016[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2016[1]['udeo']}}%">
                       <span class="sr-only">{{ data2016[1]['udeo']}}% Complete</span>
                     </div>

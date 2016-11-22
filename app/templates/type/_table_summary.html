@@ -1,0 +1,64 @@
+   <table id="summary" class="display" cellspacing="0" width="100%">
+                <thead>
+                    <tr>
+                        <th>Territorija Ime</th>
+                        <th>Izborna Lista</th>
+                        <th>Top Rezultati</th>
+                        <th>Total glasova</th>
+
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <th>Territorija Ime</th>
+                        <th>Izborna Lista</th>
+                        <th>Top Rezultati</th>
+                        <th>Total glasova</th>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    {%  for item in territories %}
+                    <tr>
+                        <td>{{ item.teritorija }}</td>
+                        <td>
+                         {%  if typeizbori=="predsjednicki" %}
+                                                 {{ item['rezultat'][0]['kandidat']}}<br/>
+                                                 {{ item['rezultat'][1]['kandidat']}}
+                                            {%  else %}
+                                                   {{ item['rezultat'][0]['izbornaLista']}}<br/>
+                                                    {{ item['rezultat'][1]['izbornaLista']}}
+                                            {% endif %}
+
+                        </td>
+                        <td>
+
+                            <span class="float-left font-size-11 table-votes "> {{ '{0:,}'.format(item['rezultat'][0]['rezultat']['glasova'])}}</span>
+                            <div class="col-md-7">
+                                <div class="progress">
+                                    <div class="progress-bar " role="progressbar" aria-valuenow="{{ item['rezultat'][0]['rezultat']['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ item['rezultat'][0]['rezultat']['udeo']}}%">
+                                      <span class="sr-only">{{ item['rezultat'][0]['rezultat']['udeo']}}% Complete</span>
+                                    </div>
+                                </div>
+                             </div>
+                            <div class="col-md-1 percentage font-size-11">
+                            {{ '{0:0.2f}'.format(item['rezultat'][0]['rezultat']['udeo'])}}%
+                            </div>
+
+                             <span class="float-left font-size-11 table-votes clear-left" > {{ '{0:,}'.format(item['rezultat'][1]['rezultat']['glasova'])}}</span>
+                            <div class="col-md-7">
+                                <div class="progress">
+                                    <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="{{ item['rezultat'][1]['rezultat']['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ item['rezultat'][1]['rezultat']['udeo']}}%">
+                                      <span class="sr-only">{{ item['rezultat'][1]['rezultat']['udeo']}}% Complete</span>
+                                    </div>
+                                </div>
+                             </div>
+                            <div class="col-md-1 percentage font-size-11">
+                            {{ '{0:0.2f}'.format(item['rezultat'][1]['rezultat']['udeo'])}}%
+                            </div>
+
+                        </td>
+                        <td></td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
