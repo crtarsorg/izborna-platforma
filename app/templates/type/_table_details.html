@@ -13,8 +13,6 @@
                                                             {% endif %}</th>
                                     {% endif %}
                               {% endfor %}
-
-
                     </tr>
                 </thead>
                 <tfoot>
@@ -34,12 +32,52 @@
                     </tr>
                 </tfoot>
                 <tbody>
-                    {%  for item in territories %}
-                    <tr>
-                        <td>{{ item.teritorija }}</td>
-                        
-                    </tr>
+                    {% set countlista = 5 %}
 
+                    {%  for item in territories %}
+                        <tr>
+                                        <td>
+                                            {{ item.teritorija }}
+                                        </td>
+                                        <td>
+                                        {%  if data[0]['izbornaLista']==item['rezultat'][0]['izbornaLista'] %}
+
+                                                 {{  item['rezultat'][0]['rezultat']['glasova'] }}
+
+                                        {%  endif %}
+                                        </td>
+                                         <td>
+                                        {%  if data[1]['izbornaLista']==item['rezultat'][1]['izbornaLista'] %}
+
+                                                 {{  item['rezultat'][1]['rezultat']['glasova'] }}
+
+                                        {%  endif %}
+                                        </td>
+                                         <td>
+                                        {%  if data[2]['izbornaLista']==item['rezultat'][2]['izbornaLista'] %}
+
+                                                 {{  item['rezultat'][2]['rezultat']['glasova'] }}
+
+                                        {%  endif %}
+                                        </td>
+                                       <td>
+                                        {%  if data[3]['izbornaLista']==item['rezultat'][3]['izbornaLista'] %}
+
+                                                 {{  item['rezultat'][3]['rezultat']['glasova'] }}
+
+                                        {%  endif %}
+                                        </td>
+                                        <td>
+                                        {%  if data[4]['izbornaLista']==item['rezultat'][4]['izbornaLista'] %}
+
+                                                 {{  item['rezultat'][4]['rezultat']['glasova'] }}
+
+                                        {%  endif %}
+                                        </td>
+
+
+
+                        </tr>
                     {% endfor %}
                 </tbody>
             </table>
