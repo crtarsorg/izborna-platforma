@@ -3,10 +3,8 @@ import os
 import ConfigParser
 from logging.handlers import RotatingFileHandler
 from flask.ext.pymongo import PyMongo
-from flask.ext.cors import CORS
 from app.utils.mongo_utils import MongoUtils
 
-# Create MongoDB database object.
 mongo = PyMongo()
 
 #Initialize mongo access point
@@ -15,9 +13,6 @@ mongo_utils = MongoUtils(mongo)
 def create_app():
     # Here we  create flask instance
     app = Flask(__name__)
-
-    # Allow cross-domain access to API.
-    #cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
 
     # Load application configurations
     load_config(app)
@@ -90,7 +85,8 @@ def init_modules(app):
     # Import blueprint modules
     from app.mod_main.views import mod_main
     from app.mod_type.views import mod_type
-
     app.register_blueprint(mod_main)
     app.register_blueprint(mod_type)
+
+
 
