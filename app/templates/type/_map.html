@@ -1,0 +1,111 @@
+
+
+
+<div id="containermap"></div>
+<div id="statesseleted"></div>
+   <script type="text/javascript">
+   function transliterate(word) {
+    var A = {};
+    var result = '';
+
+    A["Ё"]="YO";A["Й"]="I";A["Ц"]="C";A["У"]="U";A["К"]="K";A["Е"]="E";A["Н"]="N";A["Г"]="G";A["Ш"]="Š";A["Щ"]="Dž";A["З"]="Z";A["Х"]="H";A["Ъ"]="Lj";
+    A["ё"]="yo";A["й"]="i";A["ц"]="c";A["у"]="u";A["к"]="k";A["е"]="e";A["н"]="n";A["г"]="g";A["ш"]="š";A["щ"]="dž";A["з"]="z";A["х"]="h";A["ъ"]="lj";
+    A["Ф"]="F";A["Ы"]="I";A["В"]="V";A["А"]="A";A["П"]="P";A["Р"]="R";A["О"]="O";A["Л"]="L";A["Д"]="D";A["Ж"]="Ž";A["Э"]="E";A["Ђ"]="Đ";A["Ћ"]="Ć";A["њ"]="Nj";
+    A["ф"]="f";A["ы"]="i";A["в"]="v";A["а"]="a";A["п"]="p";A["р"]="r";A["о"]="o";A["л"]="l";A["д"]="d";A["ж"]="ž";A["э"]="e";A["ђ"]="đ";A["ћ"]="ć";A["њ"]="Nj"
+    A["Я"]="YA";A["Ч"]="Č";A["С"]="S";A["М"]="M";A["И"]="I";A["Т"]="T";A["Ь"]="'";A["Б"]="B";A["Ю"]="YU";A["Љ"]="Lj";A["Џ"]="Dž";A["џ"]="dž";
+    A["я"]="ya";A["ч"]="č";A["с"]="s";A["м"]="m";A["и"]="i";A["т"]="t";A["ь"]="'";A["б"]="b";A["ю"]="yu";A["љ"]="lj";
+
+    for(var i = 0; i < word.length; i++) {
+        var c = word.charAt(i);
+
+        result += A[c] || c;
+    }
+
+    return result;
+}
+        $(function () {
+            $.getJSON('/static/data/serbia-municipality.geojson', function (geojson) {
+            var data = [];
+            var i = 0;
+           {# $.each(geojson.features, function (index, key) {
+                var name=key.properties['NAME_2'];
+
+                data.push({
+                   "NAME_2": name,
+                   "value": i++
+                });
+
+            });
+
+#}
+                {% if typeizbori=="parlamentarni" %}
+                    {%  for winner in winner_territory %}
+                             data.push({
+                           "NAME_2": transliterate("{{ winner['teritorija'] }}"),
+                           "color": "{% for list in list_political_parties %} {% if list['name']==winner['rezultat'][0]['izbornaLista'] %}{{ list['color'] }} {% endif %} {% endfor %}",
+                            "izbornaLista":""
+                        });
+                    {% endfor %}
+                {% endif %}
+             {% if typeizbori=="predsjednicki" %}
+                {%  for winner in winner_territory %}
+                     data.push({
+                       "NAME_2": transliterate("{{ winner['teritorija'] }}"),
+                       "color": "{% for list in list_political_parties %} {% if list['name']==winner['rezultat'][0]['kandidat'] %}{{ list['color'] }} {% endif %} {% endfor %}",
+                        "kandidat":""
+                });
+                {% endfor %}
+                {% endif %}
+                console.log(data);
+            // Initialize the map
+            $('#containermap').highcharts('Map', {
+                title: {
+                    text: ''
+                },
+                plotOptions: {
+                    series: {
+                        cursor: 'pointer',
+                        point: {
+                            events: {
+                                click: function () {
+                                    console.log(this.NAME_2);
+
+
+                                }
+                            }
+                        }
+                    }
+                },
+                mapNavigation: {
+                    enableMouseWheelZoom:false,
+                    enabled: true,
+                    buttonOptions: {
+                        verticalAlign: 'bottom'
+                    }
+                },
+
+                colorAxis: {
+                    min: 0
+                },
+
+                series: [{
+                    data: data,
+                    mapData: geojson,
+                    joinBy: ['NAME_2',0],
+                    keys: ['NAME_1', 'value'],
+
+                    name: "NAME",
+                    states: {
+                        hover: {
+                            color: '#BADA55'
+                        }
+                    },
+                    dataLabels: {
+
+                        format: '{point.name}'
+                    }
+                }]
+            });
+            });
+        });
+    </script>

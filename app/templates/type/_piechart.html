@@ -1,0 +1,44 @@
+<meta name="viewport"
+      content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
+
+<div class="m-chart">
+    <canvas id="colors" width="200" height="120"></canvas>
+</div>
+
+<div class="total_turnout"><span id="total_turnout"> {{ total_percentage }}</span><span>%</span></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.0.2/Chart.js"></script>
+<script>
+    var total_percentage = 40;
+    var remove = 100 - total_percentage;
+    var pieData = {
+        labels: [],
+        datasets: [
+            {
+                data: [total_percentage.toFixed(2), remove],
+                backgroundColor: [
+                    "#337ab7"
+                ],
+            }]
+    };
+    Chart.defaults.global.responsive = false;
+    Chart.defaults.global.tooltips.enabled = false;
+    var context = $("#colors");
+    var skillsChart = new Chart(context, {
+                showTooltips: false,
+                type: 'doughnut',
+                data: pieData,
+                options: {
+                    circumference: Math.PI,
+                    rotation: 1.0 * Math.PI,
+                }
+            }
+    );
+
+    var txt = $('#total_turnout').html();
+    var convert=parseFloat(txt).toFixed(2);
+    console.log(convert);
+    $('#total_turnout').html(convert);
+
+</script>
+
+

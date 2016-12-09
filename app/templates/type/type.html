@@ -7,47 +7,61 @@
     <div class="row">
         <div class="col-md-9 selected-year">
             <p>{{ year }} Rezultati</p>
-            <div class="col-md-3 name-list">  {% if typeizbori=="predsjednicki" %}
-                {{ data[0]['kandidat'] }}
-            {% else %}
-                {{ data[0]['izbornaLista'] }}
-            {% endif %}
-            </div>
-            <div class="col-md-1">
-                <p class="nr-votes">    {{ '{0:,}'.format(data[0]['glasova']) }}</p>
-            </div>
-            <div class="col-md-7">
-                <div class="progress custom-progress">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0"
-                         aria-valuemax="100" style="width:{{ data[0]['udeo'] }}%">
-                        <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-1 percentage">
-                {{ '{0:0.2f}'.format(data[0]['udeo']) }}%
-            </div>
-
-            <div class="col-md-3 name-list">
-                {% if typeizbori=="predsjednicki" %}
-                    {{ data[1]['kandidat'] }}
+            <div class="col-md-12">
+                <div class="col-md-3 name-list">  {% if typeizbori=="predsjednicki" %}
+                    {{ data[0]['kandidat'] }}
                 {% else %}
-                    {{ data[1]['izbornaLista'] }}
+                    {{ data[0]['izbornaLista'] }}
                 {% endif %}
-            </div>
-            <div class="col-md-1">
-                <p class="nr-votes">    {{ '{0:,}'.format(data[1]['glasova']) }}</p>
-            </div>
-            <div class="col-md-7">
-                <div class="progress custom-progress">
-                    <div class="progress-bar  progressbar-red" role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}"
-                         aria-valuemin="0" aria-valuemax="100" style="width:{{ data[1]['udeo'] }}%">
-                        <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                </div>
+                <div class="col-md-1">
+                    <p class="nr-votes">    {{ '{0:,}'.format(data[0]['glasova']) }}</p>
+                </div>
+                <div class="col-md-7">
+                    <div class="progress custom-progress">
+                         {% if typeizbori=="predsjednicki" %}
+
+                                 <div class="progress-bar  progressbar-red" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+
+                            {% else %}
+                                 <div class="progress-bar" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                        {% endif %}
+
+                            <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
+                        </div>
                     </div>
                 </div>
+                <div class="col-md-1 percentage">
+                    {{ '{0:0.2f}'.format(data[0]['udeo']) }}%
+                </div>
             </div>
-            <div class="col-md-1 percentage">
-                {{ '{0:0.2f}'.format(data[1]['udeo']) }}%
+        <div class="col-md-12">
+                <div class="col-md-3 name-list">
+                    {% if typeizbori=="predsjednicki" %}
+                        {{ data[1]['kandidat'] }}
+                    {% else %}
+                        {{ data[1]['izbornaLista'] }}
+                    {% endif %}
+                </div>
+                <div class="col-md-1">
+                    <p class="nr-votes">    {{ '{0:,}'.format(data[1]['glasova']) }}</p>
+                </div>
+                <div class="col-md-7">
+                    <div class="progress custom-progress">
+                        {% if typeizbori=="predsjednicki" %}
+
+                                 <div class="progress-bar  progressbar-red" style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+
+                            {% else %}
+                                 <div class="progress-bar" style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                        {% endif %}
+                            <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-1 percentage">
+                    {{ '{0:0.2f}'.format(data[1]['udeo']) }}%
+                </div>
             </div>
         </div>
         <div class="col-md-3">
@@ -56,90 +70,17 @@
     </div>
     <div class="row">
         <div class="col-md-9 lists">
-            <div id="containermap"></div>
+             {% include "type/_map.html" %}
+
         </div>
         <div class="col-md-3">
-            <div class="col-md-12">
+
                 {% include "type/_indicators.html" %}
-            </div>
+
         </div>
     </div>
 
-    <script type="text/javascript">
-        $(function () {
-            $.getJSON('/static/data/geodata.geojson', function (geojson) {
-            var data = [];
-            var i = 0;
-            $.each(geojson.features, function (index, key) {
-                console.log(key.properties['NAME_2']);
-                data.push({
-                    "NAME_2": key.properties['NAME_2'],
-                    "value": i++
-                });
 
-            });
-
-
-            // Initialize the map
-            $('#containermap').highcharts('Map', {
-                title: {
-                    text: ''
-                },
-                plotOptions: {
-                    series: {
-                        cursor: 'pointer',
-                        point: {
-                            events: {
-                                click: function () {
-                                    $('#statesseleted').html("<b>State:</b>" + this.name);
-
-                                    $.ajax({
-                                        type: "GET",
-                                        url: "/api/states/" + this.name + "",
-                                        async: false,
-                                        dataType: 'json',
-                                        success: function (response) {
-                                            console.log(response.data)
-                                            $('#abbreviation').html("<b>Country:</b>" + response.data.properties.country);
-                                        },
-                                        error: function (error) {
-                                            console.log(error);
-                                        }
-                                    });
-                                }
-                            }
-                        }
-                    }
-                },
-                mapNavigation: {
-                    enabled: true,
-                    buttonOptions: {
-                        verticalAlign: 'bottom'
-                    }
-                },
-
-                colorAxis: {
-                    min: 0
-                },
-
-                series: [{
-                    data: data,
-                    mapData: geojson,
-                    joinBy: 'NAME_2',
-                    states: {
-                        hover: {
-                            color: '#BADA55'
-                        }
-                    },
-                    dataLabels: {
-                        enabled: true,
-                        format: '{point.name}'
-                    }
-                }]
-            });
-            });
-        });
-    </script>
     <div class="row">
 
         <div class="col-md-12">

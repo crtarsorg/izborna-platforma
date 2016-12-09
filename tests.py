@@ -41,7 +41,6 @@ if __name__ == '__main__':
 
         print("\n\nCode Coverage Report:\n")
         cov.report()
-
         # get app root directory
         par_dir = os.path.join(__file__, os.pardir)
         par_dir_abs_path = os.path.abspath(par_dir)

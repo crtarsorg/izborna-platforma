@@ -9,7 +9,7 @@
             </div>
             <div class="col-md-7">
                 <div class="progress custom-progress">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="{{ data2008pres[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2008pres[0]['udeo'] }}%">
+                    <div class="progress-bar" role="progressbar" style="width:{{ data2008pres[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2008pres[0]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} aria-valuenow="{{ data2008pres[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">{{ data2008pres[0]['udeo'] }}% Complete</span>
                     </div>
                 </div>
@@ -24,7 +24,7 @@
             </div>
             <div class="col-md-7">
                 <div class="progress custom-progress">
-                    <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="{{ data2008pres[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2008pres[1]['udeo'] }}%">
+                    <div class="progress-bar progressbar-red" style="width:{{ data2008pres[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2008pres[1]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data2008pres[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">{{ data2008pres[1]['udeo'] }}% Complete</span>
                     </div>
                 </div>
@@ -40,7 +40,7 @@
             </div>
             <div class="col-md-7">
                 <div class="progress custom-progress">
-                    <div class="progress-bar" role="progressbar" aria-valuenow="{{ data2012pres[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2012pres[0]['udeo'] }}%">
+                    <div class="progress-bar" role="progressbar" style="width:{{ data2012pres[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2012pres[0]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} aria-valuenow="{{ data2012pres[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">{{ data2012pres[0]['udeo'] }}% Complete</span>
                     </div>
                 </div>
@@ -55,7 +55,7 @@
             </div>
             <div class="col-md-7">
                 <div class="progress custom-progress">
-                    <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="{{ data2012pres[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2012pres[1]['udeo'] }}%">
+                    <div class="progress-bar progressbar-red" role="progressbar" style="width:{{ data2012pres[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2012pres[1]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} aria-valuenow="{{ data2012pres[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">{{ data2012pres[1]['udeo'] }}% Complete</span>
                     </div>
                 </div>

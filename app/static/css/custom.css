@@ -117,3 +117,7 @@ font-size:11px;
 .clear-left{
     clear:left;
 }
+.total_turnout{
+    width: 200px;
+    text-align: center;
+}
