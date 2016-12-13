@@ -2,8 +2,9 @@
 
 
 <div id="containermap"></div>
-<div id="statesseleted"></div>
+
    <script type="text/javascript">
+
    function transliterate(word) {
     var A = {};
     var result = '';
@@ -41,22 +42,24 @@
                 {% if typeizbori=="parlamentarni" %}
                     {%  for winner in winner_territory %}
                              data.push({
-                           "NAME_2": transliterate("{{ winner['teritorija'] }}"),
-                           "color": "{% for list in list_political_parties %} {% if list['name']==winner['rezultat'][0]['izbornaLista'] %}{{ list['color'] }} {% endif %} {% endfor %}",
-                            "izbornaLista":""
+                                "NAME_2": transliterate("{{ winner['teritorija'] }}"),
+                                 "terrigorySlug": transliterate("{{ winner['teritorijaSlug'] }}"),
+                                "color": "{% for list in list_political_parties %} {% if winner['rezultat'][0]['izbornaLista']==list['name'] %}{{ list['color'] }} {% endif %} {% endfor %}",
+                                 "izbornaLista":""
                         });
                     {% endfor %}
                 {% endif %}
              {% if typeizbori=="predsjednicki" %}
                 {%  for winner in winner_territory %}
                      data.push({
-                       "NAME_2": transliterate("{{ winner['teritorija'] }}"),
+                       "NAME_2": transliterate("{{ winner['teritorijaSlug'] }}"),
+                        "terrigorySlug": transliterate("{{ winner['teritorijaSlug'] }}"),
                        "color": "{% for list in list_political_parties %} {% if list['name']==winner['rezultat'][0]['kandidat'] %}{{ list['color'] }} {% endif %} {% endfor %}",
                         "kandidat":""
                 });
                 {% endfor %}
                 {% endif %}
-                console.log(data);
+
             // Initialize the map
             $('#containermap').highcharts('Map', {
                 title: {
@@ -68,8 +71,42 @@
                         point: {
                             events: {
                                 click: function () {
-                                    console.log(this.NAME_2);
 
+                                      $.ajax({
+                                        type: "GET",
+                                        {% if year==2000 %}
+                                        url: "http://0.0.0.0:5006/api/izbori/1/parlamentarni/godina/{{ year }}/teritorija/"+ this.terrigorySlug + "/instanca/3",
+                                        {% endif %}
+                                        {% if year!=2000 %}
+                                         url: "http://0.0.0.0:5006/api/izbori/2/parlamentarni/godina/{{ year }}/teritorija/"+ this.terrigorySlug + "/instanca/3",
+                                        {% endif %}
+                                        async: false,
+                                        dataType: 'json',
+                                        success: function (response) {
+                                            $('.territory_info').show();
+                                            var teritorija=response['teritorija'];
+                                            $('#territory-name').text(teritorija)
+                                           var izbornaLista=response['rezultat'][0];
+                                            $('#winner-territory').html('<b>Indikator: </b> '+ izbornaLista['izbornaLista']);
+                                            {% if year!=2000 %}
+                                            var voters_turnout=izbornaLista['rezultat']['glasova'];
+                                            var resigtered_voters=response['brojUpisanihBiracaUBirackiSpisak'];
+                                            var voters=response['biraciKojiSuGlasali']['broj'];
+                                            var percentage=(voters / resigtered_voters) * 100
+                                            {% endif %}
+                                            var result_votes=izbornaLista['rezultat']['glasova'];
+                                            var percentage_votes=izbornaLista['rezultat']['udeo'];
+                                            {% if year!=2000 %}
+                                             $('#voters_turnout').html('<b>Total voters turnout: </b> '+percentage.toFixed(2)+'%');
+                                            {% endif %}
+                                             $('#result_votes').html('<b>Total votes: </b> ' +result_votes);
+                                             $('#percentage').html('<b>Percentage: </b> ' + percentage_votes.toFixed(2)+'%');
+                                        },
+                                        error: function (error) {
+                                            console.log(error);
+                                        }
+                                    });
+                       ;
 
                                 }
                             }

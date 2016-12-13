@@ -121,3 +121,29 @@ font-size:11px;
     width: 200px;
     text-align: center;
 }
+.indicators .tabs_indicators{
+
+    max-height: 300px;
+}
+.indicators #tabs-results{
+       background:white;
+}
+.territory_info{
+    border: 1px solid #c5c5c5;
+    height:300px;
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#detail-info h4{
+    background: #337ab7;
+    color:white;
+    padding:10px;
+    margin:0px;
+}
+#winner-territory{
+    margin-top:10px;
+}
+#winner-territory,#voters_turnout,#result_votes,#percentage{
+    padding-left:15px;
+    padding-right:15px;
+}

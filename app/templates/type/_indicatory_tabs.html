@@ -8,16 +8,165 @@
             {% set count = 0 %}
             {%  for item in data %}
                     {% set count = count + 1 %}
-                    {%  if count<=5 %}
+
                     <p>{{ count }} - {%  if typeizbori=="predsjednicki" %}
-                                                {{ item['kandidat'] }}
+                                               <a href="#{{ item['kandidatSlug'] }}" class="party_name">{{ item['kandidat'] }}</a>
                                             {%  else %}
-                                                    {{ item['izbornaLista'] }}
+                                                   <a href="{{ item['izbornaListaSlug'] }}" class="party_name">{{ item['izbornaLista'] }}</a>
                                             {% endif %}</p>
-                    {% endif %}
+
               {% endfor %}
           </div>
           <div id="tabs-other">
 
           </div>
       </div>
+<script>
+    $('.party_name').click(function(e){
+        e.preventDefault();
+        var selected_name=$(this).attr('href');
+        var color_selected="";
+
+        console.log(selected_name);
+            $.ajax({
+                        type: "GET",
+                        url: "http://0.0.0.0:5006/api/izbori/parties/"+selected_name,
+                        async: false,
+                        dataType: 'json',
+                        success: function (response) {
+                            color_selected=response['color'];
+
+                            },
+                              error: function (error) {
+                                  console.log(error);
+                              }
+            });
+        $('#containermap').html('');
+    $(function () {
+            $.getJSON('/static/data/serbia-municipality.geojson', function (geojson) {
+            var data = [];
+            var i = 0;
+           {# $.each(geojson.features, function (index, key) {
+                var name=key.properties['NAME_2'];
+
+                data.push({
+                   "NAME_2": name,
+                   "value": i++
+                });
+
+            });
+
+#}
+
+                {% if typeizbori=="parlamentarni" %}
+                    console.log(color_selected);
+                    {%  for winner in winner_territory %}
+                             data.push({
+                                "NAME_2": transliterate("{{ winner['teritorija'] }}"),
+                                 "terrigorySlug": transliterate("{{ winner['teritorijaSlug'] }}"),
+                                "color": color_selected,
+                                 "izbornaLista":""
+                        });
+                    {% endfor %}
+                {% endif %}
+             {% if typeizbori=="predsjednicki" %}
+                {%  for winner in winner_territory %}
+                     data.push({
+                       "NAME_2": transliterate("{{ winner['teritorijaSlug'] }}"),
+                        "terrigorySlug": transliterate("{{ winner['teritorijaSlug'] }}"),
+                       "color": color_selected,
+                        "kandidat":""
+                });
+                {% endfor %}
+                {% endif %}
+
+            // Initialize the map
+            $('#containermap').highcharts('Map', {
+                title: {
+                    text: ''
+                },
+                plotOptions: {
+                    series: {
+                        cursor: 'pointer',
+                        point: {
+                            events: {
+                                click: function () {
+                                console.log(this.terrigorySlug);
+                                console.log(selected_name);
+
+                                          $.ajax({
+                                            type: "GET",
+                                            {% if year==2000 %}
+                                            url: "http://0.0.0.0:5006/api/izbori/1/parlamentarni/godina/{{ year }}/teritorija/"+ this.terrigorySlug + "/kandidat/"+selected_name+"/instanca/3",
+                                            {% endif %}
+                                             {% if year!=2000 %}
+                                            url: "http://0.0.0.0:5006/api/izbori/2/parlamentarni/godina/{{ year }}/teritorija/"+ this.terrigorySlug + "/kandidat/"+selected_name+"/instanca/3",
+                                            {% endif %}
+                                            async: false,
+                                            dataType: 'json',
+                                            success: function (response) {
+                                               console.log(response['rezultat']['udeo']);
+                                                $('.territory_info').show();
+                                            var teritorija=response['teritorija'];
+                                            $('#territory-name').text(teritorija)
+                                           var izbornaLista=response['izbornaLista'];
+                                            $('#winner-territory').html('<b>Izborna Lista</b> '+ izbornaLista);
+                                                 {% if year!=2000 %}
+                                                    var voters_turnout=response['rezultat']['glasova'];
+                                                    var resigtered_voters=response['brojUpisanihBiracaUBirackiSpisak'];
+                                                    var voters=response['biraciKojiSuGlasali']['broj'];
+                                                    var percentage=(voters / resigtered_voters) * 100
+                                                      $('#voters_turnout').html('<b>Total voters turnout: </b> '+percentage.toFixed(2)+'%');
+                                                {% endif %}
+                                            var result_votes=response['rezultat']['glasova'];
+                                            var percentage_votes=response['rezultat']['udeo'];
+
+                                                $('#result_votes').html('<b>Total votes: </b> ' +result_votes);
+                                                $('#percentage').html('<b>Percentage: </b> ' + percentage_votes.toFixed(2)+'%');
+                                            },
+                                            error: function (error) {
+                                                console.log(error);
+                                            }
+                                        });
+
+
+                                }
+                            }
+                        }
+                    }
+                },
+                mapNavigation: {
+                    enableMouseWheelZoom:false,
+                    enabled: true,
+                    buttonOptions: {
+                        verticalAlign: 'bottom'
+                    }
+                },
+
+                colorAxis: {
+                    min: 0
+                },
+
+                series: [{
+                    data: data,
+                    mapData: geojson,
+                    joinBy: ['NAME_2',0],
+                    keys: ['NAME_1', 'value'],
+
+                    name: "NAME",
+                    states: {
+                        hover: {
+                            color: '#BADA55'
+                        }
+                    },
+                    dataLabels: {
+
+                        format: '{point.name}'
+                    }
+                }]
+            });
+            });
+        });
+
+    })
+</script>

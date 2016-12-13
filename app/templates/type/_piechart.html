@@ -5,10 +5,10 @@
     <canvas id="colors" width="200" height="120"></canvas>
 </div>
 
-<div class="total_turnout"><span id="total_turnout"> {{ total_percentage }}</span><span>%</span></div>
+<div class="total_turnout"><span id="total_turnout"> {{ results_voters['percentage'] }}</span><span>%</span></div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.0.2/Chart.js"></script>
 <script>
-    var total_percentage = 40;
+    var total_percentage ={{ results_voters['percentage'] }};
     var remove = 100 - total_percentage;
     var pieData = {
         labels: [],
