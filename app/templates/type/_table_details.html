@@ -33,7 +33,7 @@
                 </tfoot>
                 <tbody>
                     {% set countlista = 5 %}
-
+                    {%  if typeizbori=="parlamentarni" %}
                     {%  for item in territories %}
                         <tr>
                                         <td>
@@ -46,6 +46,7 @@
 
                                         {%  endif %}
                                         </td>
+                                    {%  if year not in [2007,2016] %}
                                          <td>
                                         {%  if data[1]['izbornaLista']==item['rezultat'][1]['izbornaLista'] %}
 
@@ -74,10 +75,32 @@
 
                                         {%  endif %}
                                         </td>
+                                    {%  endif %}
 
 
 
                         </tr>
                     {% endfor %}
+                {% endif %}
+                {%  if typeizbori=="predsjednicki" %}
+   {%  for item in territories %}
+                        <tr>
+                                        <td>
+                                            {{ item.teritorija }}
+                                        </td>
+                                        <td>
+                                        {%  if data[0]['kandidat']==item['rezultat'][0]['kandidat'] %}
+
+                                                 {{  item['rezultat'][0]['rezultat']['glasova'] }}
+
+                                        {%  endif %}
+                                        </td>
+
+
+
+
+                        </tr>
+                    {% endfor %}
+                {% endif %}
                 </tbody>
             </table>

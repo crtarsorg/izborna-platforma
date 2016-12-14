@@ -1,11 +1,8 @@
-
-
-
-<div id="containermap"></div>
-
-   <script type="text/javascript">
-
-   function transliterate(word) {
+<script>
+    function capitalize(s) {
+       return s[0].toUpperCase() + s.slice(1);
+   }
+      function transliterate(word) {
     var A = {};
     var result = '';
 
@@ -24,6 +21,14 @@
 
     return result;
 }
+</script>
+
+
+<div id="containermap"></div>
+
+   <script type="text/javascript">
+
+
         $(function () {
             $.getJSON('/static/data/serbia-municipality.geojson', function (geojson) {
             var data = [];
@@ -52,7 +57,7 @@
              {% if typeizbori=="predsjednicki" %}
                 {%  for winner in winner_territory %}
                      data.push({
-                       "NAME_2": transliterate("{{ winner['teritorijaSlug'] }}"),
+                       "NAME_2": transliterate("{{ winner['teritorija'] }}"),
                         "terrigorySlug": transliterate("{{ winner['teritorijaSlug'] }}"),
                        "color": "{% for list in list_political_parties %} {% if list['name']==winner['rezultat'][0]['kandidat'] %}{{ list['color'] }} {% endif %} {% endfor %}",
                         "kandidat":""

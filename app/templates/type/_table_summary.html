@@ -23,10 +23,13 @@
                         <td>
                          {%  if typeizbori=="predsjednicki" %}
                                                  {{ item['rezultat'][0]['kandidat']}}<br/>
-                                                 {{ item['rezultat'][1]['kandidat']}}
+
                                             {%  else %}
+
                                                    {{ item['rezultat'][0]['izbornaLista']}}<br/>
+                                                {%  if year not in [2007,2016] %}
                                                     {{ item['rezultat'][1]['izbornaLista']}}
+                                                    {% endif %}
                                             {% endif %}
 
                         </td>
@@ -43,7 +46,8 @@
                             <div class="col-md-1 percentage font-size-11">
                             {{ '{0:0.2f}'.format(item['rezultat'][0]['rezultat']['udeo'])}}%
                             </div>
-
+                            {% if typeizbori!="predsjednicki" %}
+                                {%  if year not in [2007,2016] %}
                              <span class="float-left font-size-11 table-votes clear-left" > {{ '{0:,}'.format(item['rezultat'][1]['rezultat']['glasova'])}}</span>
                             <div class="col-md-7">
                                 <div class="progress">
@@ -55,7 +59,8 @@
                             <div class="col-md-1 percentage font-size-11">
                             {{ '{0:0.2f}'.format(item['rezultat'][1]['rezultat']['udeo'])}}%
                             </div>
-
+                                    {%  endif %}
+                            {% endif %}
                         </td>
                         <td></td>
                     </tr>
