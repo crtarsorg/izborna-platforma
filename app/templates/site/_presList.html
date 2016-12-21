@@ -2,7 +2,7 @@
 <div class="row header-l">
     <div class="content-list background-gray">
             <h4>Predsednički izbori</h4>
-            <div class="col-md-12 year-list"><a href="type/1/predsjednicki/2008/1">2008</a></div>
+        {#    <div class="col-md-12 year-list"><a href="type/1/predsjednicki/2008/1/krug/prvi">2008</a></div>
             <div class="col-md-3 name-list">{{ data2008pres[0]['kandidat'] }}</div>
             <div class="col-md-1">
                 <p class="nr-votes">{{ '{0:,}'.format(data2008pres[0]['glasova']) }}</p>
@@ -31,10 +31,10 @@
             </div>
             <div class="col-md-1 percentage">
                 {{ '{0:0.2f}'.format(data2008pres[1]['udeo'])}}%
-            </div>
+            </div>#}
         <!-- 2012 year -->
-        <div class="col-md-12 year-list"><a href="type/1/predsjednicki/2012/1">2012</a></div>
-            <div class="col-md-3 name-list">{{ data2012pres[0]['kandidat'] }}</div>
+        <div class="col-md-12 year-list"><a href="type/1/predsjednicki/2012/1/krug/prvi">2012</a></div>
+            <div class="col-md-3 col-sm-3 name-list">{{ data2012pres[0]['kandidat'] }}</div>
             <div class="col-md-1">
                 <p class="nr-votes">{{ '{0:,}'.format(data2012pres[0]['glasova']) }}</p>
             </div>

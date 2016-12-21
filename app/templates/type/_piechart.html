@@ -1,11 +1,13 @@
 <meta name="viewport"
       content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"/>
 
-<div class="m-chart">
-    <canvas id="colors" width="200" height="120"></canvas>
-</div>
-
-<div class="total_turnout"><span id="total_turnout"> {{ results_voters['percentage'] }}</span><span>%</span></div>
+    <div class="m-chart" style="margin:0 auto;width:200px;">
+        <canvas id="colors" width="200" height="120"></canvas>
+    </div>
+    <div class="col-md-12 col-sm-12 col-xs- 12 total_turnout">
+        <span>Turnout:</span>
+        <span id="total_turnout">{{ results_voters['percentage'] }}</span><span>%</span>
+    </div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.0.2/Chart.js"></script>
 <script>
     var total_percentage ={{ results_voters['percentage'] }};

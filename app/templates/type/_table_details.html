@@ -1,106 +1,106 @@
-   <table id="details" class="display" cellspacing="0" width="100%">
-                <thead>
-                    <tr>
-                        <th>Territorija Ime</th>
-                             {% set count = 0 %}
-                            {%  for item in data %}
-                                    {% set count = count + 1 %}
-                                    {%  if count<=5 %}
-                                    <th>{{ count }} - {%  if typeizbori=="predsjednicki" %}
-                                                                {{ item['kandidat'] }}
-                                                            {%  else %}
-                                                                    {{ item['izbornaLista'] }}
-                                                            {% endif %}</th>
-                                    {% endif %}
-                              {% endfor %}
-                    </tr>
-                </thead>
-                <tfoot>
-                    <tr>
-                        <th>Territorija Ime</th>
-                             {% set count = 0 %}
-                            {%  for item in data %}
-                                    {% set count = count + 1 %}
-                                    {%  if count<=5 %}
-                                    <th>{{ count }} - {%  if typeizbori=="predsjednicki" %}
-                                                                {{ item['kandidat'] }}
-                                                            {%  else %}
-                                                                    {{ item['izbornaLista'] }}
-                                                            {% endif %}</th>
-                                    {% endif %}
-                              {% endfor %}
-                    </tr>
-                </tfoot>
-                <tbody>
-                    {% set countlista = 5 %}
-                    {%  if typeizbori=="parlamentarni" %}
-                    {%  for item in territories %}
-                        <tr>
-                                        <td>
-                                            {{ item.teritorija }}
-                                        </td>
-                                        <td>
-                                        {%  if data[0]['izbornaLista']==item['rezultat'][0]['izbornaLista'] %}
 
-                                                 {{  item['rezultat'][0]['rezultat']['glasova'] }}
-
-                                        {%  endif %}
-                                        </td>
-                                    {%  if year not in [2007,2016] %}
-                                         <td>
-                                        {%  if data[1]['izbornaLista']==item['rezultat'][1]['izbornaLista'] %}
-
-                                                 {{  item['rezultat'][1]['rezultat']['glasova'] }}
-
-                                        {%  endif %}
-                                        </td>
-                                         <td>
-                                        {%  if data[2]['izbornaLista']==item['rezultat'][2]['izbornaLista'] %}
-
-                                                 {{  item['rezultat'][2]['rezultat']['glasova'] }}
-
-                                        {%  endif %}
-                                        </td>
-                                       <td>
-                                        {%  if data[3]['izbornaLista']==item['rezultat'][3]['izbornaLista'] %}
-
-                                                 {{  item['rezultat'][3]['rezultat']['glasova'] }}
-
-                                        {%  endif %}
-                                        </td>
-                                        <td>
-                                        {%  if data[4]['izbornaLista']==item['rezultat'][4]['izbornaLista'] %}
-
-                                                 {{  item['rezultat'][4]['rezultat']['glasova'] }}
-
-                                        {%  endif %}
-                                        </td>
-                                    {%  endif %}
-
-
-
-                        </tr>
-                    {% endfor %}
+{% set countitems=-0 %}
+{% set data_length=data|length %}
+<select class="form-control" id="select2" multiple="multiple">
+    {%  for  a in data %}
+        {% set countitems=countitems +  1 %}
+        {% if countitems<data_length %}
+             {% if countitems<=5 %}
+                {{ countitems }}
+                 <option value="selected_{{ data[countitems-1]['izbornaListaSlug'] }}" selected="selected" >{{ data[countitems-1]['izbornaLista'] }}</option>
+             {% endif %}
+            {% if countitems>5 %}
+                 <option value="selected_{{ data[countitems-1]['izbornaListaSlug'] }}">{{ data[countitems-1]['izbornaLista'] }}</option>
+            {% endif %}
+        {% endif %}
+    <script>
+        $(document).ready(function() {
+            {% if countitems<data_length %}
+                {% if countitems<=5 %}
+                    $('.select2-choices li:nth-child({{ countitems}}) a').addClass('lista_{{ data[countitems-1]['izbornaListaSlug'] }}');
+                      $(".lista_{{ data[countitems-1]['izbornaListaSlug'] }}").click(function () {
+                        $('.{{ data[countitems-1]['izbornaListaSlug'] }}').remove();
+                        $('.td_{{ data[countitems-1]['izbornaListaSlug'] }}').remove();
+                    })
                 {% endif %}
-                {%  if typeizbori=="predsjednicki" %}
-   {%  for item in territories %}
-                        <tr>
-                                        <td>
-                                            {{ item.teritorija }}
-                                        </td>
-                                        <td>
-                                        {%  if data[0]['kandidat']==item['rezultat'][0]['kandidat'] %}
+            {% endif %}
+        })
+        </script>
+    {%  endfor %}
+    <script>
+         $('#select2').click(function() {
+             var a = $(this).val();
+             var last_element = a[a.length - 1];
+            $(".select2-choices li a" ).last().attr('id', last_element);
+             $.each(a, function (index, value) {
+                 $('#'+value).on('click',function(){
+                     var added_id=$(this).attr('id');
+                     console.log(added_id);
+                     $('.'+added_id).hide();
+                     $('.top_'+added_id).hide();
+                 })
+                 $('.'+value).show();
+                 $('.top_'+value).show();
+             })
+         })
+    </script>
+</select>
+   <table id="details" class="" cellspacing="0" width="100%">
+       <thead>
+           <tr>
+               <th>Territorija Ime</th>
+               {% set count = 0 %}
+               {%  for item in data %}
+                   {% set count = count + 1 %}
+                   {% if count<data_length %}
+                       {%  if count<=5 %}
+                           <th class="{{ item['izbornaListaSlug'] }} selected_{{ item['izbornaListaSlug'] }}" style="width:300px !important;">
+                               {{ item['izbornaLista'] }}
+                           </th>
+                       {% endif %}
+                       {%  if count>=5 %}
+                           <th class="{{ item['izbornaListaSlug'] }} selected_{{ item['izbornaListaSlug'] }}" style="display:none">
+                               {{ item['izbornaLista'] }}
+                           </th>
+                       {% endif %}
+                   {% endif %}
+               {% endfor %}
+           </tr>
+       </thead>
+       <tbody>
+       {% set countlista=0 %}
+       {%  if typeizbori=="parlamentarni" %}
+           {%  for item in territories %}
+               <tr>
+                   <td style="width: 50px;">
+                       {{ item.teritorija }}
+                   </td>
+                   {%  for  a in data %}
+                       {% set countlista=countlista +  1 %}
+                       {% if countlista<data_length %}
+                           {% if countlista<=5 %}
+                               <td class="td_{{ a['izbornaListaSlug'] }} top_selected_{{ a['izbornaListaSlug'] }}" style="width:300px !important;">
+                                   {% for b in item['rezultat'] %}
+                                       {%  if a['izbornaLista']==b['izbornaLista'] %}
+                                           {{  b['rezultat']['glasova'] }}
+                                       {%  endif %}
+                                   {% endfor %}
+                               </td>
+                           {% endif %}
+                           {% if countlista>=5 %}
+                               <td class="td_{{ a['izbornaListaSlug'] }} top_selected_{{ a['izbornaListaSlug'] }}" style="display: none">
+                                   {% for b in item['rezultat'] %}
+                                       {%  if a['izbornaLista']==b['izbornaLista'] %}
+                                           {{  b['rezultat']['glasova'] }}
+                                       {%  endif %}
+                                   {% endfor %}
+                               </td>
+                           {% endif %}
+                       {% endif %}
+                   {%  endfor %}
+               </tr>
+           {% endfor %}
+       {% endif %}
+       </tbody>
+   </table>
 
-                                                 {{  item['rezultat'][0]['rezultat']['glasova'] }}
-
-                                        {%  endif %}
-                                        </td>
-
-
-
-
-                        </tr>
-                    {% endfor %}
-                {% endif %}
-                </tbody>
-            </table>

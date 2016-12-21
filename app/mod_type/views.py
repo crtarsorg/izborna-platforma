@@ -1,10 +1,15 @@
+# coding=utf-8
 import pprint
+
 from flask import Blueprint,request
 from flask import render_template
 from app import mongo_utils
 from bson.json_util import dumps
 import json,urllib
 from bson import json_util
+import cyrtranslit
+from slugify import slugify
+from tqdm import tqdm
 
 mod_type = Blueprint('type', __name__, url_prefix="/type",static_folder="static", template_folder='templates', )
 
@@ -15,8 +20,8 @@ def electionType(datasource, typeizbori,year, instanca, krug):
     if typeizbori!="predsjednicki":
         if year==2000:
             url= "http://0.0.0.0:5006/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/instanca/3/krug/none"
-        elif year==2007 or year==2016:
-            url = "http://0.0.0.0:5006/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/4/krug/none"
+        elif year in [2007,2016]:
+            url = "http://0.0.0.0:5006/api/izbori/1/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3/krug/none"
         else:
             url = "http://0.0.0.0:5006/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3/krug/none"
     else:
@@ -28,24 +33,23 @@ def electionType(datasource, typeizbori,year, instanca, krug):
     response= urllib.urlopen(url)
     for line in json.loads(response.read()):
         data.append(line)
+
+
     #get all territories by selected year
     territories=[]
-    if year == 2000:
-        urlterritories="http://0.0.0.0:5006/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/teritorija/instanca/3"
-    elif year == 2007 or year==2016:
-        urlterritories = "http://0.0.0.0:5006/api/izbori/2/parlamentarni/godina/2007/teritorija/instanca/4"
-    elif year==2004 and typeizbori=="predsjednicki":
-        urlterritories = "http://0.0.0.0:5006/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/teritorija/instanca/4"
+    if typeizbori != "predsjednicki":
+        if year == 2000:
+            urlterritories="http://0.0.0.0:5006/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/teritorija/instanca/3"
+        elif year in [2007,2016]:
+            urlterritories = "http://0.0.0.0:5006/api/izbori/winners/1/parlamentarni/godina/" + str(year) + "/instanca/3"
+        else:
+            urlterritories = "http://0.0.0.0:5006/api/izbori/winners/2/parlamentarni/godina/" + str(year) + "/instanca/3"
     else:
-        urlterritories = "http://0.0.0.0:5006/api/izbori/winners/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3"
-    if year!=2007:
-        responseterritories = urllib.urlopen(urlterritories)
-        for territory in json.loads(responseterritories.read()):
-            territories.append(territory)
-    else:
-        responseterritories = urllib.urlopen(urlterritories)
-        for territory in json.loads(responseterritories.read()):
-            territories.append(territory)
+        urlterritories = "http://0.0.0.0:5006/api/izbori/2/predsjednicki/godina/" + str(year) + "/krug/"+str(krug)+"/teritorija"
+
+    responseterritories = urllib.urlopen(urlterritories)
+    for territory in json.loads(responseterritories.read()):
+        territories.append(territory)
 
 
     #total voters turnout
@@ -64,15 +68,19 @@ def electionType(datasource, typeizbori,year, instanca, krug):
     winner_territory = []
     if year==2000:
         url_winner_territory = "http://0.0.0.0:5006/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/teritorija/instanca/3"
-    elif year==2007 or year==2016:
-        url_winner_territory = "http://0.0.0.0:5006/api/izbori/2/" + str(typeizbori) + "/godina/" + str( year) + "/teritorija/instanca/4"
+    elif year in [2007,2016]:
+        url_winner_territory = "http://0.0.0.0:5006/api/izbori/winners/1/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3"
     else:
-        url_winner_territory = "http://0.0.0.0:5006/api/izbori/winners/2/" + str(typeizbori) + "/godina/" + str( year) + "/instanca/3"
+        url_winner_territory = "http://0.0.0.0:5006/api/izbori/winners/2/" + str(typeizbori) + "/godina/" + str(year)+"/instanca/3"
     response_winner = urllib.urlopen(url_winner_territory)
 
     for winner in json_util.loads(response_winner.read()):
         winner_territory.append(winner)
     print winner_territory
-    return render_template('type/type.html',typeizbori=typeizbori,year=year,data=data,territories=territories,results_voters=results_voters,list_political_parties=list_political_parties,winner_territory=winner_territory)
+    return render_template('type/type.html',typeizbori=typeizbori,year=year,data=data,territories=territories,results_voters=results_voters,list_political_parties=list_political_parties,winner_territory=winner_territory,slugify_cr=slugify_cr)
+
+def slugify_cr(s):
+     return slugify(cyrtranslit.to_latin(s, 'sr'), to_lower=True)
+
 
 

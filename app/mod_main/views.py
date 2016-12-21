@@ -21,7 +21,7 @@ def index():
     #end of year 2014 parlamentary
 
     data2016 = []
-    url2016 = "http://0.0.0.0:5006/api/izbori/2/parlamentarni/godina/2016/instanca/4/krug/None"
+    url2016 = "http://0.0.0.0:5006/api/izbori/1/parlamentarni/godina/2016/instanca/3/krug/None"
     response2016 = urllib.urlopen(url2016)
     for line2016 in json.loads(response2016.read()):
         data2016.append(line2016)

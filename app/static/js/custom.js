@@ -26,4 +26,11 @@ $( function() {
 						width: $(this).data("origWidth")
 					}, 1200);
 			});
+
+       var select = $('#select2').select2();
+  /* Select2 plugin as tagpicker */
+  $("#tagPicker").select2({
+    closeOnSelect:false
+  });
+
 });

@@ -3,92 +3,91 @@
 {% block body %}
     <div class="row">
         {% include "include/election_tabs.html" %}
-    </div>
-    <div class="row">
-        <div class="col-md-9 selected-year">
-            <p>{{ year }} Rezultati</p>
-            <div class="col-md-12">
-                <div class="col-md-3 name-list">  {% if typeizbori=="predsjednicki" %}
-                    {{ data[0]['kandidat'] }}
+    </div><!-- end of elections tab -->
+
+    <div class="col-md-9 col-sm-9 col-xs-12">
+        <div class="row indicator-row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <h2 class="title-heading">{{ year }} Rezultati</h2>
+             </div><!-- heading -->
+            <div class="col-md-3 col-sm-4 col-xs-4 name-list">
+                    {% if typeizbori=="predsjednicki" %}
+                        {{ data[0]['kandidat'] }}
                 {% else %}
                     {{ data[0]['izbornaLista'] }}
                 {% endif %}
-                </div>
-                <div class="col-md-1">
-                    <p class="nr-votes">    {{ '{0:,}'.format(data[0]['glasova']) }}</p>
-                </div>
-                <div class="col-md-7">
-                    <div class="progress custom-progress">
-                         {% if typeizbori=="predsjednicki" %}
-
-                                 <div class="progress-bar  progressbar-red" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-
-                            {% else %}
-                                 <div class="progress-bar" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-                        {% endif %}
-
+            </div><!-- type of elections -->
+            <div class="col-md-1 col-sm-3 col-xs-3">
+                <p class="nr-votes">    {{ '{0:,}'.format(data[0]['glasova']) }}</p>
+            </div><!-- votes for the first indicator -->
+            <div class="col-md-7 col-sm-3 col-xs-3">
+                <div class="progress custom-progress">
+                    {% if typeizbori=="predsjednicki" %}
+                        <div class="progress-bar  progressbar-red" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
                             <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
                         </div>
-                    </div>
-                </div>
-                <div class="col-md-1 percentage">
-                    {{ '{0:0.2f}'.format(data[0]['udeo']) }}%
-                </div>
-            </div>
-        <div class="col-md-12">
-                <div class="col-md-3 name-list">
-                    {% if typeizbori=="predsjednicki" %}
-                        {{ data[1]['kandidat'] }}
                     {% else %}
-                        {{ data[1]['izbornaLista'] }}
+                        <div class="progress-bar" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
+                        </div>
                     {% endif %}
                 </div>
-                <div class="col-md-1">
-                    <p class="nr-votes">    {{ '{0:,}'.format(data[1]['glasova']) }}</p>
-                </div>
-                <div class="col-md-7">
-                    <div class="progress custom-progress">
-                        {% if typeizbori=="predsjednicki" %}
+            </div><!-- end of progress bar, first indicator -->
+            <div class="col-md-1 col-sm-2 col-xs-2 percentage">
+                {{ '{0:0.2f}'.format(data[0]['udeo']) }}%
+            </div><!-- end of percentage for the first indicator -->
+        </div><!-- end of first indicator -->
 
-                                 <div class="progress-bar  progressbar-red" style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-
-                            {% else %}
-                                 <div class="progress-bar" style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-                        {% endif %}
+        <div class="row indicator-row"><!-- second indicator block -->
+            <div class="col-md-3 col-sm-4 col-xs-4 name-list">
+                {% if typeizbori=="predsjednicki" %}
+                    {{ data[1]['kandidat'] }}
+                {% else %}
+                    {{ data[1]['izbornaLista'] }}
+                {% endif %}
+            </div><!-- type of elections -->
+            <div class="col-md-1 col-sm-3 col-xs-3">
+                <p class="nr-votes">    {{ '{0:,}'.format(data[1]['glasova']) }}</p>
+            </div>
+            <div class="col-md-7 col-sm-3 col-xs-3">
+                <div class="progress custom-progress">
+                    {% if typeizbori=="predsjednicki" %}
+                        <div class="progress-bar " style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
                             <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
                         </div>
-                    </div>
+                    {% else %}
+                        <div class="progress-bar" style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                        </div>
+                    {% endif %}
                 </div>
-                <div class="col-md-1 percentage">
-                    {{ '{0:0.2f}'.format(data[1]['udeo']) }}%
-                </div>
+            </div><!-- end of progress bar, second indicator -->
+             <div class="col-md-1 col-sm-2 col-xs-2 percentage">
+                 {{ '{0:0.2f}'.format(data[1]['udeo']) }}%
+             </div><!-- end of percentage, second indicator -->
+        </div><!-- end of second indicator -->
+    </div><!-- end of col 9 -->
+
+    <div class="col-md-3 col-sm-12 col-xs-12">
+        {% if year!=2000 %}
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                {% include "type/_piechart.html" %}
             </div>
-        </div>
-            {% if year!=2000 %}
-        <div class="col-md-3">
-            {% include "type/_piechart.html" %}
-        </div>
-            {% endif %}
-    </div>
+        {% endif %}
+    </div><!-- end of piechart -->
+
     <div class="row">
-        <div class="col-md-9 lists">
+        <div class="col-md-9 col-sm-12 col-xs-12 lists">
              {% include "type/_map.html" %}
-
-        </div>
-        <div class="col-md-3">
-
-                {% include "type/_indicators.html" %}
-
-        </div>
-    </div>
-
-
+        </div><!-- end of map -->
+        <div class="col-md-3 col-sm-12 col-xs-12 indicators-div">
+            {% include "type/_indicators.html" %}
+        </div><!-- end of indicators -->
+    </div><!-- end of map and indicators -->
     <div class="row">
-
-        <div class="col-md-12">
+        <div class="col-md-12 col-sm-12 col-xs-12">
               {% include "type/_table.html" %}
         </div>
-
-    </div>
+    </div><!-- end of table summary and table details -->
 
 {% endblock %}
