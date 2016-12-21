@@ -21,7 +21,7 @@
         }
         $(function () {
 
-            $.getJSON('/static/data/serbia-municipality.geojson', function (geojson) {
+            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
             var data = [];
             var i = 0;
                 {% if typeizbori=="parlamentarni" %}

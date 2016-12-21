@@ -4,7 +4,7 @@
         <h4>Parlamentarni izbori</h4>
         <!-- beginning of the year 2014 -->
         <!-- first indicator -->
-            <div class="col-md-12 year-list"><a href="type/2/parlamentarni/2014/4/krug/none">2014</a></div>
+            <div class="col-md-12 year-list"><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}">2014</a></div>
     <div class="col-md-12 col-sm-12 col-xs-12 indicator-row">
             <div class="col-md-3 col-sm-4 col-xs-4"> {{ data2014[0]['izbornaLista'] }}</div>
             <div class="col-md-1 col-sm-3 col-xs-3">
