@@ -19,16 +19,16 @@ def electionType(datasource, typeizbori,year, instanca, krug):
     data= []
     if typeizbori!="predsjednicki":
         if year==2000:
-            url= "http://0.0.0.0:5006/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/instanca/3/krug/none"
+            url= "http://datacentar.io/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/instanca/3/krug/none"
         elif year in [2007,2016]:
-            url = "http://0.0.0.0:5006/api/izbori/1/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3/krug/none"
+            url = "http://datacentar.io/api/izbori/1/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3/krug/none"
         else:
-            url = "http://0.0.0.0:5006/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3/krug/none"
+            url = "http://datacentar.io/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3/krug/none"
     else:
         if year==2004:
-            url = "http://0.0.0.0:5006/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/4/krug/"+str(krug)
+            url = "http://datacentar.io/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/4/krug/"+str(krug)
         else:
-            url = "http://0.0.0.0:5006/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3/krug/" + str(krug)
+            url = "http://datacentar.io/api/izbori/2/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3/krug/" + str(krug)
 
     response= urllib.urlopen(url)
     for line in json.loads(response.read()):
@@ -39,13 +39,13 @@ def electionType(datasource, typeizbori,year, instanca, krug):
     territories=[]
     if typeizbori != "predsjednicki":
         if year == 2000:
-            urlterritories="http://0.0.0.0:5006/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/teritorija/instanca/3"
+            urlterritories="http://datacentar.io/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/teritorija/instanca/3"
         elif year in [2007,2016]:
-            urlterritories = "http://0.0.0.0:5006/api/izbori/winners/1/parlamentarni/godina/" + str(year) + "/instanca/3"
+            urlterritories = "http://datacentar.io/api/izbori/winners/1/parlamentarni/godina/" + str(year) + "/instanca/3"
         else:
-            urlterritories = "http://0.0.0.0:5006/api/izbori/winners/2/parlamentarni/godina/" + str(year) + "/instanca/3"
+            urlterritories = "http://datacentar.io/api/izbori/winners/2/parlamentarni/godina/" + str(year) + "/instanca/3"
     else:
-        urlterritories = "http://0.0.0.0:5006/api/izbori/2/predsjednicki/godina/" + str(year) + "/krug/"+str(krug)+"/teritorija"
+        urlterritories = "http://datacentar.io/api/izbori/2/predsjednicki/godina/" + str(year) + "/krug/"+str(krug)+"/teritorija"
 
     responseterritories = urllib.urlopen(urlterritories)
     for territory in json.loads(responseterritories.read()):
@@ -54,12 +54,12 @@ def electionType(datasource, typeizbori,year, instanca, krug):
 
     #total voters turnout
 
-    urlturnout = "http://0.0.0.0:5006/api/izbori/datasource/2/" + str(typeizbori) + "/godina/" + str(year)
+    urlturnout = "http://datacentar.io/api/izbori/datasource/2/" + str(typeizbori) + "/godina/" + str(year)
     response_turnout = urllib.urlopen(urlturnout)
     results_voters=json.loads(response_turnout.read())
 
     #get all political parties
-    url_political_parties = "http://0.0.0.0:5006/api/izbori/parties"
+    url_political_parties = "http://datacentar.io/api/izbori/parties"
     response_political_parties = urllib.urlopen(url_political_parties)
     list_political_parties = json_util.loads(response_political_parties.read())
 
@@ -67,11 +67,11 @@ def electionType(datasource, typeizbori,year, instanca, krug):
     #get winners for each territory
     winner_territory = []
     if year==2000:
-        url_winner_territory = "http://0.0.0.0:5006/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/teritorija/instanca/3"
+        url_winner_territory = "http://datacentar.io/api/izbori/1/"+str(typeizbori)+"/godina/"+str(year)+"/teritorija/instanca/3"
     elif year in [2007,2016]:
-        url_winner_territory = "http://0.0.0.0:5006/api/izbori/winners/1/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3"
+        url_winner_territory = "http://datacentar.io/api/izbori/winners/1/" + str(typeizbori) + "/godina/" + str(year) + "/instanca/3"
     else:
-        url_winner_territory = "http://0.0.0.0:5006/api/izbori/winners/2/" + str(typeizbori) + "/godina/" + str(year)+"/instanca/3"
+        url_winner_territory = "http://datacentar.io/api/izbori/winners/2/" + str(typeizbori) + "/godina/" + str(year)+"/instanca/3"
     response_winner = urllib.urlopen(url_winner_territory)
 
     for winner in json_util.loads(response_winner.read()):
