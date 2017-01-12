@@ -1,10 +1,11 @@
 
 {% set countitems=-0 %}
 {% set data_length=data|length %}
+{% if typeizbori=="parlamentarni" %}
 <select class="form-control" id="select2" multiple="multiple">
     {%  for  a in data %}
         {% set countitems=countitems +  1 %}
-        {% if countitems<data_length %}
+        {% if countitems<=data_length %}
              {% if countitems<=5 %}
                 {{ countitems }}
                  <option value="selected_{{ data[countitems-1]['izbornaListaSlug'] }}" selected="selected" >{{ data[countitems-1]['izbornaLista'] }}</option>
@@ -13,53 +14,41 @@
                  <option value="selected_{{ data[countitems-1]['izbornaListaSlug'] }}">{{ data[countitems-1]['izbornaLista'] }}</option>
             {% endif %}
         {% endif %}
-    <script>
+  <script>
         $(document).ready(function() {
-            {% if countitems<data_length %}
+            {% if countitems<=data_length %}
                 {% if countitems<=5 %}
-                    $('.select2-choices li:nth-child({{ countitems}}) a').addClass('lista_{{ data[countitems-1]['izbornaListaSlug'] }}');
-                      $(".lista_{{ data[countitems-1]['izbornaListaSlug'] }}").click(function () {
-                        $('.{{ data[countitems-1]['izbornaListaSlug'] }}').remove();
-                        $('.td_{{ data[countitems-1]['izbornaListaSlug'] }}').remove();
+                    $('.select2-choices li:nth-child({{ countitems}}) a').addClass('selected_{{ data[countitems-1]['izbornaListaSlug'] }}');
+                    $('.select2-choices li:nth-child({{ countitems}}) a').addClass('top_previous_selected');
+                    $(".select2-choices li:nth-child({{ countitems}}) a" ).attr('id', "selected_{{ data[countitems-1]['izbornaListaSlug'] }}");
+                    $('.top_previous_selected').on('click', function(){
+                        var fetch_id=$(this).attr("id");
+                            $('.'+fetch_id).hide();
+                            $('.top_'+fetch_id).hide();
                     })
                 {% endif %}
             {% endif %}
+
         })
         </script>
     {%  endfor %}
-    <script>
-         $('#select2').click(function() {
-             var a = $(this).val();
-             var last_element = a[a.length - 1];
-            $(".select2-choices li a" ).last().attr('id', last_element);
-             $.each(a, function (index, value) {
-                 $('#'+value).on('click',function(){
-                     var added_id=$(this).attr('id');
-                     console.log(added_id);
-                     $('.'+added_id).hide();
-                     $('.top_'+added_id).hide();
-                 })
-                 $('.'+value).show();
-                 $('.top_'+value).show();
-             })
-         })
-    </script>
+
 </select>
    <table id="details" class="" cellspacing="0" width="100%">
        <thead>
            <tr>
-               <th>Territorija Ime</th>
+               <th>Територија име</th>
                {% set count = 0 %}
                {%  for item in data %}
                    {% set count = count + 1 %}
-                   {% if count<data_length %}
+                   {% if count<=data_length %}
                        {%  if count<=5 %}
-                           <th class="{{ item['izbornaListaSlug'] }} selected_{{ item['izbornaListaSlug'] }}" style="width:300px !important;">
+                           <th class="data-th selected_{{ item['izbornaListaSlug'] }}">
                                {{ item['izbornaLista'] }}
                            </th>
                        {% endif %}
-                       {%  if count>=5 %}
-                           <th class="{{ item['izbornaListaSlug'] }} selected_{{ item['izbornaListaSlug'] }}" style="display:none">
+                       {%  if count>5 %}
+                           <th class="data-th {{ item['izbornaListaSlug'] }} selected_{{ item['izbornaListaSlug'] }}" style="display:none">
                                {{ item['izbornaLista'] }}
                            </th>
                        {% endif %}
@@ -77,9 +66,9 @@
                    </td>
                    {%  for  a in data %}
                        {% set countlista=countlista +  1 %}
-                       {% if countlista<data_length %}
+                       {% if countlista<=data_length %}
                            {% if countlista<=5 %}
-                               <td class="td_{{ a['izbornaListaSlug'] }} top_selected_{{ a['izbornaListaSlug'] }}" style="width:300px !important;">
+                               <td class="data-row-td top_selected_{{ a['izbornaListaSlug'] }}" style="display: none">
                                    {% for b in item['rezultat'] %}
                                        {%  if a['izbornaLista']==b['izbornaLista'] %}
                                            {{  b['rezultat']['glasova'] }}
@@ -87,8 +76,8 @@
                                    {% endfor %}
                                </td>
                            {% endif %}
-                           {% if countlista>=5 %}
-                               <td class="td_{{ a['izbornaListaSlug'] }} top_selected_{{ a['izbornaListaSlug'] }}" style="display: none">
+                           {% if countlista>5 %}
+                               <td class="data-row-td top_selected_{{ a['izbornaListaSlug'] }}" style="display: none">
                                    {% for b in item['rezultat'] %}
                                        {%  if a['izbornaLista']==b['izbornaLista'] %}
                                            {{  b['rezultat']['glasova'] }}
@@ -103,4 +92,155 @@
        {% endif %}
        </tbody>
    </table>
+{% endif %}
+{% if typeizbori=="predsjednicki" %}
+    <select class="form-control" id="select2" multiple="multiple">
+    {%  for  a in data %}
+        {% set countitems=countitems +  1 %}
+        {% if countitems<=data_length %}
+             {% if countitems<=5 %}
+                {{ countitems }}
+                 <option value="selected_{{ data[countitems-1]['kandidatSlug'] }}" selected="selected" >{{ data[countitems-1]['kandidat'] }}</option>
+             {% endif %}
+            {% if countitems>5 %}
+                 <option value="selected_{{ data[countitems-1]['kandidatSlug'] }}">{{ data[countitems-1]['kandidat'] }}</option>
+            {% endif %}
 
+        {% endif %}
+  <script>
+        $(document).ready(function() {
+            {% if countitems<=data_length %}
+                {% if countitems<=5 %}
+                    $('.select2-choices li:nth-child({{ countitems}}) a').addClass('selected_{{ data[countitems-1]['kandidatSlug'] }}');
+                    $('.select2-choices li:nth-child({{ countitems}}) a').addClass('top_previous_selected');
+                    $(".select2-choices li:nth-child({{ countitems}}) a" ).attr('id', "selected_{{ data[countitems-1]['kandidatSlug'] }}");
+                    $('.top_previous_selected').on('click', function(){
+                        var fetch_id=$(this).attr("id");
+                            $('.'+fetch_id).hide();
+                            $('.top_'+fetch_id).hide();
+                    })
+                {% endif %}
+            {% endif %}
+
+        })
+        </script>
+    {%  endfor %}
+
+</select>
+   <table id="details" class="" cellspacing="0" width="100%">
+       <thead>
+           <tr>
+               <th>Територија име</th>
+               {% set count = 0 %}
+               {%  for item in data %}
+                   {% set count = count + 1 %}
+                   {% if count<=data_length %}
+                       {%  if count<=5 %}
+                           <th class="data-th selected_{{ item['kandidatSlug'] }}">
+                               {{ item['kandidat'] }}
+                           </th>
+                       {% endif %}
+                       {%  if count>5 %}
+                           <th class="data-th {{ item['kandidatSlug'] }} selected_{{ item['kandidatSlug'] }}" style="display:none">
+                               {{ item['kandidat'] }}
+                           </th>
+                       {% endif %}
+                   {% endif %}
+               {% endfor %}
+           </tr>
+       </thead>
+       <tbody>
+       {% set countlista=0 %}
+           {%  for item in territories %}
+               <tr>
+                   <td style="width: 50px;">
+                       {{ item.teritorija }}
+                   </td>
+                   {%  for  a in data %}
+                       {% set countlista=countlista +  1 %}
+                       {% if countlista<=data_length %}
+                           {% if countlista<=5 %}
+                               <td class="data-row-td top_selected_{{ a['kandidatSlug'] }}" style="display: none">
+                                   {% for b in item['rezultat'] %}
+                                       {%  if a['kandidat']==b['kandidat'] %}
+                                           {{  b['rezultat']['glasova'] }}
+                                       {%  endif %}
+                                   {% endfor %}
+                               </td>
+                           {% endif %}
+                           {% if countlista>5 %}
+                               <td class="data-row-td top_selected_{{ a['kandidatSlug'] }}" style="display: none">
+                                   {% for b in item['rezultat'] %}
+                                       {%  if a['kandidat']==b['kandidat'] %}
+                                           {{  b['rezultat']['glasova'] }}
+                                       {%  endif %}
+                                   {% endfor %}
+                               </td>
+                           {% endif %}
+                       {% endif %}
+                   {%  endfor %}
+               </tr>
+           {% endfor %}
+
+       </tbody>
+   </table>
+{% endif %}
+<style>
+    a.disabled {
+  opacity: 0.5;
+  pointer-events: none;
+  cursor: default;
+}
+</style>
+<script>
+    var a;
+$(document).ready(function() {
+    $('.data-td').hide();
+    a = $('#select2').val();
+    $.each(a, function (index, value) {
+        $('.' + value).show();
+        $('.top_' + value).show();
+
+    })
+})
+    $('#details').on('draw.dt', function () {
+        a=$('#select2').val();
+        $('.data-row-td').hide();
+        $.each(a, function (index, value) {
+            $('.'+value).show();
+            $('.top_'+value).show();
+        })
+})
+
+var last_element;
+     $('#select2').on('click',function() {
+         var data = $(this).select2('data');
+        var array = [];
+        $.each(data, function(index, val) {
+            array[index]=val.id;
+        });
+        array.join(',');
+        console.log(array);
+         last_element = array[array.length-1];
+
+         if(array.length<2){
+            $('#'+last_element).addClass("disabled");
+             }else{
+                $('.select2-search-choice-close').removeClass("disabled");
+             }
+            $(".select2-choices li a" ).last().attr('id', last_element);
+
+             $.each(array, function (index, value) {
+                 $('#'+value).click(function(){
+                     var added_id=$(this).attr('id');
+                     $('.'+added_id).hide();
+                    $('.top_'+value).css('display','none');
+                 })
+                 $('.'+value).show();
+                 $('.top_'+value).show();
+             })
+
+
+     })
+
+    </script>

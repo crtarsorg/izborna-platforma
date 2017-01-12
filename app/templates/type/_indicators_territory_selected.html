@@ -1,0 +1,147 @@
+<div class="col-md-6 col-sm-12 col-xs-12"  id="no-territory-selected">
+
+        <div class="row indicator-row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <h2 class="title-heading">{{ year }} <span id="selected-territory-name"></span></h2>
+             </div><!-- heading -->
+            <div class="col-md-3 col-sm-4 col-xs-4 name-list">
+                    {% if typeizbori=="predsjednicki" %}
+                        <span id="first-kandidat-name"></span>
+                {% else %}
+                    <span id="first-izborna-lista-name"></span>
+                {% endif %}
+            </div><!-- type of elections -->
+           <div class="col-md-2 col-sm-3 col-xs-3">
+                 {% if typeizbori=="predsjednicki" %}
+                <p class="nr-votes" id="first-nr-votes-pred"></p>
+                {% else %}
+                <p class="nr-votes" id="first-nr-votes-parla"></p>
+                {% endif %}
+            </div>
+            <div class="col-md-6 col-sm-3 col-xs-3">
+                <div class="progress custom-progress">
+                    {% if typeizbori=="predsjednicki" %}
+                        <div id="first-progress-pred" class="progress-bar  progressbar-red" style="" role="progressbar" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only" id="first-percentage-pred"></span>
+                        </div>
+                    {% else %}
+                        <div id="first-progress-parl" class="progress-bar" style="" role="progressbar" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only" id="first-percentage-parl"></span>
+                        </div>
+                    {% endif %}
+                </div>
+            </div><!-- end of progress bar, first indicator -->
+        {% if typeizbori=="predsjednicki" %}
+            <div class="col-md-1 col-sm-2 col-xs-2 percentage" id="first-percentage-value-pred">
+
+            </div><!-- end of percentage for the first indicator -->
+        {% else %}
+            <div class="col-md-1 col-sm-2 col-xs-2 percentage" id="first-percentage-value-parl">
+
+            </div><!-- end of percentage for the first indicator -->
+        {% endif %}
+        </div><!-- end of first indicator -->
+
+        <div class="row indicator-row"><!-- second indicator block -->
+            <div class="col-md-3 col-sm-4 col-xs-4 name-list">
+                  {% if typeizbori=="predsjednicki" %}
+                        <span id="second-kandidat-name"></span>
+                {% else %}
+                    <span id="second-izborna-lista-name"></span>
+                {% endif %}
+            </div><!-- type of elections -->
+            <div class="col-md-2 col-sm-3 col-xs-3">
+                 {% if typeizbori=="predsjednicki" %}
+                <p class="nr-votes" id="second-nr-votes-pred"></p>
+                {% else %}
+                <p class="nr-votes" id="second-nr-votes-parla"></p>
+                {% endif %}
+            </div>
+            <div class="col-md-6 col-sm-3 col-xs-3">
+                <div class="progress custom-progress">
+                    {% if typeizbori=="predsjednicki" %}
+                        <div id="second-progress-pred" class="progress-bar "  role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                        </div>
+                    {% else %}
+                        <div id="second-progress-parl" class="progress-bar" role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                        </div>
+                    {% endif %}
+                </div>
+            </div><!-- end of progress bar, second indicator -->
+              {% if typeizbori=="predsjednicki" %}
+            <div class="col-md-1 col-sm-2 col-xs-2 percentage" id="second-percentage-value-pred">
+
+            </div><!-- end of percentage for the first indicator -->
+        {% else %}
+            <div class="col-md-1 col-sm-2 col-xs-2 percentage" id="second-percentage-value-parl">
+
+            </div><!-- end of percentage for the first indicator -->
+        {% endif %}
+        </div><!-- end of second indicator -->
+    </div><!-- end of col 9 -->
+
+<div class="col-md-6 col-sm-12 col-xs-12"  id="no-territory-selected">
+
+        <div class="row indicator-row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <h2 class="title-heading">{{ year }} Rezultati</h2>
+             </div><!-- heading -->
+            <div class="col-md-3 col-sm-4 col-xs-4 name-list">
+                    {% if typeizbori=="predsjednicki" %}
+                        {{ data[0]['kandidat'] }}
+                {% else %}
+                    {{ data[0]['izbornaLista'] }}
+                {% endif %}
+            </div><!-- type of elections -->
+            <div class="col-md-2 col-sm-3 col-xs-3">
+                <p class="nr-votes">    {{ '{0:,}'.format(data[0]['glasova']) }}</p>
+            </div><!-- votes for the first indicator -->
+            <div class="col-md-6 col-sm-3 col-xs-3">
+                <div class="progress custom-progress">
+                    {% if typeizbori=="predsjednicki" %}
+                        <div class="progress-bar  progressbar-red" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['kandidat'] %} background-color:{{ i['color'] }} {% endif %}{% endfor %}" role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
+                        </div>
+                    {% else %}
+                        <div class="progress-bar" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['izbornaLista'] %} background-color:{{ i['color'] }} {% endif %}{% endfor %}" role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
+                        </div>
+                    {% endif %}
+                </div>
+            </div><!-- end of progress bar, first indicator -->
+            <div class="col-md-1 col-sm-2 col-xs-2 percentage">
+                {{ '{0:0.2f}'.format(data[0]['udeo']) }}%
+            </div><!-- end of percentage for the first indicator -->
+        </div><!-- end of first indicator -->
+
+        <div class="row indicator-row"><!-- second indicator block -->
+            <div class="col-md-3 col-sm-4 col-xs-4 name-list">
+                {% if typeizbori=="predsjednicki" %}
+                    {{ data[1]['kandidat'] }}
+                {% else %}
+                    {{ data[1]['izbornaLista'] }}
+                {% endif %}
+            </div><!-- type of elections -->
+            <div class="col-md-2 col-sm-3 col-xs-3">
+                <p class="nr-votes">    {{ '{0:,}'.format(data[1]['glasova']) }}</p>
+            </div>
+            <div class="col-md-6 col-sm-3 col-xs-3">
+                <div class="progress custom-progress">
+                    {% if typeizbori=="predsjednicki" %}
+                        <div class="progress-bar " style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['kandidat'] %} background-color:{{ i['color'] }} {% endif %}{% endfor %}" role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                        </div>
+                    {% else %}
+                        <div class="progress-bar" style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['izbornaLista'] %} background-color:{{ i['color'] }} {% endif %}{% endfor %}" role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                        </div>
+                    {% endif %}
+                </div>
+            </div><!-- end of progress bar, second indicator -->
+             <div class="col-md-1 col-sm-2 col-xs-2 percentage">
+                 {{ '{0:0.2f}'.format(data[1]['udeo']) }}%
+             </div><!-- end of percentage, second indicator -->
+        </div><!-- end of second indicator -->
+    </div><!-- end of col 9 -->

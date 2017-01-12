@@ -1,31 +1,32 @@
 
 <div class="row header-l">
     <div class="content-list background-gray">
-        <h4>Parlamentarni izbori</h4>
+        <h4>Парламентарни избори</h4>
         <!-- beginning of the year 2014 -->
         <!-- first indicator -->
-            <div class="col-md-12 year-list"><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}">2014</a></div>
-    <div class="col-md-12 col-sm-12 col-xs-12 indicator-row">
-            <div class="col-md-3 col-sm-4 col-xs-4"> {{ data2014[0]['izbornaLista'] }}</div>
-            <div class="col-md-1 col-sm-3 col-xs-3">
-                <p class="nr-votes">    {{ '{0:,}'.format(data2014[0]['glasova'])}}</p>
-            </div>
-            <div class="col-md-7 col-sm-3 col-xs-3">
-                <div class="progress custom-progress">
-                    <div class="progress-bar" style="width:{{ data2014[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2014[0]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data2014[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" >
-                      <span class="sr-only">{{ data2014[0]['udeo']}}% Complete</span>
+    <div class="col-md-12 col-sm-12 col-xs-12">
+    <div class="col-md-2">
+                {% include "site/_map_parl_2014.html" %}
+    </div>
+    <div class="col-md-10">
+        <div class="col-md-12 year-list"><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}">2014</a></div>
+
+                <div class="col-md-3 col-sm-4 col-xs-4 name-list"> {{ data2014[0]['izbornaLista'] }}</div>
+                <div class="col-md-1 col-sm-3 col-xs-3">
+                    <p class="nr-votes">    {{ '{0:,}'.format(data2014[0]['glasova'])}}</p>
+                </div>
+                <div class="col-md-7 col-sm-3 col-xs-3">
+                    <div class="progress custom-progress">
+                        <div class="progress-bar" style="width:{{ data2014[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2014[0]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data2014[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" >
+                          <span class="sr-only">{{ data2014[0]['udeo']}}% Complete</span>
+                        </div>
                     </div>
                 </div>
-            </div>
-         <div class="col-md-1 col-sm-2 col-xs-2 percentage">
-            {{ '{0:0.2f}'.format(data2014[0]['udeo'])}}%
-            </div>
-    </div>
-        <!-- end of the first indicatior -->
-        <!-- second indicator -->
+             <div class="col-md-1 col-sm-2 col-xs-2 percentage">
+                {{ '{0:0.2f}'.format(data2014[0]['udeo'])}}%
+                </div>
 
-    <div class="col-md-12 col-sm-12 col-xs-12">
-                 <div class="col-md-3 col-sm-4 col-xs-4"> {{ data2014[1]['izbornaLista'] }}</div>
+                 <div class="col-md-3 col-sm-4 col-xs-4 name-list"> {{ data2014[1]['izbornaLista'] }}</div>
             <div class="col-md-1 col-sm-3 col-xs-3">
                 <p class="nr-votes">    {{ '{0:,}'.format(data2014[1]['glasova'])}}</p>
             </div>
@@ -39,45 +40,58 @@
             <div class="col-md-1 col-sm-2 col-xs-2 percentage">
             {{ '{0:0.2f}'.format(data2014[1]['udeo'])}}%
             </div>
+
     </div>
+    </div>
+        <!-- end of the first indicatior -->
+        <!-- second indicator -->
+
+
         <!-- end of the second indicatior -->
         <!-- end of year 2014 -->
 
-   {#     <!-- beginning of the year 2016 -->
+    <!-- beginning of the year 2016 -->
         <!-- first indicator -->
-          <div class="col-md-12 year-list"><a href="type/2/parlamentarni/2016/4/krug/none">2016</a></div>
-            <div class="col-md-3 name-list"> {{ data2016[0]['izbornaLista'] }}</div>
-            <div class="col-md-1">
-                <p class="nr-votes">    {{ '{0:,}'.format(data2016[0]['glasova'])}}</p>
+      <div class="col-md-12 col-sm-12 col-xs-12">
+            <div class="col-md-2">
+                    {% include "site/_map_parl_2012.html" %}
             </div>
-            <div class="col-md-7">
-                <div class="progress custom-progress">
-                    <div class="progress-bar" style="width:{{ data2016[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2016[0]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data2016[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-                      <span class="sr-only">{{ data2016[0]['udeo']}}% Complete</span>
+            <div class="col-md-10">
+                  <div class="col-md-12 year-list"><a href="type/2/parlamentarni/2012/4/krug/none">2012</a></div>
+                    <div class="col-md-3 name-list"> {{ data2012[0]['izbornaLista'] }}</div>
+                    <div class="col-md-1">
+                        <p class="nr-votes">    {{ '{0:,}'.format(data2012[0]['glasova'])}}</p>
                     </div>
-                </div>
-            </div>
-            <div class="col-md-1 percentage">
-            {{ '{0:0.2f}'.format(data2016[0]['udeo'])}}%
-            </div>
-        <!-- end of the first indicator -->
-        <!-- beginning of the   second indicator -->
-         <div class="col-md-3 name-list"> {{ data2016[1]['izbornaLista'] }}</div>
-            <div class="col-md-1">
-                <p class="nr-votes">{{ '{0:,}'.format(data2016[1]['glasova'])}}</p>
-            </div>
-            <div class="col-md-7">
-                <div class="progress custom-progress">
-                    <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="{{ data2016[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2016[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2016[1]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %}>
-                      <span class="sr-only">{{ data2016[1]['udeo']}}% Complete</span>
+                    <div class="col-md-7">
+                        <div class="progress custom-progress">
+                            <div class="progress-bar" style="width:{{ data2012[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2012[0]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ data2012[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                              <span class="sr-only">{{ data2012[0]['udeo']}}% Complete</span>
+                            </div>
+                        </div>
                     </div>
-                </div>
+                    <div class="col-md-1 percentage">
+                    {{ '{0:0.2f}'.format(data2012[0]['udeo'])}}%
+                    </div>
+                <!-- end of the first indicator -->
+                <!-- beginning of the   second indicator -->
+                 <div class="col-md-3 name-list"> {{ data2012[1]['izbornaLista'] }}</div>
+                    <div class="col-md-1">
+                        <p class="nr-votes">{{ '{0:,}'.format(data2012[1]['glasova'])}}</p>
+                    </div>
+                    <div class="col-md-7">
+                        <div class="progress custom-progress">
+                            <div class="progress-bar progressbar-red" role="progressbar" aria-valuenow="{{ data2012[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100" style="width:{{ data2012[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2012[1]['izbornaLista'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %}>
+                              <span class="sr-only">{{ data2012[1]['udeo']}}% Complete</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-1 percentage">
+                    {{ '{0:0.2f}'.format(data2012[1]['udeo'])}}%
+                    </div>
+                <!-- end of the second indicatior -->
             </div>
-            <div class="col-md-1 percentage">
-            {{ '{0:0.2f}'.format(data2016[1]['udeo'])}}%
-            </div>
-        <!-- end of the second indicatior -->
-        <!-- begining of the 2016 -->#}
+      </div>
+        <!-- begining of the 2016 -->
     </div>
 
 

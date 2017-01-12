@@ -1,149 +1,53 @@
+<script>
+    $(document).ready(function(){
+             $("#tabs-results li").click(function (e) {
+                 e.preventDefault();
+             $('li').removeClass('select-p-tab');
+             $(this).addClass("select-p-tab");
+         });
+    })
+</script>
 <div class="tabs_indicators" id="tabs_indicators">
     <ul>
-        <li><a href="#tabs-results">Rezultati</a></li>
-        <li><a href="#tabs-other">Drugo</a></li>
+        <li id="rezultati"><a href="#tabs-results">Резултати</a></li>
+        {% if year in [2008] and typeizbori in ['parlamentarni'] %}
+            <li id="drugo"><a href="#tabs-other">Друго</a></li>
+        {% endif %}
     </ul>
     <div id="tabs-results">
         {% set count = 0 %}
+        <ul>
+            <li class="select-p-tab" id="show-all-parties"><a href="#" id="start-map">Cве</a></li>
         {%  for item in data %}
             {% set count = count + 1 %}
-             <p>{{ count }} - {%  if typeizbori=="predsjednicki" %}
-                    <a href="#{{ item['kandidatSlug'] }}" class="party_name">{{ item['kandidat'] }}</a>
+             <li style="font-size:12px;">{{ count }} - {%  if typeizbori=="predsjednicki" %}
+                    <a href="{{ item['kandidatSlug'] }}" class="party_name">{{ item['kandidat'] }}</a>
                  {%  else %}
                      <a href="{{ item['izbornaListaSlug'] }}" class="party_name">{{ item['izbornaLista'] }}</a>
                  {% endif %}
-             </p>
+             </li>
         {% endfor %}
+        </ul>
     </div>
-    <div id="tabs-other">
-    </div>
+        {% if year in [2008] and typeizbori in ['parlamentarni'] %}
+            <div id="tabs-other">
+                    <p style="padding-left:10px;padding-top:20px;">
+                        Bажећих гласачких листића:<span style="float:right;padding-right:20px;">{{ '{0:,}'.format(results_voters['valid_balots']) }}</span><br/>
+                        Hеважећих гласачких листића: <span style="float:right;padding-right:20px;">{{ '{0:,}'.format(results_voters['invalid_balots']) }}</span>
+                    </p>
+            </div>
+        {% endif %}
 </div>
 <script>
-    $('.party_name').click(function(e){
-        e.preventDefault();
-        var selected_name=$(this).attr('href');
-        var color_selected="";
-        console.log(selected_name);
-            $.ajax({
-                type: "GET",
-                url: "http://0.0.0.0:5006/api/izbori/parties/"+selected_name,
-                async: false,
-                dataType: 'json',
-                success: function (response) {
-                    color_selected=response['color'];
-                    },
-                error: function (error) {
-                    console.log(error);
-                }
-            });
-        $('#containermap').html('');
-    $(function () {
-            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
-            var data = [];
-            var i = 0;
-                {% if typeizbori=="parlamentarni" %}
-                    console.log(color_selected);
-                    {%  for winner in winner_territory %}
-                             data.push({
-                                "NAME_2": transliterate("{{ winner['teritorija'] }}"),
-                                 "terrigorySlug": transliterate("{{ winner['teritorijaSlug'] }}"),
-                                "color": color_selected,
-                                 "izbornaLista":""
-                        });
-                    {% endfor %}
-                {% endif %}
-             {% if typeizbori=="predsjednicki" %}
-                    {%  for winner in winner_territory %}
-                         data.push({
-                           "NAME_2": transliterate("{{ winner['teritorijaSlug'] }}"),
-                            "terrigorySlug": transliterate("{{ winner['teritorijaSlug'] }}"),
-                           "color": color_selected,
-                            "kandidat":""
-                    });
-                    {% endfor %}
-                {% endif %}
-            // Initialize the map
-            $('#containermap').highcharts('Map', {
-                title: {
-                    text: ''
-                },
-                plotOptions: {
-                    series: {
-                        cursor: 'pointer',
-                        point: {
-                            events: {
-                                click: function () {
-                                console.log(this.terrigorySlug);
-                                console.log(selected_name);
-
-                                          $.ajax({
-                                            type: "GET",
-                                            {% if year==2000 %}
-                                            url: "http://0.0.0.0:5006/api/izbori/1/parlamentarni/godina/{{ year }}/teritorija/"+ this.terrigorySlug + "/kandidat/"+selected_name+"/instanca/3",
-                                            {% endif %}
-                                             {% if year!=2000 %}
-                                            url: "http://0.0.0.0:5006/api/izbori/2/parlamentarni/godina/{{ year }}/teritorija/"+ this.terrigorySlug + "/kandidat/"+selected_name+"/instanca/3",
-                                            {% endif %}
-                                            async: false,
-                                            dataType: 'json',
-                                            success: function (response) {
-                                               console.log(response['rezultat']['udeo']);
-                                                $('.territory_info').show();
-                                            var teritorija=response['teritorija'];
-                                            $('#territory-name').text(teritorija)
-                                           var izbornaLista=response['izbornaLista'];
-                                            $('#winner-territory').html('<b>Izborna Lista</b> '+ izbornaLista);
-                                                 {% if year!=2000 %}
-                                                    var voters_turnout=response['rezultat']['glasova'];
-                                                    var resigtered_voters=response['brojUpisanihBiracaUBirackiSpisak'];
-                                                    var voters=response['biraciKojiSuGlasali']['broj'];
-                                                    var percentage=(voters / resigtered_voters) * 100
-                                                      $('#voters_turnout').html('<b>Total voters turnout: </b> '+percentage.toFixed(2)+'%');
-                                                {% endif %}
-                                            var result_votes=response['rezultat']['glasova'];
-                                            var percentage_votes=response['rezultat']['udeo'];
-
-                                                $('#result_votes').html('<b>Total votes: </b> ' +result_votes);
-                                                $('#percentage').html('<b>Percentage: </b> ' + percentage_votes.toFixed(2)+'%');
-                                            },
-                                            error: function (error) {
-                                                console.log(error);
-                                            }
-                                        });
-                                }
-                            }
-                        }
-                    }
-                },
-                mapNavigation: {
-                    enableMouseWheelZoom:false,
-                    enabled: true,
-                    buttonOptions: {
-                        verticalAlign: 'bottom'
-                    }
-                },
-                colorAxis: {
-                    min: 0
-                },
-                series: [{
-                    data: data,
-                    mapData: geojson,
-                    joinBy: ['NAME_2',0],
-                    keys: ['NAME_1', 'value'],
-                    name: "NAME",
-                    states: {
-                        hover: {
-                            color: '#BADA55'
-                        }
-                    },
-                    dataLabels: {
-
-                        format: '{point.name}'
-                    }
-                }]
-            });
-            });
-        });
-
+    $(document).ready(function(){
+        $('#rezultati a').addClass('disabled-tab');
+        $('#rezultati a').click(function(){
+            $(this).addClass('disabled-tab');
+            $('#drugo a').removeClass('disabled-tab');
+        })
+        $('#drugo a').click(function(){
+            $(this).addClass('disabled-tab');
+            $('#rezultati a').removeClass('disabled-tab');
+        })
     })
 </script>

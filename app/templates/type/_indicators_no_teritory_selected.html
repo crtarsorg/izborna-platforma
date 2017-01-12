@@ -1,0 +1,73 @@
+
+<div class="col-md-9 col-sm-9 col-xs-12"  id="no-territory-selected">
+
+        <div class="row indicator-row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <h4 class="title-heading">{{ year }} резултати</h4>
+             </div><!-- heading -->
+            <div class="col-md-3 col-sm-4 col-xs-4 name-list">
+                    {% if typeizbori=="predsjednicki" %}
+                        {{ data[0]['kandidat'] }}
+                {% else %}
+                    {{ data[0]['izbornaLista'] }}
+                {% endif %}
+            </div><!-- type of elections -->
+            <div class="col-md-1 col-sm-3 col-xs-3">
+                <p class="nr-votes">    {{ '{0:,}'.format(data[0]['glasova']) }}</p>
+            </div><!-- votes for the first indicator -->
+            <div class="col-md-7 col-sm-3 col-xs-3">
+                <div class="progress custom-progress">
+                    {% if typeizbori=="predsjednicki" %}
+                        <div class="progress-bar  progressbar-red" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['kandidat'] %} background-color:{{ i['color'] }} {% endif %}{% endfor %}" role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
+                        </div>
+                    {% else %}
+                        <div class="progress-bar" style="width:{{ data[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[0]['izbornaLista'] %} background-color:{{ i['color'] }} {% endif %}{% endfor %}" role="progressbar" aria-valuenow="{{ data[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[0]['udeo'] }}% Complete</span>
+                        </div>
+                    {% endif %}
+                </div>
+            </div><!-- end of progress bar, first indicator -->
+            <div class="col-md-1 col-sm-2 col-xs-2 percentage">
+                {{ '{0:0.2f}'.format(data[0]['udeo']) }}%
+            </div><!-- end of percentage for the first indicator -->
+        </div><!-- end of first indicator -->
+
+        <div class="row indicator-row"><!-- second indicator block -->
+            <div class="col-md-3 col-sm-4 col-xs-4 name-list">
+                {% if typeizbori=="predsjednicki" %}
+                    {{ data[1]['kandidat'] }}
+                {% else %}
+                    {{ data[1]['izbornaLista'] }}
+                {% endif %}
+            </div><!-- type of elections -->
+            <div class="col-md-1 col-sm-3 col-xs-3">
+                <p class="nr-votes">{{ '{0:,}'.format(data[1]['glasova']) }}</p>
+            </div>
+            <div class="col-md-7 col-sm-3 col-xs-3">
+                <div class="progress custom-progress">
+                    {% if typeizbori=="predsjednicki" %}
+
+                        <div class="progress-bar " style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['slug'] ==data[1]['kandidatSlug']%} background-color:{{ i['color'] }} {% endif %}{% endfor %}" role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                        </div>
+                    {% else %}
+                        <div class="progress-bar" style="width:{{ data[1]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data[1]['izbornaLista'] %} background-color:{{ i['color'] }} {% endif %}{% endfor %}" role="progressbar" aria-valuenow="{{ data[1]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
+                            <span class="sr-only">{{ data[1]['udeo'] }}% Complete</span>
+                        </div>
+                    {% endif %}
+                </div>
+            </div><!-- end of progress bar, second indicator -->
+             <div class="col-md-1 col-sm-2 col-xs-2 percentage">
+                 {{ '{0:0.2f}'.format(data[1]['udeo']) }}%
+             </div><!-- end of percentage, second indicator -->
+        </div><!-- end of second indicator -->
+    </div><!-- end of col 9 -->
+
+    <div class="col-md-3 col-sm-12 col-xs-12" id="piechart-no-territory-selected">
+        {% if year!=2000 %}
+            <div class="col-md-12 col-sm-12 col-xs-12" style="margin-top:-20px;">
+                {% include "type/_piechart.html" %}
+            </div>
+        {% endif %}
+    </div><!-- end of piechart -->

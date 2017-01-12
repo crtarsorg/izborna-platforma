@@ -82,23 +82,19 @@ section{
     padding:20px;
     padding-left: 30px;
 }
-.selected-year p {
 
-
-}
-.in-header h2{
+.in-header h4{
     padding: 0px;
     margin: 0px;
-    color: rgba(255,255,255,.7);
     padding: 10px;
-
+    background:#337ab7;
 }
-
 #containermap{
     height: 700px;
     width:100%;
     margin: 0 auto;
 }
+
 .highcharts-legend{
     display:none;
 }
@@ -128,13 +124,15 @@ font-size:11px;
 .indicators #tabs-results{
        background:white;
 }
-.territory_info{
+.territory_info,.party_info{
     border: 1px solid #c5c5c5;
     height:300px;
     margin-top:20px;
     margin-bottom:20px;
+    max-height:500px;
+    overflow: auto;
 }
-#detail-info h4{
+#detail-info h4, #party-info h4{
     background: #337ab7;
     color:white;
     padding:10px;
@@ -143,7 +141,7 @@ font-size:11px;
 #winner-territory{
     margin-top:10px;
 }
-#winner-territory,#voters_turnout,#result_votes,#percentage{
+#winner-territory,#voters_turnout,#result_votes,#percentage, #winner-party{
     padding-left:15px;
     padding-right:15px;
 }
@@ -167,4 +165,126 @@ font-size:11px;
 .centered{
     float:none;
     margin:0 auto;
+}
+
+.fb-icon a{
+    display: inline-block;
+    width: 22px;
+    height: 21px;
+    background-image:url('../assets/social.png');
+    background-position: -2px 43px;
+    margin-top:20px;
+    margin-right:10px;
+}
+.twitter-icon a {
+    display:inline-block;
+    margin-top:20px;
+    width: 22px;
+    height: 21px;
+    background-position: -24px 21px;
+    background-image: url('../assets/social.png');
+}
+.select-p-tab{
+    background:#243e88;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.select-p-tab{
+    color:white;
+
+}
+.select-p-tab a{
+    color:white;
+}
+.indicators .ui-tabs .ui-tabs-panel{
+    padding:0px;
+}
+.indicators #tabs-results{
+    padding-left: 4px;
+    padding-top: 20px;
+}
+.select-p-tab a:hover, a:focus{
+    text-decoration: none;
+    color:white;
+
+}
+.select-p-tab .party_name{
+    color:white;
+}
+.select-p-tab .party_name:hover{
+    color:white;
+}
+
+.indicators #tabs-results ul{
+    padding-left: 10px;
+}
+.indicators #tabs-results ul li{
+    list-style:none;
+    padding-top:5px;
+    padding-top:5px;
+    padding-left:10px;
+}
+#all-results{
+    border-radius:0px !important;
+    border: 1px solid #e7e7e7 !important;
+    margin-left:40px;
+    color:gray;
+}
+
+.active-all-results,.active-all-results:hover,.active-all-results:active{
+    background: #243e88;
+    color:white !important;
+}
+.active-all-results{
+    background: #243e88;
+    color:white !important;
+}
+
+.disabled-tab {
+    cursor: none;
+    pointer-events: none;
+    color: white;
+}
+
+#all-results a:hover, a:focus{
+    color:red;
+}
+#all-results a.disabled-link:hover, a.disabled-link:focus{
+    color:gray;
+}
+p{
+    font-size:12px;
+}
+.x3{
+    font-size:12px !important;
+}
+.percentage,.name-list{
+    font-size:12px;
+}
+#piechart-no-territory-selected{
+    margin-top:-20px;
+}
+.election-tabs-link p{
+    font-size:16px;
+}
+.year-list-tabs ul{
+    list-style:none;
+    padding:0;
+}
+.tabs_indicators{
+    overflow: auto;
+}
+.btn-selected-territory{
+    background: #243e88;
+    color:white !important;
+}
+.btn-selected-territory:hover, .btn-selected-territory:active,.btn-selected-territory:focus,.btn-selected-territory:visited{
+    background: #243e88 !important;
+    color:white !important;
+}
+.tabs_indicators a,.tabs_indicators a:hover,.tabs_indicators a:active,.tabs_indicators a:focus {
+    color:black;
+}
+.select-p-tab a, .select-p-tab a:hover,.select-p-tab a:active,.select-p-tab a:focus, .select-p-tab a:visited{
+    color:white;
 }
