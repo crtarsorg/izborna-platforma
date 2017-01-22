@@ -16,9 +16,9 @@
     </ul>
     <div id="tabs-results">
         {% set count = 0 %}
-        <ul>
+        <ul id="party-list-names">
             <li class="select-p-tab" id="show-all-parties"><a href="#" id="start-map">Cве</a></li>
-        {%  for item in data %}
+        {#{%  for item in data %}
             {% set count = count + 1 %}
              <li style="font-size:12px;">{{ count }} - {%  if typeizbori=="predsjednicki" %}
                     <a href="{{ item['kandidatSlug'] }}" class="party_name">{{ item['kandidat'] }}</a>
@@ -26,19 +26,20 @@
                      <a href="{{ item['izbornaListaSlug'] }}" class="party_name">{{ item['izbornaLista'] }}</a>
                  {% endif %}
              </li>
-        {% endfor %}
+        {% endfor %}#}
         </ul>
     </div>
-        {% if year in [2008] and typeizbori in ['parlamentarni'] %}
+     {#   {% if year in [2008] and typeizbori in ['parlamentarni'] %}
             <div id="tabs-other">
                     <p style="padding-left:10px;padding-top:20px;">
                         Bажећих гласачких листића:<span style="float:right;padding-right:20px;">{{ '{0:,}'.format(results_voters['valid_balots']) }}</span><br/>
                         Hеважећих гласачких листића: <span style="float:right;padding-right:20px;">{{ '{0:,}'.format(results_voters['invalid_balots']) }}</span>
                     </p>
             </div>
-        {% endif %}
+        {% endif %}#}
 </div>
 <script>
+
     $(document).ready(function(){
         $('#rezultati a').addClass('disabled-tab');
         $('#rezultati a').click(function(){

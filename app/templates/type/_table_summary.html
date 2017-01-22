@@ -12,97 +12,10 @@
             <th>Територија име</th>
             <th>Име</th>
             <th>Топ Резултати</th>
-
         </tr>
     </tfoot>
-    <tbody>
-        {%  for item in territories %}
-          {% if item.teritorija!=""  %}
-            <tr>
-                <td>
-                    {{ item.teritorija }}
-                </td>
-                <td>
-                    {%  if typeizbori=="predsjednicki" %}
-                        {{ item['rezultat'][0]['kandidat']}}<br/>
-                        {{ item['rezultat'][1]['kandidat']}}
-                    {%  else %}
-                        {{ item['rezultat'][0]['izbornaLista']}}<br/>
-                        {{ item['rezultat'][1]['izbornaLista']}}
-                    {% endif %}
-                </td>
-            {% if typeizbori=="parlamentarni" %}
-                <td>
-                    <span class="float-left font-size-11 table-votes "> {{ '{0:,}'.format(item['rezultat'][0]['rezultat']['glasova'])}}</span>
-                    <div class="col-md-7">
-                        <div class="progress">
-                            <div class="progress-bar" style="width:{{ item['rezultat'][0]['rezultat']['udeo']}}%; {% for i in list_political_parties %} {% if item['rezultat'][0]['izbornaLista']==i['name'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ item['rezultat'][0]['rezultat']['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-                                <span class="sr-only">{{ item['rezultat'][0]['rezultat']['udeo']}}% Complete</span>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-md-1 percentage font-size-11">
-                        {{ '{0:0.2f}'.format(item['rezultat'][0]['rezultat']['udeo'])}}%
-                    </div>
-                       <span class="float-left font-size-11 table-votes clear-left" > {{ '{0:,}'.format(item['rezultat'][1]['rezultat']['glasova'])}}</span>
-                            <div class="col-md-7">
-                                <div class="progress">
-                                    <div class="progress-bar" style="width:{{ item['rezultat'][1]['rezultat']['udeo']}}%; {% for i in list_political_parties %} {% if item['rezultat'][1]['izbornaLista']==i['name'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ item['rezultat'][1]['rezultat']['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-
-
-                                        <span class="sr-only">{{ item['rezultat'][1]['rezultat']['udeo'] }}% Complete</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-1 percentage font-size-11">
-                                {{ '{0:0.2f}'.format(item['rezultat'][1]['rezultat']['udeo'])}}%
-                            </div>
-                </td>
-                {% endif %}
-                     {% if typeizbori=="predsjednicki" %}
-                        <td>
-                            <span class="float-left font-size-11 table-votes "> {{ '{0:,}'.format(item['rezultat'][0]['rezultat']['glasova'])}}</span>
-                            <div class="col-md-7">
-                                <div class="progress">
-                                    <div class="progress-bar" style="width:{{ item['rezultat'][0]['rezultat']['udeo']}}%; {% for i in list_political_parties %} {% if item['rezultat'][0]['kandidat']==i['name'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ item['rezultat'][0]['rezultat']['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-                                        <span class="sr-only">{{ item['rezultat'][0]['rezultat']['udeo']}}% Complete</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-1 percentage font-size-11">
-                                {{ '{0:0.2f}'.format(item['rezultat'][0]['rezultat']['udeo'])}}%
-                            </div>
-                               <span class="float-left font-size-11 table-votes clear-left" > {{ '{0:,}'.format(item['rezultat'][1]['rezultat']['glasova'])}}</span>
-                                    <div class="col-md-7">
-                                        <div class="progress">
-                                            <div class="progress-bar" style="width:{{ item['rezultat'][1]['rezultat']['udeo']}}%; {% for i in list_political_parties %} {% if item['rezultat'][1]['kandidat']==i['name'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} role="progressbar" aria-valuenow="{{ item['rezultat'][1]['rezultat']['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
-
-
-                                                <span class="sr-only">{{ item['rezultat'][1]['rezultat']['udeo'] }}% Complete</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-1 percentage font-size-11">
-                                        {{ '{0:0.2f}'.format(item['rezultat'][1]['rezultat']['udeo'])}}%
-                                    </div>
-                        </td>
-                {% endif %}
-
-
-            </tr>
-              {% endif %}
-        {% endfor %}
+    <tbody id="body-summary">
     </tbody>
 </table>
-<script>
-       $('#summary').DataTable({ //four column table
-           autoWidth: false, //step 1
-           responsive: true,
-           columnDefs: [
-              { width: '300px', targets: 0 }, //step 2, column 1 out of 4
-              { width: '700px', targets: 1 }, //step 2, column 2 out of 4
-              { width: '300px', targets: 2 }  //step 2, column 3 out of 4
-           ]
-        });
 
-</script>
+

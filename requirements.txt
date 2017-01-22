@@ -12,3 +12,4 @@ Flask-Babel==0.9
 tldextract==1.7.4
 tqdm==4.8.4
 Flask-Social
+Flask-Cache

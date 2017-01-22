@@ -1,0 +1,8055 @@
+{
+"map_par_2014": [
+{
+"rezultat": {
+"izbornaLista": "ДОСТА ЈЕ БИЛО - САША РАДУЛОВИЋ",
+"rezultat": {
+"glasova": 31,
+"udeo": 21.08843537414966
+},
+"boja": "#d9d9d9",
+"izbornaListaSlug": "dosta-je-bilo-sasa-radulovic"
+},
+"teritorijaSlug": "velika-britanija",
+"teritorija": "Велика Британија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 48,
+"udeo": 40.67796610169492
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "ruska-federacija",
+"teritorija": "Руска Федерација"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 98,
+"udeo": 61.25000000000001
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "hrvatska",
+"teritorija": "Хрватска"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 100,
+"udeo": 52.083333333333336
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "crnagora",
+"teritorija": "ЦрнаГора"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 103,
+"udeo": 34.91525423728813
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "austrija",
+"teritorija": "Аустрија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 118,
+"udeo": 37.10691823899371
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "svajcarska",
+"teritorija": "Швајцарска"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 151,
+"udeo": 41.48351648351649
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "francuska",
+"teritorija": "Француска"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 209,
+"udeo": 55.145118733509236
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "orahovac",
+"teritorija": "Ораховац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 312,
+"udeo": 42.27642276422765
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vucitrn",
+"teritorija": "Вучитрн"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 347,
+"udeo": 33.787731256085685
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "savezna-republika-nemacka",
+"teritorija": "Савезна Република Немачка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 510,
+"udeo": 56.22932745314223
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kosovo-polje",
+"teritorija": "Косово Поље"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 597,
+"udeo": 66.18625277161863
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vitina",
+"teritorija": "Витина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 651,
+"udeo": 70.37837837837839
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "gora",
+"teritorija": "Гора"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 681,
+"udeo": 63.46691519105312
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "crna-trava",
+"teritorija": "Црна Трава"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 471,
+"udeo": 48.96049896049896
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "obilic",
+"teritorija": "Обилић"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1265,
+"udeo": 47.64595103578154
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zubin-potok",
+"teritorija": "Зубин поток"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1292,
+"udeo": 61.14529105537151
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "lipljan",
+"teritorija": "Липљан"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1455,
+"udeo": 40.50668151447662
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kosovska-mitrovica",
+"teritorija": "Косовска Митровица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1629,
+"udeo": 38.32941176470588
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "medveda",
+"teritorija": "Медвеђа"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1648,
+"udeo": 47.126108092650846
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "strpce",
+"teritorija": "Штрпце"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1744,
+"udeo": 30.084526479213388
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "nova-crnja",
+"teritorija": "Нова Црња"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1822,
+"udeo": 34.332014320708495
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "backi-petrovac",
+"teritorija": "Бачки Петровац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 860,
+"udeo": 65.95092024539878
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "prizren",
+"teritorija": "Призрен"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1910,
+"udeo": 58.89608387295714
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kosovska-kamenica",
+"teritorija": "Косовска Каменица"
+},
+{
+"rezultat": {
+"izbornaLista": "САВЕЗ ВОЈВОЂАНСКИХ МАЂАРА - ИШТВАН ПАСТОР",
+"rezultat": {
+"glasova": 2175,
+"udeo": 39.238679415478984
+},
+"boja": "#7fbc41",
+"izbornaListaSlug": "savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "mali-idos",
+"teritorija": "Мали Иђош"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2321,
+"udeo": 66.9068895935428
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "trgoviste",
+"teritorija": "Трговиште"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2495,
+"udeo": 48.5219758848697
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "golubac",
+"teritorija": "Голубац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2566,
+"udeo": 49.58454106280193
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "irig",
+"teritorija": "Ириг"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 42,
+"udeo": 48.837209302325576
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "slovenija",
+"teritorija": "Словенија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2578,
+"udeo": 40.82990180551156
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "rekovac",
+"teritorija": "Рековац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2585,
+"udeo": 44.684528954191876
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kosjeric",
+"teritorija": "Косјерић"
+},
+{
+"rezultat": {
+"izbornaLista": "САВЕЗ ВОЈВОЂАНСКИХ МАЂАРА - ИШТВАН ПАСТОР",
+"rezultat": {
+"glasova": 1818,
+"udeo": 34.65497521921464
+},
+"boja": "#7fbc41",
+"izbornaListaSlug": "savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "coka",
+"teritorija": "Чока"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2664,
+"udeo": 58.433867076113174
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "opovo",
+"teritorija": "Опово"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2672,
+"udeo": 45.542866882563494
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "cicevac",
+"teritorija": "Ћићевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2493,
+"udeo": 48.49251118459444
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "gadzin-han",
+"teritorija": "Гаџин Хан"
+},
+{
+"rezultat": {
+"izbornaLista": "ДЕМОКРАТСКА СТРАНКА СРБИЈЕ - ВОЈИСЛАВ КОШТИНИЦА",
+"rezultat": {
+"glasova": 2734,
+"udeo": 54.14933650227768
+},
+"boja": "#80b1d3",
+"izbornaListaSlug": "demokratska-stranka-srbije-vojislav-kostinica"
+},
+"teritorijaSlug": "bosilegrad",
+"teritorija": "Босилеград"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 34,
+"udeo": 53.125
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "libija",
+"teritorija": "Либија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2864,
+"udeo": 45.388272583201264
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kostolac",
+"teritorija": "Костолац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2890,
+"udeo": 38.08143365397286
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "ljubovija",
+"teritorija": "Љубовија"
+},
+{
+"rezultat": {
+"izbornaLista": "ИВИЦА ДАЧИЋ - СПС, ПУПС, ЈС",
+"rezultat": {
+"glasova": 363,
+"udeo": 58.64297253634895
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "ivica-dacic-sps-pups-js"
+},
+"teritorijaSlug": "novo-brdo",
+"teritorija": "Ново брдо"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2929,
+"udeo": 48.28552588196505
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zabari",
+"teritorija": "Жабари"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2961,
+"udeo": 51.08695652173913
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "osecina",
+"teritorija": "Осечина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2992,
+"udeo": 53.84200107971927
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "leposavic",
+"teritorija": "Лепосавић"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1015,
+"udeo": 42.593369702056236
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zvecan",
+"teritorija": "Звечан"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2552,
+"udeo": 39.59658650116369
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "raca",
+"teritorija": "Рача"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3261,
+"udeo": 46.779515134127095
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "blace",
+"teritorija": "Блаце"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3351,
+"udeo": 56.111855324849294
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "ljig",
+"teritorija": "Љиг"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 44,
+"udeo": 18.64406779661017
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "sjedinjene-americke-drzavae",
+"teritorija": "Сједињене Америчке државае"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3395,
+"udeo": 52.59488768396592
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "mali-zvornik",
+"teritorija": "Мали Зворник"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3417,
+"udeo": 44.53858185610011
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "bela-palanka",
+"teritorija": "Бела Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 23,
+"udeo": 50
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "ujedinjeni-arapski-emirati",
+"teritorija": "Уједињени Арапски Емирати"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1965,
+"udeo": 46.322489391796324
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "sremski-karlovci",
+"teritorija": "Сремски Карловци"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3475,
+"udeo": 56.129865934420934
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "secanj",
+"teritorija": "Сечањ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3535,
+"udeo": 51.90133607399794
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "babusnica",
+"teritorija": "Бабушница"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2649,
+"udeo": 51.09953703703704
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "plandiste",
+"teritorija": "Пландиште"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3555,
+"udeo": 43.164157357940745
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "bela-crkva",
+"teritorija": "Бела Црква"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3879,
+"udeo": 53.07155561636338
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "niska-banja",
+"teritorija": "Нишка Бања"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3880,
+"udeo": 45.518535898639136
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "merosina",
+"teritorija": "Мерошина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3900,
+"udeo": 58.38323353293413
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "knic",
+"teritorija": "Кнић"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4049,
+"udeo": 42.81031930640727
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zitorada",
+"teritorija": "Житорађа"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4365,
+"udeo": 51.34086097388849
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "brus",
+"teritorija": "Брус"
+},
+{
+"rezultat": {
+"izbornaLista": "СДА САНЏАКА - ДР СУЛЕЈМАН УГЉАНИН",
+"rezultat": {
+"glasova": 5331,
+"udeo": 38.28916181857359
+},
+"boja": "green",
+"izbornaListaSlug": "sda-sandzaka-dr-sulejman-ugljanin"
+},
+"teritorijaSlug": "sjenica",
+"teritorija": "Сјеница"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5433,
+"udeo": 66.49938800489596
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "svrljig",
+"teritorija": "Сврљиг"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5828,
+"udeo": 51.20815394077849
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "lebane",
+"teritorija": "Лебане"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5964,
+"udeo": 49.497883641796
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "bajina-basta",
+"teritorija": "Бајина Башта"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3148,
+"udeo": 41.524864793562855
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "srbobran",
+"teritorija": "Србобран"
+},
+{
+"rezultat": {
+"izbornaLista": "САВЕЗ ВОЈВОЂАНСКИХ МАЂАРА - ИШТВАН ПАСТОР",
+"rezultat": {
+"glasova": 5995,
+"udeo": 40.111066506088584
+},
+"boja": "#7fbc41",
+"izbornaListaSlug": "savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "backa-topola",
+"teritorija": "Бачка Топола"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6274,
+"udeo": 45.85251772272162
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "temerin",
+"teritorija": "Темерин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6374,
+"udeo": 44.23317140874393
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "apatin",
+"teritorija": "Апатин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5366,
+"udeo": 47.54984492689411
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vladicin-han",
+"teritorija": "Владичин Хан"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6619,
+"udeo": 49.3476478043689
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "raska",
+"teritorija": "Рашка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6662,
+"udeo": 70.65436419556687
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kucevo",
+"teritorija": "Кучево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6682,
+"udeo": 39.99281781182667
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "becej",
+"teritorija": "Бечеј"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6864,
+"udeo": 32.57403189066059
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "savski-venac",
+"teritorija": "Савски Венац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 323,
+"udeo": 39.48655256723717
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "pec",
+"teritorija": "Пећ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6895,
+"udeo": 63.396469290180214
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "topola",
+"teritorija": "Топола"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3939,
+"udeo": 45.05833905284832
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "cajetina",
+"teritorija": "Чајетина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7140,
+"udeo": 52.07117852975496
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "svilajnac",
+"teritorija": "Свилајнац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 19,
+"udeo": 27.941176470588236
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "norveska",
+"teritorija": "Норвешка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2889,
+"udeo": 42.95272078501338
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "dimitrovgrad",
+"teritorija": "Димитровград"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4786,
+"udeo": 53.266555370061205
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "varvarin",
+"teritorija": "Варварин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7347,
+"udeo": 58.19405940594059
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "despotovac",
+"teritorija": "Деспотовац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7384,
+"udeo": 52.947081600458915
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "aleksandrovac",
+"teritorija": "Александровац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7526,
+"udeo": 53.77634869596284
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "pozega",
+"teritorija": "Пожега"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7531,
+"udeo": 42.992521550493805
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "prijepolje",
+"teritorija": "Пријепоље"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7599,
+"udeo": 47.38121960344183
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "sid",
+"teritorija": "Шид"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6496,
+"udeo": 59.716859716859716
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "lucani",
+"teritorija": "Лучани"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5974,
+"udeo": 56.87898695610778
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "doljevac",
+"teritorija": "Дољевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7703,
+"udeo": 44.49257783168717
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "petrovac",
+"teritorija": "Петровац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6814,
+"udeo": 52.821705426356594
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "bogatic",
+"teritorija": "Богатић"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7715,
+"udeo": 53.416880149553414
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "odzaci",
+"teritorija": "Оџаци"
+},
+{
+"rezultat": {
+"izbornaLista": "САВЕЗ ВОЈВОЂАНСКИХ МАЂАРА - ИШТВАН ПАСТОР",
+"rezultat": {
+"glasova": 7188,
+"udeo": 63.49262432647292
+},
+"boja": "#7fbc41",
+"izbornaListaSlug": "savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "kanjiza",
+"teritorija": "Кањижа"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 71,
+"udeo": 51.449275362318836
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "makedonija",
+"teritorija": "Македонија"
+},
+{
+"rezultat": {
+"izbornaLista": "САВЕЗ ВОЈВОЂАНСКИХ МАЂАРА - ИШТВАН ПАСТОР",
+"rezultat": {
+"glasova": 5194,
+"udeo": 58.8088768115942
+},
+"boja": "#7fbc41",
+"izbornaListaSlug": "savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "senta",
+"teritorija": "Сента"
+},
+{
+"rezultat": {
+"izbornaLista": "САВЕЗ ВОЈВОЂАНСКИХ МАЂАРА - ИШТВАН ПАСТОР",
+"rezultat": {
+"glasova": 3654,
+"udeo": 46.63688576898532
+},
+"boja": "#7fbc41",
+"izbornaListaSlug": "savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "ada",
+"teritorija": "Ада"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7829,
+"udeo": 58.59152821433917
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "barajevo",
+"teritorija": "Барајево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7864,
+"udeo": 53.44933052402637
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kovin",
+"teritorija": "Ковин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7882,
+"udeo": 63.482603092783506
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "pecinci",
+"teritorija": "Пећинци"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7377,
+"udeo": 26.890970728684433
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "stari-grad",
+"teritorija": "Стари Град"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7954,
+"udeo": 53.95468728802062
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "priboj",
+"teritorija": "Прибој"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5914,
+"udeo": 59.80987055016181
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kursumlija",
+"teritorija": "Куршумлија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7997,
+"udeo": 53.295568143952025
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vrnjacka-banja",
+"teritorija": "Врњачка Бања"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3899,
+"udeo": 52.925207004207955
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "titel",
+"teritorija": "Тител"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4314,
+"udeo": 49.75778546712803
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vladimirci",
+"teritorija": "Владимирци"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 8211,
+"udeo": 47.866386848548444
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vlasotince",
+"teritorija": "Власотинце"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 9172,
+"udeo": 63.929741409353866
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "ivanjica",
+"teritorija": "Ивањица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 9349,
+"udeo": 45.53823672674135
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vrbas",
+"teritorija": "Врбас"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2503,
+"udeo": 60.97442143727162
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "razanj",
+"teritorija": "Ражањ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2532,
+"udeo": 62.11972522080471
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "lapovo",
+"teritorija": "Лапово"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 9684,
+"udeo": 49.99483737738771
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "negotin",
+"teritorija": "Неготин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5454,
+"udeo": 71.09894407508799
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "koceljeva",
+"teritorija": "Коцељева"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3648,
+"udeo": 59.72495088408645
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "bojnik",
+"teritorija": "Бојник"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3593,
+"udeo": 46.48124191461837
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "beocin",
+"teritorija": "Беочин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 11050,
+"udeo": 69.50559818845137
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "cuprija",
+"teritorija": "Ћуприја"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 11408,
+"udeo": 49.53538862353452
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vrsac",
+"teritorija": "Вршац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3934,
+"udeo": 51.22395833333333
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "krupanj",
+"teritorija": "Крупањ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 11604,
+"udeo": 55.90941941700795
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "indija",
+"teritorija": "Инђија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 282,
+"udeo": 55.40275049115914
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "italija",
+"teritorija": "Италија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2538,
+"udeo": 43.78126617215801
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "malo-crnice",
+"teritorija": "Мало Црниће"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 10001,
+"udeo": 48.9692993193948
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kula",
+"teritorija": "Кула"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3278,
+"udeo": 43.976388516232895
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zagubica",
+"teritorija": "Жагубица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7817,
+"udeo": 55.200903890968156
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "knjazevac",
+"teritorija": "Књажевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 11879,
+"udeo": 52.13746488764045
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "prokuplje",
+"teritorija": "Прокупље"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 12158,
+"udeo": 49.18085837951539
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "smederevska-palanka",
+"teritorija": "Смедеревска Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3713,
+"udeo": 53.6871023713129
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "batocina",
+"teritorija": "Баточина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 13832,
+"udeo": 51.97459888024649
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "bor",
+"teritorija": "Бор"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 14638,
+"udeo": 57.5823138350183
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "ruma",
+"teritorija": "Рума"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 14880,
+"udeo": 56.45773258461072
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "paracin",
+"teritorija": "Параћин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5503,
+"udeo": 59.089444862020834
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "arilje",
+"teritorija": "Ариље"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 14473,
+"udeo": 51.674521565267064
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zajecar",
+"teritorija": "Зајечар"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 15302,
+"udeo": 58.496119882258505
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "mladenovac",
+"teritorija": "Младеновац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 15403,
+"udeo": 37.63346282586919
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "novi-pazar",
+"teritorija": "Нови Пазар"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4166,
+"udeo": 43.72376154492024
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "alibunar",
+"teritorija": "Алибунар"
+},
+{
+"rezultat": {
+"izbornaLista": "ПАРТИЈА ЗА ДЕМОКРАТСКО ДЕЛОВАЊЕ - РИЗА ХАЛИМИ",
+"rezultat": {
+"glasova": 10084,
+"udeo": 50.92929292929293
+},
+"boja": "#bc80bd",
+"izbornaListaSlug": "partija-za-demokratsko-delovanje-riza-halimi"
+},
+"teritorijaSlug": "bujanovac",
+"teritorija": "Бујановац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 16048,
+"udeo": 56.04917574741548
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "pirot",
+"teritorija": "Пирот"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 368,
+"udeo": 60.726072607260726
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "bosna-i-hercegovina",
+"teritorija": "Босна и Херцеговина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 11283,
+"udeo": 49.79478352972329
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "trstenik",
+"teritorija": "Трстеник"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 11656,
+"udeo": 52.608774146957934
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "gornji-milanovac",
+"teritorija": "Горњи Милановац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7886,
+"udeo": 25.291853752405384
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vracar",
+"teritorija": "Врачар"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 2315,
+"udeo": 43.05374744281198
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "novi-knezevac",
+"teritorija": "Нови Кнежевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 17638,
+"udeo": 48.242662946855944
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "loznica",
+"teritorija": "Лозница"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 18775,
+"udeo": 51.394705866250575
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "obrenovac",
+"teritorija": "Обреновац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 10288,
+"udeo": 59.08908161507094
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "crveni-krst",
+"teritorija": "Црвени Крст"
+},
+{
+"rezultat": {
+"izbornaLista": "ПАРТИЈА ЗА ДЕМОКРАТСКО ДЕЛОВАЊЕ - РИЗА ХАЛИМИ",
+"rezultat": {
+"glasova": 11195,
+"udeo": 70.88134734709384
+},
+"boja": "#bc80bd",
+"izbornaListaSlug": "partija-za-demokratsko-delovanje-riza-halimi"
+},
+"teritorijaSlug": "presevo",
+"teritorija": "Прешево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 19064,
+"udeo": 48.142629864390514
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "sombor",
+"teritorija": "Сомбор"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 20129,
+"udeo": 58.36015192369024
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "grocka",
+"teritorija": "Гроцка"
+},
+{
+"rezultat": {
+"izbornaLista": "СДА САНЏАКА - ДР СУЛЕЈМАН УГЉАНИН",
+"rezultat": {
+"glasova": 9795,
+"udeo": 63.86516267848993
+},
+"boja": "green",
+"izbornaListaSlug": "sda-sandzaka-dr-sulejman-ugljanin"
+},
+"teritorijaSlug": "tutin",
+"teritorija": "Тутин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 23007,
+"udeo": 49.832138447876275
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vranje",
+"teritorija": "Врање"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 24653,
+"udeo": 46.544953366310466
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "rakovica",
+"teritorija": "Раковица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4689,
+"udeo": 55.75505350772889
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "veliko-gradiste",
+"teritorija": "Велико Градиште"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4130,
+"udeo": 56.05320304017373
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "mionica",
+"teritorija": "Мионица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 15337,
+"udeo": 52.05865381351617
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kikinda",
+"teritorija": "Кикинда"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4450,
+"udeo": 52.32216343327455
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "sokobanja",
+"teritorija": "Сокобања"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 26081,
+"udeo": 48.05254624511755
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zrenjanin",
+"teritorija": "Зрењанин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 20621,
+"udeo": 52.843195038823254
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "uzice",
+"teritorija": "Ужице"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3966,
+"udeo": 47.00723005807752
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "lajkovac",
+"teritorija": "Лајковац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 27212,
+"udeo": 51.4978898961034
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "pancevo",
+"teritorija": "Панчево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5354,
+"udeo": 58.99724517906336
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "sopot",
+"teritorija": "Сопот"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 13124,
+"udeo": 54.229164084128755
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "aleksinac",
+"teritorija": "Алексинац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 19323,
+"udeo": 42.848589675359236
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "medijana",
+"teritorija": "Медијана"
+},
+{
+"rezultat": {
+"izbornaLista": "СА ДЕМОКРАТСКОМ СТРАНКОМ ЗА ДЕМОКРАТСКУ СРБИЈУ",
+"rezultat": {
+"glasova": 21,
+"udeo": 23.595505617977526
+},
+"boja": "#bebada",
+"izbornaListaSlug": "sa-demokratskom-strankom-za-demokratsku-srbiju"
+},
+"teritorijaSlug": "ceska-republika",
+"teritorija": "Чешка Република"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 33873,
+"udeo": 43.89400025916807
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "vozdovac",
+"teritorija": "Вождовац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 11383,
+"udeo": 59.53451882845189
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "velika-plana",
+"teritorija": "Велика Плана"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 20294,
+"udeo": 50.6906456850256
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "sremska-mitrovica",
+"teritorija": "Сремска Митровица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5106,
+"udeo": 46.05393704338414
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "novi-becej",
+"teritorija": "Нови Бечеј"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 31702,
+"udeo": 55.77017803110267
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kraljevo",
+"teritorija": "Краљево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 36025,
+"udeo": 56.202124838140996
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "krusevac",
+"teritorija": "Крушевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 21305,
+"udeo": 33.581324968869694
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "subotica",
+"teritorija": "Суботица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 13050,
+"udeo": 55.32943271432206
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "arandelovac",
+"teritorija": "Аранђеловац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 39323,
+"udeo": 50.07959654105271
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zemun",
+"teritorija": "Земун"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1462,
+"udeo": 51.01186322400558
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "gnjilane",
+"teritorija": "Гњилане"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 29500,
+"udeo": 41.02749537571451
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zvezdara",
+"teritorija": "Звездара"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 14651,
+"udeo": 41.021979560408795
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "jagodina",
+"teritorija": "Јагодина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 16292,
+"udeo": 50.463063342109336
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "pozarevac",
+"teritorija": "Пожаревац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 41560,
+"udeo": 36.98068213163913
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "novi-beograd",
+"teritorija": "Нови Београд"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 6328,
+"udeo": 57.44371822803195
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zabalj",
+"teritorija": "Жабаљ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 12910,
+"udeo": 54.72889906312264
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "pantelej",
+"teritorija": "Пантелеј"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 37,
+"udeo": 29.365079365079367
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "belgija",
+"teritorija": "Белгија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 16192,
+"udeo": 57.70286162289299
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "stara-pazova",
+"teritorija": "Стара Пазова"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5259,
+"udeo": 51.24232680502777
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "majdanpek",
+"teritorija": "Мајданпек"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 4709,
+"udeo": 49.34506968458556
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "nova-varos",
+"teritorija": "Нова Варош"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 41647,
+"udeo": 46.95794339835382
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "cukarica",
+"teritorija": "Чукарица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3276,
+"udeo": 46.73990583535455
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "bac",
+"teritorija": "Бач"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 8310,
+"udeo": 61.69723067785284
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "ub",
+"teritorija": "Уб"
+},
+{
+"rezultat": {
+"izbornaLista": "СА ДЕМОКРАТСКОМ СТРАНКОМ ЗА ДЕМОКРАТСКУ СРБИЈУ",
+"rezultat": {
+"glasova": 16,
+"udeo": 18.823529411764707
+},
+"boja": "#bebada",
+"izbornaListaSlug": "sa-demokratskom-strankom-za-demokratsku-srbiju"
+},
+"teritorijaSlug": "holandija",
+"teritorija": "Холандија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 30059,
+"udeo": 52.811061527109175
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "sabac",
+"teritorija": "Шабац"
+},
+{
+"rezultat": {
+"izbornaLista": "ИВИЦА ДАЧИЋ - СПС, ПУПС, ЈС",
+"rezultat": {
+"glasova": 6424,
+"udeo": 50.31722409336571
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "ivica-dacic-sps-pups-js"
+},
+"teritorijaSlug": "surdulica",
+"teritorija": "Сурдулица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 17432,
+"udeo": 50.36694596937301
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "lazarevac",
+"teritorija": "Лазаревац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 12165,
+"udeo": 58.66043012826695
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "surcin",
+"teritorija": "Сурчин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 21130,
+"udeo": 49.16468891060543
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "valjevo",
+"teritorija": "Ваљево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 37316,
+"udeo": 47.54115069051623
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "palilula",
+"teritorija": "Палилула"
+},
+{
+"rezultat": {
+"izbornaLista": "СДА САНЏАКА - ДР СУЛЕЈМАН УГЉАНИН",
+"rezultat": {
+"glasova": 71,
+"udeo": 46.71052631578947
+},
+"boja": "green",
+"izbornaListaSlug": "sda-sandzaka-dr-sulejman-ugljanin"
+},
+"teritorijaSlug": "turska",
+"teritorija": "Турска"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 43193,
+"udeo": 54.771052865167825
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "leskovac",
+"teritorija": "Лесковац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 64853,
+"udeo": 50.5463586482105
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "nis",
+"teritorija": "Ниш"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 27124,
+"udeo": 51.429654910883585
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "cacak",
+"teritorija": "Чачак"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 7038,
+"udeo": 57.11271605940112
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kladovo",
+"teritorija": "Кладово"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 43819,
+"udeo": 50.402006004209845
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kragujevac",
+"teritorija": "Крагујевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3064,
+"udeo": 43.99138549892319
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "boljevac",
+"teritorija": "Бољевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 5017,
+"udeo": 47.95908612943313
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "kovacica",
+"teritorija": "Ковачица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 74498,
+"udeo": 51.57569715599125
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "macvanski-okug",
+"teritorija": "Мачвански окуг"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 1874,
+"udeo": 57.308868501529055
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "pristina-grad",
+"teritorija": "Приштина - град"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 3367,
+"udeo": 39.784946236559136
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "zitiste",
+"teritorija": "Житиште"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 13556,
+"udeo": 52.168558783913795
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "backa-palanka",
+"teritorija": "Бачка Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 29794,
+"udeo": 58.635755333385816
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "smederevo",
+"teritorija": "Смедерево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 19156,
+"udeo": 49.63337219847131
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "grad-pozarevac",
+"teritorija": "Град Пожаревац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
+"rezultat": {
+"glasova": 76773,
+"udeo": 46.28029923984399
+},
+"boja": "#8dd3c7",
+"izbornaListaSlug": "aleksandar-vucic-sns-sdps-ns-spo-ps"
+},
+"teritorijaSlug": "novi-sad",
+"teritorija": "Нови Сад"
+}
+],
+"map_pres_2012": [
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 5,
+"udeo": 83.33333333333334
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "luksemburg",
+"teritorija": "Луксембург"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 19,
+"udeo": 52.77777777777778
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "libija",
+"teritorija": "Либија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 27,
+"udeo": 69.23076923076923
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "juznoafricka-republika",
+"teritorija": "Јужноафричка Република"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 31,
+"udeo": 56.36363636363636
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "kanada",
+"teritorija": "Канада"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 51,
+"udeo": 56.043956043956044
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "ruska-federacija",
+"teritorija": "Руска Федерација"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 56,
+"udeo": 62.22222222222222
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "hrvatska",
+"teritorija": "Хрватска"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 57,
+"udeo": 67.85714285714286
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "velika-britanija",
+"teritorija": "Велика Британија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 88,
+"udeo": 58.666666666666664
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "svajcarska",
+"teritorija": "Швајцарска"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 138,
+"udeo": 50.36496350364964
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "francuska",
+"teritorija": "Француска"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 141,
+"udeo": 50.719424460431654
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "orahovac",
+"teritorija": "Ораховац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 169,
+"udeo": 53.144654088050316
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "crna-gora",
+"teritorija": "Црна Гора"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 232,
+"udeo": 49.572649572649574
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "savezna-republika-nemacka",
+"teritorija": "Савезна Република Немачка"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 237,
+"udeo": 80.61224489795919
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "gora",
+"teritorija": "Гора"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 343,
+"udeo": 64.23220973782772
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "novo-brdo",
+"teritorija": "Ново Брдо"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 352,
+"udeo": 48.484848484848484
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "kosovo-polje",
+"teritorija": "Косово Поље"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 358,
+"udeo": 51.73410404624278
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "vitina",
+"teritorija": "Витина"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 383,
+"udeo": 55.74963609898108
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "vucitrn",
+"teritorija": "Вучитрн"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 447,
+"udeo": 53.72596153846154
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "obilic",
+"teritorija": "Обилић"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 578,
+"udeo": 68.16037735849056
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "crna-trava",
+"teritorija": "Црна Трава"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 702,
+"udeo": 56.3855421686747
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kosovska-kamenica",
+"teritorija": "Косовска Каменица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 846,
+"udeo": 55.294117647058826
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "presevo",
+"teritorija": "Прешево"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 941,
+"udeo": 55.81257413997628
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "lipljan",
+"teritorija": "Липљан"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 1271,
+"udeo": 73.76668601276842
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "zubin-potok",
+"teritorija": "Зубин Поток"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 1337,
+"udeo": 55.75479566305255
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "strpce",
+"teritorija": "Штрпце"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 1438,
+"udeo": 53.25925925925926
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "trgoviste",
+"teritorija": "Трговиште"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 1680,
+"udeo": 55.31774777741192
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "medveda",
+"teritorija": "Медвеђа"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2324,
+"udeo": 48.21576763485477
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "irig",
+"teritorija": "Ириг"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2369,
+"udeo": 60.03547896604155
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kosovska-mitrovica",
+"teritorija": "Косовска Митровица"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2459,
+"udeo": 50.80578512396694
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "golubac",
+"teritorija": "Голубац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2733,
+"udeo": 53.7357451828549
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "zabari",
+"teritorija": "Жабари"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2794,
+"udeo": 57.608247422680414
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kosjeric",
+"teritorija": "Косјерић"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2816,
+"udeo": 53.45482156416097
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "cicevac",
+"teritorija": "Ћићевац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2917,
+"udeo": 55.079305135951664
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "nova-crnja",
+"teritorija": "Нова Црња"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2960,
+"udeo": 63.13993174061433
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "leposavic",
+"teritorija": "Лепосавић"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2968,
+"udeo": 62.84141435528265
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "osecina",
+"teritorija": "Осечина"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 63,
+"udeo": 64.28571428571429
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "slovenija",
+"teritorija": "Словенија"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3015,
+"udeo": 52.98769771528998
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "rekovac",
+"teritorija": "Рековац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2567,
+"udeo": 61.411483253588514
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "bosilegrad",
+"teritorija": "Босилеград"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3141,
+"udeo": 69.10891089108911
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "gadzin-han",
+"teritorija": "Гаџин Хан"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 1976,
+"udeo": 49.573507275464124
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "sremski-karlovci",
+"teritorija": "Сремски Карловци"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3202,
+"udeo": 49.08784301701671
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "secanj",
+"teritorija": "Сечањ"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 1532,
+"udeo": 59.10493827160494
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "zvecan",
+"teritorija": "Звечан"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2660,
+"udeo": 48.84318766066838
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "raca",
+"teritorija": "Рача"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3260,
+"udeo": 54.333333333333336
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "blace",
+"teritorija": "Блаце"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3296,
+"udeo": 48.974739970282315
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "bela-palanka",
+"teritorija": "Бела Паланка"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3397,
+"udeo": 51.13653469817854
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "batocina",
+"teritorija": "Баточина"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3451,
+"udeo": 62.46153846153846
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "mali-zvornik",
+"teritorija": "Мали Зворник"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3677,
+"udeo": 62.142977860402226
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "nis-niska-banja",
+"teritorija": "Ниш - Нишка Бања"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3704,
+"udeo": 62.252100840336134
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "svrljig",
+"teritorija": "Сврљиг"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3769,
+"udeo": 61.52464903689193
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "ljubovija",
+"teritorija": "Љубовија"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3771,
+"udeo": 52.80033604032484
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "sokobanja",
+"teritorija": "Сокобања"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3775,
+"udeo": 69.45722171113155
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "mali-idos",
+"teritorija": "Мали Иђош"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2285,
+"udeo": 56.503461918892185
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "opovo",
+"teritorija": "Опово"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3840,
+"udeo": 67.02740443358353
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "coka",
+"teritorija": "Чока"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3948,
+"udeo": 64.49926482600881
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "babusnica",
+"teritorija": "Бабушница"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4094,
+"udeo": 66.96107294733399
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "knic",
+"teritorija": "Кнић"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4128,
+"udeo": 50.37832560410056
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "zitorada",
+"teritorija": "Житорађа"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4278,
+"udeo": 61.536248561565024
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "merosina",
+"teritorija": "Мерошина"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 32,
+"udeo": 65.3061224489796
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "rumunija",
+"teritorija": "Румунија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4646,
+"udeo": 50.03230669825543
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "pecinci",
+"teritorija": "Пећинци"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4655,
+"udeo": 71.46146760822843
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "backi-petrovac",
+"teritorija": "Бачки Петровац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4693,
+"udeo": 60.95596830757242
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "brus",
+"teritorija": "Брус"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4927,
+"udeo": 55.09336911550934
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kucevo",
+"teritorija": "Кучево"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5542,
+"udeo": 55.481029132045244
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "raska",
+"teritorija": "Рашка"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5556,
+"udeo": 60.47017849368742
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "vladicin-han",
+"teritorija": "Владичин Хан"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5757,
+"udeo": 59.85651902682471
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "bajina-basta",
+"teritorija": "Бајина Башта"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 286,
+"udeo": 62.44541484716157
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "pec",
+"teritorija": "Пећ"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5791,
+"udeo": 59.18242207460399
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "topola",
+"teritorija": "Топола"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6018,
+"udeo": 53.73694079828556
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "priboj",
+"teritorija": "Прибој"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5778,
+"udeo": 67.45272005603549
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kursumlija",
+"teritorija": "Куршумлија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 6321,
+"udeo": 49.20214836148517
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "temerin",
+"teritorija": "Темерин"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6373,
+"udeo": 55.01553867403315
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "pozega",
+"teritorija": "Пожега"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2990,
+"udeo": 51.51619572708477
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "boljevac",
+"teritorija": "Бољевац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 6498,
+"udeo": 62.23541806340389
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "kovacica",
+"teritorija": "Ковачица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6508,
+"udeo": 59.56434193666483
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "ub",
+"teritorija": "Уб"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4227,
+"udeo": 54.492716256284645
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "bac",
+"teritorija": "Бач"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6698,
+"udeo": 49.22104644326867
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kovin",
+"teritorija": "Ковин"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 6947,
+"udeo": 54.91265512607699
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "apatin",
+"teritorija": "Апатин"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 7064,
+"udeo": 59.261744966442954
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "cuprija",
+"teritorija": "Ћуприја"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3944,
+"udeo": 52.411960132890364
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "beocin",
+"teritorija": "Беочин"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4133,
+"udeo": 61.37511137511138
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "cajetina",
+"teritorija": "Чајетина"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 7098,
+"udeo": 57.99967314920739
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "svilajnac",
+"teritorija": "Свилајнац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 7596,
+"udeo": 55.48980933596318
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "petrovac-na-mlavi",
+"teritorija": "Петровац на Млави"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3274,
+"udeo": 55.13640956551027
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "dimitrovgrad",
+"teritorija": "Димитровград"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4429,
+"udeo": 58.740053050397876
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "varvarin",
+"teritorija": "Варварин"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 7670,
+"udeo": 59.54044403043006
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "despotovac",
+"teritorija": "Деспотовац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 7863,
+"udeo": 50.919570003885504
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "sid",
+"teritorija": "Шид"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4975,
+"udeo": 57.936415511820194
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "lucani",
+"teritorija": "Лучани"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4545,
+"udeo": 52.61025581664545
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "doljevac",
+"teritorija": "Дољевац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4247,
+"udeo": 57.50067695640401
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "vladimirci",
+"teritorija": "Владимирци"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 8066,
+"udeo": 59.06993775173929
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "vrnjacka-banja",
+"teritorija": "Врњачка Бања"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4987,
+"udeo": 59.78182690002397
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "titel",
+"teritorija": "Тител"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 8251,
+"udeo": 67.74776254208062
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "ivanjica",
+"teritorija": "Ивањица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 8438,
+"udeo": 58.53218645948945
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "vlasotince",
+"teritorija": "Власотинце"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 1857,
+"udeo": 51.95858981533296
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "lapovo",
+"teritorija": "Лапово"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2392,
+"udeo": 66.05909969621652
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "razanj",
+"teritorija": "Ражањ"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3417,
+"udeo": 60.71428571428571
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "koceljeva",
+"teritorija": "Коцељева"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3442,
+"udeo": 60.524002110075614
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "bojnik",
+"teritorija": "Бојник"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 8602,
+"udeo": 58.68467730931914
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "negotin",
+"teritorija": "Неготин"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 53,
+"udeo": 54.63917525773196
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "makedonija",
+"teritorija": "Македонија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 8650,
+"udeo": 85.50810597073942
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "senta",
+"teritorija": "Сента"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 6883,
+"udeo": 84.81823783117683
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "ada",
+"teritorija": "Ада"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 7142,
+"udeo": 60.679694137638066
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "barajevo",
+"teritorija": "Барајево"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 8887,
+"udeo": 66.53938304881702
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "nis-crveni-krst",
+"teritorija": "Ниш - Црвени крст"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 9065,
+"udeo": 54.47061651243841
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "prijepolje",
+"teritorija": "Пријепоље"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 9571,
+"udeo": 47.66671646994372
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "vrbas",
+"teritorija": "Врбас"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 9698,
+"udeo": 66.90582959641256
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "backa-topola",
+"teritorija": "Бачка Топола"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4102,
+"udeo": 54.66417910447762
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "srbobran",
+"teritorija": "Србобран"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6221,
+"udeo": 60.11208812445646
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "bogatic",
+"teritorija": "Богатић"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 10164,
+"udeo": 88.40567104462033
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "kanjiza",
+"teritorija": "Кањижа"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 6936,
+"udeo": 48.19344080044469
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "odzaci",
+"teritorija": "Оџаци"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2920,
+"udeo": 53.63703159441587
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "plandiste",
+"teritorija": "Пландиште"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4429,
+"udeo": 55.10077133615327
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "bela-crkva",
+"teritorija": "Бела Црква"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 10411,
+"udeo": 51.37429064890205
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "smederevska-palanka",
+"teritorija": "Смедеревска Паланка"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2974,
+"udeo": 53.0219290426101
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "zagubica",
+"teritorija": "Жагубица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6621,
+"udeo": 55.60594608213656
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "knjazevac",
+"teritorija": "Књажевац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 10589,
+"udeo": 49.086779158168
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "prokuplje",
+"teritorija": "Прокупље"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 10612,
+"udeo": 79.9819113656919
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "sjenica",
+"teritorija": "Сјеница"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 10725,
+"udeo": 53.60355857656938
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "indija",
+"teritorija": "Инђија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 131,
+"udeo": 70.05347593582889
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "italija",
+"teritorija": "Италија"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2656,
+"udeo": 50.95932463545664
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "malo-crnice",
+"teritorija": "Мало Црниће"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 9603,
+"udeo": 50.672787715687825
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kula",
+"teritorija": "Кула"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 11874,
+"udeo": 60.17331373840774
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "nis-pantelej",
+"teritorija": "Ниш - Пантелеј"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 11974,
+"udeo": 51.79289761667892
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "ruma",
+"teritorija": "Рума"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 12068,
+"udeo": 56.12501162682542
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "vrsac",
+"teritorija": "Вршац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4107,
+"udeo": 64.82007575757575
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "krupanj",
+"teritorija": "Крупањ"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 12216,
+"udeo": 53.15001740341106
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "paracin",
+"teritorija": "Параћин"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5839,
+"udeo": 66.78485645659384
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "arilje",
+"teritorija": "Ариље"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 11990,
+"udeo": 51.857618615111804
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "zajecar",
+"teritorija": "Зајечар"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 10492,
+"udeo": 62.28554467200949
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "becej",
+"teritorija": "Бечеј"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 12320,
+"udeo": 57.86482551312761
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "bor",
+"teritorija": "Бор"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 12874,
+"udeo": 50.01165410613005
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "lazarevac",
+"teritorija": "Лазаревац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 42,
+"udeo": 61.76470588235294
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "kipar",
+"teritorija": "Кипар"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 10633,
+"udeo": 57.75038018683467
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "surcin",
+"teritorija": "Сурчин"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 13052,
+"udeo": 54.06345787424406
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "pirot",
+"teritorija": "Пирот"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 13551,
+"udeo": 60.06116479035547
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "mladenovac",
+"teritorija": "Младеновац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 103,
+"udeo": 64.77987421383648
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "austrija",
+"teritorija": "Аустрија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 15906,
+"udeo": 61.24523506988564
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "stari-grad",
+"teritorija": "Стари град"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 16278,
+"udeo": 50.55750535764202
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "pozarevac",
+"teritorija": "Пожаревац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 16791,
+"udeo": 55.24990951268468
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "obrenovac",
+"teritorija": "Обреновац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3257,
+"udeo": 58.3378112126097
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "ljig",
+"teritorija": "Љиг"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 17190,
+"udeo": 60.59217483256961
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "nis-palilula",
+"teritorija": "Ниш - Палилула"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 132,
+"udeo": 51.96850393700787
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "bosna-i-hercegovina",
+"teritorija": "Босна и Херцеговина"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 9915,
+"udeo": 53.585904988380264
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "trstenik",
+"teritorija": "Трстеник"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 11210,
+"udeo": 58.9968949002684
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "gornji-milanovac",
+"teritorija": "Горњи Милановац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 18255,
+"udeo": 62.52568845047267
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "vracar",
+"teritorija": "Врачар"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3159,
+"udeo": 56.41071428571428
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "novi-knezevac",
+"teritorija": "Нови Кнежевац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 18231,
+"udeo": 60.431583134447095
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "loznica",
+"teritorija": "Лозница"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 18586,
+"udeo": 64.07860713670057
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "grocka",
+"teritorija": "Гроцка"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 19563,
+"udeo": 52.40416811765021
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "sombor",
+"teritorija": "Сомбор"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 15029,
+"udeo": 94.82617199823332
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "tutin",
+"teritorija": "Тутин"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 20988,
+"udeo": 56.998533485416324
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "vranje",
+"teritorija": "Врање"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 1068,
+"udeo": 63.1578947368421
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "pristina-grad",
+"teritorija": "Приштина - град"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 12594,
+"udeo": 54.02831402831403
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "backa-palanka",
+"teritorija": "Бачка Паланка"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 24278,
+"udeo": 59.68043264503442
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "smederevo",
+"teritorija": "Смедерево"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4944,
+"udeo": 56.78842177808407
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "zitiste",
+"teritorija": "Житиште"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 24730,
+"udeo": 50.45085478803705
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "pancevo",
+"teritorija": "Панчево"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4993,
+"udeo": 63.669982147411375
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "sopot",
+"teritorija": "Сопот"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3679,
+"udeo": 48.529217781295344
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "lajkovac",
+"teritorija": "Лајковац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 16282,
+"udeo": 51.654452587164116
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "uzice",
+"teritorija": "Ужице"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 24107,
+"udeo": 51.87424685832329
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "rakovica",
+"teritorija": "Раковица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4539,
+"udeo": 52.7300185873606
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "veliko-gradiste",
+"teritorija": "Велико Градиште"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3786,
+"udeo": 54.466983167889516
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "mionica",
+"teritorija": "Мионица"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 13500,
+"udeo": 48.890015572375326
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "kikinda",
+"teritorija": "Кикинда"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 25039,
+"udeo": 49.18287173443331
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "zrenjanin",
+"teritorija": "Зрењанин"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 11889,
+"udeo": 62.58027160753764
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "aleksinac",
+"teritorija": "Алексинац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 39,
+"udeo": 75
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "ceska-republika",
+"teritorija": "Чешка Република"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 33917,
+"udeo": 49.89041377991556
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "vozdovac",
+"teritorija": "Вождовац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 10697,
+"udeo": 54.82548306083748
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "savski-venac",
+"teritorija": "Савски венац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 7916,
+"udeo": 58.1759388550011
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "aleksandrovac",
+"teritorija": "Александровац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 36368,
+"udeo": 53.091195748967166
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "zemun",
+"teritorija": "Земун"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 1370,
+"udeo": 53.32814324639937
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "gnjilane",
+"teritorija": "Гњилане"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 31543,
+"udeo": 50.50273783982836
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "zvezdara",
+"teritorija": "Звездара"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 13674,
+"udeo": 50.37948566796846
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "jagodina",
+"teritorija": "Јагодина"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 19770,
+"udeo": 55.41385206155226
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "valjevo",
+"teritorija": "Ваљево"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 34325,
+"udeo": 49.63703146691347
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "palilula",
+"teritorija": "Палилула"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 36792,
+"udeo": 52.77562612961528
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "leskovac",
+"teritorija": "Лесковац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 5659,
+"udeo": 54.33509361497839
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "kladovo",
+"teritorija": "Кладово"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 39778,
+"udeo": 53.60916442048518
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kragujevac",
+"teritorija": "Крагујевац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 62,
+"udeo": 73.80952380952381
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "belgija",
+"teritorija": "Белгија"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 13930,
+"udeo": 53.60372493939277
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "stara-pazova",
+"teritorija": "Стара Пазова"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4665,
+"udeo": 54.959943449575874
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "nova-varos",
+"teritorija": "Нова Варош"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4469,
+"udeo": 51.796476587853505
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "majdanpek",
+"teritorija": "Мајданпек"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 38673,
+"udeo": 51.272770662636226
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "cukarica",
+"teritorija": "Чукарица"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 66,
+"udeo": 64.70588235294117
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "holandija",
+"teritorija": "Холандија"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 26595,
+"udeo": 51.229942403636855
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "sabac",
+"teritorija": "Шабац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4523,
+"udeo": 50.29467363504948
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "surdulica",
+"teritorija": "Сурдулица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4905,
+"udeo": 63.88382391247721
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "bujanovac",
+"teritorija": "Бујановац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 39857,
+"udeo": 85.1754498439971
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "novi-pazar",
+"teritorija": "Нови Пазар"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 6114,
+"udeo": 60.89641434262948
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "alibunar",
+"teritorija": "Алибунар"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 30565,
+"udeo": 58.38474909743845
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "krusevac",
+"teritorija": "Крушевац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 43660,
+"udeo": 69.0091200783979
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "subotica",
+"teritorija": "Суботица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 10062,
+"udeo": 56.70968832779124
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "arandelovac",
+"teritorija": "Аранђеловац"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 107,
+"udeo": 69.93464052287581
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "sjedinjene-americke-drzave",
+"teritorija": "Сједињене Америчке Државе"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 19224,
+"udeo": 50.289062704371254
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "sremska-mitrovica",
+"teritorija": "Сремска Митровица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 9056,
+"udeo": 59.31748215104474
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "velika-plana",
+"teritorija": "Велика Плана"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 5207,
+"udeo": 50.74059637497563
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "novi-becej",
+"teritorija": "Нови Бечеј"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 30990,
+"udeo": 61.10136240856484
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "kraljevo",
+"teritorija": "Краљево"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 52329,
+"udeo": 52.71487286940404
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "novi-beograd",
+"teritorija": "Нови Београд"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5719,
+"udeo": 57.49472202674173
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "zabalj",
+"teritorija": "Жабаљ"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 18803,
+"udeo": 48.66452714943838
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "nis-medijana",
+"teritorija": "Ниш - Медијана"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 60431,
+"udeo": 57.00284868036297
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "nis",
+"teritorija": "Ниш"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 24828,
+"udeo": 57.04176813858383
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "cacak",
+"teritorija": "Чачак"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 75324,
+"udeo": 51.12465554454505
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "novi-sad",
+"teritorija": "Нови Сад"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 137097,
+"udeo": 50.405161954483624
+},
+"kandidat": "Борис Тадић",
+"boja": "#78BAC2"
+},
+"teritorijaSlug": "juznobacki",
+"teritorija": "Јужнобачки"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6001,
+"udeo": 61.980995662053296
+},
+"kandidat": "Томислав Николић",
+"boja": "#006837"
+},
+"teritorijaSlug": "lebane",
+"teritorija": "Лебане"
+}
+],
+"map_par_2012": [
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 5,
+"udeo": 45.45454545454545
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "luksemburg",
+"teritorija": "Луксембург"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 18,
+"udeo": 31.57894736842105
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "libija",
+"teritorija": "Либија"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 27,
+"udeo": 37.5
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "juznoafricka-republika",
+"teritorija": "Јужноафричка Република"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 29,
+"udeo": 23.770491803278688
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "ruska-federacija",
+"teritorija": "Руска Федерација"
+},
+{
+"rezultat": {
+"izbornaLista": "Двери за живот Србије",
+"rezultat": {
+"glasova": 35,
+"udeo": 31.53153153153153
+},
+"boja": "#4F4633",
+"izbornaListaSlug": "dveri-za-zivot-srbije"
+},
+"teritorijaSlug": "kanada",
+"teritorija": "Канада"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 39,
+"udeo": 36.11111111111111
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "hrvatska",
+"teritorija": "Хрватска"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 47,
+"udeo": 31.756756756756754
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "velika-britanija",
+"teritorija": "Велика Британија"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 61,
+"udeo": 25.416666666666664
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "svajcarska",
+"teritorija": "Швајцарска"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 89,
+"udeo": 23.544973544973544
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "francuska",
+"teritorija": "Француска"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 103,
+"udeo": 23.569794050343248
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "crna-gora",
+"teritorija": "Црна Гора"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 103,
+"udeo": 30.116959064327485
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "orahovac",
+"teritorija": "Ораховац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 136,
+"udeo": 19.047619047619047
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "vitina",
+"teritorija": "Витина"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 175,
+"udeo": 24.271844660194176
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "savezna-republika-nemacka",
+"teritorija": "Савезна Република Немачка"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 184,
+"udeo": 34.58646616541353
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "gora",
+"teritorija": "Гора"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 220,
+"udeo": 38.19444444444444
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "novo-brdo",
+"teritorija": "Ново Брдо"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 251,
+"udeo": 35.05586592178771
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "vucitrn",
+"teritorija": "Вучитрн"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 328,
+"udeo": 36.81257014590348
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "kosovo-polje",
+"teritorija": "Косово Поље"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 382,
+"udeo": 42.777155655095186
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "obilic",
+"teritorija": "Обилић"
+},
+{
+"rezultat": {
+"izbornaLista": "Демократска странка Србије - Војислав Коштуница",
+"rezultat": {
+"glasova": 511,
+"udeo": 40.749601275917065
+},
+"boja": "#abd9e9",
+"izbornaListaSlug": "demokratska-stranka-srbije-vojislav-kostunica"
+},
+"teritorijaSlug": "crna-trava",
+"teritorija": "Црна Трава"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 607,
+"udeo": 34.56719817767654
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "lipljan",
+"teritorija": "Липљан"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 871,
+"udeo": 22.842905848413324
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "trgoviste",
+"teritorija": "Трговиште"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 872,
+"udeo": 21.77822177822178
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "medveda",
+"teritorija": "Медвеђа"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 874,
+"udeo": 24.097049903501517
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "strpce",
+"teritorija": "Штрпце"
+},
+{
+"rezultat": {
+"izbornaLista": "Демократска странка Србије - Војислав Коштуница",
+"rezultat": {
+"glasova": 1020,
+"udeo": 39.51956605966679
+},
+"boja": "#abd9e9",
+"izbornaListaSlug": "demokratska-stranka-srbije-vojislav-kostunica"
+},
+"teritorijaSlug": "zubin-potok",
+"teritorija": "Зубин Поток"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 269,
+"udeo": 30.778032036613272
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "prizren",
+"teritorija": "Призрен"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 1063,
+"udeo": 38.11401936177842
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "kosovska-kamenica",
+"teritorija": "Косовска Каменица"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1132,
+"udeo": 20.367038503058655
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "kosjeric",
+"teritorija": "Косјерић"
+},
+{
+"rezultat": {
+"izbornaLista": "Демократска странка Србије - Војислав Коштуница",
+"rezultat": {
+"glasova": 1372,
+"udeo": 31.267092069279855
+},
+"boja": "#abd9e9",
+"izbornaListaSlug": "demokratska-stranka-srbije-vojislav-kostunica"
+},
+"teritorijaSlug": "kosovska-mitrovica",
+"teritorija": "Косовска Митровица"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1502,
+"udeo": 19.870353221325573
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "mali-zvornik",
+"teritorija": "Мали Зворник"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1510,
+"udeo": 24.851876234364713
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "irig",
+"teritorija": "Ириг"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 1553,
+"udeo": 25.96121698428619
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "leposavic",
+"teritorija": "Лепосавић"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1593,
+"udeo": 24.092558983666063
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "osecina",
+"teritorija": "Осечина"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 1639,
+"udeo": 25.501789326279756
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "nova-crnja",
+"teritorija": "Нова Црња"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 1645,
+"udeo": 24.3667604799289
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "zabari",
+"teritorija": "Жабари"
+},
+{
+"rezultat": {
+"izbornaLista": "Савез војођанских Мађара - Иштван Пастор",
+"rezultat": {
+"glasova": 1668,
+"udeo": 25.67733990147783
+},
+"boja": "#fdae61",
+"izbornaListaSlug": "savez-vojodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "mali-idos",
+"teritorija": "Мали Иђош"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1513,
+"udeo": 27.771659324522762
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "opovo",
+"teritorija": "Опово"
+},
+{
+"rezultat": {
+"izbornaLista": "Савез војођанских Мађара - Иштван Пастор",
+"rezultat": {
+"glasova": 1719,
+"udeo": 26.914044152184125
+},
+"boja": "#fdae61",
+"izbornaListaSlug": "savez-vojodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "coka",
+"teritorija": "Чока"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 1789,
+"udeo": 30.844827586206897
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "golubac",
+"teritorija": "Голубац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 53,
+"udeo": 38.68613138686132
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "slovenija",
+"teritorija": "Словенија"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 1944,
+"udeo": 25.299323269130664
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "rekovac",
+"teritorija": "Рековац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2010,
+"udeo": 23.076923076923077
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "svrljig",
+"teritorija": "Сврљиг"
+},
+{
+"rezultat": {
+"izbornaLista": "Демократска странка Србије - Војислав Коштуница",
+"rezultat": {
+"glasova": 1083,
+"udeo": 31.70374707259953
+},
+"boja": "#abd9e9",
+"izbornaListaSlug": "demokratska-stranka-srbije-vojislav-kostunica"
+},
+"teritorijaSlug": "zvecan",
+"teritorija": "Звечан"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2026,
+"udeo": 26.92358803986711
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "raca",
+"teritorija": "Рача"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2126,
+"udeo": 25.923667845384706
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "blace",
+"teritorija": "Блаце"
+},
+{
+"rezultat": {
+"izbornaLista": "Демократска странка Србије - Војислав Коштуница",
+"rezultat": {
+"glasova": 1961,
+"udeo": 36.32826972952945
+},
+"boja": "#abd9e9",
+"izbornaListaSlug": "demokratska-stranka-srbije-vojislav-kostunica"
+},
+"teritorijaSlug": "bosilegrad",
+"teritorija": "Босилеград"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 2140,
+"udeo": 33.973646610573105
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "gadzin-han",
+"teritorija": "Гаџин Хан"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2170,
+"udeo": 33.50833848054355
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "cicevac",
+"teritorija": "Ћићевац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2213,
+"udeo": 25.536579736902837
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "nis-niska-banja",
+"teritorija": "Ниш - Нишка Бања"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1206,
+"udeo": 24.612244897959183
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "sremski-karlovci",
+"teritorija": "Сремски Карловци"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2331,
+"udeo": 30.438756855575868
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "secanj",
+"teritorija": "Сечањ"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2412,
+"udeo": 26.28309905197777
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "sokobanja",
+"teritorija": "Сокобања"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2429,
+"udeo": 25.147530800289886
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "vladimirci",
+"teritorija": "Владимирци"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 2465,
+"udeo": 26.531051555268544
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "merosina",
+"teritorija": "Мерошина"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2476,
+"udeo": 29.80259990370727
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "knic",
+"teritorija": "Кнић"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2521,
+"udeo": 36.40958983246678
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "backi-petrovac",
+"teritorija": "Бачки Петровац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2529,
+"udeo": 29.812566309088766
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "babusnica",
+"teritorija": "Бабушница"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2589,
+"udeo": 30.43376043258493
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "bela-palanka",
+"teritorija": "Бела Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 2753,
+"udeo": 32.089987177992775
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "ljubovija",
+"teritorija": "Љубовија"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3013,
+"udeo": 22.18867368731129
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "bajina-basta",
+"teritorija": "Бајина Башта"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 3218,
+"udeo": 29.19350449061054
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "zitorada",
+"teritorija": "Житорађа"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3238,
+"udeo": 20.59665415686025
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "temerin",
+"teritorija": "Темерин"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3440,
+"udeo": 25.00726955510323
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "ub",
+"teritorija": "Уб"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2575,
+"udeo": 31.37565492871939
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "bac",
+"teritorija": "Бач"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3448,
+"udeo": 23.231370435251314
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "pozega",
+"teritorija": "Пожега"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 3591,
+"udeo": 22.466216216216218
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "apatin",
+"teritorija": "Апатин"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 23,
+"udeo": 46
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "rumunija",
+"teritorija": "Румунија"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 3609,
+"udeo": 30.254002850196997
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "pecinci",
+"teritorija": "Пећинци"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3636,
+"udeo": 33.69786839666358
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "brus",
+"teritorija": "Брус"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1356,
+"udeo": 27.37734706238643
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "lapovo",
+"teritorija": "Лапово"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1802,
+"udeo": 33.97435897435898
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "razanj",
+"teritorija": "Ражањ"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 2079,
+"udeo": 25.021061499578767
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "koceljeva",
+"teritorija": "Коцељева"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2366,
+"udeo": 31.375149184458294
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "bojnik",
+"teritorija": "Бојник"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 4172,
+"udeo": 24.244537424453743
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "negotin",
+"teritorija": "Неготин"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 4174,
+"udeo": 41.33491780550604
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "kucevo",
+"teritorija": "Кучево"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 1765,
+"udeo": 22.865656173079415
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "boljevac",
+"teritorija": "Бољевац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 4321,
+"udeo": 34.87771410121882
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "kovacica",
+"teritorija": "Ковачица"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 4357,
+"udeo": 36.57349114412826
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "kursumlija",
+"teritorija": "Куршумлија"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3422,
+"udeo": 22.34994448435765
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "priboj",
+"teritorija": "Прибој"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 4444,
+"udeo": 29.213778595845387
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "kovin",
+"teritorija": "Ковин"
+},
+{
+"rezultat": {
+"izbornaLista": "Све заједно: БДЗ, ГСМ, ДЗХ, ДЗВМ, Словачка странка - Емир Елфић",
+"rezultat": {
+"glasova": 4445,
+"udeo": 29.20883164673413
+},
+"boja": "#ACD270",
+"izbornaListaSlug": "sve-zajedno-bdz-gsm-dzh-dzvm-slovacka-stranka-emir-elfic"
+},
+"teritorijaSlug": "sjenica",
+"teritorija": "Сјеница"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3307,
+"udeo": 26.44965208349996
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "vladicin-han",
+"teritorija": "Владичин Хан"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 4449,
+"udeo": 29.38185180293224
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "raska",
+"teritorija": "Рашка"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 4735,
+"udeo": 24.741352283415193
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "becej",
+"teritorija": "Бечеј"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 156,
+"udeo": 32.91139240506329
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "pec",
+"teritorija": "Пећ"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 4861,
+"udeo": 36.54887218045113
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "topola",
+"teritorija": "Топола"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 4896,
+"udeo": 25.22021325915624
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "vlasotince",
+"teritorija": "Власотинце"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 4971,
+"udeo": 29.698888756123793
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "cuprija",
+"teritorija": "Ћуприја"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2618,
+"udeo": 28.19601507808293
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "beocin",
+"teritorija": "Беочин"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 42,
+"udeo": 34.42622950819672
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "makedonija",
+"teritorija": "Македонија"
+},
+{
+"rezultat": {
+"izbornaLista": "Савез војођанских Мађара - Иштван Пастор",
+"rezultat": {
+"glasova": 4402,
+"udeo": 39.059449866903286
+},
+"boja": "#fdae61",
+"izbornaListaSlug": "savez-vojodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "senta",
+"teritorija": "Сента"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 3946,
+"udeo": 42.53071782711791
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "ada",
+"teritorija": "Ада"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 5019,
+"udeo": 34.35553425970292
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "barajevo",
+"teritorija": "Барајево"
+},
+{
+"rezultat": {
+"izbornaLista": "Коалиција Албанаца Прешевске долине",
+"rezultat": {
+"glasova": 5046,
+"udeo": 63.51963746223564
+},
+"boja": "#ACD270",
+"izbornaListaSlug": "koalicija-albanaca-presevske-doline"
+},
+"teritorijaSlug": "presevo",
+"teritorija": "Прешево"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 5098,
+"udeo": 22.837432244769968
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "vrbas",
+"teritorija": "Врбас"
+},
+{
+"rezultat": {
+"izbornaLista": "Демократска странка Србије - Војислав Коштуница",
+"rezultat": {
+"glasova": 2715,
+"udeo": 27.831881086622246
+},
+"boja": "#abd9e9",
+"izbornaListaSlug": "demokratska-stranka-srbije-vojislav-kostunica"
+},
+"teritorijaSlug": "cajetina",
+"teritorija": "Чајетина"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 5102,
+"udeo": 34.90456317985907
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "svilajnac",
+"teritorija": "Свилајнац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 5294,
+"udeo": 31.76717671767177
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "nis-crveni-krst",
+"teritorija": "Ниш - Црвени крст"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 5483,
+"udeo": 31.235046143329154
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "vrnjacka-banja",
+"teritorija": "Врњачка Бања"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3307,
+"udeo": 34.57035333472716
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "titel",
+"teritorija": "Тител"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 5592,
+"udeo": 25.67964731814842
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "prijepolje",
+"teritorija": "Пријепоље"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 1836,
+"udeo": 21.20337221388151
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "srbobran",
+"teritorija": "Србобран"
+},
+{
+"rezultat": {
+"izbornaLista": "Савез војођанских Мађара - Иштван Пастор",
+"rezultat": {
+"glasova": 5701,
+"udeo": 31.677501805856533
+},
+"boja": "#fdae61",
+"izbornaListaSlug": "savez-vojodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "backa-topola",
+"teritorija": "Бачка Топола"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 5966,
+"udeo": 35.70744553507302
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "ivanjica",
+"teritorija": "Ивањица"
+},
+{
+"rezultat": {
+"izbornaLista": "Савез војођанских Мађара - Иштван Пастор",
+"rezultat": {
+"glasova": 5977,
+"udeo": 44.691191864812325
+},
+"boja": "#fdae61",
+"izbornaListaSlug": "savez-vojodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "kanjiza",
+"teritorija": "Кањижа"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 3675,
+"udeo": 23.244781783681216
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "odzaci",
+"teritorija": "Оџаци"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 4098,
+"udeo": 24.625923922841174
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "bogatic",
+"teritorija": "Богатић"
+},
+{
+"rezultat": {
+"izbornaLista": "Уједињени региони Србије - Млађан Динкић",
+"rezultat": {
+"glasova": 6007,
+"udeo": 47.37755343481347
+},
+"boja": "#ffffbf",
+"izbornaListaSlug": "ujedinjeni-regioni-srbije-mladan-dinkic"
+},
+"teritorijaSlug": "doljevac",
+"teritorija": "Дољевац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 5197,
+"udeo": 28.20930358790642
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "sid",
+"teritorija": "Шид"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2825,
+"udeo": 24.280189084658357
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "lucani",
+"teritorija": "Лучани"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 127,
+"udeo": 44.87632508833922
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "italija",
+"teritorija": "Италија"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1660,
+"udeo": 24.805738194859533
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "malo-crnice",
+"teritorija": "Мало Црниће"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 5250,
+"udeo": 22.14255588359342
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "kula",
+"teritorija": "Кула"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 6518,
+"udeo": 25.443047856975564
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "indija",
+"teritorija": "Инђија"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2641,
+"udeo": 32.86869943995022
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "batocina",
+"teritorija": "Баточина"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 6639,
+"udeo": 28.463022508038588
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "bor",
+"teritorija": "Бор"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 1883,
+"udeo": 29.481759824643806
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "plandiste",
+"teritorija": "Пландиште"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2791,
+"udeo": 27.427279874213838
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "bela-crkva",
+"teritorija": "Бела Црква"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 6654,
+"udeo": 24.748939968756975
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "smederevska-palanka",
+"teritorija": "Смедеревска Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 6714,
+"udeo": 24.44209836543012
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "ruma",
+"teritorija": "Рума"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3770,
+"udeo": 23.854720323968614
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "knjazevac",
+"teritorija": "Књажевац"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 2508,
+"udeo": 31.40889167188479
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "zagubica",
+"teritorija": "Жагубица"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 6731,
+"udeo": 25.377017041170262
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "prokuplje",
+"teritorija": "Прокупље"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 5870,
+"udeo": 31.936887921653973
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "petrovac",
+"teritorija": "Петровац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 7443,
+"udeo": 23.52996965098634
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "paracin",
+"teritorija": "Параћин"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3140,
+"udeo": 29.450384543237668
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "arilje",
+"teritorija": "Ариље"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 7044,
+"udeo": 22.57909414366766
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "zajecar",
+"teritorija": "Зајечар"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 7518,
+"udeo": 29.76129211036776
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "nis-pantelej",
+"teritorija": "Ниш - Пантелеј"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2200,
+"udeo": 26.822726164350158
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "krupanj",
+"teritorija": "Крупањ"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 7733,
+"udeo": 29.29055717586455
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "vrsac",
+"teritorija": "Вршац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 8197,
+"udeo": 25.282995589278556
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "pirot",
+"teritorija": "Пирот"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 8279,
+"udeo": 23.437986580981228
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "lazarevac",
+"teritorija": "Лазаревац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 32,
+"udeo": 38.095238095238095
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "kipar",
+"teritorija": "Кипар"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 7970,
+"udeo": 32.954310523051475
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "surcin",
+"teritorija": "Сурчин"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 70,
+"udeo": 30.042918454935624
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "austrija",
+"teritorija": "Аустрија"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 9656,
+"udeo": 31.01631761531543
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "stari-grad",
+"teritorija": "Стари град"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 9898,
+"udeo": 33.22814556197126
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "mladenovac",
+"teritorija": "Младеновац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 1851,
+"udeo": 26.686851211072664
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "ljig",
+"teritorija": "Љиг"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 10433,
+"udeo": 28.9749215430333
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "nis-palilula",
+"teritorija": "Ниш - Палилула"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 10891,
+"udeo": 24.482409801056537
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "sombor",
+"teritorija": "Сомбор"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 82,
+"udeo": 23.837209302325583
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "bosna-i-hercegovina",
+"teritorija": "Босна и Херцеговина"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 6515,
+"udeo": 27.299392415671488
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "gornji-milanovac",
+"teritorija": "Горњи Милановац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 11339,
+"udeo": 32.95454545454545
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "vracar",
+"teritorija": "Врачар"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 5345,
+"udeo": 20.488347132781357
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "trstenik",
+"teritorija": "Трстеник"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2009,
+"udeo": 31.09907120743034
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "novi-knezevac",
+"teritorija": "Нови Кнежевац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 10105,
+"udeo": 25.03034356344901
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "loznica",
+"teritorija": "Лозница"
+},
+{
+"rezultat": {
+"izbornaLista": "Странка демократске акције Санџака - др Сулејман Угљанин",
+"rezultat": {
+"glasova": 7745,
+"udeo": 46.99635922330097
+},
+"boja": "#a50026",
+"izbornaListaSlug": "stranka-demokratske-akcije-sandzaka-dr-sulejman-ugljanin"
+},
+"teritorijaSlug": "tutin",
+"teritorija": "Тутин"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 11952,
+"udeo": 25.272239020573867
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "vranje",
+"teritorija": "Врање"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 12232,
+"udeo": 31.92900026102845
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "obrenovac",
+"teritorija": "Обреновац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 12292,
+"udeo": 27.824433528759307
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "novi-pazar",
+"teritorija": "Нови Пазар"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 4711,
+"udeo": 41.23413566739606
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "alibunar",
+"teritorija": "Алибунар"
+},
+{
+"rezultat": {
+"izbornaLista": "Коалиција Албанаца Прешевске долине",
+"rezultat": {
+"glasova": 6069,
+"udeo": 34.12618083670716
+},
+"boja": "#ACD270",
+"izbornaListaSlug": "koalicija-albanaca-presevske-doline"
+},
+"teritorijaSlug": "bujanovac",
+"teritorija": "Бујановац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 13405,
+"udeo": 34.880695272046005
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "grocka",
+"teritorija": "Гроцка"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 701,
+"udeo": 27.894946279347394
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "pristina-grad",
+"teritorija": "Приштина - град"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2303,
+"udeo": 23.2461895629353
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "zitiste",
+"teritorija": "Житиште"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 6563,
+"udeo": 22.393967311563788
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "backa-palanka",
+"teritorija": "Бачка Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 14818,
+"udeo": 27.97749414696775
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "smederevo",
+"teritorija": "Смедерево"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 15174,
+"udeo": 25.338988711508918
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "pancevo",
+"teritorija": "Панчево"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 4233,
+"udeo": 36.709738964530395
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "sopot",
+"teritorija": "Сопот"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2355,
+"udeo": 23.549999999999997
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "lajkovac",
+"teritorija": "Лајковац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 9759,
+"udeo": 24.706954606445734
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "uzice",
+"teritorija": "Ужице"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2290,
+"udeo": 25.010921799912627
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "mionica",
+"teritorija": "Мионица"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 16474,
+"udeo": 29.263700150990317
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "rakovica",
+"teritorija": "Раковица"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2519,
+"udeo": 24.43733022894839
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "veliko-gradiste",
+"teritorija": "Велико Градиште"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 8795,
+"udeo": 26.76913711763811
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "kikinda",
+"teritorija": "Кикинда"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 16141,
+"udeo": 26.806503578961355
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "zrenjanin",
+"teritorija": "Зрењанин"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 18101,
+"udeo": 27.374741012960698
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "krusevac",
+"teritorija": "Крушевац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 20626,
+"udeo": 27.968974588452255
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "subotica",
+"teritorija": "Суботица"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 6040,
+"udeo": 28.095636803423574
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "arandelovac",
+"teritorija": "Аранђеловац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 87,
+"udeo": 32.10332103321033
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "sjedinjene-americke-drzave",
+"teritorija": "Сједињене Америчке Државе"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 13071,
+"udeo": 28.072247755680596
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "sremska-mitrovica",
+"teritorija": "Сремска Митровица"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 5325,
+"udeo": 25.387365911799765
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "velika-plana",
+"teritorija": "Велика Плана"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3241,
+"udeo": 24.141527001862197
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "novi-becej",
+"teritorija": "Нови Бечеј"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 18447,
+"udeo": 29.187829306498315
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "kraljevo",
+"teritorija": "Краљево"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 10622,
+"udeo": 24.486502685631294
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "valjevo",
+"teritorija": "Ваљево"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 22752,
+"udeo": 27.251820620927557
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "palilula",
+"teritorija": "Палилула"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 22836,
+"udeo": 26.913376546847378
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "leskovac",
+"teritorija": "Лесковац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 7218,
+"udeo": 27.269636178170693
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "aleksinac",
+"teritorija": "Алексинац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 32,
+"udeo": 45.714285714285715
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "ceska-republika",
+"teritorija": "Чешка Република"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 23456,
+"udeo": 29.1042646383681
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "vozdovac",
+"teritorija": "Вождовац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 4089,
+"udeo": 32.641494372156146
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "kladovo",
+"teritorija": "Кладово"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 24603,
+"udeo": 25.955543364736418
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "kragujevac",
+"teritorija": "Крагујевац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 45,
+"udeo": 30
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "holandija",
+"teritorija": "Холандија"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 6110,
+"udeo": 45.35332541567696
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "surdulica",
+"teritorija": "Сурдулица"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 15788,
+"udeo": 24.814925420052496
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "sabac",
+"teritorija": "Шабац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 39,
+"udeo": 36.44859813084112
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "belgija",
+"teritorija": "Белгија"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 9810,
+"udeo": 29.75883512816624
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "stara-pazova",
+"teritorija": "Стара Пазова"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3883,
+"udeo": 35.432064969431515
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "nova-varos",
+"teritorija": "Нова Варош"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2910,
+"udeo": 26.232759397818445
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "majdanpek",
+"teritorija": "Мајданпек"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 25509,
+"udeo": 28.21729607752041
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "cukarica",
+"teritorija": "Чукарица"
+},
+{
+"rezultat": {
+"izbornaLista": "Ивица Дачић - \"Социјалистичка партија Србије (СПС), Партија уједињених пензионера Србије (ПУПС), Јединствена Србија (ЈС)\"",
+"rezultat": {
+"glasova": 13308,
+"udeo": 36.36164922538867
+},
+"boja": "#74add1",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-partija-ujedinjenih-penzionera-srbije-pups-jedinstvena-srbija-js"
+},
+"teritorijaSlug": "jagodina",
+"teritorija": "Јагодина"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 874,
+"udeo": 28.31227729186913
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "gnjilane",
+"teritorija": "Гњилане"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 20225,
+"udeo": 27.08910944134153
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "zvezdara",
+"teritorija": "Звездара"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 6424,
+"udeo": 27.63010752688172
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "savski-venac",
+"teritorija": "Савски венац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3804,
+"udeo": 21.46848016253739
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "aleksandrovac",
+"teritorija": "Александровац"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 25615,
+"udeo": 31.01164677110826
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "zemun",
+"teritorija": "Земун"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 10280,
+"udeo": 25.86488866524091
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "pozarevac",
+"teritorija": "Пожаревац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 31806,
+"udeo": 26.95469414735843
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "novi-beograd",
+"teritorija": "Нови Београд"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3198,
+"udeo": 26.07632093933464
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "zabalj",
+"teritorija": "Жабаљ"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 10903,
+"udeo": 22.510116442315635
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "nis-medijana",
+"teritorija": "Ниш - Медијана"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 36361,
+"udeo": 26.92709297589514
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "nis",
+"teritorija": "Ниш"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 14589,
+"udeo": 25.148678698867457
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "cacak",
+"teritorija": "Чачак"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 2779,
+"udeo": 24.435065506023037
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "varvarin",
+"teritorija": "Варварин"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 2710,
+"udeo": 38.76967095851216
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "dimitrovgrad",
+"teritorija": "Димитровград"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 6580,
+"udeo": 45.14579759862779
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "despotovac",
+"teritorija": "Деспотовац"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 42876,
+"udeo": 24.626942826618876
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "novi-sad",
+"teritorija": "Нови Сад"
+},
+{
+"rezultat": {
+"izbornaLista": "Избор за бољи живот - Борис Тадић",
+"rezultat": {
+"glasova": 76238,
+"udeo": 23.794928775640145
+},
+"boja": "#4575b4",
+"izbornaListaSlug": "izbor-za-bolji-zivot-boris-tadic"
+},
+"teritorijaSlug": "juznobacki",
+"teritorija": "Јужнобачки"
+},
+{
+"rezultat": {
+"izbornaLista": "Покренимо Србију - Томислав Николић",
+"rezultat": {
+"glasova": 3714,
+"udeo": 27.079839591687932
+},
+"boja": "#313695",
+"izbornaListaSlug": "pokrenimo-srbiju-tomislav-nikolic"
+},
+"teritorijaSlug": "lebane",
+"teritorija": "Лебане"
+}
+]
+}

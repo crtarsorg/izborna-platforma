@@ -12,6 +12,7 @@ mongo_utils = MongoUtils(mongo)
 
 def create_app():
     # Here we  create flask instance
+
     app = Flask(__name__)
 
     # Load application configurations

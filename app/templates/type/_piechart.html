@@ -7,7 +7,7 @@
 
                 <div class="x6">
                     <div class="x7">
-                    <span class="percentage-value" style="color:white;">{{ '{0:0.2f}'.format(results_voters['percentage'])}}%</span>
+                    <span class="percentage-value" style="color:white;"><span class="total_percentage_value"></span>%</span>
                     </div>
                     <div class="x8">
 
@@ -16,12 +16,13 @@
 
                 <!-- END Content -->
             </div>
-              <div class="x3" style="margin-top:113px;text-align:center;padding-top:10px;">Излазност: {{ '{0:,}'.format(results_voters['total_voters'])}}</div>
+              <div class="x3" style="margin-top:113px;text-align:center;padding-top:10px;">Излазност: <span class="total_voters_value"></span></div>
         </div>
 
     </div>
 
 </div>
+
 <style>
     .percentage-value{
         position:absolute;
@@ -65,7 +66,7 @@
     width:100%;
 }
 .x7{
-    width:{{ results_voters['percentage'] }}%;
+    width:60%;
     float:left;
     height:100%;
 }
@@ -108,15 +109,16 @@
 @media (min-width: 801px)
 {
     .x1 {width:800px}
+
     .x2 {
         padding: 32.5%;
-    margin-top: 74px;
-    position: absolute
+        margin-top: 74px;
+        position: absolute
     }
 }
 </style>
 <script>
-    var total_percentage ={{ results_voters['percentage'] }};
+    var total_percentage =60;
     var remove = 100 - total_percentage;
     $('.x8').css('width',remove+'%');
 </script>

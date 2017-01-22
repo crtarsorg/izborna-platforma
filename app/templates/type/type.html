@@ -1,29 +1,34 @@
-{% extends "layout.html" %}
 
+{% extends "layout.html" %}
 {% block body %}
     <div class="row">
         {% include "include/election_tabs.html" %}
-
     </div><!-- end of elections tab -->
-    <div class="col-md-12 col-xs-12 col-sm-12" id="no-territory-selected">
-         {% include "type/_indicators_no_teritory_selected.html" %}
+    <div class="col-md-9 col-xs-12 col-sm-12" id="no-territory-selected">
+            {% include "type/_indicators_no_teritory_selected.html" %}
     </div>
-    <div class="col-md-12 col-xs-12 col-sm-12" id="territory-selected" style="display:none">
-         {% include "type/_indicators_territory_selected.html" %}
+    <div class="col-md-3 col-sm-12 col-xs-12" id="piechart-no-territory-selected">
+        {% if year!=2000 %}
+            <div class="col-md-12 col-sm-12 col-xs-12" style="margin-top:-40px;">
+                {% include "type/_piechart.html" %}
+            </div>
+        {% endif %}
+    </div><!-- end of piechart -->
+
+    <div class="col-md-6 col-xs-12 col-sm-12" id="territory-selected" style="display:none">
+        {% include "type/_indicators_territory_selected.html" %}
     </div>
     <div class="row">
         <div class="col-md-9 col-sm-12 col-xs-12 lists">
-             {% include "type/_map.html" %}
+            {% include "type/_map.html" %}
         </div><!-- end of map -->
         <div class="col-md-3 col-sm-12 col-xs-12 indicators-div">
             {% include "type/_indicators.html" %}
-
         </div><!-- end of indicators -->
     </div><!-- end of map and indicators -->
     <div class="row">
         <div class="col-md-12 col-sm-12 col-xs-12">
-              {% include "type/_table.html" %}
+            {% include "type/_table.html" %}
         </div>
     </div><!-- end of table summary and table details -->
-
 {% endblock %}

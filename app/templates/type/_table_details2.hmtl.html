@@ -1,0 +1,98 @@
+
+
+{% if typeizbori=="parlamentarni" %}
+    <div class="select2-div">
+    <select class="form-control" id="select2" multiple="multiple">
+        <option value="1" selected="selected" class="selected_0"></option>
+        <option value="2" selected="selected" class="selected_1"></option>
+        <option value="3" selected="selected" class="selected_2"></option>
+        <option value="4" selected="selected" class="selected_3"></option>
+        <option value="5" selected="selected" class="selected_4"></option>
+
+    </select>
+    </div>
+       <table id="details" class="" cellspacing="0" width="100%">
+       <thead>
+           <tr>
+               <th>Територија име</th>
+           </tr>
+       </thead>
+       <tbody>
+
+        </tbody>
+    </table>
+{% endif %}
+<script>
+    $(document).ready(function(){
+        var arraylength=0;
+       $.ajax({
+                type: "GET",
+                url: "http://0.0.0.0:5006/api/izbori/2/{{ typeizbori }}/godina/{{ year }}/instanca/3/krug/{{ krug }}",
+                async: false,
+                dataType: 'json',
+                success: function (response){
+                    arraylength=response['candidates'].length;
+                    var countitems=0;
+                        $(response).each(function(key1,index1) {
+                            countitems++;
+                                    $(".select2-search-choice div").each(function (index) {
+                                        $(this).html(response['candidates'][index]['izbornaLista']);
+                                    })
+                            $(response['candidates']).each(function(key11, index11){
+
+                                if (key11 <= 4) {
+                                    $('#details thead tr').append('<th class="data-th selected_'+index11['izbornaListaSlug']+'">'+index11['izbornaLista']+'</th>');
+                                }
+                                if (key11 >4) {
+                                    $('#details thead tr').append('<th class="data-th selected_'+index11['izbornaListaSlug']+'" style="display:none">'+index11['izbornaLista']+'</th>');
+                                }
+
+                            })
+
+                        })
+                    $.ajax({
+                        type: "GET",
+                        url: "http://0.0.0.0:5006/api/izbori/2/parlamentarni/godina/{{ year }}/teritorija/instanca/3",
+                        async: false,
+                        dataType: 'json',
+                        success: function (response1) {
+                                var a =0;
+                              $(response).each(function(key,index) {
+                                  a++;
+                              })
+                             $(response1).each(function(key1,index1) {
+                                $('#details tbody').append('<tr><td>'+index1['teritorija']+'</td></tr>');
+
+                                          $(response).each(function (key, index) {
+                                              var count_cols = 0;
+                                              $(index1['rezultat']).each(function (key2, index2) {
+                                                    console.log(index2);
+                                                  if (index['candidates'][key2]['izbornaLista'] == index2['izbornaLista'] && count_cols<=5) {
+                                                      console.log(key2 + '--' + index2['rezultat']['glasova']);
+                                                      $('#details tbody tr').append('<td style="" class="values_' + key2 + '">' + index2['rezultat']['glasova'] + '</td>');
+                                                      count_cols++;
+                                                  }
+                                              })
+
+                                          })
+
+                             })
+
+                        },
+                        error: function (error) {
+                        console.log(error);
+                        }
+                    })
+                 },
+           error: function (error) {
+               console.log(error);
+           }
+       });
+
+    })
+
+</script>
+
+
+
+

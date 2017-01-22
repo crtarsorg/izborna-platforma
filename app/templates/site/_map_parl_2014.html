@@ -20,19 +20,23 @@
             return result;
         }
         $(function () {
-            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
             var data = [];
-            var i = 0;
-                    {%  for winner in winner_territory_2014 %}
-                        data.push({
-                            "NAME_2": transliterate("{{ winner['teritorija'] }}"),
-                            "terrigorySlug": transliterate("{{ winner['teritorijaSlug'] }}"),
-                            "color": "{% for list in list_political_parties %} {% if winner['rezultat'][0]['izbornaListaSlug']==list['slug'] %}{{ list['color'] }} {% endif %} {% endfor %}",
+        $.getJSON('{{ url_for("static",filename="data/map_landing_page.json") }}',function (datajson) {
+
+            for (var i = 0; i < datajson['map_par_2014'].length; i++) {
+
+                     data.push({
+                            "NAME_2": transliterate(datajson['map_par_2014'][i]['teritorija']),
+                            "terrigorySlug": transliterate(datajson['map_par_2014'][i]['teritorijaSlug']),
+                            "color": datajson['map_par_2014'][i]['rezultat']['boja'],
                             "izbornaLista":""
                         });
-                    {% endfor %}
 
-            console.log(data);
+            }
+            });
+
+            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
+                console.log(data);
             // Initialize the map
             $('#containermap_2014').highcharts('Map', {
                 chart: {
@@ -75,6 +79,7 @@
             });
             });
         });
+
        $(window).resize(function () {
            $("#containermap_2014").highcharts().setSize($("#containermap_2014").width(),$("#containermap_2014").height(),doAnimation = true);
        });

@@ -65,11 +65,13 @@
         </ul>
           <div id="tabs-1" class="year-list-tabs">
             <ul>
-                <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}">2002   - Први круг</a></li>
+                {#<li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}">2002   - Први круг</a></li>
                 <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi') }}">2002  - Други круг</a></li>
                 <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='drugi') }}">2003  - Други круг</a></li>
                 <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi') }}">2008   - Први круг</a></li>
                 <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi') }}">2012  - Први круг</a></li>
+#}
+
 
             </ul>
           </div>
@@ -79,6 +81,10 @@
                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none') }}">2008</a></li>
                 <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none') }}">2012</a></li>
                 <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}">2014</a></li>
+
+
+{#                <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='4', krug='none') }}">2007</a></li>
+                <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none') }}">2016</a></li>#}
                 <!-- second data source -->
 
                 </li>

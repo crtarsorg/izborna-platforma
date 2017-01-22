@@ -1,33 +1,6 @@
-{%  set color="" %}
-{% set count=0 %}
-{% if typeizbori=="parlamentarni" %}
-{% for list in list_political_parties %}
-{%  for winner in winner_territory %}
 
-    {% if list['name']==winner['rezultat'][0]['izbornaLista'] %}
-        {% set color=list['name'] %}
-        {% set count=count + 1 %}
+<div class="col-md-12" id="map-legend" style="margin-bottom:30px;">
 
-        {% if count==1 %}
-       <p style="float:left;margin-right:20px;"><span style="width:20px;height:20px;background-color:{{ list['color'] }};position: absolute;"></span><span style="margin-left:30px;">{{ list['name'] }}</span></p>
-        {% endif %}
-    {% endif %}
-{% endfor %}
-{% endfor %}
-{% endif %}
+</div>
 
-{% if typeizbori=="predsjednicki" %}
-{% for list in list_political_parties %}
-{%  for winner in winner_territory %}
 
-    {% if list['name']==winner['rezultat'][0]['kandidat'] %}
-        {% set color=list['name'] %}
-        {% set count=count + 1 %}
-
-        {% if count==1 %}
-       <p style="float:left;margin-right:20px;"><span style="width:20px;height:20px;background-color:{{ list['color'] }};position: absolute;"></span><span style="margin-left:30px;">{{ list['name'] }}</span></p>
-        {% endif %}
-    {% endif %}
-{% endfor %}
-{% endfor %}
-{% endif %}

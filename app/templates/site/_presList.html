@@ -7,13 +7,13 @@
                 {% include "site/_site_map_pres_2012.html" %}
     </div>
     <div class="col-md-10">
-        <div class="col-md-12 year-list"><a href="type/1/predsjednicki/2012/1/krug/drugi">2012 Други круг</a></div>
+        <div class="col-md-12 year-list"><a href="type/1/predsjednicki/2012/1/krug/drugi">2012 Drugi krug</a></div>
             <div class="col-md-3 col-sm-3 name-list">{{ data2012pres[0]['kandidat'] }}</div>
             <div class="col-md-1">
                 <p class="nr-votes">{{ '{0:,}'.format(data2012pres[0]['glasova']) }}</p>
             </div>
             <div class="col-md-7">
-                <div class="progress custom-progress">
+                <div class="progress custom-progress custom-progress-2014">
                     <div class="progress-bar" role="progressbar" style="width:{{ data2012pres[0]['udeo']}}%; {% for i in list_political_parties %} {% if i['name']==data2012pres[0]['kandidat'] %} background-color:{{ i['color'] }}" {% endif %}{% endfor %} aria-valuenow="{{ data2012pres[0]['udeo'] }}" aria-valuemin="0" aria-valuemax="100">
                       <span class="sr-only">{{ data2012pres[0]['udeo'] }}% Complete</span>
                     </div>
