@@ -1,7 +1,10 @@
 <div class="indicators">
     <div class="in-header">
-        <h4 class="bg-primary">Листа</h4>
-         {% include "type/_indicatory_tabs.html" %}
+        <a href="#" id="toggle-indicators"><h4 class="bg-primary">Листа   <span class="arrow_shape">▾</span></h4></a>
+
+        <div class="div-indicators">
+            {% include "type/_indicatory_tabs.html" %}
+        </div>
     </div>
 </div>
 <div class="territory_info" style="display:none">
@@ -11,3 +14,4 @@
 <div class="party_info" style="display:none">
       {% include "type/_party_info.html" %}
 </div>
+

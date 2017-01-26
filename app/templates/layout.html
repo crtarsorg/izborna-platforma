@@ -8,22 +8,20 @@
 </head>
 
 <body id="page-top">
-{% include 'include/navigation.html' %}
 
-    <section>
+
+{% include 'include/navigation.html' %}
         <div class="container-fluid">
-                <div class="row">
-                <div class="col-md-12">
                       {% block body %}
 
                       {% endblock %}
-                </div>
-                </div>
+
+
         </div>
-    </section>
-    <section id="footer">
-        {% include 'include/footer.html' %}
-    </section>
+
+{#<div id="contact">
+{% include 'include/footer.html' %}
+    </div>#}
 </body>
 <div class="loader"></div>
 <style>
@@ -66,6 +64,8 @@
             $('.first-progress').css('background-color', response['candidates'][0]['boja']);
             $('.second-progress').css('background-color', response['candidates'][1]['boja']);
             $('.name-list1').text(response['candidates'][0]['izbornaLista']);
+            $('.name-list1,.nr-votes1, #first-percentage-value-main').css('color',response['candidates'][0]['boja']);
+            $('.name-list2,.nr-votes2, #second-percentage-value-main').css('color',response['candidates'][1]['boja']);
             $('.name-list2').text(response['candidates'][1]['izbornaLista']);
             var nr_votes_1 = response['candidates'][0]['glasova'].toLocaleString();
             var nr_votes_2 = response['candidates'][1]['glasova'].toLocaleString();
@@ -79,22 +79,85 @@
              $('#second-percentage-value-main').html(udeo2.toFixed(2) + '%');
             $('.party_name').on('click',function(e){
                 e.preventDefault();
+                $('#party-list-names li a').removeClass('select-p-tab');
+
                 var selected_candidate=$(this).attr('href');
-                console.log(selected_candidate);
-                 //reinit_map(response);
+                $('#containermap').html('');
+                $(this).addClass('select-p-tab');
+
+                $('.territory_info').hide();
+
+                 reinit_map(response,selected_candidate);
             })
         }
         function reinit_map(response,selected_candidate){
              $('.party_info').hide();
             $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
-            var data = [];
-            var i = 0;
-                var a=0;
-                $(response['winners']).each(function(index, value){
-                        console.log(value);
+                var data = [];
+
+                $(response['winners']).each(function (index, value) {
+                    $(value['rezultat']).each(function (a, b) {
+                        if (b['izbornaListaSlug'] == selected_candidate) {
+                            data.push({
+                                "teritorija": transliterate(value['teritorija']),
+                                "terrigorySlug": transliterate(value['teritorijaSlug']),
+                                "value": b['rezultat']['udeo'],
+                                "izbornaLista": selected_candidate
+                            });
+                        }
+                    })
                 })
 
-            });
+
+                $('#containermap').highcharts('Map', {
+                    title: {
+                        text: ''
+                    },
+                    tooltip: {
+                        'enabled': false
+                    },
+                    plotOptions: {
+                        series: {
+                            cursor: 'pointer',
+                            point: {
+                                events: {
+                                    click: function () {
+                                        var terrritory_selected_slug = this.terrigorySlug;
+                                         var terrritory_selected = this.teritorija;
+                                        var izbornaLista=this.izbornaLista;
+                                        console.log(izbornaLista);
+                                        on_reinit_map_click(response,terrritory_selected_slug,this.izbornaLista,terrritory_selected);
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    mapNavigation: {
+                        enableMouseWheelZoom: false,
+                        enabled: true,
+                        buttonOptions: {
+                            verticalAlign: 'bottom'
+                        }
+                    },
+                    colorAxis: {
+                        min: 0
+                    },
+                    series: [{
+                        showInLegend: true,
+                        data: data,
+                        mapData: geojson,
+                        joinBy: ['NAME_2', 'teritorija'],
+                        keys: ['NAME_2', 'NAME_1'],
+                        animation: true,
+                        name: 'Teritorija',
+                        {#dataLabels: {
+                            enabled: true,
+                            color: '#FFFFFF',
+                            format: '{point.NAME_2}'
+                        },#}
+                    }]
+                });
+            })
         }
         // detasil table
         function init_details_table(response){
@@ -217,7 +280,7 @@
                                             '</div>'+
                                         '</div>'+
                                 '</div>'+
-                                '<div class="col-md-2 percentage font-size-11">'+index['rezultat'][0]['rezultat']['udeo'].toFixed(2)+'</div>'+
+                                '<div class="col-md-2 percentage font-size-11">'+index['rezultat'][0]['rezultat']['udeo'].toFixed(2)+'%</div>'+
 
                                 '<span class="float-left font-size-11 table-votes col-md-3">'+index['rezultat'][1]['rezultat']['glasova'].toLocaleString()+'</span>'+
                                 '<div class="col-md-7">' +
@@ -227,7 +290,7 @@
                                             '</div>'+
                                         '</div>'+
                                 '</div>'+
-                                '<div class="col-md-2 percentage font-size-11 col-md-3">'+index['rezultat'][1]['rezultat']['udeo'].toFixed(2)+'</div>'+
+                                '<div class="col-md-2 percentage font-size-11 col-md-3">'+index['rezultat'][1]['rezultat']['udeo'].toFixed(2)+'%</div>'+
                                 '</td>' +
                                  '</tr>');
                            {% else %}
@@ -239,7 +302,7 @@
                                  '<div class="col-md-7">' +
                                         '<div class="progress">' +
                                             '<div class="progress-bar" style="width:'+index['rezultat'][0]['rezultat']['udeo']+'%;background:'+index['rezultat'][0]['boja']+'" role="progressbar" aria-valuenow='+index['rezultat'][0]['rezultat']['udeo']+' aria-valuemin="0" aria-valuemax="100">' +
-                                                '<span class="sr-only">'+index['rezultat'][0]['rezultat']['udeo']+'</span>'+
+                                                '<span class="sr-only">'+index['rezultat'][0]['rezultat']['udeo']+'%</span>'+
                                             '</div>'+
                                         '</div>'+
                                 '</div>'+
@@ -253,7 +316,7 @@
                                             '</div>'+
                                         '</div>'+
                                 '</div>'+
-                                '<div class="col-md-2 percentage font-size-11">'+index['rezultat'][1]['rezultat']['udeo'].toFixed(2)+'</div>'+
+                                '<div class="col-md-2 percentage font-size-11">'+index['rezultat'][1]['rezultat']['udeo'].toFixed(2)+'%</div>'+
                                 '</td>' +
                                 '</tr>');
                         {% endif %}
@@ -264,7 +327,7 @@
           var registered_voters=teritorija[0]['brojUpisanihBiracaUBirackiSpisak'];
           var voters=teritorija[0]['biraciKojiSuGlasali'];
           var percentage=(voters / registered_voters) * 100;
-          $('#territory-name').append("<span>Tериторија: "+teritorija[0]['teritorija']+"</span><span style='float:right;margin-right:15px;'>"+Number(percentage).toFixed(2)+"%</span>");
+          $('#territory-name').append("<span> "+teritorija[0]['teritorija']+"</span><span style='float:right;margin-right:15px;'>"+Number(percentage).toFixed(2)+"%</span>");
       }
 
       function party_list_percentage_map(key1,index1) {
@@ -273,6 +336,11 @@
       }
       // map click
       function on_map_click(response,territory_selected){
+       // $('.territory_info').animate({scrollTop:$('.territory_info').height()}, 1000);
+
+
+               //alert('More than 960');
+          $('#all-results').removeClass('disabled-link');
             $('#territory-name').html('');
             $('#party-list').html('');
             var territorija=[];
@@ -293,11 +361,14 @@
             get_territory_name_percentage(territorija);
 
           $('#all-results').removeClass('disabled_link');
+          $('#all-results').css('pointer-events','cursor');
           $('#all-results').removeAttr('disabled');
           $('#all-results').addClass('btn-selected-territory');
 
           $('#selected-territory-name').text(territorija[0]['teritorija'])
           {% if typeizbori=="parlamentarni" %}
+               $('#first-izborna-lista-name,#first-nr-votes-parla,#first-percentage-value-parl').css('color',territorija[0]['rezultat'][0]['boja']);
+              $('#second-izborna-lista-name,#second-nr-votes-parla,#second-percentage-value-parl').css('color',territorija[0]['rezultat'][1]['boja']);
               $('#first-izborna-lista-name').text(territorija[0]['rezultat'][0]['izbornaLista']);
               $('#second-izborna-lista-name').text(territorija[0]['rezultat'][1]['izbornaLista']);
               $('#first-nr-votes-parla').text(territorija[0]['rezultat'][0]['rezultat']['glasova'].toLocaleString());
@@ -317,6 +388,96 @@
               $('#first-percentage-value-pred').text(Number(territorija['rezultat'][0]['rezultat']['udeo']).toFixed(2)+"%");
               $('#second-percentage-value-pred').text(Number(territorija['rezultat'][1]['rezultat']['udeo']).toFixed(2)+"%");
           {% endif %}
+
+      }
+
+       function on_reinit_map_click(response,territory_selected_slug,candidate_selected,terrritory_selected){
+            $('#territory-name').html('');
+            $('#party-list').html('');
+            var territorija=[];
+            $('#territory-selected').show();
+            $('#no-territory-selected').removeClass('col-md-12');
+            $('#no-territory-selected').addClass('col-md-6');
+            $('#piechart-no-territory-selected').hide();
+            $(response['winners']).each(function(key,index){
+                if(territory_selected_slug==index['teritorijaSlug']){
+                    territorija.push(index);
+                }
+            })
+            $('#tabs-other').html('');
+
+            get_territory_name_percentage(territorija);
+
+          $('#all-results').removeClass('disabled-link');
+          $('#all-results').removeAttr('disabled');
+          $('#all-results').addClass('btn-selected-territory');
+
+
+          {% if typeizbori=="parlamentarni" %}
+              $('#first-izborna-lista-name').text(territorija[0]['rezultat'][0]['izbornaLista']);
+              $('#second-izborna-lista-name').text(territorija[0]['rezultat'][1]['izbornaLista']);
+
+              $('#first-nr-votes-parla').text(territorija[0]['rezultat'][0]['rezultat']['glasova'].toLocaleString());
+              $('#second-nr-votes-parla').text(territorija[0]['rezultat'][1]['rezultat']['glasova'].toLocaleString());
+              $('#first-progress-parl').css({width:territorija[0]['rezultat'][0]['rezultat']['udeo']+"%", background:territorija[0]['rezultat'][0]['boja']});
+              $('#second-progress-parl').css({width:territorija[0]['rezultat'][1]['rezultat']['udeo']+"%", background:territorija[0]['rezultat'][1]['boja']});
+              $('#first-percentage-parl').text(territorija[0]['rezultat'][0]['rezultat']['udeo']);
+              $('#first-percentage-value-parl').text(Number(territorija[0]['rezultat'][0]['rezultat']['udeo']).toFixed(2)+"%");
+              $('#second-percentage-value-parl').text(Number(territorija[0]['rezultat'][1]['rezultat']['udeo']).toFixed(2)+"%");
+              $('#first-izborna-lista-name,#first-nr-votes-parla,#first-percentage-value-parl').css('color',territorija[0]['rezultat'][0]['boja']);
+              $('#second-izborna-lista-name,#second-nr-votes-parla,#second-percentage-value-parl').css('color',territorija[0]['rezultat'][1]['boja']);
+          {% else %}
+              $('#first-kandidat-name').text(territorija[0]['rezultat'][0]['kandidat']);
+              $('#second-kandidat-name').text(territorija[0]['rezultat'][1]['kandidat']);
+              $('#first-nr-votes-pred').text(territorija[0]['rezultat'][0]['rezultat']['glasova'].toLocaleString());
+              $('#second-nr-votes-pred').text(territorija[0]['rezultat'][1]['rezultat']['glasova'].toLocaleString());
+              $('#first-progress-pred').css({width:territorija[0]['rezultat'][0]['rezultat']['udeo'], background:territorija[0]['rezultat'][0]['boja']});
+              $('#second-progress-pred').css({width:territorija[0]['rezultat'][1]['rezultat']['udeo'], background:territorija[0]['rezultat'][1]['boja']});
+              $('#first-percentage-value-pred').text(Number(territorija['rezultat'][0]['rezultat']['udeo']).toFixed(2)+"%");
+              $('#second-percentage-value-pred').text(Number(territorija['rezultat'][1]['rezultat']['udeo']).toFixed(2)+"%");
+          {% endif %}
+
+                $('.party_info').show();
+                $('#party-territory-name').html('');
+                $('#voters_turnout').html('');
+                $('#winner-territory').html('');
+                $('#winner-party').html('');
+
+                $('#party-territory-name').text(territorija[0]['teritorija']);
+               var izbornaLista=candidate_selected;
+                var voters_turnout=territorija[0]['rezultat']['glasova'];
+                var resigtered_voters=territorija[0]['brojUpisanihBiracaUBirackiSpisak'];
+                var voters=territorija[0]['biraciKojiSuGlasali'];
+                var percentage=(voters / resigtered_voters) * 100
+                var result_votes;
+                var percentage_votes;
+                $('#voters_turnout').append('<b>Укупно Излазност: </b> <span style="float:right;margin-right:20px;">'+percentage.toFixed(2)+'%</span>');
+                var candidate_name="";
+                var i=0;
+
+
+                   $(territorija).each(function(a,b) {
+                                $(b).each(function (c, d) {
+
+
+                                    $(d['rezultat']).each(function(e,f){
+                                             if (candidate_selected==f['izbornaListaSlug']){
+                                                        percentage_votes=f['rezultat']['udeo'];
+                                                 candidate_name=f['izbornaLista'];
+
+
+                                             }
+                                    })
+
+                                })
+                            })
+
+
+                $('#winner-territory').append("<span>"+candidate_name+"</span><span style='float:right;margin-right:20px'>"+ percentage_votes.toFixed(2)+"%</span>");
+
+                var winner=territorija[0]['rezultat'][0]['izbornaLista'];
+                 var winner_percentage=Number(territorija[0]['rezultat'][0]['rezultat']['udeo']).toFixed(2);
+                $('#winner-party').append("<span style=''>победник: "+winner+"</span><span style='float:right;margin-right:20px;'>"+winner_percentage+"%</span>");
       }
       // end of map click
         //initiliaze map click
@@ -337,6 +498,7 @@
                 $(response['candidates']).each(function(a,b){
                     $('#map-legend').append('<p style="float:left"><span style="width:20px;height:20px;margin-right:10px;margin-left:10px;float:left;background-color:'+b['boja']+'"></span><span>'+b['izbornaLista']+'</span></p>')
                 })
+
             $('#containermap').highcharts('Map', {
                     title: {
                         text: ''
@@ -375,19 +537,19 @@
                         keys: ['NAME_2', 'NAME_1'],
                         animation: true,
                         name: 'Teritorija',
-                        dataLabels: {
+                       {# dataLabels: {
                         enabled: true,
                         color: '#FFFFFF',
                         format: '{point.NAME_2}'
-                    },
+                    },#}
                     }]
                 });
             });
        }
-       // end of map click
 
         // call functions on windows load
        $(window).load(function() {
+
                 $(".loader").css("display", "none");
                 $.ajax({
                     type: "GET",
@@ -396,11 +558,18 @@
                     async: false,
                     dataType: 'json',
                     success: function (response) {
+
                         init_map(response);
                         init_summary_table(response);
                         init_details_table(response);
-                        $('#summary').DataTable();
-                        $('#details').DataTable();
+                        $('#summary,#details').DataTable({
+                             "language": {
+                                "url": "{{ url_for("static",filename="data/datatable_translate.json")}}"
+                                 }
+                        });
+
+
+
                         fill_html(response);
                },
                error: function (error) {
@@ -411,18 +580,41 @@
         // end of window load
         // restar results from beginning - no selections
         function init_results(){
-            $('#all-results').click(function() {
-                $(this).removeClass('disabled-link');
-                $(this).removeClass('btn-selected-territory');
-                $(this).attr('disabled', 'disabled');
+                $('#containermap').html();
                 $('#territory-selected').hide();
                 $('#no-territory-selected').removeClass('col-md-6');
                 $('#no-territory-selected').addClass('col-md-9');
                 $('#piechart-no-territory-selected').show();
                 $('.territory_info').hide();
-                })
+                   $.ajax({
+                    type: "GET",
+                    url: "{{ url_for("static",filename="data/parlamentarni/") }}{{ year }}.json",
+                    //url: "http://0.0.0.0:5006/api/izbori/2/{{ typeizbori }}/godina/{{ year }}/instanca/3/krug/{{ krug }}",
+                    async: false,
+                    dataType: 'json',
+                    success: function (response) {
+                        $('#map-legend').html('');
+                        init_map(response);
+
+               },
+               error: function (error) {
+                   console.log(error);
+               }
+           });
+
             }
-            init_results();
+              $('#all-results').click(function() {
+                    $(this).addClass('disabled-link');
+                    $(this).removeClass('btn-selected-territory');
+                    $(this).attr('disabled', 'disabled');
+                    init_results();
+              })
+            $('#start-map').on('click',function(){
+               $('#party-list-names li a').removeClass('select-p-tab');
+
+                 init_results();
+            });
+
 </script>
 <style>
     .party_list_t{

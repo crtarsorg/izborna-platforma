@@ -1,8 +1,8 @@
 <script>
     $(document).ready(function(){
-             $("#tabs-results li").click(function (e) {
+             $("#tabs-results li a").click(function (e) {
                  e.preventDefault();
-             $('li').removeClass('select-p-tab');
+             $('li a').removeClass('select-p-tab');
              $(this).addClass("select-p-tab");
          });
     })
@@ -17,7 +17,7 @@
     <div id="tabs-results">
         {% set count = 0 %}
         <ul id="party-list-names">
-            <li class="select-p-tab" id="show-all-parties"><a href="#" id="start-map">Cве</a></li>
+            <li  id="show-all-parties"><a class="select-p-tab" href="#" id="start-map">Укупни резултати</a></li>
         {#{%  for item in data %}
             {% set count = count + 1 %}
              <li style="font-size:12px;">{{ count }} - {%  if typeizbori=="predsjednicki" %}

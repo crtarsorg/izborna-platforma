@@ -8,14 +8,13 @@ section{
     padding:50px 0;
 }
 .background-gray{
-    background:lightgray;
-    overflow:auto;
+    background:#ffffff;
+
     padding-bottom:40px;
 }
 .election-tabs-link{
     cursor:pointer;
-    padding-top:15px;
-    padding-left:20px;
+
 }
 .election-tabs-link p{
     color:#243e88;
@@ -25,17 +24,20 @@ section{
     background: #243e88;
 }
 .tabs{
-    width:400px;
-    position:absolute;
-    z-index: 10;
+      width:30%;
+       position:absolute;
+        z-index: 10;
+  }
+@media only screen and (max-width: 500px) {
+     .tabs{
+      width:100%;
+       position:absolute;
+        z-index: 10;
+  }
+
 }
-.header-l h4{
-    background-color:#c6363c;
-    color:rgba(255,255,255,.7);
-    padding:10px;
-    margin:0px;
-    padding-left:20px;
-}
+
+
 .content-list ul{
     padding:20px;
     padding-left: 40px;
@@ -51,11 +53,10 @@ section{
 }
 
 .year-list{
-    padding:20px;
     font-size:20px;
 }
 .name-list{
-    padding-left: 20px;
+    padding-bottom:10px;
 }
 
 .progressbar-red{
@@ -108,7 +109,8 @@ font-size:11px;
 
 }
 .custom-progress{
-    height:30px;
+    height:15px;
+    border-radius:0px;
 }
 .clear-left{
     clear:left;
@@ -149,9 +151,7 @@ font-size:11px;
     width:100% !important;
     margin-bottom:20px !important;
 }
-.indicator-row{
-    margin-bottom:20px;
-}
+
 .title-heading{
     margin-bottom:20px;
     margin-top:40px;
@@ -185,17 +185,11 @@ font-size:11px;
     background-image: url('../assets/social.png');
 }
 .select-p-tab{
-    background:#243e88;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    background:#0E74B6;
+    color:white !important;
 }
-.select-p-tab{
-    color:white;
 
-}
-.select-p-tab a{
-    color:white;
-}
+
 .indicators .ui-tabs .ui-tabs-panel{
     padding:0px;
 }
@@ -218,12 +212,8 @@ font-size:11px;
 .indicators #tabs-results ul{
     padding-left: 10px;
 }
-.indicators #tabs-results ul li{
-    list-style:none;
-    padding-top:5px;
-    padding-top:5px;
-    padding-left:10px;
-}
+
+
 #all-results{
     border-radius:0px !important;
     border: 1px solid #e7e7e7 !important;
@@ -261,9 +251,7 @@ p{
 .percentage,.name-list{
     font-size:12px;
 }
-#piechart-no-territory-selected{
-    margin-top:-20px;
-}
+
 .election-tabs-link p{
     font-size:16px;
 }
@@ -282,9 +270,43 @@ p{
     background: #243e88 !important;
     color:white !important;
 }
-.tabs_indicators a,.tabs_indicators a:hover,.tabs_indicators a:active,.tabs_indicators a:focus {
+.tabs_indicators a {
     color:black;
 }
-.select-p-tab a, .select-p-tab a:hover,.select-p-tab a:active,.select-p-tab a:focus, .select-p-tab a:visited{
+.tabs_indicators a:focus{
     color:white;
+}
+
+#party-list-names li{
+    margin-bottom:5px;
+
+}
+
+#party-list-names li:hover{
+
+    background: #0E74B6;
+    color:white;
+    cursor: pointer;
+}
+#party-list-names li a:hover{
+       color:white;
+}
+body{
+   background: url(/static/assets/body-bg.jpg) !important;
+    height: 100%;
+}
+#footer{
+     position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 5rem;
+    background:#D4D4D4 !important;
+    text-align: center;
+
+}
+#social-media-icons{
+    margin-bottom: 10px;
+    margin-top:10px;
+    text-align:center;
 }

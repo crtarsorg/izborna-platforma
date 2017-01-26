@@ -11,85 +11,30 @@
 }
 </style>
 
-    <div class="row" style="background: #ffffff;">
-        <h4 id="landingpage-h4">Парламентарни избори</h4>
+<div class="row header-l">
+    <div class="content-list background-gray">
+        <h4>Парламентарни избори</h4>
         <div class="arrow_left_side">
         <img alt="Arrow_elections" src="/static/assets/arrow_elections-home.jpg">
       </div>
         <div class="show_all_circle elections_show_all">
-            <a href="#landing_menu" class="landing_circle_link" data-toggle="modal" data-target="#myModal">
+            <a href="#landing_menu" class="landing_circle_link">
               <div class="grey">
                 <div class="show_all">
-                  Покажи све
+                  Show All
                 </div>
               </div>
             </a>
         </div>
-    </div>
- <!-- Modal -->
-
-  <div class="modal fade" id="myModal" role="dialog">
-    <div class="modal-dialog">
-
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-
-        </div>
-        <div class="modal-body">
-            <div class="tabs-type-elections-modal" id="tabs-modal">
-                <ul>
-                    <li id="presjednicki"><a href="#tabs-modal-1">Председнички</a></li>
-                    <li id="parlamentarni"><a href="#tabs-modal-2">Парламентарни</a></li>
-                </ul>
-                  <div id="tabs-modal-1" class="year-list-tabs">
-                    <ul>
-                        {#<li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}">2002   - Први круг</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi') }}">2002  - Други круг</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='drugi') }}">2003  - Други круг</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi') }}">2008   - Први круг</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi') }}">2012  - Први круг</a></li>
-        #}
-
-
-                    </ul>
-                  </div>
-                  <div id="tabs-modal-2"  class="year-list-tabs">
-                    <ul>
-                        <li>
-                            <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none') }}"><img alt="Menu_official" src="/static/assets/menu_link_year.png">2003</a>
-
-                        </li>
-                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none') }}"><img alt="Menu_official" src="/static/assets/menu_link_year.png">2008</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none') }}"><img alt="Menu_official" src="/static/assets/menu_link_year.png">2012</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}"><img alt="Menu_official" src="/static/assets/menu_link_year.png">2014</a></li>
-
-
-        {#                <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='4', krug='none') }}">2007</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none') }}">2016</a></li>#}
-                        <!-- second data source -->
-
-                        </li>
-                    </ul>
-                  </div>
-          </div>
-        </div>
-
-      </div>
-
-    </div>
-  </div>
-
         <!-- beginning of the year 2014 -->
         <!-- first indicator -->
-
-        <div class="row" style="background: #ffffff;">
+        <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
-                <div class="row" >
+                <div class="row">
                 <div class="col-md-2">
                       {% include "site/_map_parl_2014.html" %}
                 </div>
-            <div class="col-md-10 year-data">
+            <div class="col-md-10">
 
                 <div class="col-md-12 year-list">
                     <div class="row">
@@ -99,33 +44,33 @@
                     </div>
                 </div>
                 <div class="row indicator-row">
-                        <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list1_2014"></div>
-                        <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                        <div class="col-md-3 col-sm-4 col-xs-4 name-list name-list1_2014"></div>
+                        <div class="col-md-1 col-sm-3 col-xs-3">
                             <p class="nr-votes nr-votes1_2014"></p>
                         </div>
-                        <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                        <div class="col-md-7 col-sm-3 col-xs-3">
                             <div class="progress custom-progress">
                                 <div class="progress-bar first-progress-2014" style="" role="progressbar" aria-valuenow="50%" aria-valuemin="0" aria-valuemax="100" >
                                   <span class="sr-only">Complete</span>
                                 </div>
                             </div>
                         </div>
-                     <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage1-2014">
+                     <div class="col-md-1 col-sm-2 col-xs-2 percentage1-2014">
                      </div>
                 </div>
                 <div class="row indicator-row">
-                         <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list2_2014"></div>
-                    <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                         <div class="col-md-3 col-sm-4 col-xs-4 name-list name-list2_2014"></div>
+                    <div class="col-md-1 col-sm-3 col-xs-3">
                         <p class="nr-votes nr-votes2_2014"></p>
                     </div>
-                    <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                    <div class="col-md-7 col-sm-3 col-xs-3">
                         <div class="progress custom-progress">
                             <div class="progress-bar  progressbar-red second-progress-2014" role="progressbar" style="" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
                               <span class="sr-only">Complete</span>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage2-2014">
+                    <div class="col-md-1 col-sm-2 col-xs-2 percentage2-2014">
 
                     </div>
             </div>
@@ -140,13 +85,13 @@
         <!-- end of year 2014 -->
 
     <!-- other year -->
-        <div class="row" style="background: #ffffff;">
+        <div class="row">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="row">
                      <div class="col-md-2">
                       {% include "site/_map_parl_2012.html" %}
                     </div>
-                    <div class="col-md-10 year-data">
+                    <div class="col-md-10">
                             <div class="col-md-12 year-list">
                                 <div class="row">
                                     <h3>
@@ -156,34 +101,34 @@
                             </div>
                             <div class="row indicator-row">
 
-                                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list1_2012"></div>
-                                    <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                    <div class="col-md-3 col-sm-4 col-xs-4 name-list name-list1_2012"></div>
+                                    <div class="col-md-1 col-sm-3 col-xs-3">
                                         <p class="nr-votes nr-votes1_2012"></p>
                                     </div>
-                                    <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                    <div class="col-md-7 col-sm-3 col-xs-3">
                                         <div class="progress custom-progress">
                                             <div class="progress-bar first-progress-2012" style="" role="progressbar" aria-valuenow="" aria-valuemin="0" aria-valuemax="100" >
                                               <span class="sr-only">Complete</span>
                                             </div>
                                         </div>
                                     </div>
-                                 <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage1-2012">
+                                 <div class="col-md-1 col-sm-2 col-xs-2 percentage1-2012">
 
                                     </div>
                             </div>
                          <div class="row indicator-row">
-                                     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list2_2012"></div>
-                                <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                     <div class="col-md-3 col-sm-4 col-xs-4 name-list name-list2_2012"></div>
+                                <div class="col-md-1 col-sm-3 col-xs-3">
                                     <p class="nr-votes nr-votes2_2012"></p>
                                 </div>
-                                <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                <div class="col-md-7 col-sm-3 col-xs-3">
                                     <div class="progress custom-progress">
                                         <div class="progress-bar  second-progress-2012" role="progressbar" style="" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
                                           <span class="sr-only">Complete</span>
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage2-2012">
+                                <div class="col-md-1 col-sm-2 col-xs-2 percentage2-2012">
 
                                 </div>
                         </div>
@@ -191,6 +136,10 @@
                 </div>
             </div>
         </div>
+    </div>
+
+
+</div>
 
 {#<div class="row header-l">
     <div class="content-list background-gray">
@@ -238,23 +187,6 @@
 </div>
 </div>
 </div>#}
-<style>
-    #landingpage-h4{
-        background-color: #c6363c;
-    color: #368bc2;
-    /* padding: 10px; */
-    margin: 0px;
-    padding-left: 20px;
-    background-color: #dddddd;
-    padding: 12px 0;
-    border-top: solid 2px #c2c2c2;
-    border-bottom: solid 5px #f5f5f5;
-    padding-left: 20px;
-    font-size: 18px;
-    font-weight: 700;
-        margin-top:-10px
-    }
-</style>
 <script>
 
     $(window).load(function() {
