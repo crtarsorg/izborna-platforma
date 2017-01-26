@@ -14,7 +14,7 @@
     <div class="row" style="background: #ffffff;">
         <h4 id="landingpage-h4">Парламентарни избори</h4>
         <div class="arrow_left_side">
-        <img alt="Arrow_elections" src="/static/assets/arrow_elections-home.jpg">
+            <img alt="elections" src="{{ url_for('static', filename = 'assets/arrow_elections-home.jpg') }}">
       </div>
         <div class="show_all_circle elections_show_all">
             <a href="#landing_menu" class="landing_circle_link" data-toggle="modal" data-target="#myModal">
@@ -57,19 +57,19 @@
                   <div id="tabs-modal-2"  class="year-list-tabs">
                     <ul>
                         <li>
-                            <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none') }}"><img alt="Menu_official" src="/static/assets/menu_link_year.png">2003</a>
+                            <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2003</a>
 
                         </li>
-                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none') }}"><img alt="Menu_official" src="/static/assets/menu_link_year.png">2008</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none') }}"><img alt="Menu_official" src="/static/assets/menu_link_year.png">2012</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}"><img alt="Menu_official" src="/static/assets/menu_link_year.png">2014</a></li>
+                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2008</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2012</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2014</a></li>
 
 
         {#                <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='4', krug='none') }}">2007</a></li>
                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none') }}">2016</a></li>#}
                         <!-- second data source -->
 
-                        </li>
+                      
                     </ul>
                   </div>
           </div>
