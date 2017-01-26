@@ -291,10 +291,7 @@ p{
 #party-list-names li a:hover{
        color:white;
 }
-body{
-   background: url(/static/assets/body-bg.jpg) !important;
-    height: 100%;
-}
+
 #footer{
      position: absolute;
     right: 0;
