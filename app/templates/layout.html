@@ -1,26 +1,17 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-
 {% include 'include/head.html' %}
-
 </head>
-
 <body id="page-top">
+    {% include 'include/navigation.html' %}
+            <div class="container-fluid">
+                          {% block body %}
 
-
-{% include 'include/navigation.html' %}
-        <div class="container-fluid">
-                      {% block body %}
-
-                      {% endblock %}
-
-
-        </div>
-
-<div id="contact">
-{% include 'include/footer.html' %}
+                          {% endblock %}
+            </div>
+    <div id="contact">
+        {% include 'include/footer.html' %}
     </div>
 </body>
 <div class="loader"></div>
@@ -159,7 +150,101 @@
                 });
             })
         }
-        // detasil table
+        // details table
+            var renderer;
+
+           function init_map_territory_selected(response,selected_territory,selected_candidate){
+            $('.party_info').hide();
+
+            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
+                var data = [];
+                var data1 = [];
+                var chart="";
+                 $('#containermap').highcharts();
+                   $(response['winners']).each(function (index, value) {
+                       $(value['rezultat']).each(function(a,b){
+                    if(selected_territory==value['teritorija'] && b['izbornaListaSlug']==selected_candidate){
+                               data.push({
+                                "teritorija": transliterate(value['teritorija']),
+                                "terrigorySlug": transliterate(value['teritorijaSlug']),
+                                "value": b['rezultat']['udeo'],
+                                "izbornaLista": selected_candidate,
+                                   'color':b['boja'],
+                                     'plotBorderColor': 'blue',
+                                     'borderColor': "blue",
+                                        'plotBackgroundColor': 'blue',
+                                        'stroke':'white',
+                                        'selected_territorija':'true',
+                                    'borderWidth': 10,
+                                    'title': {
+                                     'text': 'Mountain house indoor temperatures'
+                                    },
+
+
+                            });
+
+                    }else  if (b['izbornaListaSlug'] == selected_candidate) {
+                                data.push({
+                                "teritorija": transliterate(value['teritorija']),
+                                "terrigorySlug": transliterate(value['teritorijaSlug']),
+                                "value": b['rezultat']['udeo'],
+                                "izbornaLista": selected_candidate,
+                            });
+                    }
+                    })
+
+                })
+                console.log(data1);
+                $('#containermap').highcharts('Map', {
+                    title: {
+                        text: ''
+                    },
+                    tooltip: {
+                        'enabled': false
+                    },
+                    plotOptions: {
+                        series: {
+                            allowPointSelect: true,
+                            cursor: 'pointer',
+                            point: {
+                                events: {
+                                    click: function () {
+                                        var terrritory_selected_slug = this.terrigorySlug;
+                                         var terrritory_selected = this.teritorija;
+                                        var izbornaLista=this.izbornaLista;
+                                        console.log(izbornaLista);
+                                        on_reinit_map_click(response,terrritory_selected_slug,this.izbornaLista,terrritory_selected);
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    mapNavigation: {
+                        enableMouseWheelZoom: false,
+                        enabled: true,
+                        buttonOptions: {
+                            verticalAlign: 'bottom'
+                        }
+                    },
+                    colorAxis: {
+                        min: 0
+                    },
+                    series: [{
+                        data: data,
+                        mapData: geojson,
+                        joinBy: ['NAME_2', 'teritorija'],
+                        keys: ['NAME_2', 'NAME_1'],
+                        animation: true,
+                        name: 'Teritorija',
+                       {#   dataLabels: {
+                            enabled: true,
+                            color: '#FFFFFF',
+
+                        },#}
+                    }]
+                });
+            })
+       }
         function init_details_table(response){
             var init_candidates = [];
              $(response['candidates']).each(function(a,b){
@@ -259,11 +344,42 @@
                 $('#details tbody').append('<tr class=' + b['territoryslug'] + '><td>' + b['territory'] + '</tr>');
                 $(b['rezults']).each(function (aa, bb) {
                         if (aa <= arraylength) {
-                            $('#details tbody tr.' + b['territoryslug']).append('<td style="display:none" class="data_glasova selected_'+bb['candidate']+'">' + bb['glasova'] + '</tr>')
+                            $('#details tbody tr.' + b['territoryslug']).append('<td style="display:none" class="data_glasova selected_'+bb['candidate']+'"><a class="territory_redirect" href="#" data-territory-slug='+b['territoryslug']+' data-territory='+b['territory']+' data-candidate='+bb['candidate']+'>' + bb['glasova'] + '</a></td>')
+
                         }
                 })
             })
-        }
+                $('.territory_redirect').click(function(e){
+                    e.preventDefault();
+                    var territory_slug=$(this).data("territory-slug");
+                    var territory=$(this).data("territory");
+                    var candidate=$(this).data("candidate");
+                     $('#containermap').html('');
+
+                    $('.party_info').show();
+                     var territorija=[];
+                    $('#territory-selected').show();
+                    $('#no-territory-selected').removeClass('col-md-12');
+                    $('#no-territory-selected').addClass('col-md-6');
+                    $('#piechart-no-territory-selected').hide();
+                    $(response['winners']).each(function(key,index){
+                        if(territory_slug==index['teritorijaSlug']){
+                            territorija.push(index);
+                        }
+                    })
+
+                    init_map_territory_selected(response,territory,candidate);
+                    winner_territory_info(response,territorija,candidate);
+                     $('html, body').animate({scrollTop:0}, 'slow');
+                    $('.party_info').show();
+                    $('#start-map').removeClass('select-p-tab');
+                    $('.party_name').removeClass('select-p-tab');
+                    $("a[href*="+candidate+"]").addClass('select-p-tab');
+
+                })
+            }
+
+
         // end of details table
         // summry table
       function init_summary_table(response){
@@ -437,6 +553,9 @@
               $('#second-percentage-value-pred').text(Number(territorija['rezultat'][1]['rezultat']['udeo']).toFixed(2)+"%");
           {% endif %}
 
+        winner_territory_info(response,territorija,candidate_selected)
+      }
+      function winner_territory_info(response,territorija,candidate_selected){
                 $('.party_info').show();
                 $('#party-territory-name').html('');
                 $('#voters_turnout').html('');
@@ -454,18 +573,12 @@
                 $('#voters_turnout').append('<b>Укупно Излазност: </b> <span style="float:right;margin-right:20px;">'+percentage.toFixed(2)+'%</span>');
                 var candidate_name="";
                 var i=0;
-
-
                    $(territorija).each(function(a,b) {
                                 $(b).each(function (c, d) {
-
-
                                     $(d['rezultat']).each(function(e,f){
                                              if (candidate_selected==f['izbornaListaSlug']){
                                                         percentage_votes=f['rezultat']['udeo'];
                                                  candidate_name=f['izbornaLista'];
-
-
                                              }
                                     })
 
@@ -546,6 +659,8 @@
                 });
             });
        }
+
+
 
         // call functions on windows load
        $(window).load(function() {
