@@ -366,15 +366,16 @@
                         if(territory_slug==index['teritorijaSlug']){
                             territorija.push(index);
                         }
-                    })
-
+                    });
+                    $('.party_name').removeClass('select-p-tab');
                     init_map_territory_selected(response,territory,candidate);
                     winner_territory_info(response,territorija,candidate);
                      $('html, body').animate({scrollTop:0}, 'slow');
                     $('.party_info').show();
+                    console.log(candidate);
                     $('#start-map').removeClass('select-p-tab');
                     $('.party_name').removeClass('select-p-tab');
-                    $("a[href*="+candidate+"]").addClass('select-p-tab');
+                    $("a[href="+candidate+"]").addClass('select-p-tab');
 
                 })
             }
