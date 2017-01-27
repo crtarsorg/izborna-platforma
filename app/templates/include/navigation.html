@@ -118,13 +118,10 @@
     .ui-state-default a, .ui-state-default a:link, .ui-state-default a:visited, a.ui-button, a:link.ui-button, a:visited.ui-button, .ui-button{
      color:#0e74b6;
     }
-    .ui-tabs .ui-tabs-nav li{
+
+    #table-tabs li {
         background: none;
         border:none;
-    }
-    .ui-tabs .ui-tabs-nav li.ui-tabs-active{
-        background: #ffffff;
-        outline:none;
     }
 
      .ui-tabs .ui-tabs-nav li a:focus{
@@ -479,14 +476,87 @@
     .landing_circle_link:focus{
         outline: none;
     }
-body{
-    background: url('{{ url_for('static', filename = 'assets/body-bg.jpg') }}');
-    height: 100%;
-}
+    body{
+        background: url('{{ url_for('static', filename = 'assets/body-bg.jpg') }}');
+        height: 100%;
+    }
+    .tabs_table{
+        border:0px !important;
+        border-bottom:1px solid #ddd;
+        background:none;
+    }
+    #table-tabs li{
+        padding:10px !important;
+    }
+    #table-tabs{
+        border-bottom:1px solid #ddd;
+    }
+    .tabs_table ul{
+        border:none;
+        background:none;
+    }
+    #summary_length, #details_length{
+        display: none !important;
+    }
+    .tabs_table.ui-tabs .ui-tabs-nav li a{
+        padding-top:5px;
+        padding-bottom:5px;
+    }
+    .tabs_table.ui-tabs .ui-tabs-nav li.ui-tabs-active{
+        color: #000;
+        background-color: #D6E6F5 !important;
+    }
+    .tabs_table ul li a:hover{
+        background:none !important
+    }
+    .tabs_table.ui-tabs .ui-tabs-nav li.ui-tabs-active:hover{
+        background: #D6E6F5 !important;
+    }
+       .tabs_table.ui-tabs .ui-tabs-nav li a{
+        color:#000;
+    }
+    .tabs_table.ui-tabs .ui-tabs-nav li.ui-tabs-active{
+
+    }
+    #tabs-summary, #tabs-details{
+        padding:0px;
+        padding-top:10px;
+    }
+    #summary thead tr{
+        background-color: #b6cadc;
+    }
+    #summary,#details thead tr th{
+
+    border-bottom: 1px solid #dad8d9;
+    font-size: 12px;
+    background-color: #b6cadc;
+    }
+    #details tbody td{
+        height:40px;
+    }
+    #details tbody tr:hover td {
+        background: #d6e6f5;
+    }
+    #summary tbody tr:hover td {
+        background: #d6e6f5;
+    }
+    #summary_filter, #details_filter {
+        float:left;
+        margin-top:20px;
+        margin-bottom:20px;
+    }
+    .dataTables_wrapper .form-control{
+        display: inline-block;
+        width: 70%;
+    }
+    .select2-div .select2-choices{
+        padding-top:9px;
+    }
 </style>
 <script>
 
       $( function() {
+
           $('.party_name').click(function(e){
               e.preventDefault();
           })
@@ -541,6 +611,19 @@ body{
             $(this).addClass('disabled-tab');
             $('#parlamentarni a').removeClass('disabled-tab');
         })
+        $('#summary-li a').click(function(e){
+             e.preventDefault();
+             e.stopPropagation();
+            $(this).addClass('disabled-tab');
+            $('#details-li a').removeClass('disabled-tab');
+        })
+        $('#details-li a').click(function(e){
+             e.preventDefault();
+             e.stopPropagation();
+            $(this).addClass('disabled-tab');
+            $('#summary-li a').removeClass('disabled-tab');
+        })
+
     })
      $('body').click(function() {
         $('.tabs').hide();

@@ -319,7 +319,8 @@
                                          "territory": territory,
                                          "territoryslug": territoryslug,
                                          'glasova': candidatesterritory_glasova,
-                                         'candidate':d['izbornaListaSlug']
+                                         'candidate':d['izbornaListaSlug'],
+                                         'boja':d['boja']
 
                                      });
                                  }
@@ -330,25 +331,54 @@
                 var exists_territory="";
                 var exists_territory_slug="";
                 var glasova=[];
+                console.log(createdarray);
+                    max_glasova=[];
+                var find_max;
+                 function getMax(array){
+                     return Math.max.apply(Math,array);
+                    }
                 $(createdarray).each(function(a,b){
                     if(index['territoryslug']==b['territoryslug']){
+                        max_glasova.push(b[['glasova']]);
+
                         exists_territory=b['territory'];
                         exists_territory_slug=b['territoryslug'];
-                        glasova.push({'glasova':b['glasova'],'candidate':b['candidate']});
+                        glasova.push({'glasova':b['glasova'],'candidate':b['candidate'],'boja':b['boja']});
 
                     }
                 })
-                mergearray.push({'territory':exists_territory,'rezults':glasova,'territoryslug':exists_territory_slug});
+                var boja_selected="";
+              $(glasova).each(function(a,b){
+                  if(b['glasova']>=getMax(max_glasova)){
+                      boja_selected=b['boja'];
+                  }
+              })
+
+                mergearray.push({'territory':exists_territory,'rezults':glasova,'territoryslug':exists_territory_slug,'boja':boja_selected});
             })
+
+
+
+            console.log(mergearray);
             $(mergearray).each(function (a, b) {
+                console.log(b);
                 $('#details tbody').append('<tr class=' + b['territoryslug'] + '><td>' + b['territory'] + '</tr>');
                 $(b['rezults']).each(function (aa, bb) {
+
                         if (aa <= arraylength) {
-                            $('#details tbody tr.' + b['territoryslug']).append('<td style="display:none" class="data_glasova selected_'+bb['candidate']+'"><a class="territory_redirect" href="#" data-territory-slug='+b['territoryslug']+' data-territory='+b['territory']+' data-candidate='+bb['candidate']+'>' + bb['glasova'] + '</a></td>')
+                            var color="";
+                            if(b['boja']==bb['boja']){
+                                color=bb['boja'];
+                            }
+                            $('#details tbody tr.' + b['territoryslug']).append('<td style="display:none;background:'+color+'" class="data_glasova selected_'+bb['candidate']+'"><a class="territory_redirect" href="#" data-territory-slug='+b['territoryslug']+' data-territory='+b['territory']+' data-candidate='+bb['candidate']+'>' + bb['glasova'].toLocaleString() + '</a></td>')
 
                         }
+
                 })
+                //console.log(find_max);
             })
+
+
                 $('.territory_redirect').click(function(e){
                     e.preventDefault();
                     var territory_slug=$(this).data("territory-slug");
@@ -384,12 +414,13 @@
         // end of details table
         // summry table
       function init_summary_table(response){
+      console.log(response['winners']);
           $.each(response['winners'], function (key, index) {
               {% if typeizbori=="parlamentarni" %}
                   $('#summary tbody').append('<tr><td>'+index['teritorija']+'</td>' +
-                          '<td>'+index['rezultat'][0]['izbornaLista']+'<br/>'+index['rezultat'][1]['izbornaLista']+'</td>' +
+                          '<td ><span style="color:'+index['rezultat'][0]['boja']+'">'+index['rezultat'][0]['izbornaLista']+'</span><br/><span style="color:'+index['rezultat'][1]['boja']+'">'+index['rezultat'][1]['izbornaLista']+'</span></td>' +
                                 '<td>' +
-                                '<span class="float-left font-size-11 table-votes col-md-3">'+index['rezultat'][0]['rezultat']['glasova'].toLocaleString()+'</span>'+
+                                '<span style="color:'+index['rezultat'][0]['boja']+'" class="float-left font-size-12 table-votes col-md-3">'+index['rezultat'][0]['rezultat']['glasova'].toLocaleString()+'</span>'+
                                  '<div class="col-md-7">' +
                                         '<div class="progress">' +
                                             '<div class="progress-bar" style="width:'+index['rezultat'][0]['rezultat']['udeo']+'%;background:'+index['rezultat'][0]['boja']+'" role="progressbar" aria-valuenow='+index['rezultat'][0]['rezultat']['udeo']+' aria-valuemin="0" aria-valuemax="100">' +
@@ -397,9 +428,9 @@
                                             '</div>'+
                                         '</div>'+
                                 '</div>'+
-                                '<div class="col-md-2 percentage font-size-11">'+index['rezultat'][0]['rezultat']['udeo'].toFixed(2)+'%</div>'+
+                                '<div style="color:'+index['rezultat'][0]['boja']+'" class="col-md-2 percentage font-size-12">'+index['rezultat'][0]['rezultat']['udeo'].toFixed(2)+'%</div>'+
 
-                                '<span class="float-left font-size-11 table-votes col-md-3">'+index['rezultat'][1]['rezultat']['glasova'].toLocaleString()+'</span>'+
+                                '<span style="color:'+index['rezultat'][1]['boja']+'" class="float-left font-size-12 table-votes col-md-3">'+index['rezultat'][1]['rezultat']['glasova'].toLocaleString()+'</span>'+
                                 '<div class="col-md-7">' +
                                         '<div class="progress">' +
                                             '<div class="progress-bar" style="width:'+index['rezultat'][1]['rezultat']['udeo']+'%;background:'+index['rezultat'][1]['boja']+'" role="progressbar" aria-valuenow='+index['rezultat'][1]['rezultat']['udeo']+' aria-valuemin="0" aria-valuemax="100">' +
@@ -407,7 +438,7 @@
                                             '</div>'+
                                         '</div>'+
                                 '</div>'+
-                                '<div class="col-md-2 percentage font-size-11 col-md-3">'+index['rezultat'][1]['rezultat']['udeo'].toFixed(2)+'%</div>'+
+                                '<div style="color:'+index['rezultat'][1]['boja']+'" class="col-md-2 percentage font-size-12 col-md-3">'+index['rezultat'][1]['rezultat']['udeo'].toFixed(2)+'%</div>'+
                                 '</td>' +
                                  '</tr>');
                            {% else %}
@@ -415,7 +446,7 @@
                         $('#summary tbody').append('<tr><td>'+index['teritorija']+'</td>' +
                                 '<td>'+index['rezultat'][0]['kandidat']+'<br/>'+index['rezultat'][1]['kandidat']+'</td>' +
                                 '<td>' +
-                                '<span class="float-left font-size-11 table-votes col-md-3">'+index['rezultat'][0]['rezultat']['glasova'].toLocaleString()+'</span>'+
+                                '<span class="float-left font-size-12 table-votes col-md-3">'+index['rezultat'][0]['rezultat']['glasova'].toLocaleString()+'</span>'+
                                  '<div class="col-md-7">' +
                                         '<div class="progress">' +
                                             '<div class="progress-bar" style="width:'+index['rezultat'][0]['rezultat']['udeo']+'%;background:'+index['rezultat'][0]['boja']+'" role="progressbar" aria-valuenow='+index['rezultat'][0]['rezultat']['udeo']+' aria-valuemin="0" aria-valuemax="100">' +
@@ -423,7 +454,7 @@
                                             '</div>'+
                                         '</div>'+
                                 '</div>'+
-                                '<div class="col-md-2 percentage font-size-11">'+index['rezultat'][0]['rezultat']['udeo'].toFixed(2)+'</div>'+
+                                '<div class="col-md-2 percentage font-size-12">'+index['rezultat'][0]['rezultat']['udeo'].toFixed(2)+'</div>'+
 
                                 '<span class="float-left font-size-11 table-votes col-md-3">'+index['rezultat'][1]['rezultat']['glasova'].toLocaleString()+'</span>'+
                                 '<div class="col-md-7">' +
@@ -433,7 +464,7 @@
                                             '</div>'+
                                         '</div>'+
                                 '</div>'+
-                                '<div class="col-md-2 percentage font-size-11">'+index['rezultat'][1]['rezultat']['udeo'].toFixed(2)+'%</div>'+
+                                '<div class="col-md-2 percentage font-size-12">'+index['rezultat'][1]['rezultat']['udeo'].toFixed(2)+'%</div>'+
                                 '</td>' +
                                 '</tr>');
                         {% endif %}
@@ -698,6 +729,7 @@
         function init_results(){
                 $('#containermap').html();
                 $('#territory-selected').hide();
+
                 $('#no-territory-selected').removeClass('col-md-6');
                 $('#no-territory-selected').addClass('col-md-9');
                 $('#piechart-no-territory-selected').show();
@@ -719,6 +751,11 @@
            });
 
             }
+
+            $.extend( $.fn.dataTableExt.oStdClasses, {
+                "sFilterInput": "form-control",
+                "sLengthSelect": "form-control"
+            });
               $('#all-results').click(function() {
                     $(this).addClass('disabled-link');
                     $(this).removeClass('btn-selected-territory');
