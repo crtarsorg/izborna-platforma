@@ -370,7 +370,7 @@
                             if(b['boja']==bb['boja']){
                                 color=bb['boja'];
                             }
-                            $('#details tbody tr.' + b['territoryslug']).append('<td style="display:none;background:'+color+'" class="data_glasova selected_'+bb['candidate']+'"><a class="territory_redirect" href="#" data-territory-slug='+b['territoryslug']+' data-territory='+b['territory']+' data-candidate='+bb['candidate']+'>' + bb['glasova'].toLocaleString() + '</a></td>')
+                            $('#details tbody tr.' + b['territoryslug']).append('<td  href="#" data-territory-slug='+b['territoryslug']+' data-territory='+b['territory']+' data-candidate='+bb['candidate']+' style="display:none;background:'+color+'" class="data_glasova selected_'+bb['candidate']+' territory_redirect"><a  href="#">' + bb['glasova'].toLocaleString() + '</a></td>')
 
                         }
 
@@ -388,10 +388,8 @@
 
                     $('.party_info').show();
                      var territorija=[];
-                    $('#territory-selected').show();
-                    $('#no-territory-selected').removeClass('col-md-12');
-                    $('#no-territory-selected').addClass('col-md-6');
-                    $('#piechart-no-territory-selected').hide();
+                 
+
                     $(response['winners']).each(function(key,index){
                         if(territory_slug==index['teritorijaSlug']){
                             territorija.push(index);
