@@ -116,7 +116,7 @@
                                         var terrritory_selected_slug = this.terrigorySlug;
                                          var terrritory_selected = this.teritorija;
                                         var izbornaLista=this.izbornaLista;
-                                        console.log(izbornaLista);
+
                                         on_reinit_map_click(response,terrritory_selected_slug,this.izbornaLista,terrritory_selected);
                                     }
                                 }
@@ -151,100 +151,7 @@
             })
         }
         // details table
-            var renderer;
 
-           function init_map_territory_selected(response,selected_territory,selected_candidate){
-            $('.party_info').hide();
-
-            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
-                var data = [];
-                var data1 = [];
-                var chart="";
-                 $('#containermap').highcharts();
-                   $(response['winners']).each(function (index, value) {
-                       $(value['rezultat']).each(function(a,b){
-                    if(selected_territory==value['teritorija'] && b['izbornaListaSlug']==selected_candidate){
-                               data.push({
-                                "teritorija": transliterate(value['teritorija']),
-                                "terrigorySlug": transliterate(value['teritorijaSlug']),
-                                "value": b['rezultat']['udeo'],
-                                "izbornaLista": selected_candidate,
-                                   'color':b['boja'],
-                                     'plotBorderColor': 'blue',
-                                     'borderColor': "blue",
-                                        'plotBackgroundColor': 'blue',
-                                        'stroke':'white',
-                                        'selected_territorija':'true',
-                                    'borderWidth': 10,
-                                    'title': {
-                                     'text': 'Mountain house indoor temperatures'
-                                    },
-
-
-                            });
-
-                    }else  if (b['izbornaListaSlug'] == selected_candidate) {
-                                data.push({
-                                "teritorija": transliterate(value['teritorija']),
-                                "terrigorySlug": transliterate(value['teritorijaSlug']),
-                                "value": b['rezultat']['udeo'],
-                                "izbornaLista": selected_candidate,
-                            });
-                    }
-                    })
-
-                })
-                console.log(data1);
-                $('#containermap').highcharts('Map', {
-                    title: {
-                        text: ''
-                    },
-                    tooltip: {
-                        'enabled': false
-                    },
-                    plotOptions: {
-                        series: {
-                            allowPointSelect: true,
-                            cursor: 'pointer',
-                            point: {
-                                events: {
-                                    click: function () {
-                                        var terrritory_selected_slug = this.terrigorySlug;
-                                         var terrritory_selected = this.teritorija;
-                                        var izbornaLista=this.izbornaLista;
-                                        console.log(izbornaLista);
-                                        on_reinit_map_click(response,terrritory_selected_slug,this.izbornaLista,terrritory_selected);
-                                    }
-                                }
-                            }
-                        }
-                    },
-                    mapNavigation: {
-                        enableMouseWheelZoom: false,
-                        enabled: true,
-                        buttonOptions: {
-                            verticalAlign: 'bottom'
-                        }
-                    },
-                    colorAxis: {
-                        min: 0
-                    },
-                    series: [{
-                        data: data,
-                        mapData: geojson,
-                        joinBy: ['NAME_2', 'teritorija'],
-                        keys: ['NAME_2', 'NAME_1'],
-                        animation: true,
-                        name: 'Teritorija',
-                       {#   dataLabels: {
-                            enabled: true,
-                            color: '#FFFFFF',
-
-                        },#}
-                    }]
-                });
-            })
-       }
         function init_details_table(response){
             var init_candidates = [];
              $(response['candidates']).each(function(a,b){
@@ -284,7 +191,7 @@
                  })
                  $('.paginate_button').on('click',function(){
                      var data1 = $('#select2').select2('data');
-                     console.log(data1);
+
                      $(data1).each(function(key1,index1) {
                      $('.'+index1['id']).show();
 
@@ -331,7 +238,7 @@
                 var exists_territory="";
                 var exists_territory_slug="";
                 var glasova=[];
-                console.log(createdarray);
+
                     max_glasova=[];
                 var find_max;
                  function getMax(array){
@@ -358,10 +265,8 @@
             })
 
 
-
-            console.log(mergearray);
             $(mergearray).each(function (a, b) {
-                console.log(b);
+
                 $('#details tbody').append('<tr class=' + b['territoryslug'] + '><td>' + b['territory'] + '</tr>');
                 $(b['rezults']).each(function (aa, bb) {
 
@@ -379,7 +284,107 @@
             })
 
 
+           function init_map_territory_selected(response,selected_territory,selected_candidate){
+            $('.party_info').hide();
+
+            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
+                var data = [];
+                var data1 = [];
+                var chart="";
+                 $('#containermap').highcharts();
+                   $(response['winners']).each(function (index, value) {
+                       $(value['rezultat']).each(function(a,b){
+                    if(selected_territory==value['teritorija'] && b['izbornaListaSlug']==selected_candidate){
+                               data.push({
+                                "teritorija": transliterate(value['teritorija']),
+                                "terrigorySlug": transliterate(value['teritorijaSlug']),
+                                "value": b['rezultat']['udeo'],
+                                "izbornaLista": selected_candidate,
+                                   'color':b['boja'],
+                                     'plotBorderColor': 'blue',
+                                     'borderColor': "blue",
+                                        'plotBackgroundColor': 'blue',
+                                        'stroke':'white',
+                                        'selected_territorija':'true',
+                                    'borderWidth': 10,
+                                    'title': {
+                                     'text': 'Mountain house indoor temperatures',
+                                        'id':'selected_ter'
+                                    },
+
+
+                            });
+
+                    }else  if (b['izbornaListaSlug'] == selected_candidate) {
+                                data.push({
+                                "teritorija": transliterate(value['teritorija']),
+                                "terrigorySlug": transliterate(value['teritorijaSlug']),
+                                "value": b['rezultat']['udeo'],
+                                "izbornaLista": selected_candidate,
+                            });
+                    }
+                    })
+
+                })
+
+                $('#containermap').highcharts('Map', {
+
+                    title: {
+                        text: ''
+                    },
+                    tooltip: {
+                        'enabled': false
+                    },
+                    plotOptions: {
+                        series: {
+                            allowPointSelect: true,
+                            cursor: 'pointer',
+                            point: {
+                                events: {
+                                    click: function () {
+                                        var terrritory_selected_slug = this.terrigorySlug;
+                                         var terrritory_selected = this.teritorija;
+                                        var izbornaLista=this.izbornaLista;
+
+                                        on_reinit_map_click(response,terrritory_selected_slug,this.izbornaLista,terrritory_selected);
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    mapNavigation: {
+                        enableMouseWheelZoom: false,
+                        enabled: true,
+                        buttonOptions: {
+                            verticalAlign: 'bottom'
+                        }
+                    },
+                    colorAxis: {
+                        min: 0
+                    },
+
+                    series: [{
+                        id:'series_1',
+                        data: data,
+                        mapData: geojson,
+                        joinBy: ['NAME_2', 'teritorija'],
+                        keys: ['NAME_2', 'NAME_1'],
+                        animation: true,
+                        name: 'Teritorija',
+                       {#  dataLabels: {
+                            enabled: true,
+                            color: '#FFFFFF',
+
+                        }#}
+                    }]
+                });
+            })
+       }
+
+
                 $('.territory_redirect').click(function(e){
+                 {#var chart = new Highcharts.Chart(options);
+                    chart.get('b').setState('select');#}
                     e.preventDefault();
                     var territory_slug=$(this).data("territory-slug");
                     var territory=$(this).data("territory");
@@ -388,7 +393,7 @@
 
                     $('.party_info').show();
                      var territorija=[];
-                 
+
 
                     $(response['winners']).each(function(key,index){
                         if(territory_slug==index['teritorijaSlug']){
@@ -397,10 +402,22 @@
                     });
                     $('.party_name').removeClass('select-p-tab');
                     init_map_territory_selected(response,territory,candidate);
+                    //console.log(response['winners']);
+
+                    $(response['winners']).each(function(index,value){
+                        $(value['rezultat']).each(function(index1,value1){
+                            if(candidate==value1['izbornaListaSlug'] && territory==value['teritorija']){
+
+                            }
+                        })
+                       // console.log(value['teritorija']);
+                       // console.log(territory);
+                    })
+
                     winner_territory_info(response,territorija,candidate);
                      $('html, body').animate({scrollTop:0}, 'slow');
                     $('.party_info').show();
-                    console.log(candidate);
+
                     $('#start-map').removeClass('select-p-tab');
                     $('.party_name').removeClass('select-p-tab');
                     $("a[href="+candidate+"]").addClass('select-p-tab');
@@ -412,7 +429,7 @@
         // end of details table
         // summry table
       function init_summary_table(response){
-      console.log(response['winners']);
+
           $.each(response['winners'], function (key, index) {
               {% if typeizbori=="parlamentarni" %}
                   $('#summary tbody').append('<tr><td>'+index['teritorija']+'</td>' +
