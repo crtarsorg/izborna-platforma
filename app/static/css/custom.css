@@ -136,6 +136,7 @@ font-size:15px !important;
     margin-bottom:20px;
     max-height:500px;
     overflow: auto;
+    background:#ffffff;
 }
 #detail-info h4, #party-info h4{
     background: #337ab7;

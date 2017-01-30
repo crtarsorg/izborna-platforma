@@ -20,7 +20,7 @@
 </section>
     <section class="type-initial-results">
     <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-12" >
             <div class="row">
                 <div class="col-md-9 col-xs-12 col-sm-12" id="no-territory-selected">
                         {% include "type/_indicators_no_teritory_selected.html" %}
@@ -41,19 +41,19 @@
     </div>
     </section>
 
-    <div class="col-m-12">
+    <div class="col-m-12"  style="background:#edecd1">
         <div class="row" style="margin-top:5px;">
             <div class="col-md-9 col-sm-12 col-xs-12">
                 {% include "type/_map.html" %}
             </div><!-- end of map -->
-            <div class="col-md-3 col-sm-12 col-xs-12">
+            <div class="col-md-3 col-sm-12 col-xs-12" style="padding-top: 20px;padding-right:30px;">
                 {% include "type/_indicators.html" %}
             </div><!-- end of indicators -->
 
         </div>
     </div>
     <!-- end of map and indicators -->
-    <div class="row" style="margin-bottom:88px;">
+    <div class="row" style="margin-bottom:88px;" id="datatable-results">
         <div class="col-md-12 col-sm-12 col-xs-12">
             {% include "type/_table.html" %}
         </div>

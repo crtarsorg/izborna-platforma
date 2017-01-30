@@ -104,6 +104,15 @@
 
 
                 $('#containermap').highcharts('Map', {
+                    chart: {
+                          backgroundColor: {
+                            linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                             stops: [
+                                [0, '#edecd1'],
+                                [1, '#edecd1']
+                            ]
+                        }
+                        },
                     title: {
                         text: ''
                     },
@@ -331,6 +340,15 @@
                 })
 
                 $('#containermap').highcharts('Map', {
+                    chart: {
+                          backgroundColor: {
+                            linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                             stops: [
+                                [0, '#edecd1'],
+                                [1, '#edecd1']
+                            ]
+                        }
+                        },
 
                     title: {
                         text: ''
@@ -663,6 +681,15 @@
                 })
 
             $('#containermap').highcharts('Map', {
+                 chart: {
+                          backgroundColor: {
+                            linearGradient: { x1: 0, y1: 0, x2: 0, y2: 1 },
+                             stops: [
+                                [0, '#edecd1'],
+                                [1, '#edecd1']
+                            ]
+                        }
+                        },
                     title: {
                         text: ''
                     },
@@ -700,6 +727,9 @@
                         keys: ['NAME_2', 'NAME_1'],
                         animation: true,
                         name: 'Teritorija',
+                        borderColor: 'black',
+                        borderWidth: 1,
+
                        {# dataLabels: {
                         enabled: true,
                         color: '#FFFFFF',
