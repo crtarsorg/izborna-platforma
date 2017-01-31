@@ -447,7 +447,7 @@
                                  formatter: function() {
 
                                      if(transliterate(selected_territory)==this.point.NAME_2) {
-                                         return ("<span  style='padding:20px;overflow: auto;display:block;background:white;border-radius:3px;'><a href='#' class='remove-popup'><img style='float:right;margin-top:-15px;margin-right:-14px;'src='{{ url_for('static', filename = 'assets/popup-close.png') }}'/></a><span class='datalabel' style='float:left;color:black;'>" + selected_territory + "</span></span>");
+                                         return ("<span  style='padding:20px;overflow: auto;display:block;background:white;border-radius:3px;'><a href='#' class='remove-popup'><img style='float:right;margin-top:-15px;margin-right:-14px;'src='{{ url_for('static', filename = 'assets/popup-close.png') }}'/></a><span class='datalabel' style='float:left;color:black;'>" + selected_territory + "</span></span><div id='Feature Popup_FrameDecorationDiv_4' style='position: absolute; overflow: hidden; width: 81px; height: 35px; left: 0px;'><img src='{{ url_for('static', filename = 'assets/arrow-popup.png') }}' style='width: 1276px; height: 736px; position: absolute; left: -215px; top: -690px;'/></div>");
                                      }
                                     }
                                 },
