@@ -568,11 +568,23 @@
     }
 
 
+
     // end of details table
     // summry table
     function init_summary_table(response) {
-
+            console.log(response['winners']);
         $.each(response['winners'], function (key, index) {
+                //console.log(index['brojUpisanihBiracaUBirackiSpisak']);
+                //console.log(index['biraciKojiSuGlasali']);
+               var resigtered_voters = index['brojUpisanihBiracaUBirackiSpisak'];
+                var voters = index['biraciKojiSuGlasali'];
+                var percentage = (voters / resigtered_voters) * 100;
+                console.log(percentage);
+                    var remove = 100 - percentage;
+
+                    var total_percentage =60;
+                    var remove = 100 - total_percentage;
+                    $('.x8').css('width',remove+'%');
             {% if typeizbori=="parlamentarni" %}
                 $('#summary tbody').append('<tr><td>' + index['teritorija'] + '</td>' +
                         '<td ><span style="color:' + index['rezultat'][0]['boja'] + '">' + index['rezultat'][0]['izbornaLista'] + '</span><br/><span style="color:' + index['rezultat'][1]['boja'] + '">' + index['rezultat'][1]['izbornaLista'] + '</span></td>' +
@@ -597,7 +609,27 @@
                         '</div>' +
                         '<div style="color:' + index['rezultat'][1]['boja'] + '" class="col-md-2 percentage font-size-12 col-md-3">' + index['rezultat'][1]['rezultat']['udeo'].toFixed(2) + '%</div>' +
                         '</td>' +
+                        '<td>'+
+                         '<div class="x0" style="width:60%;height:200px;margin-top:-50px;">'+
+                               '<div class="x1" style="width:300px">'+
+                                ' <div class="x2" style="position:relative">'+
+                                '<div class="x3" style="">'+
+                                '<div class="x6">'+
+                                '<div class="x7">'+
+                                '<span class="percentage-value" style="color:white;"><span>'+index['percentage'].toFixed(2)+'</span>%</span>'+
+                                '</div>'+
+                                '<div class="x8">'+
+                                '</div>'+
+                                '</div>'+
+                                 '<div class="x3" id="piechar-votes">Излазност: <span class="total_voters_value">'+index['biraciKojiSuGlasali']+'</span></div>'+
+                                '</div>'+
+                                '</div>'+
+                                '</div>'+
+                         '</div>'+
+                        '</td>'+
                         '</tr>');
+                         $('#total_percentage_value_territory_'+key).html(percentage.toFixed(2));
+
             {% else %}
 
                 $('#summary tbody').append('<tr><td>' + index['teritorija'] + '</td>' +
