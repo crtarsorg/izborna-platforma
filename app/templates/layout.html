@@ -1004,7 +1004,7 @@
         $('#no-territory-selected').addClass('col-md-9');
         $('#piechart-no-territory-selected').show();
         $('.territory_info').hide();
-
+         $('.default-first-indicators').show();
 
 
 
@@ -1032,13 +1032,15 @@
         "sFilterInput": "form-control",
         "sLengthSelect": "form-control"
     });
-    $('#all-results').click(function () {
+    $('#all-results').click(function (e) {
+        e.preventDefault();
         $(this).addClass('disabled-link');
         $(this).removeClass('btn-selected-territory');
         $(this).attr('disabled', 'disabled');
         init_results();
     })
-    $('#start-map').on('click', function () {
+    $('#start-map').on('click', function (e) {
+        e.preventDefault();
         $('#party-list-names li a').removeClass('select-p-tab');
 
         init_results();

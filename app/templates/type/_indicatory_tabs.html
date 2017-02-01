@@ -17,7 +17,7 @@
     <div id="tabs-results">
         {% set count = 0 %}
         <ul id="party-list-names">
-            <li  id="show-all-parties"><a class="select-p-tab" href="#" id="start-map">Укупни резултати</a></li>
+
         {#{%  for item in data %}
             {% set count = count + 1 %}
              <li style="font-size:12px;">{{ count }} - {%  if typeizbori=="predsjednicki" %}

@@ -1,5 +1,5 @@
 .bg-primary{
-    background-color:#243e88;
+    background-color:#337ab7;
 }
 .navbar-default .nav>li.active>a, .navbar-default .nav>li.active>a:focus{
     color:#FFFFFF !important;
@@ -84,11 +84,18 @@ section{
     padding-left: 30px;
 }
 
-.in-header h4{
+.lista-header h4{
+    float:left;
+}
+.lista-header a,.lista-header a:focus,.lista-header a:active{
+    color:white;
+}
+.in-header .lista-header{
     padding: 0px;
     margin: 0px;
-    padding: 10px;
+    padding: 5px;
     background:#337ab7;
+
 }
 #containermap{
     height: 700px;
