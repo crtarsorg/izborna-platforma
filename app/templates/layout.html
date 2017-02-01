@@ -383,7 +383,7 @@
         function init_map_territory_selected(response, selected_territory, selected_candidate) {
             $('.party_info').hide();
             var chart;
-            console.log(selected_territory);
+
             $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
                 var data = [];
                 var data1 = [];
@@ -572,7 +572,7 @@
     // end of details table
     // summry table
     function init_summary_table(response) {
-            console.log(response['winners']);
+
         $.each(response['winners'], function (key, index) {
                 //console.log(index['brojUpisanihBiracaUBirackiSpisak']);
                 //console.log(index['biraciKojiSuGlasali']);
@@ -675,7 +675,7 @@
     function on_map_click(response, territory_selected) {
         // $('.territory_info').animate({scrollTop:$('.territory_info').height()}, 1000);
 
-
+        $('.default-first-indicators').hide();
         //alert('More than 960');
         $('#all-results').removeClass('disabled-link');
         $('#territory-name').html('');
@@ -853,9 +853,11 @@
                 });
 
             })
-            $(response['candidates']).each(function (a, b) {
+
+            <!-- remove legend -->
+            {#$(response['candidates']).each(function (a, b) {
                 $('#map-legend').append('<p style="float:left"><span style="width:20px;height:20px;margin-right:10px;margin-left:10px;float:left;background-color:' + b['boja'] + '"></span><span>' + b['izbornaLista'] + '</span></p>')
-            })
+            })#}
 
             $('#containermap').highcharts('Map', {
                 chart: {
@@ -916,7 +918,39 @@
             });
         });
     }
+    function isInArray(array, search)
+    {
+        return array.indexOf(search) >= 0;
+    }
 
+    //first indicators components on default map
+     function default_first_indicators(response){
+            var array_list=[];
+            var candidate_one_color=[];
+            $(response['winners']).each(function(index,value){
+             $(value).each(function(index,indicator){
+                 if(isInArray(array_list, indicator['rezultat'][0]['izbornaLista']))
+                    {
+                    }else{
+                     array_list.push(indicator['rezultat'][0]['izbornaLista']);
+                    }
+
+
+                })
+            })
+            var candidates_color=[];
+             $(response['candidates']).each(function(index,value){
+                 $(array_list).each(function(a,b){
+                     if(b==value['izbornaLista']){
+                         candidates_color.push({'candidates':value['izbornaLista'],'boja':value['boja']});
+                     }
+                 })
+             })
+             $(candidates_color).each(function(a,b){
+                 console.log(b);
+                 $('#list-indicators').append("<div class='party_list_t'><div id='party-color' style='background-color:" + b['boja'] + "'></div><div style='float:left;width:70%;'>" + b['candidates'] + "</div></div>");
+             })
+            }
 
     // call functions on windows load
     $(window).load(function () {
@@ -938,11 +972,12 @@
             dataType: 'json',
             success: function (response) {
                  var text = $('.highcharts-menu-item').text();
-                console.log(text);
+
                 $('.highcharts-menu-item').html(text.replace('Print chart', 'test'));
                 init_map(response);
                 init_summary_table(response);
                 init_details_table(response);
+                default_first_indicators(response);
                 $('#summary,#details').DataTable({
                     "language": {
                         "url": "{{ url_for("static",filename="data/datatable_translate.json")}}"
@@ -958,6 +993,7 @@
             }
         });
     })
+
     // end of window load
     // restar results from beginning - no selections
     function init_results() {
@@ -982,6 +1018,7 @@
                 $('#map-legend').html('');
                 init_map(response);
 
+
             },
             error: function (error) {
                 console.log(error);
@@ -989,6 +1026,7 @@
         });
 
     }
+
 
     $.extend($.fn.dataTableExt.oStdClasses, {
         "sFilterInput": "form-control",

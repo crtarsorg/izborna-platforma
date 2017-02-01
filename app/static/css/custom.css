@@ -129,7 +129,7 @@ font-size:15px !important;
 .indicators #tabs-results{
        background:white;
 }
-.territory_info,.party_info{
+.territory_info,.party_info,.default-first-indicators {
     border: 1px solid #c5c5c5;
     height:300px;
     margin-top:20px;
@@ -138,7 +138,7 @@ font-size:15px !important;
     overflow: auto;
     background:#ffffff;
 }
-#detail-info h4, #party-info h4{
+#detail-info h4, #party-info h4, #default-indicators h4{
     background: #337ab7;
     color:white;
     padding:10px;
