@@ -954,6 +954,12 @@
 
     // call functions on windows load
     $(window).load(function () {
+         var $iW = $(window).innerWidth();
+            if ($iW < 1000) {
+                $('#containermap').css('height','400px');
+            } else {
+                $('#containermap').css('height','900px');
+            }
     Highcharts.setOptions({
 	lang: {
         printChart: "принт графикон",
