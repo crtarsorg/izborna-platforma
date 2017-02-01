@@ -669,7 +669,7 @@
 
     function party_list_percentage_map(key1, index1) {
         $('.territory_info').show();
-        $('#party-list').append("<p class='party_list_t'><span id='party-color' style='background-color:" + index1['boja'] + "'></span>" + index1['izbornaLista'] + "<span id='party-list-rez'>" + Number(index1['rezultat']['udeo']).toFixed(2) + "%</span></p>");
+        $('#party-list').append("<div class='party_list_t'><div id='party-color' style='background-color:" + index1['boja'] + "'></div><div style='float:left;width:70%;'>" + index1['izbornaLista'] + "</div><div id='party-list-rez'>" + Number(index1['rezultat']['udeo']).toFixed(2) + "%</div></div>");
     }
     // map click
     function on_map_click(response, territory_selected) {
@@ -920,7 +920,15 @@
 
     // call functions on windows load
     $(window).load(function () {
-
+    Highcharts.setOptions({
+	lang: {
+        printChart: "принт графикон",
+        downloadPNG:"Пнг слика за преузимање",
+        downloadJPEG:"ЈПЕГ слика Преузимање",
+        downloadPDF:"Преузмите ПДФ документ",
+        downloadSVG:"СВГ вектор слику Преузимање"
+	}
+});
         $(".loader").css("display", "none");
         $.ajax({
             type: "GET",
@@ -929,14 +937,17 @@
             async: false,
             dataType: 'json',
             success: function (response) {
-
+                 var text = $('.highcharts-menu-item').text();
+                console.log(text);
+                $('.highcharts-menu-item').html(text.replace('Print chart', 'test'));
                 init_map(response);
                 init_summary_table(response);
                 init_details_table(response);
                 $('#summary,#details').DataTable({
                     "language": {
                         "url": "{{ url_for("static",filename="data/datatable_translate.json")}}"
-                    }
+                    },
+               {#    #}{# "dom": '<"top"i>rt<"bottom"flp><"clear">'#}
                 });
 
 
@@ -957,6 +968,10 @@
         $('#no-territory-selected').addClass('col-md-9');
         $('#piechart-no-territory-selected').show();
         $('.territory_info').hide();
+
+
+
+
         $.ajax({
             type: "GET",
             url: "{{ url_for("static",filename="data/parlamentarni/") }}{{ year }}.json",
@@ -991,13 +1006,17 @@
         init_results();
     });
 
+
+
 </script>
 <style>
     .party_list_t {
-        margin-top: 10px;
-        margin-bottom: 0px;
-        font-size: 11px;
-        height: 25px
+        font-size:12px;
+        margin-top:10px;
+        height:40px;
+        display: block;
+        clear: both;
+        word-wrap: break-word;
     }
 
     #party-color {

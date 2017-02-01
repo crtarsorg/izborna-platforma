@@ -514,9 +514,9 @@
         border:none;
         background:none;
     }
-    #summary_length, #details_length{
-        display: none !important;
-    }
+   {# #summary_length, #details_length{
+     #}{#   display: none !important;#}{#
+    }#}
     .tabs_table.ui-tabs .ui-tabs-nav li a{
         padding-top:5px;
         padding-bottom:5px;
@@ -566,9 +566,10 @@
         background: #d6e6f5;
     }
     #summary_filter, #details_filter {
-        float:left;
-        margin-top:20px;
         margin-bottom:20px;
+    }
+    .dataTables_length label{
+        width:310px;
     }
     .dataTables_wrapper .form-control{
         display: inline-block;
@@ -579,6 +580,9 @@
     }
     .territory_redirect{
          cursor:pointer;
+    }
+    select.form-control{
+        width:30% !important;
     }
 </style>
 <script>
