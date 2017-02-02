@@ -33,6 +33,7 @@
 </html>
 <script>
 
+    var $iW = $(window).innerWidth();
     function transliterate(word) {
         var A = {};
         var result = '';
@@ -143,6 +144,9 @@
         $('#second-percentage-value-main').html(udeo2.toFixed(2) + '%');
         $('.party_name').on('click', function (e) {
             e.preventDefault();
+             if ($iW < 990) {
+              $('html, body').animate({scrollTop:0}, 'slow');
+            }
             $('#party-list-names li a').removeClass('select-p-tab');
 
             var selected_candidate = $(this).attr('href');
@@ -533,7 +537,6 @@
         }#}
 
         $('.territory_redirect').on("click", function (e) {
-
                     e.preventDefault();
                     var territory_slug=$(this).data("territory-slug");
                     var territory=$(this).data("territory");
@@ -566,7 +569,6 @@
 
         });
     }
-
 
 
     // end of details table
@@ -673,8 +675,10 @@
     }
     // map click
     function on_map_click(response, territory_selected) {
-        // $('.territory_info').animate({scrollTop:$('.territory_info').height()}, 1000);
+      if ($iW < 990) {
+         $('html, body').animate({scrollTop : 600}, 1000);
 
+      }
         $('.default-first-indicators').hide();
         //alert('More than 960');
         $('#all-results').removeClass('disabled-link');
@@ -743,6 +747,10 @@
     function on_reinit_map_click(response, territory_selected_slug, candidate_selected, terrritory_selected) {
         $('#territory-name').html('');
         $('#party-list').html('');
+         if ($iW < 990) {
+             $('html, body').animate({scrollTop : 600}, 1000);
+
+          }
         var territorija = [];
         $('#territory-selected').show();
         $('#no-territory-selected').removeClass('col-md-12');
@@ -954,25 +962,18 @@
 
     // call functions on windows load
     $(window).load(function () {
-         var $iW = $(window).innerWidth();
+
             if ($iW < 1000) {
-
                 $('#containermap').css('height','400px');
-
-
 
             } else {
                 $('#containermap').css('height','900px');
-
-
             }
 
             if ($iW < 990) {
                 $('.type-initial-results').insertAfter('.map-div');
-                 $('.type-initial-results').insertBefore('.indicators');
+                $('.type-initial-results').insertBefore('.indicators');
                 $('.territory_info').insertBefore('.indicators');
-
-
             }
     Highcharts.setOptions({
 	lang: {
