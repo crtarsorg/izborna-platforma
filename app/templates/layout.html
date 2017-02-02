@@ -959,8 +959,18 @@
 
                 $('#containermap').css('height','400px');
 
+
+
             } else {
                 $('#containermap').css('height','900px');
+
+
+            }
+
+            if ($iW < 990) {
+                $('.type-initial-results').insertAfter('.map-div');
+                 $('.type-initial-results').insertBefore('.indicators');
+                $('.territory_info').insertBefore('.indicators');
 
 
             }
