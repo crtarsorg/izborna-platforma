@@ -134,6 +134,22 @@
 "udeo": 0.09152315000707564
 }
 ],
+"pres_2008": [
+{
+"kandidatSlug": "boris-tadic",
+"glasova": 2191967,
+"boja": "#a6cee3",
+"kandidat": "Борис Тадић",
+"udeo": 51.37760624566084
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"glasova": 2074419,
+"boja": "#bebada",
+"kandidat": "Томислав Николић",
+"udeo": 48.62239375433916
+}
+],
 "pres_2012": [
 {
 "kandidatSlug": "tomislav-nikolic",

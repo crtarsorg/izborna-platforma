@@ -1,4 +1,4 @@
-   <div id="containermap_pres_2012" class="col-md-12 col-sm-12 col-xs-12 lists" style="height:260px;">
+   <div id="containermap_pres_2008" class="col-md-12 col-sm-12 col-xs-12 lists" style="height:260px;">
     </div>
    <script type="text/javascript">
 
@@ -18,7 +18,7 @@
             $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
                 console.log(data);
             // Initialize the map
-            $('#containermap_pres_2012').highcharts('Map', {
+            $('#containermap_pres_2008').highcharts('Map', {
                 chart: {
                    // backgroundColor:'lightgray'
 	            },
@@ -60,7 +60,7 @@
             });
         });
        $(window).resize(function () {
-           $("#containermap_pres_2012").highcharts().setSize($("#containermap_pres_2012").width(),$("#containermap_pres_2012").height(),doAnimation = true);
+           $("#containermap_pres_2008").highcharts().setSize($("#containermap_pres_2008").width(),$("#containermap_pres_2008").height(),doAnimation = true);
        });
 
     </script>

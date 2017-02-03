@@ -12,7 +12,7 @@
 </style>
 
     <div class="row" style="background: #ffffff;">
-        <h4 id="landingpage-h4">Парламентарни избори</h4>
+        <h4 class="landingpage-h4">Парламентарни избори</h4>
         <div class="arrow_left_side">
             <img alt="elections" src="{{ url_for('static', filename = 'assets/arrow_elections-home.jpg') }}">
       </div>
@@ -44,12 +44,11 @@
                 </ul>
                   <div id="tabs-modal-1" class="year-list-tabs">
                     <ul>
-                        {#<li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}">2002   - Први круг</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi') }}">2002  - Други круг</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='drugi') }}">2003  - Други круг</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi') }}">2008   - Први круг</a></li>
-                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi') }}">2012  - Први круг</a></li>
-        #}
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2002   - Први круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2002  - Други круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='drugi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2003  - Други круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2008   - Први круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2012  - Први круг</a></li>
 
 
                     </ul>
@@ -191,55 +190,128 @@
                 </div>
             </div>
         </div>
-
-{#<div class="row header-l">
-    <div class="content-list background-gray">
-            <h4>Председнички избори</h4>
-          <div class="col-md-12 col-sm-12 col-xs-12">
-             <div class="col-md-2">
-              {% include "site/_site_map_pres_2012.html" %}
-        </div>
-    <div class="col-md-10">
-        <div class="col-md-12 year-list"><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi') }}">2012</a></div>
-        <div class="col-md-12 col-sm-12 col-xs-12 indicator-row">
-
-                <div class="col-md-3 col-sm-4 col-xs-4 name-list name-list1_2012_pres"></div>
-                <div class="col-md-1 col-sm-3 col-xs-3">
-                    <p class="nr-votes nr-votes1_2012_pres"></p>
+<!-- presidential -->
+  <div class="row" style="background: #ffffff;">
+        <h4 style="margin-top:0px;" class="landingpage-h4">Председнички избори</h4>
+        <div class="arrow_left_side">
+            <img style="top:525px;" alt="elections" src="{{ url_for('static', filename = 'assets/arrow_elections-home.jpg') }}">
+      </div>
+        <div class="show_all_circle elections_show_all">
+            <a href="#landing_menu" class="landing_circle_link" data-toggle="modal" data-target="#myModal">
+              <div class="grey">
+                <div class="show_all">
+                  Покажи све
                 </div>
-                <div class="col-md-7 col-sm-3 col-xs-3">
-                    <div class="progress custom-progress">
-                        <div class="progress-bar first-progress-2012_pres" style="" role="progressbar" aria-valuenow="" aria-valuemin="0" aria-valuemax="100" >
-                          <span class="sr-only">Complete</span>
+              </div>
+            </a>
+        </div>
+    </div>
+<!-- 2012 -->
+      <div class="row" style="background: #ffffff;">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="row">
+                     <div class="col-md-2">
+                      {% include "site/_site_map_pres_2012.html" %}
+                    </div>
+                    <div class="col-md-10 year-data">
+                            <div class="col-md-12 year-list">
+                                <div class="row">
+                                    <h3>
+                                        <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='4', krug='drugi') }}">2012 - други круг </a>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row indicator-row">
+
+                                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list1_pres_2012"></div>
+                                    <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                        <p class="nr-votes nr-votes1_pres_2012"></p>
+                                    </div>
+                                    <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                        <div class="progress custom-progress">
+                                            <div class="progress-bar first-progress-pres-2012" style="" role="progressbar" aria-valuenow="" aria-valuemin="0" aria-valuemax="100" >
+                                              <span class="sr-only">Complete</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                 <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage1-pres-2012">
+
+                                    </div>
+                            </div>
+                         <div class="row indicator-row">
+                                     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list2_pres_2012"></div>
+                                <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                    <p class="nr-votes nr-votes2_pres_2012"></p>
+                                </div>
+                                <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                    <div class="progress custom-progress">
+                                        <div class="progress-bar  second-progress-pres-2012" role="progressbar" style="" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
+                                          <span class="sr-only">Complete</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage2-pres-2012">
+
+                                </div>
                         </div>
                     </div>
                 </div>
-             <div class="col-md-1 col-sm-2 col-xs-2 percentage">
-
-                </div>
-        </div>
-     <div class="col-md-12 col-sm-12 col-xs-12">
-                 <div class="col-md-3 col-sm-4 col-xs-4 name-list name-list2_2012_pres"></div>
-            <div class="col-md-1 col-sm-3 col-xs-3">
-                <p class="nr-votes nr-votes2_2012"></p>
             </div>
-            <div class="col-md-7 col-sm-3 col-xs-3">
-                <div class="progress custom-progress">
-                    <div class="progress-bar  second-progress-2012_pres" role="progressbar" style="" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
-                      <span class="sr-only">Complete</span>
+        </div>
+<!-- 2008 -->
+ <div class="row" style="background: #ffffff;">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="row">
+                     <div class="col-md-2">
+                      {% include "site/_site_map_pres_2008.html" %}
+                    </div>
+                    <div class="col-md-10 year-data">
+                            <div class="col-md-12 year-list">
+                                <div class="row">
+                                    <h3>
+                                        <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='4', krug='drugi') }}">2008 - други круг </a>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row indicator-row">
+
+                                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list1_pres_2008"></div>
+                                    <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                        <p class="nr-votes nr-votes1_pres_2008"></p>
+                                    </div>
+                                    <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                        <div class="progress custom-progress">
+                                            <div class="progress-bar first-progress-pres-2008" style="" role="progressbar" aria-valuenow="" aria-valuemin="0" aria-valuemax="100" >
+                                              <span class="sr-only">Complete</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                 <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage1-pres-2008">
+
+                                    </div>
+                            </div>
+                         <div class="row indicator-row">
+                                     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list2_pres_2008"></div>
+                                <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                    <p class="nr-votes nr-votes2_pres_2008"></p>
+                                </div>
+                                <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                    <div class="progress custom-progress">
+                                        <div class="progress-bar  second-progress-pres-2008" role="progressbar" style="" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
+                                          <span class="sr-only">Complete</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage2-pres-2008">
+
+                                </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="col-md-1 col-sm-2 col-xs-2 percentage">
-
-            </div>
-    </div>
-    </div>
-</div>
-</div>
-</div>#}
+        </div>
 <style>
-    #landingpage-h4{
+    .landingpage-h4{
         background-color: #c6363c;
     color: #368bc2;
     /* padding: 10px; */
@@ -263,6 +335,10 @@
 
         var years = [2012, 2014];
         var arrayLength=years.length;
+
+        var years_pres = [2012, 2008];
+        var arrayLength_pres=years_pres.length;
+        console.log(arrayLength_pres);
             $.ajax({
             type: "GET",
             url: "{{ url_for("static",filename="data/landingpage.json") }}",
@@ -270,20 +346,22 @@
            dataType: 'json',
 
            success: function (response) {
-               console.log(response);
-               for (var i = 0; i < arrayLength; i++) {
 
+               for (var i = 0; i < arrayLength; i++) {
                    $('.first-progress-' + years[i]).css('background-color', response['par_'+years[i]][0]['boja']);
                    $('.second-progress-' + years[i]).css('background-color', response['par_'+years[i]][1]['boja']);
                }
-               $('.first-progress-2012_pres').css('background-color', response['pres_2012'][0]['boja']);
-               $('.second-progress-2012_pres').css('background-color', response['pres_2012'][1]['boja']);
+               for (var i = 0; i < arrayLength_pres; i++) {
+                     $('.first-progress-pres-'+years_pres[i]).css('background-color', response['pres_'+years_pres[i]][0]['boja']);
+                    $('.second-progress-pres-'+years_pres[i]).css('background-color', response['pres_'+years_pres[i]][1]['boja']);
+               }
+
 
                  for (var i = 0; i < arrayLength; i++) {
-                     $('.name-list1_' + years[i]).text(response['par_'+years[i]][0]['izbornaLista']);
+                     $('.name-list1_' + years[i]).text(response['par_'+years[i]][0]['kandidat']);
                      $('.name-list1_' + years[i]).css('color',response['par_'+years[i]][0]['boja']);
                       $('.name-list2_' + years[i]).css('color',response['par_'+years[i]][1]['boja']);
-                     $('.name-list2_' + years[i]).text(response['par_'+years[i]][1]['izbornaLista']);
+                     $('.name-list2_' + years[i]).text(response['par_'+years[i]][1]['kandidat']);
                      var nr_votes_1 = response['par_'+years[i]][0]['glasova'].toLocaleString();
                      var nr_votes_2 = response['par_'+years[i]][1]['glasova'].toLocaleString();
                      $('.nr-votes1_' + years[i]).css('color',response['par_'+years[i]][0]['boja']);
@@ -299,17 +377,29 @@
                      $('.percentage1-'+years[i]).html(udeo1.toFixed(2) + '%');
                      $('.percentage2-'+years[i]).html(udeo2.toFixed(2) + '%');
                  }
+                for (var i = 0; i < arrayLength_pres; i++) {
 
-                    $('.name-list1_2012_pres').text(response['pres_2012'][0]['kandidat']);
-                     $('.name-list2_2012_pres').text(response['pres_2012'][1]['kandidat']);
-                     var nr_votes_1 = response['pres_2012'][0]['glasova'].toLocaleString();
-                     var nr_votes_2 = response['pres_2012'][1]['glasova'].toLocaleString();
-                     $('.nr-votes1_2012_pres').text(nr_votes_1);
-                     $('.nr-votes2_2012_pres').text(nr_votes_2);
-                     var udeo1 = response['pres_2012'][0]['udeo'];
-                     var udeo2 = response['pres_2012'][1]['udeo'];
-                     $('.first-progress-2012_pres').css('width', udeo1.toFixed(2) + '%');
-                     $('.second-progress-2012_pres').css('width', udeo2.toFixed(2) + '%');
+                         $('.name-list1_pres_'+ years_pres[i]).text(response['pres_'+years_pres[i]][0]['kandidat']);
+                         $('.name-list2_pres_'+ years_pres[i]).text(response['pres_'+years_pres[i]][1]['kandidat']);
+                         $('.name-list1_pres_' + years_pres[i]).css('color',response['pres_'+years_pres[i]][0]['boja']);
+                         $('.name-list2_pres_' + years_pres[i]).css('color',response['pres_'+years_pres[i]][1]['boja'])
+
+                         var nr_votes_1_pres = response['pres_'+years_pres[i]][0]['glasova'].toLocaleString();
+                         var nr_votes_2_pres = response['pres_'+years_pres[i]][1]['glasova'].toLocaleString();
+                         $('.nr-votes1_pres_' + years_pres[i]).css('color',response['pres_'+years_pres[i]][0]['boja']);
+                         $('.nr-votes2_pres_' + years_pres[i]).css('color',response['pres_'+years_pres[i]][1]['boja']);
+                         $('.percentage1-'+years_pres[i]).css('color',response['pres_'+years_pres[i]][0]['boja']);
+                         $('.percentage2-'+years_pres[i]).css('color',response['pres_'+years_pres[i]][1]['boja']);
+                         $('.nr-votes1_pres_' + years_pres[i]).text(nr_votes_1_pres);
+                         $('.nr-votes2_pres_' + years_pres[i]).text(nr_votes_2_pres);
+                         var udeo1_pres = response['pres_'+years_pres[i]][0]['udeo'];
+                         var udeo2_pres = response['pres_'+years_pres[i]][1]['udeo'];
+                         $('.first-progress-pres-' + years_pres[i]).css('width', udeo1_pres.toFixed(2) + '%');
+                         $('.second-progress-pres-'+ years_pres[i]).css('width', udeo2_pres.toFixed(2) + '%');
+                         $('.percentage1-pres-'+years_pres[i]).html(udeo1_pres.toFixed(2) + '%');
+                         $('.percentage2-pres-'+years_pres[i]).html(udeo2_pres.toFixed(2) + '%');
+                     }
+
            },
            error: function (error) {
                console.log(error);
