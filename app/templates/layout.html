@@ -32,7 +32,6 @@
 </style>
 </html>
 <script>
-
     var $iW = $(window).innerWidth();
     function transliterate(word) {
         var A = {};
@@ -120,8 +119,10 @@
         return result;
     }
     function fill_html(response) {
-        $('.total_percentage_value').html(response['percentage'].toFixed(2));
-        $('.total_voters_value').html(response['total_voters'].toLocaleString());
+        $('#piechart-no-territory-selected .x7').css('width',response['percentage'].toFixed(2)+'%');
+         $('#piechart-no-territory-selected .x8').css('width',100-response['percentage'].toFixed(2)+'%');
+        $('#piechart-no-territory-selected .total_percentage_value').html(response['percentage'].toFixed(2));
+        $('#piechart-no-territory-selected .total_voters_value').html(response['total_voters'].toLocaleString());
         var arrayLength = response.length;
         $.each(response['candidates'], function (index, value) {
             $('#party-list-names').append('<li style="font-size:12px;"><a href=' + value['izbornaListaSlug'] + ' class="party_name">' + value['izbornaLista'] + '</a></li>');
@@ -576,17 +577,12 @@
     function init_summary_table(response) {
 
         $.each(response['winners'], function (key, index) {
-                //console.log(index['brojUpisanihBiracaUBirackiSpisak']);
-                //console.log(index['biraciKojiSuGlasali']);
-               var resigtered_voters = index['brojUpisanihBiracaUBirackiSpisak'];
+
+                var resigtered_voters = index['brojUpisanihBiracaUBirackiSpisak'];
                 var voters = index['biraciKojiSuGlasali'];
                 var percentage = (voters / resigtered_voters) * 100;
-                console.log(percentage);
-                    var remove = 100 - percentage;
-
-                    var total_percentage =60;
-                    var remove = 100 - total_percentage;
-                    $('.x8').css('width',remove+'%');
+                var remove=100-index['percentage'];
+                console.log(index['biraciKojiSuGlasali']);
             {% if typeizbori=="parlamentarni" %}
                 $('#summary tbody').append('<tr><td>' + index['teritorija'] + '</td>' +
                         '<td ><span style="color:' + index['rezultat'][0]['boja'] + '">' + index['rezultat'][0]['izbornaLista'] + '</span><br/><span style="color:' + index['rezultat'][1]['boja'] + '">' + index['rezultat'][1]['izbornaLista'] + '</span></td>' +
@@ -617,13 +613,13 @@
                                 ' <div class="x2" style="position:relative;float:right">'+
                                 '<div class="x3" style="">'+
                                 '<div class="x6">'+
-                                '<div class="x7">'+
+                                '<div class="x7" style="width:'+index["percentage"]+'%">'+
                                 '<span class="percentage-value" style="color:white;"><span>'+index['percentage'].toFixed(2)+'</span>%</span>'+
                                 '</div>'+
-                                '<div class="x8">'+
+                                '<div class="x8" id="pierow_'+key+'">'+
                                 '</div>'+
                                 '</div>'+
-                                 '<div class="x3" id="piechar-votes">Излазност: <span class="total_voters_value">'+index['biraciKojiSuGlasali']+'</span></div>'+
+                                 '<div class="x3" id="piechar-votes">Излазност: <span class="total_voters_value">'+index['biraciKojiSuGlasali'].toLocaleString()+'</span></div>'+
                                 '</div>'+
                                 '</div>'+
                                 '</div>'+
@@ -631,7 +627,7 @@
                         '</td>'+
                         '</tr>');
                          $('#total_percentage_value_territory_'+key).html(percentage.toFixed(2));
-
+                          $('#pierow_'+key).css('width',remove+"%");
             {% else %}
 
                 $('#summary tbody').append('<tr><td>' + index['teritorija'] + '</td>' +
@@ -916,12 +912,11 @@
                     name: 'Teritorija',
                     borderColor: 'black',
                     borderWidth: 1,
-
-                    {# dataLabels: {
+                     dataLabels: {
                      enabled: true,
                      color: '#FFFFFF',
                      format: '{point.NAME_2}'
-                 },#}
+                 },
                 }]
             });
         });
@@ -987,13 +982,16 @@
         $(".loader").css("display", "none");
         $.ajax({
             type: "GET",
+            {% if typeizbori=="predsjednicki" %}
+                url: "{{ url_for("static",filename="data/presidential/") }}{{ year }}-{{ krug }}-krug.json",
+            {% else %}
             url: "{{ url_for("static",filename="data/parlamentarni/") }}{{ year }}.json",
+            {% endif %}
             //url: "http://0.0.0.0:5006/api/izbori/2/{{ typeizbori }}/godina/{{ year }}/instanca/3/krug/{{ krug }}",
             async: false,
             dataType: 'json',
             success: function (response) {
-                 var text = $('.highcharts-menu-item').text();
-
+                var text = $('.highcharts-menu-item').text();
                 $('.highcharts-menu-item').html(text.replace('Print chart', 'test'));
                 init_map(response);
                 init_summary_table(response);
@@ -1003,7 +1001,7 @@
                     "language": {
                         "url": "{{ url_for("static",filename="data/datatable_translate.json")}}"
                     },
-               {#    #}{# "dom": '<"top"i>rt<"bottom"flp><"clear">'#}
+
                 });
 
 
@@ -1073,8 +1071,8 @@
 <style>
     .party_list_t {
         font-size:12px;
-        margin-top:10px;
-        height:40px;
+        padding-bottom:10px;
+        padding-top:10px;
         display: block;
         clear: both;
         word-wrap: break-word;
@@ -1087,6 +1085,7 @@
         width: 10px;
         height: 30px;
         float: left;
+
     }
 
     #party-list-rez {

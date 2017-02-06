@@ -1,0 +1,6509 @@
+{
+"total_voters": 2947748,
+"percentage": 45.05050810711017,
+"winners": [
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 94,
+"udeo": 80.34188034188034
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 20,
+"udeo": 17.094017094017094
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 2,
+"udeo": 1.7094017094017095
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Призрен",
+"brojUpisanihBiracaUBirackiSpisak": 142,
+"percentage": 82.39436619718309,
+"biraciKojiSuGlasali": 117,
+"teritorijaSlug": "prizren"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 212,
+"udeo": 51.45631067961165
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 179,
+"udeo": 43.44660194174757
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 15,
+"udeo": 3.640776699029126
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Пећ",
+"brojUpisanihBiracaUBirackiSpisak": 621,
+"percentage": 66.34460547504025,
+"biraciKojiSuGlasali": 412,
+"teritorijaSlug": "pec"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 422,
+"udeo": 65.6298600311042
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 200,
+"udeo": 31.104199066874028
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 15,
+"udeo": 2.332814930015552
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ораховац",
+"brojUpisanihBiracaUBirackiSpisak": 862,
+"percentage": 74.5939675174014,
+"biraciKojiSuGlasali": 643,
+"teritorijaSlug": "orahovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 666,
+"udeo": 78.16901408450704
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 168,
+"udeo": 19.718309859154928
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 9,
+"udeo": 1.056338028169014
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ново Брдо",
+"brojUpisanihBiracaUBirackiSpisak": 1780,
+"percentage": 47.86516853932584,
+"biraciKojiSuGlasali": 852,
+"teritorijaSlug": "novo-brdo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1484,
+"udeo": 61.37303556658396
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 781,
+"udeo": 32.29942100909843
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 102,
+"udeo": 4.218362282878412
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Трговиште",
+"brojUpisanihBiracaUBirackiSpisak": 4944,
+"percentage": 48.90776699029126,
+"biraciKojiSuGlasali": 2418,
+"teritorijaSlug": "trgoviste"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1668,
+"udeo": 50.69908814589665
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1434,
+"udeo": 43.58662613981763
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 129,
+"udeo": 3.9209726443768993
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Медвеђа",
+"brojUpisanihBiracaUBirackiSpisak": 10374,
+"percentage": 31.713900134952766,
+"biraciKojiSuGlasali": 3290,
+"teritorijaSlug": "medveda"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1744,
+"udeo": 52.215568862275454
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1435,
+"udeo": 42.964071856287426
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 86,
+"udeo": 2.5748502994011977
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сремски Карловци",
+"brojUpisanihBiracaUBirackiSpisak": 7299,
+"percentage": 45.759693108645024,
+"biraciKojiSuGlasali": 3340,
+"teritorijaSlug": "sremski-karlovci"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1990,
+"udeo": 43.49726775956284
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1916,
+"udeo": 41.87978142076503
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 544,
+"udeo": 11.890710382513662
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ражањ",
+"brojUpisanihBiracaUBirackiSpisak": 9622,
+"percentage": 47.54728746622324,
+"biraciKojiSuGlasali": 4575,
+"teritorijaSlug": "razanj"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1165,
+"udeo": 72.85803627267042
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 352,
+"udeo": 22.013758599124454
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 68,
+"udeo": 4.252657911194497
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Косово Поље",
+"brojUpisanihBiracaUBirackiSpisak": 4863,
+"percentage": 32.88093769278223,
+"biraciKojiSuGlasali": 1599,
+"teritorijaSlug": "kosovo-polje"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2250,
+"udeo": 59.57108816521048
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1273,
+"udeo": 33.70399788191686
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 123,
+"udeo": 3.2565528196981735
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Босилеград",
+"brojUpisanihBiracaUBirackiSpisak": 9211,
+"percentage": 41.00531972641407,
+"biraciKojiSuGlasali": 3777,
+"teritorijaSlug": "bosilegrad"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1998,
+"udeo": 59.87413844770752
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1076,
+"udeo": 32.24453101588253
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 157,
+"udeo": 4.704824692837879
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Мали Иђош",
+"brojUpisanihBiracaUBirackiSpisak": 10576,
+"percentage": 31.552571860816947,
+"biraciKojiSuGlasali": 3337,
+"teritorijaSlug": "mali-idos"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2258,
+"udeo": 56.12726820780512
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1182,
+"udeo": 29.381058911260254
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 434,
+"udeo": 10.787969177230922
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Лапово",
+"brojUpisanihBiracaUBirackiSpisak": 7704,
+"percentage": 52.2196261682243,
+"biraciKojiSuGlasali": 4023,
+"teritorijaSlug": "lapovo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2387,
+"udeo": 52.56551420391984
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1866,
+"udeo": 41.092270425016515
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 164,
+"udeo": 3.6115393085223517
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Нова Црња",
+"brojUpisanihBiracaUBirackiSpisak": 9840,
+"percentage": 46.14837398373984,
+"biraciKojiSuGlasali": 4541,
+"teritorijaSlug": "nova-crnja"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2404,
+"udeo": 67.22595078299777
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 787,
+"udeo": 22.007829977628635
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 220,
+"udeo": 6.152125279642058
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ада",
+"brojUpisanihBiracaUBirackiSpisak": 16899,
+"percentage": 21.16101544470087,
+"biraciKojiSuGlasali": 3576,
+"teritorijaSlug": "ada"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2520,
+"udeo": 48.06408544726302
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2345,
+"udeo": 44.726301735647525
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 254,
+"udeo": 4.844554644287621
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Гаџин Хан",
+"brojUpisanihBiracaUBirackiSpisak": 9517,
+"percentage": 55.09088998634024,
+"biraciKojiSuGlasali": 5243,
+"teritorijaSlug": "gadzin-han"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2612,
+"udeo": 65.23476523476523
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1100,
+"udeo": 27.472527472527474
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 125,
+"udeo": 3.121878121878122
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бачки Петровац",
+"brojUpisanihBiracaUBirackiSpisak": 12090,
+"percentage": 33.11827956989247,
+"biraciKojiSuGlasali": 4004,
+"teritorijaSlug": "backi-petrovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2639,
+"udeo": 65.85974544547042
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1210,
+"udeo": 30.197154978787122
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 115,
+"udeo": 2.8699775393062144
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Штрпце",
+"brojUpisanihBiracaUBirackiSpisak": 7498,
+"percentage": 53.4409175780208,
+"biraciKojiSuGlasali": 4007,
+"teritorijaSlug": "strpce"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2710,
+"udeo": 48.749775139413565
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2596,
+"udeo": 46.69904659111351
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 133,
+"udeo": 2.392516639683396
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Блаце",
+"brojUpisanihBiracaUBirackiSpisak": 11923,
+"percentage": 46.62417176885012,
+"biraciKojiSuGlasali": 5559,
+"teritorijaSlug": "blace"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2832,
+"udeo": 58.609271523178805
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1609,
+"udeo": 33.298841059602644
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 210,
+"udeo": 4.346026490066225
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Димитровград",
+"brojUpisanihBiracaUBirackiSpisak": 9876,
+"percentage": 48.92669096800324,
+"biraciKojiSuGlasali": 4832,
+"teritorijaSlug": "dimitrovgrad"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3090,
+"udeo": 59.57200694042799
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1833,
+"udeo": 35.338345864661655
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 118,
+"udeo": 2.274918064391749
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Пландиште",
+"brojUpisanihBiracaUBirackiSpisak": 10386,
+"percentage": 49.942229924898896,
+"biraciKojiSuGlasali": 5187,
+"teritorijaSlug": "plandiste"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3169,
+"udeo": 52.19038208168642
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2493,
+"udeo": 41.05731225296443
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 216,
+"udeo": 3.557312252964427
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бач",
+"brojUpisanihBiracaUBirackiSpisak": 12925,
+"percentage": 46.97872340425532,
+"biraciKojiSuGlasali": 6072,
+"teritorijaSlug": "bac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3225,
+"udeo": 55.345804015788566
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2191,
+"udeo": 37.600823751501636
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 282,
+"udeo": 4.839540072078257
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Мало Црниће",
+"brojUpisanihBiracaUBirackiSpisak": 14785,
+"percentage": 39.41156577612445,
+"biraciKojiSuGlasali": 5827,
+"teritorijaSlug": "malo-crnice"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3267,
+"udeo": 61.145423919146545
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1444,
+"udeo": 27.02601534718323
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 463,
+"udeo": 8.665543702040052
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Рача",
+"brojUpisanihBiracaUBirackiSpisak": 11405,
+"percentage": 46.8478737395879,
+"biraciKojiSuGlasali": 5343,
+"teritorijaSlug": "raca"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3291,
+"udeo": 55.181086519114686
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2387,
+"udeo": 40.02347417840376
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 153,
+"udeo": 2.5653923541247488
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Тител",
+"brojUpisanihBiracaUBirackiSpisak": 11893,
+"percentage": 50.14714537963508,
+"biraciKojiSuGlasali": 5964,
+"teritorijaSlug": "titel"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3374,
+"udeo": 74.64601769911503
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1032,
+"udeo": 22.831858407079647
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 50,
+"udeo": 1.1061946902654867
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Косовска Каменица",
+"brojUpisanihBiracaUBirackiSpisak": 6733,
+"percentage": 67.13203623941779,
+"biraciKojiSuGlasali": 4520,
+"teritorijaSlug": "kosovska-kamenica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 541,
+"udeo": 61.757990867579906
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 266,
+"udeo": 30.36529680365297
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 60,
+"udeo": 6.8493150684931505
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Вучитрн",
+"brojUpisanihBiracaUBirackiSpisak": 2098,
+"percentage": 41.75405147759771,
+"biraciKojiSuGlasali": 876,
+"teritorijaSlug": "vucitrn"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3391,
+"udeo": 50.07383343177791
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2982,
+"udeo": 44.03425871234495
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 219,
+"udeo": 3.2339043118724162
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Житиште",
+"brojUpisanihBiracaUBirackiSpisak": 16379,
+"percentage": 41.34562549606203,
+"biraciKojiSuGlasali": 6772,
+"teritorijaSlug": "zitiste"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3580,
+"udeo": 50.24561403508771
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3095,
+"udeo": 43.43859649122807
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 263,
+"udeo": 3.691228070175439
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бабушница",
+"brojUpisanihBiracaUBirackiSpisak": 13463,
+"percentage": 52.92282552180049,
+"biraciKojiSuGlasali": 7125,
+"teritorijaSlug": "babusnica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3610,
+"udeo": 66.10510895440396
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1594,
+"udeo": 29.188793261307456
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 162,
+"udeo": 2.9664896539095404
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бојник",
+"brojUpisanihBiracaUBirackiSpisak": 10232,
+"percentage": 53.371774824081314,
+"biraciKojiSuGlasali": 5461,
+"teritorijaSlug": "bojnik"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3729,
+"udeo": 58.5308428818082
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2320,
+"udeo": 36.41500549364307
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 128,
+"udeo": 2.0091037513734107
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Осечина",
+"brojUpisanihBiracaUBirackiSpisak": 12304,
+"percentage": 51.779908972691814,
+"biraciKojiSuGlasali": 6371,
+"teritorijaSlug": "osecina"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3500,
+"udeo": 57.832121612690024
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1993,
+"udeo": 32.93126239259749
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 402,
+"udeo": 6.642432253800397
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Нишка Бања",
+"brojUpisanihBiracaUBirackiSpisak": 12849,
+"percentage": 47.10094170752588,
+"biraciKojiSuGlasali": 6052,
+"teritorijaSlug": "niska-banja"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3891,
+"udeo": 50.07077596190966
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3572,
+"udeo": 45.965770171149146
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 153,
+"udeo": 1.9688585767597477
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Нова Варош",
+"brojUpisanihBiracaUBirackiSpisak": 16300,
+"percentage": 47.674846625766875,
+"biraciKojiSuGlasali": 7771,
+"teritorijaSlug": "nova-varos"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4135,
+"udeo": 51.01159634838391
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3602,
+"udeo": 44.43622008388848
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 176,
+"udeo": 2.1712311867752283
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Крупањ",
+"brojUpisanihBiracaUBirackiSpisak": 16597,
+"percentage": 48.840151834668916,
+"biraciKojiSuGlasali": 8106,
+"teritorijaSlug": "krupanj"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4043,
+"udeo": 55.650378527185126
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2847,
+"udeo": 39.18788713007571
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 201,
+"udeo": 2.76668960770819
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сопот",
+"brojUpisanihBiracaUBirackiSpisak": 16764,
+"percentage": 43.33691243140062,
+"biraciKojiSuGlasali": 7265,
+"teritorijaSlug": "sopot"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4180,
+"udeo": 50.88253195374315
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3526,
+"udeo": 42.9214850882532
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 299,
+"udeo": 3.6396835057821058
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Дољевац",
+"brojUpisanihBiracaUBirackiSpisak": 15428,
+"percentage": 53.24734249416645,
+"biraciKojiSuGlasali": 8215,
+"teritorijaSlug": "doljevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4395,
+"udeo": 65.85256218160023
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1955,
+"udeo": 29.29277794426131
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 95,
+"udeo": 1.423434222355409
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Лајковац",
+"brojUpisanihBiracaUBirackiSpisak": 12753,
+"percentage": 52.33278444287619,
+"biraciKojiSuGlasali": 6674,
+"teritorijaSlug": "lajkovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 131,
+"udeo": 72.37569060773481
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 44,
+"udeo": 24.30939226519337
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 5,
+"udeo": 2.7624309392265194
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Србица",
+"brojUpisanihBiracaUBirackiSpisak": 356,
+"percentage": 50.842696629213485,
+"biraciKojiSuGlasali": 181,
+"teritorijaSlug": "srbica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4398,
+"udeo": 63.49068860978778
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2056,
+"udeo": 29.680958567922623
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 314,
+"udeo": 4.532986862999856
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Кнић",
+"brojUpisanihBiracaUBirackiSpisak": 13371,
+"percentage": 51.806147632936955,
+"biraciKojiSuGlasali": 6927,
+"teritorijaSlug": "knic"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4486,
+"udeo": 47.6372517786981
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4476,
+"udeo": 47.53106084740363
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 270,
+"udeo": 2.867155144950621
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сурдулица",
+"brojUpisanihBiracaUBirackiSpisak": 18479,
+"percentage": 50.96054981330158,
+"biraciKojiSuGlasali": 9417,
+"teritorijaSlug": "surdulica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4489,
+"udeo": 65.43731778425655
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2066,
+"udeo": 30.11661807580175
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 143,
+"udeo": 2.0845481049562684
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Чајетина",
+"brojUpisanihBiracaUBirackiSpisak": 12809,
+"percentage": 53.55609337184792,
+"biraciKojiSuGlasali": 6860,
+"teritorijaSlug": "cajetina"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4576,
+"udeo": 56.957928802588995
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2919,
+"udeo": 36.33308439133682
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 330,
+"udeo": 4.1075429424943986
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бела Црква",
+"brojUpisanihBiracaUBirackiSpisak": 17472,
+"percentage": 45.982142857142854,
+"biraciKojiSuGlasali": 8034,
+"teritorijaSlug": "bela-crkva"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4587,
+"udeo": 58.627300613496935
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2813,
+"udeo": 35.95347648261759
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 214,
+"udeo": 2.735173824130879
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Алибунар",
+"brojUpisanihBiracaUBirackiSpisak": 20062,
+"percentage": 38.99910278137773,
+"biraciKojiSuGlasali": 7824,
+"teritorijaSlug": "alibunar"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4076,
+"udeo": 58.60531991373112
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2336,
+"udeo": 33.587347232207044
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 352,
+"udeo": 5.0611071171818836
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Жагубица",
+"brojUpisanihBiracaUBirackiSpisak": 13408,
+"percentage": 51.87201670644391,
+"biraciKojiSuGlasali": 6955,
+"teritorijaSlug": "zagubica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4739,
+"udeo": 49.98945147679325
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4145,
+"udeo": 43.72362869198312
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 398,
+"udeo": 4.198312236286919
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Нови Бечеј",
+"brojUpisanihBiracaUBirackiSpisak": 20827,
+"percentage": 45.51783742257647,
+"biraciKojiSuGlasali": 9480,
+"teritorijaSlug": "novi-becej"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3447,
+"udeo": 60.60126582278481
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1618,
+"udeo": 28.445850914205344
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 445,
+"udeo": 7.823488045007032
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Рековац",
+"brojUpisanihBiracaUBirackiSpisak": 12165,
+"percentage": 46.75709001233045,
+"biraciKojiSuGlasali": 5688,
+"teritorijaSlug": "rekovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2944,
+"udeo": 48.17542137129766
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2849,
+"udeo": 46.620847651775485
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 186,
+"udeo": 3.0436917034855178
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сечањ",
+"brojUpisanihBiracaUBirackiSpisak": 12846,
+"percentage": 47.571228397944886,
+"biraciKojiSuGlasali": 6111,
+"teritorijaSlug": "secanj"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3883,
+"udeo": 50.12262811410869
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3299,
+"udeo": 42.58422615205886
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 402,
+"udeo": 5.1891054601781335
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Житорађа",
+"brojUpisanihBiracaUBirackiSpisak": 14597,
+"percentage": 53.07254915393574,
+"biraciKojiSuGlasali": 7747,
+"teritorijaSlug": "zitorada"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4868,
+"udeo": 58.38330534900456
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2643,
+"udeo": 31.69824898057088
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 573,
+"udeo": 6.8721515951067405
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Варварин",
+"brojUpisanihBiracaUBirackiSpisak": 17654,
+"percentage": 47.23008949813073,
+"biraciKojiSuGlasali": 8338,
+"teritorijaSlug": "varvarin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 692,
+"udeo": 65.53030303030303
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 315,
+"udeo": 29.829545454545453
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 29,
+"udeo": 2.746212121212121
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Црна Трава",
+"brojUpisanihBiracaUBirackiSpisak": 2545,
+"percentage": 41.49312377210216,
+"biraciKojiSuGlasali": 1056,
+"teritorijaSlug": "crna-trava"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4896,
+"udeo": 66.3504539910557
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2189,
+"udeo": 29.665266296246102
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 101,
+"udeo": 1.3687491530017617
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Мионица",
+"brojUpisanihBiracaUBirackiSpisak": 13025,
+"percentage": 56.65259117082533,
+"biraciKojiSuGlasali": 7379,
+"teritorijaSlug": "mionica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2187,
+"udeo": 62.9714943852577
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1169,
+"udeo": 33.659660236107115
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 72,
+"udeo": 2.0731356176216527
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Гњилане",
+"brojUpisanihBiracaUBirackiSpisak": 9233,
+"percentage": 37.61507635654716,
+"biraciKojiSuGlasali": 3473,
+"teritorijaSlug": "gnjilane"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5026,
+"udeo": 86.46137966626527
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 555,
+"udeo": 9.54756580079133
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 68,
+"udeo": 1.1697918458627214
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Тутин",
+"brojUpisanihBiracaUBirackiSpisak": 25926,
+"percentage": 22.42150736712181,
+"biraciKojiSuGlasali": 5813,
+"teritorijaSlug": "tutin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 5245,
+"udeo": 59.34600588368409
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3202,
+"udeo": 36.22991627064947
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 229,
+"udeo": 2.5910839556460736
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Жабаљ",
+"brojUpisanihBiracaUBirackiSpisak": 19662,
+"percentage": 44.94964906927068,
+"biraciKojiSuGlasali": 8838,
+"teritorijaSlug": "zabalj"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5274,
+"udeo": 60.034149117814465
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2966,
+"udeo": 33.76209447922595
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 294,
+"udeo": 3.346613545816733
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ариље",
+"brojUpisanihBiracaUBirackiSpisak": 15861,
+"percentage": 55.38742828321039,
+"biraciKojiSuGlasali": 8785,
+"teritorijaSlug": "arilje"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5331,
+"udeo": 74.81055290485546
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1533,
+"udeo": 21.51277013752456
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 74,
+"udeo": 1.0384507437552624
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Љиг",
+"brojUpisanihBiracaUBirackiSpisak": 11306,
+"percentage": 63.02848045285688,
+"biraciKojiSuGlasali": 7126,
+"teritorijaSlug": "ljig"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3823,
+"udeo": 52.14841085800027
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3187,
+"udeo": 43.472923202837265
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 177,
+"udeo": 2.414404583276497
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Пећинци",
+"brojUpisanihBiracaUBirackiSpisak": 15209,
+"percentage": 48.201722664211985,
+"biraciKojiSuGlasali": 7331,
+"teritorijaSlug": "pecinci"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3515,
+"udeo": 73.98442433171964
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 702,
+"udeo": 14.775836665965059
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 294,
+"udeo": 6.188170911387076
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сента",
+"brojUpisanihBiracaUBirackiSpisak": 22339,
+"percentage": 21.267738036617573,
+"biraciKojiSuGlasali": 4751,
+"teritorijaSlug": "senta"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 5879,
+"udeo": 66.12304577662805
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2655,
+"udeo": 29.86165785625914
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 180,
+"udeo": 2.024519176695535
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бујановац",
+"brojUpisanihBiracaUBirackiSpisak": 36458,
+"percentage": 24.38696582368753,
+"biraciKojiSuGlasali": 8891,
+"teritorijaSlug": "bujanovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3436,
+"udeo": 47.98212540148024
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3064,
+"udeo": 42.78732020667505
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 498,
+"udeo": 6.954335986594051
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сврљиг",
+"brojUpisanihBiracaUBirackiSpisak": 15130,
+"percentage": 47.32980832782551,
+"biraciKojiSuGlasali": 7161,
+"teritorijaSlug": "svrljig"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2198,
+"udeo": 47.9075850043592
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1842,
+"udeo": 40.14821272885789
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 404,
+"udeo": 8.805579773321709
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ћићевац",
+"brojUpisanihBiracaUBirackiSpisak": 9027,
+"percentage": 50.82530187216129,
+"biraciKojiSuGlasali": 4588,
+"teritorijaSlug": "cicevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5932,
+"udeo": 57.72112484187992
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3928,
+"udeo": 38.22127079887127
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 182,
+"udeo": 1.7709448282572735
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Прибој",
+"brojUpisanihBiracaUBirackiSpisak": 25679,
+"percentage": 40.02102885626387,
+"biraciKojiSuGlasali": 10277,
+"teritorijaSlug": "priboj"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5907,
+"udeo": 61.685463659147864
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3269,
+"udeo": 34.13742690058479
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 204,
+"udeo": 2.1303258145363406
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Барајево",
+"brojUpisanihBiracaUBirackiSpisak": 20016,
+"percentage": 47.84172661870503,
+"biraciKojiSuGlasali": 9576,
+"teritorijaSlug": "barajevo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3071,
+"udeo": 56.22482607103625
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2011,
+"udeo": 36.818015378982054
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 208,
+"udeo": 3.8081288905162944
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Нови Кнежевац",
+"brojUpisanihBiracaUBirackiSpisak": 10125,
+"percentage": 53.94567901234568,
+"biraciKojiSuGlasali": 5462,
+"teritorijaSlug": "novi-knezevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6133,
+"udeo": 50.42341527583656
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3333,
+"udeo": 27.402778919674418
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 2352,
+"udeo": 19.33733453917619
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Деспотовац",
+"brojUpisanihBiracaUBirackiSpisak": 26098,
+"percentage": 46.605103839374664,
+"biraciKojiSuGlasali": 12163,
+"teritorijaSlug": "despotovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2859,
+"udeo": 77.73246329526917
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 660,
+"udeo": 17.94453507340946
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 130,
+"udeo": 3.5345296356715608
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Приштина",
+"brojUpisanihBiracaUBirackiSpisak": 8162,
+"percentage": 45.06248468512619,
+"biraciKojiSuGlasali": 3678,
+"teritorijaSlug": "pristina"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6138,
+"udeo": 54.400425418771604
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4548,
+"udeo": 40.30842860941239
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 324,
+"udeo": 2.8715767083222548
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Апатин",
+"brojUpisanihBiracaUBirackiSpisak": 26375,
+"percentage": 42.779146919431284,
+"biraciKojiSuGlasali": 11283,
+"teritorijaSlug": "apatin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2592,
+"udeo": 47.25615314494075
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2536,
+"udeo": 46.23518687329079
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 215,
+"udeo": 3.919781221513218
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Беочин",
+"brojUpisanihBiracaUBirackiSpisak": 12157,
+"percentage": 45.11803898988237,
+"biraciKojiSuGlasali": 5485,
+"teritorijaSlug": "beocin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6423,
+"udeo": 56.64520680836053
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4329,
+"udeo": 38.1779698386101
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 311,
+"udeo": 2.742746273921863
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бајина Башта",
+"brojUpisanihBiracaUBirackiSpisak": 22520,
+"percentage": 50.350799289520424,
+"biraciKojiSuGlasali": 11339,
+"teritorijaSlug": "bajina-basta"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4348,
+"udeo": 51.06882781301386
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3832,
+"udeo": 45.0082217524078
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 151,
+"udeo": 1.7735494479680525
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Владимирци",
+"brojUpisanihBiracaUBirackiSpisak": 17166,
+"percentage": 49.598042642432716,
+"biraciKojiSuGlasali": 8514,
+"teritorijaSlug": "vladimirci"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6530,
+"udeo": 49.00562851782364
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6161,
+"udeo": 46.23639774859287
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 312,
+"udeo": 2.341463414634146
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Богатић",
+"brojUpisanihBiracaUBirackiSpisak": 26171,
+"percentage": 50.9151350731726,
+"biraciKojiSuGlasali": 13325,
+"teritorijaSlug": "bogatic"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6634,
+"udeo": 49.969870442904494
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 5948,
+"udeo": 44.802651401024406
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 368,
+"udeo": 2.7719192527869843
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Шид",
+"brojUpisanihBiracaUBirackiSpisak": 28289,
+"percentage": 46.92990208208138,
+"biraciKojiSuGlasali": 13276,
+"teritorijaSlug": "sid"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6810,
+"udeo": 55.04364694471388
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4608,
+"udeo": 37.245392822502424
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 513,
+"udeo": 4.146459747817652
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бечеј",
+"brojUpisanihBiracaUBirackiSpisak": 34860,
+"percentage": 35.49053356282272,
+"biraciKojiSuGlasali": 12372,
+"teritorijaSlug": "becej"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6811,
+"udeo": 54.77281865701649
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4861,
+"udeo": 39.09127462806594
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 372,
+"udeo": 2.991556091676719
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ковин",
+"brojUpisanihBiracaUBirackiSpisak": 29881,
+"percentage": 41.61507312338944,
+"biraciKojiSuGlasali": 12435,
+"teritorijaSlug": "kovin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6888,
+"udeo": 59.51270088128564
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4207,
+"udeo": 36.34871263176084
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 173,
+"udeo": 1.4947295662692242
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Уб",
+"brojUpisanihBiracaUBirackiSpisak": 24693,
+"percentage": 46.87158303972786,
+"biraciKojiSuGlasali": 11574,
+"teritorijaSlug": "ub"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 7080,
+"udeo": 59.616032334119225
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3948,
+"udeo": 33.24351633546649
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 500,
+"udeo": 4.210171775008421
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Кладово",
+"brojUpisanihBiracaUBirackiSpisak": 25076,
+"percentage": 47.36002552241187,
+"biraciKojiSuGlasali": 11876,
+"teritorijaSlug": "kladovo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6711,
+"udeo": 55.12114989733059
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4965,
+"udeo": 40.78028747433265
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 262,
+"udeo": 2.1519507186858315
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Врњачка Бања",
+"brojUpisanihBiracaUBirackiSpisak": 24924,
+"percentage": 48.84849943829241,
+"biraciKojiSuGlasali": 12175,
+"teritorijaSlug": "vrnjacka-banja"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 7738,
+"udeo": 56.06433850166642
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5403,
+"udeo": 39.146500507172874
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 379,
+"udeo": 2.7459788436458483
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Оџаци",
+"brojUpisanihBiracaUBirackiSpisak": 28714,
+"percentage": 48.06714494671589,
+"biraciKojiSuGlasali": 13802,
+"teritorijaSlug": "odzaci"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 7944,
+"udeo": 58.01504418315928
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 5222,
+"udeo": 38.13627400861754
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 266,
+"udeo": 1.9425984079456657
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ивањица",
+"brojUpisanihBiracaUBirackiSpisak": 29193,
+"percentage": 46.905079984927895,
+"biraciKojiSuGlasali": 13693,
+"teritorijaSlug": "ivanjica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2100,
+"udeo": 65.95477386934674
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1034,
+"udeo": 32.4748743718593
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 39,
+"udeo": 1.2248743718592965
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Зубин Поток",
+"brojUpisanihBiracaUBirackiSpisak": 5694,
+"percentage": 55.91851071303126,
+"biraciKojiSuGlasali": 3184,
+"teritorijaSlug": "zubin-potok"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 9002,
+"udeo": 63.376513658124466
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4582,
+"udeo": 32.258518727119124
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 284,
+"udeo": 1.9994367783722895
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Пожега",
+"brojUpisanihBiracaUBirackiSpisak": 26529,
+"percentage": 53.54140751630291,
+"biraciKojiSuGlasali": 14204,
+"teritorijaSlug": "pozega"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3040,
+"udeo": 54.568300125650694
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1704,
+"udeo": 30.586968228325258
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 650,
+"udeo": 11.667564171602944
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Баточина",
+"brojUpisanihBiracaUBirackiSpisak": 10863,
+"percentage": 51.28417564208782,
+"biraciKojiSuGlasali": 5571,
+"teritorijaSlug": "batocina"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 9001,
+"udeo": 50.18118971957406
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 7934,
+"udeo": 44.232591849250156
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 462,
+"udeo": 2.575681552099013
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Врбас",
+"brojUpisanihBiracaUBirackiSpisak": 36337,
+"percentage": 49.362908330351985,
+"biraciKojiSuGlasali": 17937,
+"teritorijaSlug": "vrbas"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1841,
+"udeo": 51.72801348693453
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1483,
+"udeo": 41.669008148356276
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 123,
+"udeo": 3.456026973869064
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Опово",
+"brojUpisanihBiracaUBirackiSpisak": 8441,
+"percentage": 42.16325079966828,
+"biraciKojiSuGlasali": 3559,
+"teritorijaSlug": "opovo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6790,
+"udeo": 63.76185557329327
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3059,
+"udeo": 28.725701943844495
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 486,
+"udeo": 4.563808808338811
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бачка Топола",
+"brojUpisanihBiracaUBirackiSpisak": 31912,
+"percentage": 33.36989220355979,
+"biraciKojiSuGlasali": 10649,
+"teritorijaSlug": "backa-topola"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 9480,
+"udeo": 51.95089872862779
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6086,
+"udeo": 33.35160017536168
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 2180,
+"udeo": 11.94651468654099
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Велика Плана",
+"brojUpisanihBiracaUBirackiSpisak": 39962,
+"percentage": 45.66338021120064,
+"biraciKojiSuGlasali": 18248,
+"teritorijaSlug": "velika-plana"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 7847,
+"udeo": 52.01856148491879
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6244,
+"udeo": 41.39211136890951
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 532,
+"udeo": 3.5266821345707653
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Књажевац",
+"brojUpisanihBiracaUBirackiSpisak": 32891,
+"percentage": 45.863610106108055,
+"biraciKojiSuGlasali": 15085,
+"teritorijaSlug": "knjazevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 10852,
+"udeo": 50.715020095336016
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 9622,
+"udeo": 44.966819328909246
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 391,
+"udeo": 1.8272735769698103
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Стара Пазова",
+"brojUpisanihBiracaUBirackiSpisak": 45078,
+"percentage": 47.46883180265318,
+"biraciKojiSuGlasali": 21398,
+"teritorijaSlug": "stara-pazova"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 83,
+"udeo": 50.609756097560975
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 72,
+"udeo": 43.90243902439025
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 8,
+"udeo": 4.878048780487805
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Исток",
+"brojUpisanihBiracaUBirackiSpisak": 308,
+"percentage": 53.246753246753244,
+"biraciKojiSuGlasali": 164,
+"teritorijaSlug": "istok"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 7235,
+"udeo": 69.26759214935376
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2632,
+"udeo": 25.19865964576352
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 295,
+"udeo": 2.824317855433222
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Топола",
+"brojUpisanihBiracaUBirackiSpisak": 20010,
+"percentage": 52.19890054972514,
+"biraciKojiSuGlasali": 10445,
+"teritorijaSlug": "topola"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 11007,
+"udeo": 51.37456242707118
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6561,
+"udeo": 30.623103850641776
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 3260,
+"udeo": 15.215869311551925
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Параћин",
+"brojUpisanihBiracaUBirackiSpisak": 50758,
+"percentage": 42.210094960400326,
+"biraciKojiSuGlasali": 21425,
+"teritorijaSlug": "paracin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 5024,
+"udeo": 49.77214186645532
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4519,
+"udeo": 44.769169803843866
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 332,
+"udeo": 3.2890826233405988
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Темерин",
+"brojUpisanihBiracaUBirackiSpisak": 21180,
+"percentage": 47.65816808309726,
+"biraciKojiSuGlasali": 10094,
+"teritorijaSlug": "temerin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3771,
+"udeo": 56.62162162162162
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2472,
+"udeo": 37.11711711711712
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 285,
+"udeo": 4.2792792792792795
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Мерошина",
+"brojUpisanihBiracaUBirackiSpisak": 12346,
+"percentage": 53.94459744046655,
+"biraciKojiSuGlasali": 6660,
+"teritorijaSlug": "merosina"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 11305,
+"udeo": 57.537662866449516
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6983,
+"udeo": 35.54051302931596
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 690,
+"udeo": 3.5118078175895766
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Трстеник",
+"brojUpisanihBiracaUBirackiSpisak": 42080,
+"percentage": 46.69201520912547,
+"biraciKojiSuGlasali": 19648,
+"teritorijaSlug": "trstenik"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 11695,
+"udeo": 48.18904775639705
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 11172,
+"udeo": 46.03403518892414
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 846,
+"udeo": 3.485928550826157
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бачка Паланка",
+"brojUpisanihBiracaUBirackiSpisak": 47617,
+"percentage": 50.96709158493815,
+"biraciKojiSuGlasali": 24269,
+"teritorijaSlug": "backa-palanka"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2845,
+"udeo": 52.74378939562476
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2159,
+"udeo": 40.025954764553205
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 214,
+"udeo": 3.967371153133111
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Мали Зворник",
+"brojUpisanihBiracaUBirackiSpisak": 11529,
+"percentage": 46.78636481915171,
+"biraciKojiSuGlasali": 5394,
+"teritorijaSlug": "mali-zvornik"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4146,
+"udeo": 49.60516870064608
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3490,
+"udeo": 41.75640105288346
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 477,
+"udeo": 5.70710696338837
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Велико Градиште",
+"brojUpisanihBiracaUBirackiSpisak": 20746,
+"percentage": 40.28728429576786,
+"biraciKojiSuGlasali": 8358,
+"teritorijaSlug": "veliko-gradiste"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 12015,
+"udeo": 61.0704483074108
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6781,
+"udeo": 34.46680898647962
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 420,
+"udeo": 2.1347971942665445
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Вршац",
+"brojUpisanihBiracaUBirackiSpisak": 46110,
+"percentage": 42.66753415744957,
+"biraciKojiSuGlasali": 19674,
+"teritorijaSlug": "vrsac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 12164,
+"udeo": 57.586517066704545
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 7447,
+"udeo": 35.25540879609904
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 834,
+"udeo": 3.9483027978980263
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Младеновац",
+"brojUpisanihBiracaUBirackiSpisak": 45845,
+"percentage": 46.07481731922783,
+"biraciKojiSuGlasali": 21123,
+"teritorijaSlug": "mladenovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 9401,
+"udeo": 59.60185126481963
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 5344,
+"udeo": 33.88068217840613
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 514,
+"udeo": 3.2587332783871172
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Неготин",
+"brojUpisanihBiracaUBirackiSpisak": 45973,
+"percentage": 34.309268483675204,
+"biraciKojiSuGlasali": 15773,
+"teritorijaSlug": "negotin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 12469,
+"udeo": 59.4895038167939
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6623,
+"udeo": 31.598282442748094
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1192,
+"udeo": 5.687022900763359
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Смедеревска Паланка",
+"brojUpisanihBiracaUBirackiSpisak": 47872,
+"percentage": 43.78342245989305,
+"biraciKojiSuGlasali": 20960,
+"teritorijaSlug": "smederevska-palanka"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 776,
+"udeo": 64.13223140495867
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 305,
+"udeo": 25.206611570247933
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 113,
+"udeo": 9.338842975206612
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Обилић",
+"brojUpisanihBiracaUBirackiSpisak": 3092,
+"percentage": 39.13324708926261,
+"biraciKojiSuGlasali": 1210,
+"teritorijaSlug": "obilic"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1614,
+"udeo": 55.23613963039015
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1155,
+"udeo": 39.52772073921971
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 126,
+"udeo": 4.312114989733059
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Звечан",
+"brojUpisanihBiracaUBirackiSpisak": 7058,
+"percentage": 41.399829980164355,
+"biraciKojiSuGlasali": 2922,
+"teritorijaSlug": "zvecan"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 11703,
+"udeo": 59.77933289063697
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6559,
+"udeo": 33.50360116463197
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 827,
+"udeo": 4.224344894519079
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бор",
+"brojUpisanihBiracaUBirackiSpisak": 48059,
+"percentage": 40.73534613703989,
+"biraciKojiSuGlasali": 19577,
+"teritorijaSlug": "bor"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 13470,
+"udeo": 49.29912527906892
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 12229,
+"udeo": 44.7571642938184
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 823,
+"udeo": 3.0121143359074773
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Кикинда",
+"brojUpisanihBiracaUBirackiSpisak": 54078,
+"percentage": 50.52516735086357,
+"biraciKojiSuGlasali": 27323,
+"teritorijaSlug": "kikinda"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4362,
+"udeo": 78.87884267631104
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 512,
+"udeo": 9.258589511754069
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 413,
+"udeo": 7.468354430379747
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Кањижа",
+"brojUpisanihBiracaUBirackiSpisak": 23832,
+"percentage": 23.204095334004702,
+"biraciKojiSuGlasali": 5530,
+"teritorijaSlug": "kanjiza"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 14452,
+"udeo": 53.29301570912309
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 7872,
+"udeo": 29.028689431373994
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 4062,
+"udeo": 14.97898075079283
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Јагодина",
+"brojUpisanihBiracaUBirackiSpisak": 63881,
+"percentage": 42.45080696920837,
+"biraciKojiSuGlasali": 27118,
+"teritorijaSlug": "jagodina"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 8313,
+"udeo": 48.51190476190476
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 7902,
+"udeo": 46.11344537815126
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 510,
+"udeo": 2.976190476190476
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Кула",
+"brojUpisanihBiracaUBirackiSpisak": 37402,
+"percentage": 45.815731779049244,
+"biraciKojiSuGlasali": 17136,
+"teritorijaSlug": "kula"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4321,
+"udeo": 65.9392644590264
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1766,
+"udeo": 26.949488783763158
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 265,
+"udeo": 4.043949336181901
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бољевац",
+"brojUpisanihBiracaUBirackiSpisak": 13798,
+"percentage": 47.49239020147848,
+"biraciKojiSuGlasali": 6553,
+"teritorijaSlug": "boljevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 14630,
+"udeo": 51.875753492660095
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 11425,
+"udeo": 40.511311254520955
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1485,
+"udeo": 5.2655840011346715
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Пирот",
+"brojUpisanihBiracaUBirackiSpisak": 52728,
+"percentage": 53.48581398877257,
+"biraciKojiSuGlasali": 28202,
+"teritorijaSlug": "pirot"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 8784,
+"udeo": 64.5028638566603
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4255,
+"udeo": 31.245410486121312
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 250,
+"udeo": 1.8358055514759875
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Власотинце",
+"brojUpisanihBiracaUBirackiSpisak": 26408,
+"percentage": 51.567706755528626,
+"biraciKojiSuGlasali": 13618,
+"teritorijaSlug": "vlasotince"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 14998,
+"udeo": 73.64596120795483
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4028,
+"udeo": 19.779032654063343
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 396,
+"udeo": 1.944512644242573
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Савски Венац",
+"brojUpisanihBiracaUBirackiSpisak": 45063,
+"percentage": 45.19228635465903,
+"biraciKojiSuGlasali": 20365,
+"teritorijaSlug": "savski-venac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4692,
+"udeo": 53.082927933024095
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3411,
+"udeo": 38.59033827356036
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 410,
+"udeo": 4.638533770788551
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Мајданпек",
+"brojUpisanihBiracaUBirackiSpisak": 20536,
+"percentage": 43.04148811842618,
+"biraciKojiSuGlasali": 8839,
+"teritorijaSlug": "majdanpek"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4086,
+"udeo": 53.70662460567823
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3117,
+"udeo": 40.97003154574133
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 245,
+"udeo": 3.2202944269190326
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Куршумлија",
+"brojUpisanihBiracaUBirackiSpisak": 19020,
+"percentage": 40,
+"biraciKojiSuGlasali": 7608,
+"teritorijaSlug": "kursumlija"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2425,
+"udeo": 54.95128030818037
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1566,
+"udeo": 35.48606390210741
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 258,
+"udeo": 5.846363018354861
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Чока",
+"brojUpisanihBiracaUBirackiSpisak": 10890,
+"percentage": 40.523415977961434,
+"biraciKojiSuGlasali": 4413,
+"teritorijaSlug": "coka"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 16298,
+"udeo": 58.45767575322812
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 10281,
+"udeo": 36.87589670014347
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 547,
+"udeo": 1.9619799139167862
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Обреновац",
+"brojUpisanihBiracaUBirackiSpisak": 60121,
+"percentage": 46.37314748590343,
+"biraciKojiSuGlasali": 27880,
+"teritorijaSlug": "obrenovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 13856,
+"udeo": 56.05177993527508
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 9839,
+"udeo": 39.801779935275086
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 515,
+"udeo": 2.083333333333333
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Гроцка",
+"brojUpisanihBiracaUBirackiSpisak": 59184,
+"percentage": 41.768045417680455,
+"biraciKojiSuGlasali": 24720,
+"teritorijaSlug": "grocka"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3120,
+"udeo": 50.29013539651837
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2716,
+"udeo": 43.77820760799484
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 213,
+"udeo": 3.433268858800774
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Србобран",
+"brojUpisanihBiracaUBirackiSpisak": 13193,
+"percentage": 47.02493746683847,
+"biraciKojiSuGlasali": 6204,
+"teritorijaSlug": "srbobran"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 18337,
+"udeo": 59.969912025378555
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 9964,
+"udeo": 32.58658468783726
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1370,
+"udeo": 4.48049187297642
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Пожаревац",
+"brojUpisanihBiracaUBirackiSpisak": 67947,
+"percentage": 45.001250975024654,
+"biraciKojiSuGlasali": 30577,
+"teritorijaSlug": "pozarevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 683,
+"udeo": 57.25062866722548
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 468,
+"udeo": 39.22883487007544
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 23,
+"udeo": 1.9279128248113997
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Витина",
+"brojUpisanihBiracaUBirackiSpisak": 2108,
+"percentage": 56.59392789373814,
+"biraciKojiSuGlasali": 1193,
+"teritorijaSlug": "vitina"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 18982,
+"udeo": 49.93817579121833
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 16955,
+"udeo": 44.60550893162505
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1286,
+"udeo": 3.3832311699244957
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Врање",
+"brojUpisanihBiracaUBirackiSpisak": 72404,
+"percentage": 52.49848074692006,
+"biraciKojiSuGlasali": 38011,
+"teritorijaSlug": "vranje"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6533,
+"udeo": 56.4796403561857
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3227,
+"udeo": 27.89833146018847
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1411,
+"udeo": 12.19849572058442
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Свилајнац",
+"brojUpisanihBiracaUBirackiSpisak": 26829,
+"percentage": 43.11379477431138,
+"biraciKojiSuGlasali": 11567,
+"teritorijaSlug": "svilajnac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4130,
+"udeo": 65.15223221328286
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1854,
+"udeo": 29.247515380974914
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 184,
+"udeo": 2.9026660356523113
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Косјерић",
+"brojUpisanihBiracaUBirackiSpisak": 11574,
+"percentage": 54.76931052358735,
+"biraciKojiSuGlasali": 6339,
+"teritorijaSlug": "kosjeric"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 24072,
+"udeo": 69.89749992740788
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 8716,
+"udeo": 25.308516507447955
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 692,
+"udeo": 2.009349864978658
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ужице",
+"brojUpisanihBiracaUBirackiSpisak": 69259,
+"percentage": 49.72494549444838,
+"biraciKojiSuGlasali": 34439,
+"teritorijaSlug": "uzice"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 24868,
+"udeo": 57.38151276016429
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 15551,
+"udeo": 35.8830587475195
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1786,
+"udeo": 4.121094651345239
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Смедерево",
+"brojUpisanihBiracaUBirackiSpisak": 97920,
+"percentage": 44.25857843137255,
+"biraciKojiSuGlasali": 43338,
+"teritorijaSlug": "smederevo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 25297,
+"udeo": 53.971538904653194
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 18997,
+"udeo": 40.53039192677775
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1417,
+"udeo": 3.0231913123253182
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Зрењанин",
+"brojUpisanihBiracaUBirackiSpisak": 107484,
+"percentage": 43.60742063935097,
+"biraciKojiSuGlasali": 46871,
+"teritorijaSlug": "zrenjanin"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 26767,
+"udeo": 55.876336005344015
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 18559,
+"udeo": 38.74206746826987
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1256,
+"udeo": 2.6219104876419506
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Шабац",
+"brojUpisanihBiracaUBirackiSpisak": 101371,
+"percentage": 47.25611861380474,
+"biraciKojiSuGlasali": 47904,
+"teritorijaSlug": "sabac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 27193,
+"udeo": 58.215409646550064
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 16887,
+"udeo": 36.15208409154161
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1204,
+"udeo": 2.577551326240072
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Панчево",
+"brojUpisanihBiracaUBirackiSpisak": 110898,
+"percentage": 42.120687478583925,
+"biraciKojiSuGlasali": 46711,
+"teritorijaSlug": "pancevo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 8835,
+"udeo": 49.760630808223034
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 8147,
+"udeo": 45.88566600957476
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 399,
+"udeo": 2.2472542945649114
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Инђија",
+"brojUpisanihBiracaUBirackiSpisak": 36573,
+"percentage": 48.54674213217401,
+"biraciKojiSuGlasali": 17755,
+"teritorijaSlug": "indija"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1111,
+"udeo": 60.380434782608695
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 566,
+"udeo": 30.76086956521739
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 91,
+"udeo": 4.945652173913043
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Прешево",
+"brojUpisanihBiracaUBirackiSpisak": 28557,
+"percentage": 6.443253843190811,
+"biraciKojiSuGlasali": 1840,
+"teritorijaSlug": "presevo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 29211,
+"udeo": 68.11154895422855
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 10759,
+"udeo": 25.086856156877374
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1357,
+"udeo": 3.164128990136871
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Суботица",
+"brojUpisanihBiracaUBirackiSpisak": 127712,
+"percentage": 33.58102605863192,
+"biraciKojiSuGlasali": 42887,
+"teritorijaSlug": "subotica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2049,
+"udeo": 70.80165860400828
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 679,
+"udeo": 23.46233586731168
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 139,
+"udeo": 4.803040774015204
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Липљан",
+"brojUpisanihBiracaUBirackiSpisak": 5558,
+"percentage": 52.06908960057575,
+"biraciKojiSuGlasali": 2894,
+"teritorijaSlug": "lipljan"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2429,
+"udeo": 49.63220269718022
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2137,
+"udeo": 43.6657131181038
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 186,
+"udeo": 3.80057212913772
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Голубац",
+"brojUpisanihBiracaUBirackiSpisak": 9754,
+"percentage": 50.17428747180644,
+"biraciKojiSuGlasali": 4894,
+"teritorijaSlug": "golubac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 12825,
+"udeo": 62.56402751353725
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6417,
+"udeo": 31.30396604712425
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 734,
+"udeo": 3.5806624713400654
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Аранђеловац",
+"brojUpisanihBiracaUBirackiSpisak": 38782,
+"percentage": 52.85699551338249,
+"biraciKojiSuGlasali": 20499,
+"teritorijaSlug": "arandelovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 12000,
+"udeo": 51.38086062941555
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 9945,
+"udeo": 42.58188824662813
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 773,
+"udeo": 3.3097837722115178
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Алексинац",
+"brojUpisanihBiracaUBirackiSpisak": 47661,
+"percentage": 49.00232894819664,
+"biraciKojiSuGlasali": 23355,
+"teritorijaSlug": "aleksinac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3060,
+"udeo": 49.68339016074038
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2566,
+"udeo": 41.66260756616334
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 386,
+"udeo": 6.267251177139147
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Бела Паланка",
+"brojUpisanihBiracaUBirackiSpisak": 11415,
+"percentage": 53.95532194480946,
+"biraciKojiSuGlasali": 6159,
+"teritorijaSlug": "bela-palanka"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 33072,
+"udeo": 59.098300602205114
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 19048,
+"udeo": 34.03799074355355
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 2236,
+"udeo": 3.995639820589339
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Крушевац",
+"brojUpisanihBiracaUBirackiSpisak": 116113,
+"percentage": 48.195292516772454,
+"biraciKojiSuGlasali": 55961,
+"teritorijaSlug": "krusevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6241,
+"udeo": 47.878787878787875
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6211,
+"udeo": 47.64863828154967
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 238,
+"udeo": 1.8258534714230916
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Пријепоље",
+"brojUpisanihBiracaUBirackiSpisak": 35562,
+"percentage": 36.65429390922895,
+"biraciKojiSuGlasali": 13035,
+"teritorijaSlug": "prijepolje"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 16410,
+"udeo": 69.65195246179967
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 6065,
+"udeo": 25.7427843803056
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 445,
+"udeo": 1.8887945670628186
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Горњи Милановац",
+"brojUpisanihBiracaUBirackiSpisak": 40573,
+"percentage": 58.06817341581841,
+"biraciKojiSuGlasali": 23560,
+"teritorijaSlug": "gornji-milanovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 9436,
+"udeo": 48.69942196531792
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 9043,
+"udeo": 46.67113955408753
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 547,
+"udeo": 2.82308009909166
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Прокупље",
+"brojUpisanihBiracaUBirackiSpisak": 42745,
+"percentage": 45.32927827816119,
+"biraciKojiSuGlasali": 19376,
+"teritorijaSlug": "prokuplje"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6122,
+"udeo": 48.64521255462853
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 5836,
+"udeo": 46.37266587206992
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 346,
+"udeo": 2.7493047278506157
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Нови Пазар",
+"brojUpisanihBiracaUBirackiSpisak": 65574,
+"percentage": 19.1920578277976,
+"biraciKojiSuGlasali": 12585,
+"teritorijaSlug": "novi-pazar"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 34647,
+"udeo": 50.30490460841537
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 30630,
+"udeo": 44.47251502744142
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1986,
+"udeo": 2.8835264395853297
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Лесковац",
+"brojUpisanihBiracaUBirackiSpisak": 129131,
+"percentage": 53.3365342171903,
+"biraciKojiSuGlasali": 68874,
+"teritorijaSlug": "leskovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 17920,
+"udeo": 67.72486772486772
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 7324,
+"udeo": 27.679516250944825
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 451,
+"udeo": 1.704459561602419
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Лазаревац",
+"brojUpisanihBiracaUBirackiSpisak": 48631,
+"percentage": 54.40973864407477,
+"biraciKojiSuGlasali": 26460,
+"teritorijaSlug": "lazarevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3472,
+"udeo": 52.6060606060606
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2785,
+"udeo": 42.1969696969697
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 141,
+"udeo": 2.1363636363636362
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Љубовија",
+"brojUpisanihBiracaUBirackiSpisak": 13540,
+"percentage": 48.74446085672083,
+"biraciKojiSuGlasali": 6600,
+"teritorijaSlug": "ljubovija"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 37928,
+"udeo": 70.52829276456478
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 12948,
+"udeo": 24.077207728210944
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1237,
+"udeo": 2.3002398795023895
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Звездара",
+"brojUpisanihBiracaUBirackiSpisak": 123109,
+"percentage": 43.68242776726316,
+"biraciKojiSuGlasali": 53777,
+"teritorijaSlug": "zvezdara"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 18745,
+"udeo": 55.4585798816568
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 13254,
+"udeo": 39.21301775147929
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 894,
+"udeo": 2.6449704142011834
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сомбор",
+"brojUpisanihBiracaUBirackiSpisak": 78216,
+"percentage": 43.21366472333026,
+"biraciKojiSuGlasali": 33800,
+"teritorijaSlug": "sombor"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2061,
+"udeo": 51.39650872817955
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1757,
+"udeo": 43.81546134663342
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 120,
+"udeo": 2.9925187032418954
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ириг",
+"brojUpisanihBiracaUBirackiSpisak": 8648,
+"percentage": 46.369102682701204,
+"biraciKojiSuGlasali": 4010,
+"teritorijaSlug": "irig"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 28269,
+"udeo": 67.42433276886017
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 11419,
+"udeo": 27.235433014525245
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1016,
+"udeo": 2.4232594748014407
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Раковица",
+"brojUpisanihBiracaUBirackiSpisak": 91343,
+"percentage": 45.90061635812268,
+"biraciKojiSuGlasali": 41927,
+"teritorijaSlug": "rakovica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 39768,
+"udeo": 66.58183766407714
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 16733,
+"udeo": 28.015336190731315
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1404,
+"udeo": 2.3506563085989822
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Палилула",
+"brojUpisanihBiracaUBirackiSpisak": 140031,
+"percentage": 42.65341245866986,
+"biraciKojiSuGlasali": 59728,
+"teritorijaSlug": "palilula"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 29170,
+"udeo": 68.79392481486722
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 10913,
+"udeo": 25.736993538040657
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 873,
+"udeo": 2.0588651478703834
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ваљево",
+"brojUpisanihBiracaUBirackiSpisak": 80623,
+"percentage": 52.5929325378614,
+"biraciKojiSuGlasali": 42402,
+"teritorijaSlug": "valjevo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 5219,
+"udeo": 56.18473463236086
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3667,
+"udeo": 39.47680051674023
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 244,
+"udeo": 2.6267628377650984
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Лебане",
+"brojUpisanihBiracaUBirackiSpisak": 20687,
+"percentage": 44.90259583313192,
+"biraciKojiSuGlasali": 9289,
+"teritorijaSlug": "lebane"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3311,
+"udeo": 50.113515967912825
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3002,
+"udeo": 45.43665808990465
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 117,
+"udeo": 1.770849099439988
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Коцељева",
+"brojUpisanihBiracaUBirackiSpisak": 12927,
+"percentage": 51.110079678192925,
+"biraciKojiSuGlasali": 6607,
+"teritorijaSlug": "koceljeva"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 42300,
+"udeo": 58.35931679589416
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 26765,
+"udeo": 36.926409315416244
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1454,
+"udeo": 2.006015286553903
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Земун",
+"brojUpisanihBiracaUBirackiSpisak": 162153,
+"percentage": 44.69975886970948,
+"biraciKojiSuGlasali": 72482,
+"teritorijaSlug": "zemun"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 1855,
+"udeo": 56.2291603516217
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 1342,
+"udeo": 40.678993634434676
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 54,
+"udeo": 1.6368596544407397
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Косовска Митровица",
+"brojUpisanihBiracaUBirackiSpisak": 19895,
+"percentage": 16.582055792912794,
+"biraciKojiSuGlasali": 3299,
+"teritorijaSlug": "kosovska-mitrovica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 21058,
+"udeo": 78.25343738387217
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4151,
+"udeo": 15.425492382014122
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 455,
+"udeo": 1.6908212560386473
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Врачар",
+"brojUpisanihBiracaUBirackiSpisak": 62239,
+"percentage": 43.236555857259916,
+"biraciKojiSuGlasali": 26910,
+"teritorijaSlug": "vracar"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4438,
+"udeo": 53.78090159961222
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3275,
+"udeo": 39.68734852157053
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 259,
+"udeo": 3.138633058652448
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Кучево",
+"brojUpisanihBiracaUBirackiSpisak": 19802,
+"percentage": 41.67255832744167,
+"biraciKojiSuGlasali": 8252,
+"teritorijaSlug": "kucevo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 16311,
+"udeo": 51.20710765077073
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 13618,
+"udeo": 42.75264496279785
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 989,
+"udeo": 3.1048880796157348
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сремска Митровица",
+"brojUpisanihBiracaUBirackiSpisak": 66256,
+"percentage": 48.07564597923207,
+"biraciKojiSuGlasali": 31853,
+"teritorijaSlug": "sremska-mitrovica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4085,
+"udeo": 52.57400257400258
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3315,
+"udeo": 42.664092664092664
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 186,
+"udeo": 2.393822393822394
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сокобања",
+"brojUpisanihBiracaUBirackiSpisak": 17032,
+"percentage": 45.62000939408173,
+"biraciKojiSuGlasali": 7770,
+"teritorijaSlug": "sokobanja"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 7337,
+"udeo": 52.142704853954946
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4688,
+"udeo": 33.31675076398266
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1614,
+"udeo": 11.470400113709047
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Петровац",
+"brojUpisanihBiracaUBirackiSpisak": 35535,
+"percentage": 39.597579850851275,
+"biraciKojiSuGlasali": 14071,
+"teritorijaSlug": "petrovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 45398,
+"udeo": 60.45731179502204
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 24307,
+"udeo": 32.37005766336844
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 3590,
+"udeo": 4.780865882728955
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Крагујевац",
+"brojUpisanihBiracaUBirackiSpisak": 154034,
+"percentage": 48.749626705792224,
+"biraciKojiSuGlasali": 75091,
+"teritorijaSlug": "kragujevac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 4910,
+"udeo": 49.746707193515704
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4462,
+"udeo": 45.20770010131712
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 306,
+"udeo": 3.1003039513677813
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Владичин Хан",
+"brojUpisanihBiracaUBirackiSpisak": 19307,
+"percentage": 51.12135494898223,
+"biraciKojiSuGlasali": 9870,
+"teritorijaSlug": "vladicin-han"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 20436,
+"udeo": 77.7359351820153
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4318,
+"udeo": 16.425120772946862
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 397,
+"udeo": 1.510137319791548
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Стари Град",
+"brojUpisanihBiracaUBirackiSpisak": 59670,
+"percentage": 44.05731523378582,
+"biraciKojiSuGlasali": 26289,
+"teritorijaSlug": "stari-grad"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 34359,
+"udeo": 67.31383343455518
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 14347,
+"udeo": 28.10767392198734
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1052,
+"udeo": 2.06100738592951
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Чачак",
+"brojUpisanihBiracaUBirackiSpisak": 98416,
+"percentage": 51.86453422207771,
+"biraciKojiSuGlasali": 51043,
+"teritorijaSlug": "cacak"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5458,
+"udeo": 50.96647679521897
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4502,
+"udeo": 42.039406107012795
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 452,
+"udeo": 4.220748902792044
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Рашка",
+"brojUpisanihBiracaUBirackiSpisak": 22874,
+"percentage": 46.81734720643526,
+"biraciKojiSuGlasali": 10709,
+"teritorijaSlug": "raska"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 7384,
+"udeo": 57.25362487400171
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4877,
+"udeo": 37.81499573544235
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 285,
+"udeo": 2.209816236334031
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Александровац",
+"brojUpisanihBiracaUBirackiSpisak": 25678,
+"percentage": 50.22587428927486,
+"biraciKojiSuGlasali": 12897,
+"teritorijaSlug": "aleksandrovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 10171,
+"udeo": 49.25423728813559
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 9399,
+"udeo": 45.51573849878935
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 571,
+"udeo": 2.765133171912833
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Рума",
+"brojUpisanihBiracaUBirackiSpisak": 44591,
+"percentage": 46.30979345607858,
+"biraciKojiSuGlasali": 20650,
+"teritorijaSlug": "ruma"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6498,
+"udeo": 59.23427529626254
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3891,
+"udeo": 35.46946216955333
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 314,
+"udeo": 2.862351868732908
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Лучани",
+"brojUpisanihBiracaUBirackiSpisak": 20305,
+"percentage": 54.026101945333664,
+"biraciKojiSuGlasali": 10970,
+"teritorijaSlug": "lucani"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5682,
+"udeo": 68.47433116413593
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2137,
+"udeo": 25.753193540612195
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 214,
+"udeo": 2.578934683056158
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ковачица",
+"brojUpisanihBiracaUBirackiSpisak": 23805,
+"percentage": 34.85822306238185,
+"biraciKojiSuGlasali": 8298,
+"teritorijaSlug": "kovacica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 16360,
+"udeo": 58.154414901180154
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 10070,
+"udeo": 35.79553533342813
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1005,
+"udeo": 3.5724441916678513
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Зајечар",
+"brojUpisanihBiracaUBirackiSpisak": 58484,
+"percentage": 48.10204500376171,
+"biraciKojiSuGlasali": 28132,
+"teritorijaSlug": "zajecar"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 47724,
+"udeo": 68.65478399723793
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 18354,
+"udeo": 26.403694273013684
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1480,
+"udeo": 2.129098154302073
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Чукарица",
+"brojUpisanihBiracaUBirackiSpisak": 150848,
+"percentage": 46.08148599915146,
+"biraciKojiSuGlasali": 69513,
+"teritorijaSlug": "cukarica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 43002,
+"udeo": 70.04039351097792
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 15231,
+"udeo": 24.80780506873412
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1311,
+"udeo": 2.1353182617760114
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Вождовац",
+"brojUpisanihBiracaUBirackiSpisak": 140376,
+"percentage": 43.736821109021484,
+"biraciKojiSuGlasali": 61396,
+"teritorijaSlug": "vozdovac"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 19329,
+"udeo": 56.57875479319732
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 12426,
+"udeo": 36.37268389778415
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1330,
+"udeo": 3.8931007230044203
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Лозница",
+"brojUpisanihBiracaUBirackiSpisak": 72439,
+"percentage": 47.161059650188434,
+"biraciKojiSuGlasali": 34163,
+"teritorijaSlug": "loznica"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 6733,
+"udeo": 50.47604767973611
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3641,
+"udeo": 27.295899242821804
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 2565,
+"udeo": 19.229327535797285
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ћуприја",
+"brojUpisanihBiracaUBirackiSpisak": 31139,
+"percentage": 42.836956870805096,
+"biraciKojiSuGlasali": 13339,
+"teritorijaSlug": "cuprija"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2985,
+"udeo": 51.96727019498607
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2040,
+"udeo": 35.515320334261844
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 589,
+"udeo": 10.254178272980502
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Жабари",
+"brojUpisanihBiracaUBirackiSpisak": 14080,
+"percentage": 40.79545454545455,
+"biraciKojiSuGlasali": 5744,
+"teritorijaSlug": "zabari"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 61047,
+"udeo": 55.42069140823589
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 43167,
+"udeo": 39.188575786186355
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 2864,
+"udeo": 2.600043576149321
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Нови Сад",
+"brojUpisanihBiracaUBirackiSpisak": 258298,
+"percentage": 42.64531664976113,
+"biraciKojiSuGlasali": 110152,
+"teritorijaSlug": "novi-sad"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 61306,
+"udeo": 62.156928349099175
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 30468,
+"udeo": 30.890896371323418
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 4425,
+"udeo": 4.486419077166408
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Ниш",
+"brojUpisanihBiracaUBirackiSpisak": 216382,
+"percentage": 45.58188758769214,
+"biraciKojiSuGlasali": 98631,
+"teritorijaSlug": "nis"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 31255,
+"udeo": 60.72351421188631
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 17862,
+"udeo": 34.703036661420995
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1150,
+"udeo": 2.2342678401429934
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Краљево",
+"brojUpisanihBiracaUBirackiSpisak": 113031,
+"percentage": 45.53706505295008,
+"biraciKojiSuGlasali": 51471,
+"teritorijaSlug": "kraljevo"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 3715,
+"udeo": 49.9193765116904
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 3297,
+"udeo": 44.30260682612201
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 260,
+"udeo": 3.4936844934157483
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Брус",
+"brojUpisanihBiracaUBirackiSpisak": 15866,
+"percentage": 46.90533215681331,
+"biraciKojiSuGlasali": 7442,
+"teritorijaSlug": "brus"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 4417,
+"udeo": 66.03378681417253
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 2069,
+"udeo": 30.931379877410674
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 119,
+"udeo": 1.779040215278816
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Лепосавић",
+"brojUpisanihBiracaUBirackiSpisak": 11696,
+"percentage": 57.19049247606019,
+"biraciKojiSuGlasali": 6689,
+"teritorijaSlug": "leposavic"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 69212,
+"udeo": 69.64168922250285
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 24455,
+"udeo": 24.60682410472616
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 1903,
+"udeo": 1.9148144048780977
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Нови Београд",
+"brojUpisanihBiracaUBirackiSpisak": 205204,
+"percentage": 48.43131712832108,
+"biraciKojiSuGlasali": 99383,
+"teritorijaSlug": "novi-beograd"
+},
+{
+"rezultat": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 5340,
+"udeo": 65.36107711138311
+},
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2445,
+"udeo": 29.9265605875153
+},
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 153,
+"udeo": 1.872705018359853
+},
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Сјеница",
+"brojUpisanihBiracaUBirackiSpisak": 25288,
+"percentage": 32.3078139829168,
+"biraciKojiSuGlasali": 8170,
+"teritorijaSlug": "sjenica"
+}
+],
+"candidates": [
+{
+"izbornaListaSlug": "vojislav-kostunica-dss",
+"glasova": 1699098,
+"boja": "#33a02c",
+"izbornaLista": "Војислав Коштуница (ДСС)",
+"udeo": 59.27802897094533
+},
+{
+"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"glasova": 1063296,
+"boja": "#8dd3c7",
+"izbornaLista": "др Војислав Шешељ (СРС)",
+"udeo": 37.09620698317006
+},
+{
+"izbornaListaSlug": "borislav-pelevic-ssj",
+"glasova": 103926,
+"boja": "#33a02c",
+"izbornaLista": "Борислав Пелевић (ССЈ)",
+"udeo": 3.6257640458846185
+}
+]
+}
