@@ -19554,17 +19554,10 @@
 "candidates": [
 {
 "kandidatSlug": "vojislav-kostunica-dss",
-"glasova": 2880688,
+"glasova": 1181590,
 "boja": "#33a02c",
 "kandidat": "Војислав Коштуница (ДСС)",
-"udeo": 42.98808663791232
-},
-{
-"kandidatSlug": "dr-vojislav-seselj-srs",
-"glasova": 1989182,
-"boja": "#8dd3c7",
-"kandidat": "др Војислав Шешељ (СРС)",
-"udeo": 29.684272699638313
+"udeo": 17.632695137582
 },
 {
 "kandidatSlug": "dr-miroljub-labus-gg",
@@ -19572,6 +19565,13 @@
 "boja": "#33a02c",
 "kandidat": "др Мирољуб Лабус      (ГГ)",
 "udeo": 16.320200276639866
+},
+{
+"kandidatSlug": "dr-vojislav-seselj-srs",
+"glasova": 925886,
+"boja": "#8dd3c7",
+"kandidat": "др Војислав Шешељ (СРС)",
+"udeo": 13.816861661113625
 },
 {
 "kandidatSlug": "vuk-draskovic-spo",
@@ -19593,13 +19593,6 @@
 "boja": "#1f78b4",
 "kandidat": "Велимир-Бата Живојиновић (СПС)",
 "udeo": 1.9298682565674363
-},
-{
-"kandidatSlug": "borislav-pelevic-ssj",
-"glasova": 103926,
-"boja": "#33a02c",
-"kandidat": "Борислав Пелевић (ССЈ)",
-"udeo": 1.550872531815898
 },
 {
 "kandidatSlug": "nebojsa-pavkovic-gg",

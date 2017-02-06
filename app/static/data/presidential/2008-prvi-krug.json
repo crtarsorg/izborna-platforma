@@ -20346,66 +20346,66 @@
 "candidates": [
 {
 "kandidatSlug": "tomislav-nikolic",
-"glasova": 7867773,
+"glasova": 1550879,
 "boja": "#bebada",
 "kandidat": "Томислав Николић",
-"udeo": 45.05456094100093
+"udeo": 8.881061059796536
 },
 {
 "kandidatSlug": "boris-tadic",
-"glasova": 7682216,
+"glasova": 1381730,
 "boja": "#a6cee3",
 "kandidat": "Борис Тадић",
-"udeo": 43.99197446773469
+"udeo": 7.912434495632908
 },
 {
 "kandidatSlug": "velimir-ilic",
-"glasova": 620820,
+"glasova": 294828,
 "boja": "#33a02c",
 "kandidat": "Велимир Илић",
-"udeo": 3.555106702162378
+"udeo": 1.6883235056620753
 },
 {
 "kandidatSlug": "milutin-mrkonjic",
-"glasova": 504381,
+"glasova": 232608,
 "boja": "#fdbf6f",
 "kandidat": "Милутин Мркоњић",
-"udeo": 2.8883223374623275
+"udeo": 1.332022582675472
 },
 {
 "kandidatSlug": "cedomir-jova-novic",
-"glasova": 450258,
+"glasova": 207257,
 "boja": "#fdbf6f",
 "kandidat": "Чедомир Јова-новић",
-"udeo": 2.578388636806527
+"udeo": 1.18685085817156
 },
 {
 "kandidatSlug": "istvan-pastor",
-"glasova": 192806,
+"glasova": 86147,
 "boja": "#8dd3c7",
 "kandidat": "Иштван Пастор",
-"udeo": 1.1040976495878345
+"udeo": 0.49331815513543764
 },
 {
 "kandidatSlug": "milanka-karic",
-"glasova": 82397,
+"glasova": 38219,
 "boja": "#ff7f00",
 "kandidat": "Миланка Карић",
-"udeo": 0.4718438950711534
+"udeo": 0.21885993210583407
 },
 {
 "kandidatSlug": "marijan-risti-cevic",
-"glasova": 37743,
+"glasova": 17655,
 "boja": "#e31a1c",
 "kandidat": "Маријан Ристи-чевић",
-"udeo": 0.2161341326950076
+"udeo": 0.10110081638265002
 },
 {
 "kandidatSlug": "jugoslav-dobri-canin",
-"glasova": 24373,
+"glasova": 11209,
 "boja": "#1f78b4",
 "kandidat": "Југослав Добри-чанин",
-"udeo": 0.13957123747914635
+"udeo": 0.06418799494948309
 }
 ]
 }
