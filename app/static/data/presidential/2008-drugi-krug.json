@@ -1,6 +1,6 @@
 {
-"total_voters": 9363047,
-"percentage": 67.50229079838019,
+"total_voters": 4341795,
+"percentage": 68.11064816412586,
 "winners": [
 {
 "rezultat": [
@@ -6108,17 +6108,17 @@
 "candidates": [
 {
 "kandidatSlug": "boris-tadic",
-"glasova": 4705430,
+"glasova": 2191967,
 "boja": "#a6cee3",
 "kandidat": "Борис Тадић",
-"udeo": 51.13196143405037
+"udeo": 12.552231842754358
 },
 {
 "kandidatSlug": "tomislav-nikolic",
-"glasova": 4497092,
+"glasova": 2074419,
 "boja": "#bebada",
 "kandidat": "Томислав Николић",
-"udeo": 48.86803856594964
+"udeo": 11.87909682354463
 }
 ]
 }

@@ -5,30 +5,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 94,
 "udeo": 80.34188034188034
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 20,
 "udeo": 17.094017094017094
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 2,
 "udeo": 1.7094017094017095
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -41,30 +41,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 212,
 "udeo": 51.45631067961165
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 179,
 "udeo": 43.44660194174757
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 15,
 "udeo": 3.640776699029126
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -77,30 +77,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 422,
 "udeo": 65.6298600311042
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 200,
 "udeo": 31.104199066874028
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 15,
 "udeo": 2.332814930015552
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -113,30 +113,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 666,
 "udeo": 78.16901408450704
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 168,
 "udeo": 19.718309859154928
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 9,
 "udeo": 1.056338028169014
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -149,30 +149,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1484,
 "udeo": 61.37303556658396
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 781,
 "udeo": 32.29942100909843
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 102,
 "udeo": 4.218362282878412
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -185,30 +185,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1668,
 "udeo": 50.69908814589665
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1434,
 "udeo": 43.58662613981763
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 129,
 "udeo": 3.9209726443768993
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -221,30 +221,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1744,
 "udeo": 52.215568862275454
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1435,
 "udeo": 42.964071856287426
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 86,
 "udeo": 2.5748502994011977
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -257,30 +257,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1990,
 "udeo": 43.49726775956284
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1916,
 "udeo": 41.87978142076503
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 544,
 "udeo": 11.890710382513662
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -293,30 +293,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1165,
 "udeo": 72.85803627267042
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 352,
 "udeo": 22.013758599124454
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 68,
 "udeo": 4.252657911194497
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -329,30 +329,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2250,
 "udeo": 59.57108816521048
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1273,
 "udeo": 33.70399788191686
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 123,
 "udeo": 3.2565528196981735
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -365,30 +365,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1998,
 "udeo": 59.87413844770752
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1076,
 "udeo": 32.24453101588253
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 157,
 "udeo": 4.704824692837879
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -401,30 +401,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2258,
 "udeo": 56.12726820780512
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1182,
 "udeo": 29.381058911260254
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 434,
 "udeo": 10.787969177230922
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -437,30 +437,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2387,
 "udeo": 52.56551420391984
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1866,
 "udeo": 41.092270425016515
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 164,
 "udeo": 3.6115393085223517
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -473,30 +473,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2404,
 "udeo": 67.22595078299777
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 787,
 "udeo": 22.007829977628635
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 220,
 "udeo": 6.152125279642058
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -509,30 +509,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2520,
 "udeo": 48.06408544726302
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2345,
 "udeo": 44.726301735647525
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 254,
 "udeo": 4.844554644287621
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -545,30 +545,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2612,
 "udeo": 65.23476523476523
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1100,
 "udeo": 27.472527472527474
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 125,
 "udeo": 3.121878121878122
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -581,30 +581,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2639,
 "udeo": 65.85974544547042
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1210,
 "udeo": 30.197154978787122
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 115,
 "udeo": 2.8699775393062144
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -617,30 +617,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2710,
 "udeo": 48.749775139413565
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2596,
 "udeo": 46.69904659111351
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 133,
 "udeo": 2.392516639683396
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -653,30 +653,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2832,
 "udeo": 58.609271523178805
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1609,
 "udeo": 33.298841059602644
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 210,
 "udeo": 4.346026490066225
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -689,30 +689,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3090,
 "udeo": 59.57200694042799
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1833,
 "udeo": 35.338345864661655
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 118,
 "udeo": 2.274918064391749
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -725,30 +725,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3169,
 "udeo": 52.19038208168642
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2493,
 "udeo": 41.05731225296443
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 216,
 "udeo": 3.557312252964427
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -761,30 +761,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3225,
 "udeo": 55.345804015788566
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2191,
 "udeo": 37.600823751501636
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 282,
 "udeo": 4.839540072078257
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -797,30 +797,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3267,
 "udeo": 61.145423919146545
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1444,
 "udeo": 27.02601534718323
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 463,
 "udeo": 8.665543702040052
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -833,30 +833,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3291,
 "udeo": 55.181086519114686
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2387,
 "udeo": 40.02347417840376
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 153,
 "udeo": 2.5653923541247488
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -869,30 +869,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3374,
 "udeo": 74.64601769911503
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1032,
 "udeo": 22.831858407079647
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 50,
 "udeo": 1.1061946902654867
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -905,30 +905,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 541,
 "udeo": 61.757990867579906
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 266,
 "udeo": 30.36529680365297
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 60,
 "udeo": 6.8493150684931505
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -941,30 +941,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3391,
 "udeo": 50.07383343177791
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2982,
 "udeo": 44.03425871234495
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 219,
 "udeo": 3.2339043118724162
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -977,30 +977,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3580,
 "udeo": 50.24561403508771
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3095,
 "udeo": 43.43859649122807
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 263,
 "udeo": 3.691228070175439
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1013,30 +1013,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3610,
 "udeo": 66.10510895440396
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1594,
 "udeo": 29.188793261307456
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 162,
 "udeo": 2.9664896539095404
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1049,30 +1049,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3729,
 "udeo": 58.5308428818082
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2320,
 "udeo": 36.41500549364307
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 128,
 "udeo": 2.0091037513734107
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1085,30 +1085,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3500,
 "udeo": 57.832121612690024
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1993,
 "udeo": 32.93126239259749
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 402,
 "udeo": 6.642432253800397
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1121,30 +1121,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3891,
 "udeo": 50.07077596190966
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3572,
 "udeo": 45.965770171149146
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 153,
 "udeo": 1.9688585767597477
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1157,30 +1157,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4135,
 "udeo": 51.01159634838391
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3602,
 "udeo": 44.43622008388848
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 176,
 "udeo": 2.1712311867752283
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1193,30 +1193,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4043,
 "udeo": 55.650378527185126
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2847,
 "udeo": 39.18788713007571
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 201,
 "udeo": 2.76668960770819
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1229,30 +1229,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4180,
 "udeo": 50.88253195374315
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3526,
 "udeo": 42.9214850882532
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 299,
 "udeo": 3.6396835057821058
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1265,30 +1265,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4395,
 "udeo": 65.85256218160023
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1955,
 "udeo": 29.29277794426131
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 95,
 "udeo": 1.423434222355409
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1301,30 +1301,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 131,
 "udeo": 72.37569060773481
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 44,
 "udeo": 24.30939226519337
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 5,
 "udeo": 2.7624309392265194
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1337,30 +1337,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4398,
 "udeo": 63.49068860978778
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2056,
 "udeo": 29.680958567922623
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 314,
 "udeo": 4.532986862999856
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1373,30 +1373,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4486,
 "udeo": 47.6372517786981
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4476,
 "udeo": 47.53106084740363
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 270,
 "udeo": 2.867155144950621
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1409,30 +1409,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4489,
 "udeo": 65.43731778425655
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2066,
 "udeo": 30.11661807580175
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 143,
 "udeo": 2.0845481049562684
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1445,30 +1445,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4576,
 "udeo": 56.957928802588995
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2919,
 "udeo": 36.33308439133682
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 330,
 "udeo": 4.1075429424943986
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1481,30 +1481,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4587,
 "udeo": 58.627300613496935
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2813,
 "udeo": 35.95347648261759
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 214,
 "udeo": 2.735173824130879
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1517,30 +1517,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4076,
 "udeo": 58.60531991373112
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2336,
 "udeo": 33.587347232207044
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 352,
 "udeo": 5.0611071171818836
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1553,30 +1553,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4739,
 "udeo": 49.98945147679325
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4145,
 "udeo": 43.72362869198312
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 398,
 "udeo": 4.198312236286919
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1589,30 +1589,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3447,
 "udeo": 60.60126582278481
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1618,
 "udeo": 28.445850914205344
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 445,
 "udeo": 7.823488045007032
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1625,30 +1625,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2944,
 "udeo": 48.17542137129766
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2849,
 "udeo": 46.620847651775485
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 186,
 "udeo": 3.0436917034855178
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1661,30 +1661,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3883,
 "udeo": 50.12262811410869
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3299,
 "udeo": 42.58422615205886
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 402,
 "udeo": 5.1891054601781335
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1697,30 +1697,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4868,
 "udeo": 58.38330534900456
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2643,
 "udeo": 31.69824898057088
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 573,
 "udeo": 6.8721515951067405
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1733,30 +1733,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 692,
 "udeo": 65.53030303030303
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 315,
 "udeo": 29.829545454545453
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 29,
 "udeo": 2.746212121212121
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1769,30 +1769,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4896,
 "udeo": 66.3504539910557
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2189,
 "udeo": 29.665266296246102
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 101,
 "udeo": 1.3687491530017617
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1805,30 +1805,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2187,
 "udeo": 62.9714943852577
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1169,
 "udeo": 33.659660236107115
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 72,
 "udeo": 2.0731356176216527
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1841,30 +1841,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5026,
 "udeo": 86.46137966626527
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 555,
 "udeo": 9.54756580079133
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 68,
 "udeo": 1.1697918458627214
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1877,30 +1877,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 5245,
 "udeo": 59.34600588368409
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3202,
 "udeo": 36.22991627064947
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 229,
 "udeo": 2.5910839556460736
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1913,30 +1913,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5274,
 "udeo": 60.034149117814465
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2966,
 "udeo": 33.76209447922595
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 294,
 "udeo": 3.346613545816733
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1949,30 +1949,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5331,
 "udeo": 74.81055290485546
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1533,
 "udeo": 21.51277013752456
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 74,
 "udeo": 1.0384507437552624
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -1985,30 +1985,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3823,
 "udeo": 52.14841085800027
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3187,
 "udeo": 43.472923202837265
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 177,
 "udeo": 2.414404583276497
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2021,30 +2021,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3515,
 "udeo": 73.98442433171964
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 702,
 "udeo": 14.775836665965059
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 294,
 "udeo": 6.188170911387076
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2057,30 +2057,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 5879,
 "udeo": 66.12304577662805
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2655,
 "udeo": 29.86165785625914
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 180,
 "udeo": 2.024519176695535
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2093,30 +2093,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3436,
 "udeo": 47.98212540148024
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3064,
 "udeo": 42.78732020667505
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 498,
 "udeo": 6.954335986594051
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2129,30 +2129,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2198,
 "udeo": 47.9075850043592
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1842,
 "udeo": 40.14821272885789
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 404,
 "udeo": 8.805579773321709
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2165,30 +2165,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5932,
 "udeo": 57.72112484187992
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3928,
 "udeo": 38.22127079887127
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 182,
 "udeo": 1.7709448282572735
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2201,30 +2201,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5907,
 "udeo": 61.685463659147864
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3269,
 "udeo": 34.13742690058479
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 204,
 "udeo": 2.1303258145363406
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2237,30 +2237,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3071,
 "udeo": 56.22482607103625
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2011,
 "udeo": 36.818015378982054
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 208,
 "udeo": 3.8081288905162944
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2273,30 +2273,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6133,
 "udeo": 50.42341527583656
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3333,
 "udeo": 27.402778919674418
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 2352,
 "udeo": 19.33733453917619
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2309,30 +2309,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2859,
 "udeo": 77.73246329526917
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 660,
 "udeo": 17.94453507340946
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 130,
 "udeo": 3.5345296356715608
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2345,30 +2345,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6138,
 "udeo": 54.400425418771604
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4548,
 "udeo": 40.30842860941239
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 324,
 "udeo": 2.8715767083222548
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2381,30 +2381,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2592,
 "udeo": 47.25615314494075
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2536,
 "udeo": 46.23518687329079
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 215,
 "udeo": 3.919781221513218
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2417,30 +2417,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6423,
 "udeo": 56.64520680836053
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4329,
 "udeo": 38.1779698386101
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 311,
 "udeo": 2.742746273921863
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2453,30 +2453,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4348,
 "udeo": 51.06882781301386
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3832,
 "udeo": 45.0082217524078
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 151,
 "udeo": 1.7735494479680525
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2489,30 +2489,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6530,
 "udeo": 49.00562851782364
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6161,
 "udeo": 46.23639774859287
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 312,
 "udeo": 2.341463414634146
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2525,30 +2525,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6634,
 "udeo": 49.969870442904494
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 5948,
 "udeo": 44.802651401024406
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 368,
 "udeo": 2.7719192527869843
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2561,30 +2561,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6810,
 "udeo": 55.04364694471388
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4608,
 "udeo": 37.245392822502424
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 513,
 "udeo": 4.146459747817652
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2597,30 +2597,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6811,
 "udeo": 54.77281865701649
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4861,
 "udeo": 39.09127462806594
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 372,
 "udeo": 2.991556091676719
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2633,30 +2633,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6888,
 "udeo": 59.51270088128564
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4207,
 "udeo": 36.34871263176084
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 173,
 "udeo": 1.4947295662692242
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2669,30 +2669,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 7080,
 "udeo": 59.616032334119225
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3948,
 "udeo": 33.24351633546649
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 500,
 "udeo": 4.210171775008421
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2705,30 +2705,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6711,
 "udeo": 55.12114989733059
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4965,
 "udeo": 40.78028747433265
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 262,
 "udeo": 2.1519507186858315
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2741,30 +2741,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 7738,
 "udeo": 56.06433850166642
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5403,
 "udeo": 39.146500507172874
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 379,
 "udeo": 2.7459788436458483
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2777,30 +2777,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 7944,
 "udeo": 58.01504418315928
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 5222,
 "udeo": 38.13627400861754
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 266,
 "udeo": 1.9425984079456657
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2813,30 +2813,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2100,
 "udeo": 65.95477386934674
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1034,
 "udeo": 32.4748743718593
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 39,
 "udeo": 1.2248743718592965
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2849,30 +2849,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 9002,
 "udeo": 63.376513658124466
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4582,
 "udeo": 32.258518727119124
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 284,
 "udeo": 1.9994367783722895
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2885,30 +2885,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3040,
 "udeo": 54.568300125650694
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1704,
 "udeo": 30.586968228325258
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 650,
 "udeo": 11.667564171602944
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2921,30 +2921,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 9001,
 "udeo": 50.18118971957406
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 7934,
 "udeo": 44.232591849250156
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 462,
 "udeo": 2.575681552099013
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2957,30 +2957,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1841,
 "udeo": 51.72801348693453
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1483,
 "udeo": 41.669008148356276
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 123,
 "udeo": 3.456026973869064
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -2993,30 +2993,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6790,
 "udeo": 63.76185557329327
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3059,
 "udeo": 28.725701943844495
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 486,
 "udeo": 4.563808808338811
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3029,30 +3029,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 9480,
 "udeo": 51.95089872862779
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6086,
 "udeo": 33.35160017536168
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 2180,
 "udeo": 11.94651468654099
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3065,30 +3065,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 7847,
 "udeo": 52.01856148491879
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6244,
 "udeo": 41.39211136890951
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 532,
 "udeo": 3.5266821345707653
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3101,30 +3101,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 10852,
 "udeo": 50.715020095336016
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 9622,
 "udeo": 44.966819328909246
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 391,
 "udeo": 1.8272735769698103
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3137,30 +3137,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 83,
 "udeo": 50.609756097560975
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 72,
 "udeo": 43.90243902439025
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 8,
 "udeo": 4.878048780487805
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3173,30 +3173,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 7235,
 "udeo": 69.26759214935376
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2632,
 "udeo": 25.19865964576352
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 295,
 "udeo": 2.824317855433222
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3209,30 +3209,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 11007,
 "udeo": 51.37456242707118
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6561,
 "udeo": 30.623103850641776
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 3260,
 "udeo": 15.215869311551925
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3245,30 +3245,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 5024,
 "udeo": 49.77214186645532
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4519,
 "udeo": 44.769169803843866
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 332,
 "udeo": 3.2890826233405988
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3281,30 +3281,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3771,
 "udeo": 56.62162162162162
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2472,
 "udeo": 37.11711711711712
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 285,
 "udeo": 4.2792792792792795
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3317,30 +3317,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 11305,
 "udeo": 57.537662866449516
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6983,
 "udeo": 35.54051302931596
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 690,
 "udeo": 3.5118078175895766
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3353,30 +3353,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 11695,
 "udeo": 48.18904775639705
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 11172,
 "udeo": 46.03403518892414
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 846,
 "udeo": 3.485928550826157
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3389,30 +3389,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2845,
 "udeo": 52.74378939562476
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2159,
 "udeo": 40.025954764553205
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 214,
 "udeo": 3.967371153133111
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3425,30 +3425,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4146,
 "udeo": 49.60516870064608
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3490,
 "udeo": 41.75640105288346
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 477,
 "udeo": 5.70710696338837
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3461,30 +3461,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 12015,
 "udeo": 61.0704483074108
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6781,
 "udeo": 34.46680898647962
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 420,
 "udeo": 2.1347971942665445
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3497,30 +3497,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 12164,
 "udeo": 57.586517066704545
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 7447,
 "udeo": 35.25540879609904
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 834,
 "udeo": 3.9483027978980263
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3533,30 +3533,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 9401,
 "udeo": 59.60185126481963
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 5344,
 "udeo": 33.88068217840613
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 514,
 "udeo": 3.2587332783871172
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3569,30 +3569,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 12469,
 "udeo": 59.4895038167939
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6623,
 "udeo": 31.598282442748094
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1192,
 "udeo": 5.687022900763359
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3605,30 +3605,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 776,
 "udeo": 64.13223140495867
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 305,
 "udeo": 25.206611570247933
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 113,
 "udeo": 9.338842975206612
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3641,30 +3641,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1614,
 "udeo": 55.23613963039015
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1155,
 "udeo": 39.52772073921971
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 126,
 "udeo": 4.312114989733059
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3677,30 +3677,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 11703,
 "udeo": 59.77933289063697
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6559,
 "udeo": 33.50360116463197
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 827,
 "udeo": 4.224344894519079
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3713,30 +3713,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 13470,
 "udeo": 49.29912527906892
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 12229,
 "udeo": 44.7571642938184
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 823,
 "udeo": 3.0121143359074773
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3749,30 +3749,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4362,
 "udeo": 78.87884267631104
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 512,
 "udeo": 9.258589511754069
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 413,
 "udeo": 7.468354430379747
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3785,30 +3785,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 14452,
 "udeo": 53.29301570912309
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 7872,
 "udeo": 29.028689431373994
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 4062,
 "udeo": 14.97898075079283
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3821,30 +3821,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 8313,
 "udeo": 48.51190476190476
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 7902,
 "udeo": 46.11344537815126
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 510,
 "udeo": 2.976190476190476
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3857,30 +3857,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4321,
 "udeo": 65.9392644590264
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1766,
 "udeo": 26.949488783763158
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 265,
 "udeo": 4.043949336181901
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3893,30 +3893,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 14630,
 "udeo": 51.875753492660095
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 11425,
 "udeo": 40.511311254520955
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1485,
 "udeo": 5.2655840011346715
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3929,30 +3929,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 8784,
 "udeo": 64.5028638566603
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4255,
 "udeo": 31.245410486121312
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 250,
 "udeo": 1.8358055514759875
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -3965,30 +3965,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 14998,
 "udeo": 73.64596120795483
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4028,
 "udeo": 19.779032654063343
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 396,
 "udeo": 1.944512644242573
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4001,30 +4001,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4692,
 "udeo": 53.082927933024095
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3411,
 "udeo": 38.59033827356036
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 410,
 "udeo": 4.638533770788551
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4037,30 +4037,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4086,
 "udeo": 53.70662460567823
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3117,
 "udeo": 40.97003154574133
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 245,
 "udeo": 3.2202944269190326
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4073,30 +4073,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2425,
 "udeo": 54.95128030818037
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1566,
 "udeo": 35.48606390210741
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 258,
 "udeo": 5.846363018354861
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4109,30 +4109,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 16298,
 "udeo": 58.45767575322812
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 10281,
 "udeo": 36.87589670014347
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 547,
 "udeo": 1.9619799139167862
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4145,30 +4145,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 13856,
 "udeo": 56.05177993527508
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 9839,
 "udeo": 39.801779935275086
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 515,
 "udeo": 2.083333333333333
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4181,30 +4181,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3120,
 "udeo": 50.29013539651837
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2716,
 "udeo": 43.77820760799484
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 213,
 "udeo": 3.433268858800774
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4217,30 +4217,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 18337,
 "udeo": 59.969912025378555
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 9964,
 "udeo": 32.58658468783726
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1370,
 "udeo": 4.48049187297642
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4253,30 +4253,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 683,
 "udeo": 57.25062866722548
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 468,
 "udeo": 39.22883487007544
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 23,
 "udeo": 1.9279128248113997
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4289,30 +4289,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 18982,
 "udeo": 49.93817579121833
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 16955,
 "udeo": 44.60550893162505
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1286,
 "udeo": 3.3832311699244957
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4325,30 +4325,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6533,
 "udeo": 56.4796403561857
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3227,
 "udeo": 27.89833146018847
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1411,
 "udeo": 12.19849572058442
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4361,30 +4361,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4130,
 "udeo": 65.15223221328286
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1854,
 "udeo": 29.247515380974914
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 184,
 "udeo": 2.9026660356523113
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4397,30 +4397,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 24072,
 "udeo": 69.89749992740788
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 8716,
 "udeo": 25.308516507447955
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 692,
 "udeo": 2.009349864978658
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4433,30 +4433,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 24868,
 "udeo": 57.38151276016429
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 15551,
 "udeo": 35.8830587475195
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1786,
 "udeo": 4.121094651345239
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4469,30 +4469,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 25297,
 "udeo": 53.971538904653194
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 18997,
 "udeo": 40.53039192677775
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1417,
 "udeo": 3.0231913123253182
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4505,30 +4505,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 26767,
 "udeo": 55.876336005344015
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 18559,
 "udeo": 38.74206746826987
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1256,
 "udeo": 2.6219104876419506
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4541,30 +4541,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 27193,
 "udeo": 58.215409646550064
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 16887,
 "udeo": 36.15208409154161
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1204,
 "udeo": 2.577551326240072
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4577,30 +4577,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 8835,
 "udeo": 49.760630808223034
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 8147,
 "udeo": 45.88566600957476
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 399,
 "udeo": 2.2472542945649114
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4613,30 +4613,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1111,
 "udeo": 60.380434782608695
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 566,
 "udeo": 30.76086956521739
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 91,
 "udeo": 4.945652173913043
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4649,30 +4649,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 29211,
 "udeo": 68.11154895422855
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 10759,
 "udeo": 25.086856156877374
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1357,
 "udeo": 3.164128990136871
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4685,30 +4685,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2049,
 "udeo": 70.80165860400828
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 679,
 "udeo": 23.46233586731168
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 139,
 "udeo": 4.803040774015204
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4721,30 +4721,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2429,
 "udeo": 49.63220269718022
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2137,
 "udeo": 43.6657131181038
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 186,
 "udeo": 3.80057212913772
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4757,30 +4757,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 12825,
 "udeo": 62.56402751353725
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6417,
 "udeo": 31.30396604712425
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 734,
 "udeo": 3.5806624713400654
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4793,30 +4793,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 12000,
 "udeo": 51.38086062941555
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 9945,
 "udeo": 42.58188824662813
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 773,
 "udeo": 3.3097837722115178
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4829,30 +4829,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3060,
 "udeo": 49.68339016074038
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2566,
 "udeo": 41.66260756616334
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 386,
 "udeo": 6.267251177139147
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4865,30 +4865,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 33072,
 "udeo": 59.098300602205114
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 19048,
 "udeo": 34.03799074355355
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 2236,
 "udeo": 3.995639820589339
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4901,30 +4901,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6241,
 "udeo": 47.878787878787875
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6211,
 "udeo": 47.64863828154967
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 238,
 "udeo": 1.8258534714230916
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4937,30 +4937,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 16410,
 "udeo": 69.65195246179967
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 6065,
 "udeo": 25.7427843803056
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 445,
 "udeo": 1.8887945670628186
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -4973,30 +4973,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 9436,
 "udeo": 48.69942196531792
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 9043,
 "udeo": 46.67113955408753
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 547,
 "udeo": 2.82308009909166
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5009,30 +5009,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6122,
 "udeo": 48.64521255462853
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 5836,
 "udeo": 46.37266587206992
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 346,
 "udeo": 2.7493047278506157
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5045,30 +5045,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 34647,
 "udeo": 50.30490460841537
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 30630,
 "udeo": 44.47251502744142
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1986,
 "udeo": 2.8835264395853297
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5081,30 +5081,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 17920,
 "udeo": 67.72486772486772
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 7324,
 "udeo": 27.679516250944825
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 451,
 "udeo": 1.704459561602419
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5117,30 +5117,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3472,
 "udeo": 52.6060606060606
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2785,
 "udeo": 42.1969696969697
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 141,
 "udeo": 2.1363636363636362
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5153,30 +5153,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 37928,
 "udeo": 70.52829276456478
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 12948,
 "udeo": 24.077207728210944
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1237,
 "udeo": 2.3002398795023895
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5189,30 +5189,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 18745,
 "udeo": 55.4585798816568
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 13254,
 "udeo": 39.21301775147929
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 894,
 "udeo": 2.6449704142011834
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5225,30 +5225,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2061,
 "udeo": 51.39650872817955
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1757,
 "udeo": 43.81546134663342
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 120,
 "udeo": 2.9925187032418954
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5261,30 +5261,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 28269,
 "udeo": 67.42433276886017
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 11419,
 "udeo": 27.235433014525245
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1016,
 "udeo": 2.4232594748014407
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5297,30 +5297,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 39768,
 "udeo": 66.58183766407714
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 16733,
 "udeo": 28.015336190731315
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1404,
 "udeo": 2.3506563085989822
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5333,30 +5333,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 29170,
 "udeo": 68.79392481486722
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 10913,
 "udeo": 25.736993538040657
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 873,
 "udeo": 2.0588651478703834
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5369,30 +5369,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 5219,
 "udeo": 56.18473463236086
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3667,
 "udeo": 39.47680051674023
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 244,
 "udeo": 2.6267628377650984
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5405,30 +5405,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3311,
 "udeo": 50.113515967912825
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3002,
 "udeo": 45.43665808990465
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 117,
 "udeo": 1.770849099439988
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5441,30 +5441,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 42300,
 "udeo": 58.35931679589416
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 26765,
 "udeo": 36.926409315416244
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1454,
 "udeo": 2.006015286553903
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5477,30 +5477,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 1855,
 "udeo": 56.2291603516217
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 1342,
 "udeo": 40.678993634434676
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 54,
 "udeo": 1.6368596544407397
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5513,30 +5513,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 21058,
 "udeo": 78.25343738387217
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4151,
 "udeo": 15.425492382014122
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 455,
 "udeo": 1.6908212560386473
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5549,30 +5549,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4438,
 "udeo": 53.78090159961222
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3275,
 "udeo": 39.68734852157053
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 259,
 "udeo": 3.138633058652448
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5585,30 +5585,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 16311,
 "udeo": 51.20710765077073
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 13618,
 "udeo": 42.75264496279785
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 989,
 "udeo": 3.1048880796157348
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5621,30 +5621,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4085,
 "udeo": 52.57400257400258
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3315,
 "udeo": 42.664092664092664
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 186,
 "udeo": 2.393822393822394
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5657,30 +5657,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 7337,
 "udeo": 52.142704853954946
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4688,
 "udeo": 33.31675076398266
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1614,
 "udeo": 11.470400113709047
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5693,30 +5693,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 45398,
 "udeo": 60.45731179502204
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 24307,
 "udeo": 32.37005766336844
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 3590,
 "udeo": 4.780865882728955
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5729,30 +5729,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 4910,
 "udeo": 49.746707193515704
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4462,
 "udeo": 45.20770010131712
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 306,
 "udeo": 3.1003039513677813
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5765,30 +5765,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 20436,
 "udeo": 77.7359351820153
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4318,
 "udeo": 16.425120772946862
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 397,
 "udeo": 1.510137319791548
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5801,30 +5801,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 34359,
 "udeo": 67.31383343455518
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 14347,
 "udeo": 28.10767392198734
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1052,
 "udeo": 2.06100738592951
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5837,30 +5837,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5458,
 "udeo": 50.96647679521897
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4502,
 "udeo": 42.039406107012795
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 452,
 "udeo": 4.220748902792044
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5873,30 +5873,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 7384,
 "udeo": 57.25362487400171
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4877,
 "udeo": 37.81499573544235
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 285,
 "udeo": 2.209816236334031
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5909,30 +5909,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 10171,
 "udeo": 49.25423728813559
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 9399,
 "udeo": 45.51573849878935
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 571,
 "udeo": 2.765133171912833
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5945,30 +5945,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6498,
 "udeo": 59.23427529626254
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3891,
 "udeo": 35.46946216955333
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 314,
 "udeo": 2.862351868732908
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -5981,30 +5981,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5682,
 "udeo": 68.47433116413593
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2137,
 "udeo": 25.753193540612195
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 214,
 "udeo": 2.578934683056158
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6017,30 +6017,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 16360,
 "udeo": 58.154414901180154
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 10070,
 "udeo": 35.79553533342813
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1005,
 "udeo": 3.5724441916678513
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6053,30 +6053,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 47724,
 "udeo": 68.65478399723793
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 18354,
 "udeo": 26.403694273013684
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1480,
 "udeo": 2.129098154302073
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6089,30 +6089,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 43002,
 "udeo": 70.04039351097792
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 15231,
 "udeo": 24.80780506873412
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1311,
 "udeo": 2.1353182617760114
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6125,30 +6125,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 19329,
 "udeo": 56.57875479319732
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 12426,
 "udeo": 36.37268389778415
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1330,
 "udeo": 3.8931007230044203
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6161,30 +6161,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6733,
 "udeo": 50.47604767973611
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3641,
 "udeo": 27.295899242821804
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 2565,
 "udeo": 19.229327535797285
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6197,30 +6197,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2985,
 "udeo": 51.96727019498607
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2040,
 "udeo": 35.515320334261844
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 589,
 "udeo": 10.254178272980502
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6233,30 +6233,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 61047,
 "udeo": 55.42069140823589
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 43167,
 "udeo": 39.188575786186355
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 2864,
 "udeo": 2.600043576149321
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6269,30 +6269,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 61306,
 "udeo": 62.156928349099175
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 30468,
 "udeo": 30.890896371323418
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 4425,
 "udeo": 4.486419077166408
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6305,30 +6305,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 31255,
 "udeo": 60.72351421188631
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 17862,
 "udeo": 34.703036661420995
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1150,
 "udeo": 2.2342678401429934
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6341,30 +6341,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 3715,
 "udeo": 49.9193765116904
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 3297,
 "udeo": 44.30260682612201
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 260,
 "udeo": 3.4936844934157483
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6377,30 +6377,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 4417,
 "udeo": 66.03378681417253
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 2069,
 "udeo": 30.931379877410674
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 119,
 "udeo": 1.779040215278816
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6413,30 +6413,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 69212,
 "udeo": 69.64168922250285
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 24455,
 "udeo": 24.60682410472616
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 1903,
 "udeo": 1.9148144048780977
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6449,30 +6449,30 @@
 {
 "rezultat": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
+"kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 5340,
 "udeo": 65.36107711138311
 },
-"izbornaLista": "Војислав Коштуница (ДСС)",
+"kandidat": "Војислав Коштуница (ДСС)",
 "boja": "#33a02c"
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
+"kandidatSlug": "dr-vojislav-seselj-srs",
 "rezultat": {
 "glasova": 2445,
 "udeo": 29.9265605875153
 },
-"izbornaLista": "др Војислав Шешељ (СРС)",
+"kandidat": "др Војислав Шешељ (СРС)",
 "boja": "#8dd3c7"
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "borislav-pelevic-ssj",
 "rezultat": {
 "glasova": 153,
 "udeo": 1.872705018359853
 },
-"izbornaLista": "Борислав Пелевић (ССЈ)",
+"kandidat": "Борислав Пелевић (ССЈ)",
 "boja": "#33a02c"
 }
 ],
@@ -6485,25 +6485,88 @@
 ],
 "candidates": [
 {
-"izbornaListaSlug": "vojislav-kostunica-dss",
-"glasova": 1699098,
+"kandidatSlug": "vojislav-kostunica-dss",
+"glasova": 2880688,
 "boja": "#33a02c",
-"izbornaLista": "Војислав Коштуница (ДСС)",
-"udeo": 59.27802897094533
+"kandidat": "Војислав Коштуница (ДСС)",
+"udeo": 42.98808663791232
 },
 {
-"izbornaListaSlug": "dr-vojislav-seselj-srs",
-"glasova": 1063296,
+"kandidatSlug": "dr-vojislav-seselj-srs",
+"glasova": 1989182,
 "boja": "#8dd3c7",
-"izbornaLista": "др Војислав Шешељ (СРС)",
-"udeo": 37.09620698317006
+"kandidat": "др Војислав Шешељ (СРС)",
+"udeo": 29.684272699638313
 },
 {
-"izbornaListaSlug": "borislav-pelevic-ssj",
+"kandidatSlug": "dr-miroljub-labus-gg",
+"glasova": 1093638,
+"boja": "#33a02c",
+"kandidat": "др Мирољуб Лабус      (ГГ)",
+"udeo": 16.320200276639866
+},
+{
+"kandidatSlug": "vuk-draskovic-spo",
+"glasova": 166913,
+"boja": "#a6cee3",
+"kandidat": "Вук Драшковић (СПО)",
+"udeo": 2.4908183409636373
+},
+{
+"kandidatSlug": "prof-borislav-pelevic-ssj",
+"glasova": 148146,
+"boja": "#6a3d9a",
+"kandidat": "проф. Борислав  Пелевић  (ССЈ)",
+"udeo": 2.210761138679426
+},
+{
+"kandidatSlug": "velimir-bata-zivojinovic-sps",
+"glasova": 129323,
+"boja": "#1f78b4",
+"kandidat": "Велимир-Бата Живојиновић (СПС)",
+"udeo": 1.9298682565674363
+},
+{
+"kandidatSlug": "borislav-pelevic-ssj",
 "glasova": 103926,
 "boja": "#33a02c",
-"izbornaLista": "Борислав Пелевић (ССЈ)",
-"udeo": 3.6257640458846185
+"kandidat": "Борислав Пелевић (ССЈ)",
+"udeo": 1.550872531815898
+},
+{
+"kandidatSlug": "nebojsa-pavkovic-gg",
+"glasova": 80177,
+"boja": "#ff7f00",
+"kandidat": "Небојша Павковић  (ГГ)",
+"udeo": 1.1964696705675504
+},
+{
+"kandidatSlug": "prof-dr-branislav-bane-ivkovic-gg",
+"glasova": 44488,
+"boja": "#b2df8a",
+"kandidat": "проф. др Бранислав-Бане Ивковић (ГГ)",
+"udeo": 0.6638879317536099
+},
+{
+"kandidatSlug": "dr-tomislav-lalosevic-gg",
+"glasova": 27887,
+"boja": "#e31a1c",
+"kandidat": "др Томислав Лалошевић (ГГ)",
+"udeo": 0.41615363137953876
+},
+{
+"kandidatSlug": "dr-vuk-obradovic-sd",
+"glasova": 27756,
+"boja": "#fdbf6f",
+"kandidat": "др Вук Обрадовић  (СД)",
+"udeo": 0.41419873749670016
+},
+{
+"kandidatSlug": "dr-dragan-radenovic-gg",
+"glasova": 9007,
+"boja": "#b15928",
+"kandidat": "др Драган Раденовић (ГГ)",
+"udeo": 0.13441014658570322
 }
 ]
 }

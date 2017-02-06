@@ -1,6 +1,6 @@
 {
-"total_voters": 8420262,
-"percentage": 60.848968454188004,
+"total_voters": 3895520,
+"percentage": 61.2402714460506,
 "winners": [
 {
 "rezultat": [
@@ -20346,66 +20346,66 @@
 "candidates": [
 {
 "kandidatSlug": "tomislav-nikolic",
-"glasova": 3370681,
+"glasova": 7867773,
 "boja": "#bebada",
 "kandidat": "Томислав Николић",
-"udeo": 40.80606567964994
+"udeo": 45.05456094100093
 },
 {
 "kandidatSlug": "boris-tadic",
-"glasova": 2976786,
+"glasova": 7682216,
 "boja": "#a6cee3",
 "kandidat": "Борис Тадић",
-"udeo": 36.03750251959839
+"udeo": 43.99197446773469
 },
 {
 "kandidatSlug": "velimir-ilic",
 "glasova": 620820,
 "boja": "#33a02c",
 "kandidat": "Велимир Илић",
-"udeo": 7.515757704523292
+"udeo": 3.555106702162378
 },
 {
 "kandidatSlug": "milutin-mrkonjic",
 "glasova": 504381,
 "boja": "#fdbf6f",
 "kandidat": "Милутин Мркоњић",
-"udeo": 6.106126392134858
+"udeo": 2.8883223374623275
 },
 {
 "kandidatSlug": "cedomir-jova-novic",
 "glasova": 450258,
 "boja": "#fdbf6f",
 "kandidat": "Чедомир Јова-новић",
-"udeo": 5.450903695955749
+"udeo": 2.578388636806527
 },
 {
 "kandidatSlug": "istvan-pastor",
 "glasova": 192806,
 "boja": "#8dd3c7",
 "kandidat": "Иштван Пастор",
-"udeo": 2.334143841980474
+"udeo": 1.1040976495878345
 },
 {
 "kandidatSlug": "milanka-karic",
 "glasova": 82397,
 "boja": "#ff7f00",
 "kandidat": "Миланка Карић",
-"udeo": 0.9975127856377142
+"udeo": 0.4718438950711534
 },
 {
 "kandidatSlug": "marijan-risti-cevic",
 "glasova": 37743,
 "boja": "#e31a1c",
 "kandidat": "Маријан Ристи-чевић",
-"udeo": 0.45692349318936665
+"udeo": 0.2161341326950076
 },
 {
 "kandidatSlug": "jugoslav-dobri-canin",
 "glasova": 24373,
 "boja": "#1f78b4",
 "kandidat": "Југослав Добри-чанин",
-"udeo": 0.29506388733021843
+"udeo": 0.13957123747914635
 }
 ]
 }

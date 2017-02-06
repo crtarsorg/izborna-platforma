@@ -125,14 +125,24 @@
         $('#piechart-no-territory-selected .total_voters_value').html(response['total_voters'].toLocaleString());
         var arrayLength = response.length;
         $.each(response['candidates'], function (index, value) {
-            $('#party-list-names').append('<li style="font-size:12px;"><a href=' + value['izbornaListaSlug'] + ' class="party_name">' + value['izbornaLista'] + '</a></li>');
+            {% if typeizbori=="parlamentarni" %}
+            $('#party-list-names').append('<li style="font-size:15px;"><a href=' + value['izbornaListaSlug'] + ' class="party_name">' + value['izbornaLista'] + '</a></li>');
+            {% else %}
+                $('#party-list-names').append('<li style="font-size:15px;"><a href=' + value['kandidatSlug'] + ' class="party_name">' + value['kandidat'] + '</a></li>');
+            {% endif %}
         });
         $('.first-progress').css('background-color', response['candidates'][0]['boja']);
         $('.second-progress').css('background-color', response['candidates'][1]['boja']);
-        $('.name-list1').text(response['candidates'][0]['izbornaLista']);
+        {% if typeizbori=="parlamentarni" %}
+            $('.name-list1').text(response['candidates'][0]['izbornaLista']);
+            $('.name-list2').text(response['candidates'][1]['izbornaLista']);
+        {% else %}
+            $('.name-list1').text(response['candidates'][0]['kandidat']);
+            $('.name-list2').text(response['candidates'][1]['kandidat']);
+        {% endif %}
         $('.name-list1,.nr-votes1, #first-percentage-value-main').css('color', response['candidates'][0]['boja']);
         $('.name-list2,.nr-votes2, #second-percentage-value-main').css('color', response['candidates'][1]['boja']);
-        $('.name-list2').text(response['candidates'][1]['izbornaLista']);
+
         var nr_votes_1 = response['candidates'][0]['glasova'].toLocaleString();
         var nr_votes_2 = response['candidates'][1]['glasova'].toLocaleString();
         $('.nr-votes1').text(nr_votes_1);
@@ -163,7 +173,7 @@
         $('.party_info').hide();
         $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
             var data = [];
-
+            {%  if typeizbori=="parlamentarni" %}
             $(response['winners']).each(function (index, value) {
                 $(value['rezultat']).each(function (a, b) {
                     if (b['izbornaListaSlug'] == selected_candidate) {
@@ -176,6 +186,20 @@
                     }
                 })
             })
+            {% else %}
+                 $(response['winners']).each(function (index, value) {
+                $(value['rezultat']).each(function (a, b) {
+                    if (b['kandidatSlug'] == selected_candidate) {
+                        data.push({
+                            "teritorija": transliterate(value['teritorija']),
+                            "terrigorySlug": transliterate(value['teritorijaSlug']),
+                            "value": b['rezultat']['udeo'],
+                            "izbornaLista": selected_candidate
+                        });
+                    }
+                })
+            })
+            {% endif %}
 
 
             $('#containermap').highcharts('Map', {
@@ -203,7 +227,8 @@
                                     var terrritory_selected_slug = this.terrigorySlug;
                                     var terrritory_selected = this.teritorija;
                                     var izbornaLista = this.izbornaLista;
-
+                                    console.log(terrritory_selected_slug);
+                                    console.log(response);
                                     on_reinit_map_click(response, terrritory_selected_slug, this.izbornaLista, terrritory_selected);
                                 }
                             }
@@ -238,9 +263,9 @@
         })
     }
     // details table
-
+    {%  if typeizbori=="parlamentarni" %}
     function init_details_table(response) {
-        var init_candidates = [];
+       var init_candidates = [];
         $(response['candidates']).each(function (a, b) {
             if (a <= 4) {
                 init_candidates.push({
@@ -364,6 +389,7 @@
                 'territoryslug': exists_territory_slug,
                 'boja': boja_selected
             });
+            console.log(mergearray);
         })
 
 
@@ -377,6 +403,7 @@
                     if (b['boja'] == bb['boja']) {
                         color = bb['boja'];
                     }
+
                     $('#details tbody tr.' + b['territoryslug']).append('<td  href="#" data-territory-slug=' + b['territoryslug'] + ' data-territory=' + b['territory'] + ' data-candidate=' + bb['candidate'] + ' style="display:none;background:' + color + '" class="data_glasova selected_' + bb['candidate'] + ' territory_redirect"><a  href="#">' + bb['glasova'].toLocaleString() + '</a></td>')
 
                 }
@@ -570,6 +597,350 @@
 
         });
     }
+    {% else %}
+        function init_details_table(response) {
+       var init_candidates = [];
+        $(response['candidates']).each(function (a, b) {
+            if (a <= 4) {
+                init_candidates.push({
+                    'id': 'selected_' + b['kandidatSlug'],
+                    'text': b['kandidat'],
+                    'selected': true
+                });
+            }
+            $("#select2").append('<option value="selected_' + b['kandidatSlug'] + '">' + b['kandidat'] + '</option>');
+
+        })
+
+        $("#select2").select2("data", init_candidates);
+
+        // draw table on load depending on selected parties
+        var data = $('#select2').select2('data');
+
+        // draw table on load depending on selected parties
+
+        // draw table on click of select2
+        var last_element;
+        $('#select2').on('click', function (e) {
+            var dataclicked = $('#select2').select2('data');
+            $("#select2").select2("data", dataclicked);
+            $('.data-th').css('display', 'none');
+            $('.data_glasova').css('display', 'none');
+            $(dataclicked).each(function (key, index) {
+                $('.' + index['id']).show();
+                $('.' + index['id']).show();
+                $('#selected_later_' + index['id']).show();
+            })
+        })
+
+        $('#details').on('draw.dt', function () {
+            var data = $('#select2').select2('data');
+            $(data).each(function (key, index) {
+                $('.' + index['id']).show();
+
+            })
+            $('.paginate_button').on('click', function () {
+                var data1 = $('#select2').select2('data');
+
+                $(data1).each(function (key1, index1) {
+                    $('.' + index1['id']).show();
+
+                })
+            });
+        })
+
+        var arraylength = 0;
+        arraylength = response['candidates'].length - 1;
+        for (var i = 0; i <= arraylength; i++) {
+            $('#details thead tr').append('<th style="display:none" class="data-th selected_' + response['candidates'][i]['kandidatSlug'] + '">' + response['candidates'][i]['kandidat'] + '</th>');
+        }
+        var territories = [];
+
+        $(response['winners']).each(function (key22, index22) {
+            territories.push({
+                "territory": index22['teritorija'],
+                "territoryslug": index22['teritorijaSlug'],
+                "rezultat": index22['rezultat']
+            });
+        })
+
+        var createdarray = [];
+        var candidatesterritory_glasova = "";
+        var territory = "";
+        var territoryslug = "";
+        var mergearray = [];
+        $(territories).each(function (aa, index) {
+
+            territory = index['territory'];
+
+            territoryslug = index['territoryslug'];
+            //$('#details tbody').append('<tr><td>'+index['territory']+'</td></tr>');
+            $(response['candidates']).each(function (a, b) {
+                $(index['rezultat']).each(function (c, d) {
+                    if (b['kandidat'] == d['kandidat']) {
+
+                        candidatesterritory_glasova = d['rezultat']['glasova'];
+                        //$('#details tbody tr').append('<td>'+d['rezultat']['glasova']+'</td>');
+                        createdarray.push({
+                            "territory": territory,
+                            "territoryslug": territoryslug,
+                            'glasova': candidatesterritory_glasova,
+                            'candidate': d['kandidatSlug'],
+                            'boja': d['boja']
+
+                        });
+                    }
+                })
+
+            })
+
+            var exists_territory = "";
+            var exists_territory_slug = "";
+            var glasova = [];
+
+            max_glasova = [];
+            var find_max;
+
+            function getMax(array) {
+                return Math.max.apply(Math, array);
+            }
+
+            $(createdarray).each(function (a, b) {
+                if (index['territoryslug'] == b['territoryslug']) {
+                    max_glasova.push(b[['glasova']]);
+
+                    exists_territory = b['territory'];
+                    exists_territory_slug = b['territoryslug'];
+                    glasova.push({'glasova': b['glasova'], 'candidate': b['candidate'], 'boja': b['boja']});
+
+                }
+            })
+
+            var boja_selected = "";
+            $(glasova).each(function (a, b) {
+                if (b['glasova'] >= getMax(max_glasova)) {
+                    boja_selected = b['boja'];
+                }
+            })
+
+            mergearray.push({
+                'territory': exists_territory,
+                'rezults': glasova,
+                'territoryslug': exists_territory_slug,
+                'boja': boja_selected
+            });
+            //console.log(mergearray);
+
+        })
+        console.log(arraylength);
+
+        $(mergearray).each(function (a, b) {
+
+            $('#details tbody').append('<tr class=' + b['territoryslug'] + '><td>' + b['territory'] + '</tr>');
+            $(b['rezults']).each(function (aa, bb) {
+
+                if (aa <= arraylength) {
+                    var color = "";
+                    if (b['boja'] == bb['boja']) {
+
+                        color = bb['boja'];
+                    }
+                       $('#details tbody tr.' + b['territoryslug']).append('<td  href="#" data-territory-slug=' + b['territoryslug'] + ' data-territory=' + b['territory'] + ' data-candidate=' + bb['candidate'] + ' style="display:none;background:' + color + '" class="data_glasova selected_' + bb['candidate'] + ' territory_redirect"><a  href="#">' + bb['glasova'].toLocaleString() + '</a></td>')
+
+
+
+                }
+
+            })
+            //console.log(find_max);
+        })
+
+        function init_map_territory_selected(response, selected_territory, selected_candidate) {
+            $('.party_info').hide();
+            var chart;
+
+            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
+                var data = [];
+                var data1 = [];
+                $(response['winners']).each(function (index, value) {
+                    $(value['rezultat']).each(function (a, b) {
+                        if (selected_territory == value['teritorija'] && b['kandidatSlug'] == selected_candidate) {
+                            data.push
+                            ({
+                                "teritorija": transliterate(value['teritorija']),
+                                "terrigorySlug": transliterate(value['teritorijaSlug']),
+                                "value": b['rezultat']['udeo'],
+                                "izbornaLista": selected_candidate,
+                                'color': b['boja'],
+                                'plotBorderColor': 'blue',
+                                'borderColor': "blue",
+                                'plotBackgroundColor': 'blue',
+                                'fill': 'white',
+                                'selected_territorija': 'true',
+                                'borderWidth': 20,
+
+                            });
+
+                        } else if (b['kandidatSlug'] == selected_candidate) {
+                            data.push({
+                                "teritorija": transliterate(value['teritorija']),
+                                "terrigorySlug": transliterate(value['teritorijaSlug']),
+                                "value": b['rezultat']['udeo'],
+                                "izbornaLista": selected_candidate,
+
+                                'dataLabels':''
+                            });
+                        }
+                    })
+
+                })
+
+
+                chart = $('#containermap').highcharts('Map', {
+                    chart: {
+                        backgroundColor: {
+                            linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
+                            stops: [
+                                [0, '#edecd1'],
+                                [1, '#edecd1']
+                            ]
+                        },
+
+                    },
+
+                    title: {
+                        text: ''
+                    },
+                    tooltip: {
+                        'enabled': false
+                    },
+                    plotOptions: {
+                        series: {
+                            dataLabels: {
+                                enabled: true,
+                                useHTML: true,
+                                 formatter: function() {
+
+                                     if(transliterate(selected_territory)==this.point.NAME_2) {
+                                         return ("<span  style='padding:20px;overflow: auto;display:block;background:white;border-radius:3px;'><a href='#' class='remove-popup'><img style='float:right;margin-top:-15px;margin-right:-14px;'src='{{ url_for('static', filename = 'assets/popup-close.png') }}'/></a><span class='datalabel' style='float:left;color:black;'>" + selected_territory + "</span></span><div id='Feature Popup_FrameDecorationDiv_4' style='position: absolute; overflow: hidden; width: 81px; height: 35px; left: 0px;'><img src='{{ url_for('static', filename = 'assets/arrow-popup.png') }}' style='width: 1276px; height: 736px; position: absolute; left: -215px; top: -690px;'/></div>");
+                                     }
+                                    }
+                                },
+                            allowPointSelect: true,
+                            cursor: 'pointer',
+                            point: {
+                                events: {
+                                    click: function () {
+                                        var terrritory_selected_slug = this.terrigorySlug;
+                                        var terrritory_selected = this.teritorija;
+                                        var izbornaLista = this.izbornaLista;
+
+                                        on_reinit_map_click(response, terrritory_selected_slug, this.izbornaLista, terrritory_selected);
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    mapNavigation: {
+                        enableMouseWheelZoom: false,
+                        enabled: true,
+                        buttonOptions: {
+                            verticalAlign: 'bottom'
+                        }
+                    },
+                    colorAxis: {
+                        min: 0
+                    },
+                    {# tooltip : {
+                        formatter: function() {
+                                console.log(this.point);
+                                tooltip =  '<span style="color:{point.color}">●</span> <span style="font-size: 0.85em;position:fixed;display:block;">'+this.point.NAME_2+'</span><br/>';
+
+                        }
+                    },#}
+                    series: [{
+                        data: data,
+                        mapData: geojson,
+                        joinBy: ['NAME_2', 'teritorija'],
+                        keys: ['NAME_2', 'NAME_1'],
+                        //animation: true,
+                        name: 'Teritorija',
+
+                        {#  dataLabels: {
+                             enabled: true,
+                             color: '#FFFFFF',
+
+                         }#}
+                    }],
+                });
+            }).done(function(){
+                $('.remove-popup').on('click',function(e){
+                    e.preventDefault();
+                    e.stopPropagation();
+                    $('.party_name').removeClass('select-p-tab');
+                    $('#start-map').addClass('select-p-tab');
+                    init_results(response);
+
+                    })
+               {# console.log(data);
+                getSelectedTeritorijaIndex(chart, chart.highcharts().series[0].data, selected_territory);
+                return chart;#}
+            });
+
+
+        }
+
+
+        {#function getSelectedTeritorijaIndex(chart, array, territorija){
+            $.each(array, function(idx, item){
+                if (item['teritorija'] != undefined) {
+                    if (transliterate(item['teritorija']) == transliterate(territorija)) {
+                        console.log( chart.highcharts().series[0].data[idx]);
+
+                         #}{#chart.highcharts().series[0].tooltipOptions.headerFormat='<span style="color:{point.color}">●</span> <span style="font-size: 0.85em;position:fixed;display:block;">'+territorija+'</span><br/>';
+                        chart.highcharts().series[0].tooltipOptions.pointFormat="";
+                        chart.highcharts().series[0].data[idx].setState('hover');
+                        chart.highcharts().tooltip.refresh(chart.highcharts().series[0].data[idx]);#}{#
+
+                    }
+                }
+            })
+        }#}
+
+        $('.territory_redirect').on("click", function (e) {
+                    e.preventDefault();
+                    var territory_slug=$(this).data("territory-slug");
+                    var territory=$(this).data("territory");
+                    var candidate=$(this).data("candidate");
+                     $('#containermap').html('');
+                    $('.party_info').show();
+                     var territorija=[];
+                    $(response['winners']).each(function(key,index){
+                        if(territory_slug==index['teritorijaSlug']){
+                            territorija.push(index);
+                        }
+                    });
+                    $('.party_name').removeClass('select-p-tab');
+                    init_map_territory_selected(response,territory,candidate);
+                    //console.log(response['winners']);
+                    $(response['winners']).each(function(index,value){
+                        $(value['rezultat']).each(function(index1,value1){
+                            if(candidate==value1['kandidatSlug'] && territory==value['teritorija']){
+                            }
+                        })
+                       // console.log(value['teritorija']);
+                       // console.log(territory);
+                    })
+                    winner_territory_info(response,territorija,candidate);
+                     $('html, body').animate({scrollTop:0}, 'slow');
+                    $('.party_info').show();
+                    $('#start-map').removeClass('select-p-tab');
+                    $('.party_name').removeClass('select-p-tab');
+                    $("a[href="+candidate+"]").addClass('select-p-tab');
+
+        });
+    }
+    {% endif %}
 
 
     // end of details table
@@ -628,22 +999,21 @@
                         '</tr>');
                          $('#total_percentage_value_territory_'+key).html(percentage.toFixed(2));
                           $('#pierow_'+key).css('width',remove+"%");
-            {% else %}
-
+                {% else %}
                 $('#summary tbody').append('<tr><td>' + index['teritorija'] + '</td>' +
-                        '<td>' + index['rezultat'][0]['kandidat'] + '<br/>' + index['rezultat'][1]['kandidat'] + '</td>' +
+                        '<td ><span style="color:' + index['rezultat'][0]['boja'] + '">' + index['rezultat'][0]['kandidat'] + '</span><br/><span style="color:' + index['rezultat'][1]['boja'] + '">' + index['rezultat'][1]['kandidat'] + '</span></td>' +
                         '<td>' +
-                        '<span class="float-left font-size-12 table-votes col-md-3">' + index['rezultat'][0]['rezultat']['glasova'].toLocaleString() + '</span>' +
+                        '<span style="color:' + index['rezultat'][0]['boja'] + '" class="float-left font-size-12 table-votes col-md-3">' + index['rezultat'][0]['rezultat']['glasova'].toLocaleString() + '</span>' +
                         '<div class="col-md-7">' +
                         '<div class="progress">' +
                         '<div class="progress-bar" style="width:' + index['rezultat'][0]['rezultat']['udeo'] + '%;background:' + index['rezultat'][0]['boja'] + '" role="progressbar" aria-valuenow=' + index['rezultat'][0]['rezultat']['udeo'] + ' aria-valuemin="0" aria-valuemax="100">' +
-                        '<span class="sr-only">' + index['rezultat'][0]['rezultat']['udeo'] + '%</span>' +
+                        '<span class="sr-only">' + index['rezultat'][0]['rezultat']['udeo'] + '</span>' +
                         '</div>' +
                         '</div>' +
                         '</div>' +
-                        '<div class="col-md-2 percentage font-size-12">' + index['rezultat'][0]['rezultat']['udeo'].toFixed(2) + '</div>' +
+                        '<div style="color:' + index['rezultat'][0]['boja'] + '" class="col-md-2 percentage font-size-12">' + index['rezultat'][0]['rezultat']['udeo'].toFixed(2) + '%</div>' +
 
-                        '<span class="float-left font-size-11 table-votes col-md-3">' + index['rezultat'][1]['rezultat']['glasova'].toLocaleString() + '</span>' +
+                        '<span style="color:' + index['rezultat'][1]['boja'] + '" class="float-left font-size-12 table-votes col-md-3">' + index['rezultat'][1]['rezultat']['glasova'].toLocaleString() + '</span>' +
                         '<div class="col-md-7">' +
                         '<div class="progress">' +
                         '<div class="progress-bar" style="width:' + index['rezultat'][1]['rezultat']['udeo'] + '%;background:' + index['rezultat'][1]['boja'] + '" role="progressbar" aria-valuenow=' + index['rezultat'][1]['rezultat']['udeo'] + ' aria-valuemin="0" aria-valuemax="100">' +
@@ -651,9 +1021,30 @@
                         '</div>' +
                         '</div>' +
                         '</div>' +
-                        '<div class="col-md-2 percentage font-size-12">' + index['rezultat'][1]['rezultat']['udeo'].toFixed(2) + '%</div>' +
+                        '<div style="color:' + index['rezultat'][1]['boja'] + '" class="col-md-2 percentage font-size-12 col-md-3">' + index['rezultat'][1]['rezultat']['udeo'].toFixed(2) + '%</div>' +
                         '</td>' +
+                        '<td>'+
+                         '<div class="x0" style="width:60%;height:200px;margin-top:-50px;">'+
+                               '<div class="x1" style="width:300px">'+
+                                ' <div class="x2" style="position:relative;float:right">'+
+                                '<div class="x3" style="">'+
+                                '<div class="x6">'+
+                                '<div class="x7" style="width:'+index["percentage"]+'%">'+
+                                '<span class="percentage-value" style="color:white;"><span>'+index['percentage'].toFixed(2)+'</span>%</span>'+
+                                '</div>'+
+                                '<div class="x8" id="pierow_'+key+'">'+
+                                '</div>'+
+                                '</div>'+
+                                 '<div class="x3" id="piechar-votes">Излазност: <span class="total_voters_value">'+index['biraciKojiSuGlasali'].toLocaleString()+'</span></div>'+
+                                '</div>'+
+                                '</div>'+
+                                '</div>'+
+                         '</div>'+
+                        '</td>'+
                         '</tr>');
+                         $('#total_percentage_value_territory_'+key).html(percentage.toFixed(2));
+                          $('#pierow_'+key).css('width',remove+"%");
+
             {% endif %}
         })
     }
@@ -667,7 +1058,11 @@
 
     function party_list_percentage_map(key1, index1) {
         $('.territory_info').show();
+        {% if typeizbori=="parlamentarni" %}
         $('#party-list').append("<div class='party_list_t'><div id='party-color' style='background-color:" + index1['boja'] + "'></div><div style='float:left;width:70%;'>" + index1['izbornaLista'] + "</div><div id='party-list-rez'>" + Number(index1['rezultat']['udeo']).toFixed(2) + "%</div></div>");
+        {% else %}
+                  $('#party-list').append("<div class='party_list_t'><div id='party-color' style='background-color:" + index1['boja'] + "'></div><div style='float:left;width:70%;'>" + index1['kandidat'] + "</div><div id='party-list-rez'>" + Number(index1['rezultat']['udeo']).toFixed(2) + "%</div></div>");
+        {% endif %}
     }
     // map click
     function on_map_click(response, territory_selected) {
@@ -734,8 +1129,14 @@
                 width: territorija[0]['rezultat'][1]['rezultat']['udeo'],
                 background: territorija[0]['rezultat'][1]['boja']
             });
-            $('#first-percentage-value-pred').text(Number(territorija['rezultat'][0]['rezultat']['udeo']).toFixed(2) + "%");
-            $('#second-percentage-value-pred').text(Number(territorija['rezultat'][1]['rezultat']['udeo']).toFixed(2) + "%");
+            $('#first-percentage-value-pred').text(Number(territorija[0]['rezultat'][0]['rezultat']['udeo']).toFixed(2) + "%");
+            $('#second-percentage-value-pred').text(Number(territorija[0]['rezultat'][1]['rezultat']['udeo']).toFixed(2) + "%");
+            $('#first-percentage-value-pred').css('color',territorija[0]['rezultat'][0]['boja']);
+            $('#second-percentage-value-pred').css('color',territorija[0]['rezultat'][1]['boja']);
+            $('#first-kandidat-name').css('color',territorija[0]['rezultat'][0]['boja']);
+            $('#second-kandidat-name').css('color',territorija[0]['rezultat'][1]['boja']);
+            $('#first-nr-votes-pred').css('color',territorija[0]['rezultat'][0]['boja']);
+            $('#second-nr-votes-pred').css('color',territorija[0]['rezultat'][1]['boja']);
         {% endif %}
 
     }
@@ -798,8 +1199,8 @@
                 width: territorija[0]['rezultat'][1]['rezultat']['udeo'],
                 background: territorija[0]['rezultat'][1]['boja']
             });
-            $('#first-percentage-value-pred').text(Number(territorija['rezultat'][0]['rezultat']['udeo']).toFixed(2) + "%");
-            $('#second-percentage-value-pred').text(Number(territorija['rezultat'][1]['rezultat']['udeo']).toFixed(2) + "%");
+            $('#first-percentage-value-pred').text(Number(territorija[0]['rezultat'][0]['rezultat']['udeo']).toFixed(2) + "%");
+            $('#second-percentage-value-pred').text(Number(territorija[0]['rezultat'][1]['rezultat']['udeo']).toFixed(2) + "%");
         {% endif %}
 
         winner_territory_info(response, territorija, candidate_selected)
@@ -822,9 +1223,11 @@
         $('#voters_turnout').append('<b>Укупно Излазност: </b> <span style="float:right;margin-right:20px;">' + percentage.toFixed(2) + '%</span>');
         var candidate_name = "";
         var i = 0;
+        {% if typeizbori=="parlamentarni" %}
         $(territorija).each(function (a, b) {
             $(b).each(function (c, d) {
                 $(d['rezultat']).each(function (e, f) {
+
                     if (candidate_selected == f['izbornaListaSlug']) {
                         percentage_votes = f['rezultat']['udeo'];
                         candidate_name = f['izbornaLista'];
@@ -833,13 +1236,33 @@
 
             })
         })
+        {% else %}
+              $(territorija).each(function (a, b) {
+            $(b).each(function (c, d) {
+                $(d['rezultat']).each(function (e, f) {
+
+                    if (candidate_selected == f['kandidatSlug']) {
+                        percentage_votes = f['rezultat']['udeo'];
+                        candidate_name = f['kandidat'];
+                    }
+                })
+
+            })
+        })
+        {% endif %}
 
 
-        $('#winner-territory').append("<span>" + candidate_name + "</span><span style='float:right;margin-right:20px'>" + percentage_votes.toFixed(2) + "%</span>");
-
+      //  $('#winner-territory').append("<span>" + candidate_name + "</span><span style='float:right;margin-right:20px'>" + percentage_votes.toFixed(2) + "%</span>");
+        {% if typeizbori=="parlamentarni" %}
         var winner = territorija[0]['rezultat'][0]['izbornaLista'];
         var winner_percentage = Number(territorija[0]['rezultat'][0]['rezultat']['udeo']).toFixed(2);
         $('#winner-party').append("<span style=''>победник: " + winner + "</span><span style='float:right;margin-right:20px;'>" + winner_percentage + "%</span>");
+        {% else %}
+                    var winner = territorija[0]['rezultat'][0]['kandidat'];
+        var winner_percentage = Number(territorija[0]['rezultat'][0]['rezultat']['udeo']).toFixed(2);
+        $('#winner-party').append("<span style=''>победник: " + winner + "</span><span style='float:right;margin-right:20px;'>" + winner_percentage + "%</span>");
+
+        {% endif %}
     }
     // end of map click
     //initiliaze map click
@@ -932,16 +1355,24 @@
             var candidate_one_color=[];
             $(response['winners']).each(function(index,value){
              $(value).each(function(index,indicator){
+                 {% if typeizbori=="parlamentarni" %}
                  if(isInArray(array_list, indicator['rezultat'][0]['izbornaLista']))
                     {
                     }else{
                      array_list.push(indicator['rezultat'][0]['izbornaLista']);
                     }
-
+                 {% else %}
+                     if(isInArray(array_list, indicator['rezultat'][0]['kandidat']))
+                    {
+                    }else{
+                     array_list.push(indicator['rezultat'][0]['kandidat']);
+                    }
+                 {% endif %}
 
                 })
             })
             var candidates_color=[];
+         {% if typeizbori=="parlamentarni" %}
              $(response['candidates']).each(function(index,value){
                  $(array_list).each(function(a,b){
                      if(b==value['izbornaLista']){
@@ -953,6 +1384,19 @@
 
                  $('#list-indicators').append("<div class='party_list_t'><div id='party-color' style='background-color:" + b['boja'] + "'></div><div style='float:left;width:70%;'>" + b['candidates'] + "</div></div>");
              })
+         {% else %}
+                $(response['candidates']).each(function(index,value){
+                 $(array_list).each(function(a,b){
+                     if(b==value['kandidat']){
+                         candidates_color.push({'candidates':value['kandidat'],'boja':value['boja']});
+                     }
+                 })
+             })
+             $(candidates_color).each(function(a,b){
+
+                 $('#list-indicators').append("<div class='party_list_t'><div id='party-color' style='background-color:" + b['boja'] + "'></div><div style='float:left;width:70%;'>" + b['candidates'] + "</div></div>");
+             })
+         {% endif %}
             }
 
     // call functions on windows load
@@ -997,7 +1441,13 @@
                 init_summary_table(response);
                 init_details_table(response);
                 default_first_indicators(response);
-                $('#summary,#details').DataTable({
+                $('#summary').DataTable({
+                    "language": {
+                        "url": "{{ url_for("static",filename="data/datatable_translate.json")}}"
+                    },
+
+                });
+                $('#details').DataTable({
                     "language": {
                         "url": "{{ url_for("static",filename="data/datatable_translate.json")}}"
                     },
@@ -1029,7 +1479,11 @@
 
         $.ajax({
             type: "GET",
+             {% if typeizbori=="predsjednicki" %}
+                url: "{{ url_for("static",filename="data/presidential/") }}{{ year }}-{{ krug }}-krug.json",
+            {% else %}
             url: "{{ url_for("static",filename="data/parlamentarni/") }}{{ year }}.json",
+            {% endif %}
             //url: "http://0.0.0.0:5006/api/izbori/2/{{ typeizbori }}/godina/{{ year }}/instanca/3/krug/{{ krug }}",
             async: false,
             dataType: 'json',

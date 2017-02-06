@@ -23990,88 +23990,88 @@
 ],
 "candidates": [
 {
-"kandidatSlug": "boris-tadic",
-"glasova": 1017071,
-"boja": "#a6cee3",
-"kandidat": "Борис Тадић",
-"udeo": 26.363947420946083
-},
-{
 "kandidatSlug": "tomislav-nikolic",
-"glasova": 1014587,
+"glasova": 2746499,
 "boja": "#bebada",
 "kandidat": "Томислав Николић",
-"udeo": 26.29955855783463
+"udeo": 37.881966287865254
+},
+{
+"kandidatSlug": "boris-tadic",
+"glasova": 2677498,
+"boja": "#a6cee3",
+"kandidat": "Борис Тадић",
+"udeo": 36.9302479162842
 },
 {
 "kandidatSlug": "ivica-dacic",
 "glasova": 575546,
 "boja": "#6a3d9a",
 "kandidat": "Ивица Дачић",
-"udeo": 14.918982531539914
+"udeo": 7.938402369385787
 },
 {
 "kandidatSlug": "vojislav-kostunica",
 "glasova": 299702,
 "boja": "#a6cee3",
 "kandidat": "Војислав Коштуница",
-"udeo": 7.768708153071302
+"udeo": 4.133735734258702
 },
 {
 "kandidatSlug": "prof-dr-zoran-stankovic",
 "glasova": 270950,
 "boja": "#b2df8a",
 "kandidat": "проф. др  Зоран Станковић",
-"udeo": 7.02341483898896
+"udeo": 3.7371645741349595
 },
 {
 "kandidatSlug": "cedomir-jovanovic",
 "glasova": 204031,
 "boja": "#b15928",
 "kandidat": "Чедомир Јовановић",
-"udeo": 5.288777829908678
+"udeo": 2.814162853756523
 },
 {
 "kandidatSlug": "jadranka-seselj",
 "glasova": 151768,
 "boja": "#e31a1c",
 "kandidat": "Јадранка Шешељ",
-"udeo": 3.934045481762969
+"udeo": 2.0933087030349307
 },
 {
 "kandidatSlug": "vladan-glisic",
 "glasova": 111922,
 "boja": "#33a02c",
 "kandidat": "Владан Глишић",
-"udeo": 2.901179684847102
+"udeo": 1.5437199980303853
 },
 {
 "kandidatSlug": "istvan-pastor",
 "glasova": 63616,
 "boja": "#8dd3c7",
 "kandidat": "Иштван Пастор",
-"udeo": 1.6490184845806297
+"udeo": 0.8774440359777433
 },
 {
 "kandidatSlug": "prof-dr-zoran-dragisic",
 "glasova": 62153,
 "boja": "#fb9a99",
 "kandidat": "проф. др Зоран Драгишић",
-"udeo": 1.6110954142376115
+"udeo": 0.8572651403440122
 },
 {
 "kandidatSlug": "muamer-zukorlic",
 "glasova": 54732,
 "boja": "#fdbf6f",
 "kandidat": "Муамер Зукорлић",
-"udeo": 1.4187323896200177
+"udeo": 0.7549086232572599
 },
 {
 "kandidatSlug": "danica-grujicic",
 "glasova": 31732,
 "boja": "#ff7f00",
 "kandidat": "Даница Грујичић",
-"udeo": 0.8225392126621063
+"udeo": 0.4376737636702363
 }
 ]
 }

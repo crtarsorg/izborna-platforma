@@ -1,6 +1,6 @@
 {
 "total_voters": 8267673,
-"valid_balots": 8087872,
+"percentage": 60.772216971864104,
 "winners": [
 {
 "rezultat": [
@@ -39488,7 +39488,5 @@
 "boja": "#33a02c",
 "udeo": 0.048381082193190005
 }
-],
-"invalid_balots": 176191,
-"percentage": 60.772216971864104
+]
 }

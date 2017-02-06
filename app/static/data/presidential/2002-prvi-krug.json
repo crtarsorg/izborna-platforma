@@ -19554,80 +19554,87 @@
 "candidates": [
 {
 "kandidatSlug": "vojislav-kostunica-dss",
-"glasova": 1181590,
+"glasova": 2880688,
 "boja": "#33a02c",
 "kandidat": "Војислав Коштуница (ДСС)",
-"udeo": 30.812209519582584
+"udeo": 42.98808663791232
+},
+{
+"kandidatSlug": "dr-vojislav-seselj-srs",
+"glasova": 1989182,
+"boja": "#8dd3c7",
+"kandidat": "др Војислав Шешељ (СРС)",
+"udeo": 29.684272699638313
 },
 {
 "kandidatSlug": "dr-miroljub-labus-gg",
 "glasova": 1093638,
 "boja": "#33a02c",
 "kandidat": "др Мирољуб Лабус      (ГГ)",
-"udeo": 28.51869362010279
-},
-{
-"kandidatSlug": "dr-vojislav-seselj-srs",
-"glasova": 925886,
-"boja": "#8dd3c7",
-"kandidat": "др Војислав Шешељ (СРС)",
-"udeo": 24.144240746154114
+"udeo": 16.320200276639866
 },
 {
 "kandidatSlug": "vuk-draskovic-spo",
 "glasova": 166913,
 "boja": "#a6cee3",
 "kandidat": "Вук Драшковић (СПО)",
-"udeo": 4.352574351121867
+"udeo": 2.4908183409636373
 },
 {
 "kandidatSlug": "prof-borislav-pelevic-ssj",
 "glasova": 148146,
 "boja": "#6a3d9a",
 "kandidat": "проф. Борислав  Пелевић  (ССЈ)",
-"udeo": 3.8631890854594917
+"udeo": 2.210761138679426
 },
 {
 "kandidatSlug": "velimir-bata-zivojinovic-sps",
 "glasova": 129323,
 "boja": "#1f78b4",
 "kandidat": "Велимир-Бата Живојиновић (СПС)",
-"udeo": 3.372343513148366
+"udeo": 1.9298682565674363
+},
+{
+"kandidatSlug": "borislav-pelevic-ssj",
+"glasova": 103926,
+"boja": "#33a02c",
+"kandidat": "Борислав Пелевић (ССЈ)",
+"udeo": 1.550872531815898
 },
 {
 "kandidatSlug": "nebojsa-pavkovic-gg",
 "glasova": 80177,
 "boja": "#ff7f00",
 "kandidat": "Небојша Павковић  (ГГ)",
-"udeo": 2.0907679674435062
+"udeo": 1.1964696705675504
 },
 {
 "kandidatSlug": "prof-dr-branislav-bane-ivkovic-gg",
 "glasova": 44488,
 "boja": "#b2df8a",
 "kandidat": "проф. др Бранислав-Бане Ивковић (ГГ)",
-"udeo": 1.1601093248141825
+"udeo": 0.6638879317536099
 },
 {
 "kandidatSlug": "dr-tomislav-lalosevic-gg",
 "glasova": 27887,
 "boja": "#e31a1c",
 "kandidat": "др Томислав Лалошевић (ГГ)",
-"udeo": 0.7272066341731053
+"udeo": 0.41615363137953876
 },
 {
 "kandidatSlug": "dr-vuk-obradovic-sd",
 "glasova": 27756,
 "boja": "#fdbf6f",
 "kandidat": "др Вук Обрадовић  (СД)",
-"udeo": 0.7237905596912078
+"udeo": 0.41419873749670016
 },
 {
 "kandidatSlug": "dr-dragan-radenovic-gg",
 "glasova": 9007,
 "boja": "#b15928",
 "kandidat": "др Драган Раденовић (ГГ)",
-"udeo": 0.23487467830878758
+"udeo": 0.13441014658570322
 }
 ]
 }
