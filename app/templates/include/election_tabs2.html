@@ -1,0 +1,86 @@
+<div class="no-padding tabs-div">
+
+            <div class="col-md-8 col-sm-12 col-xs-12 election-tabs-link">
+                <p class="tab-link">Избори / бирачких спискова <span class="arrow_shape">▼</span></p>
+                <div class="arrow"></div>
+                {%  if typeizbori %}
+                    {% if typeizbori=="parlamentarni" %}
+                            <p class="selected-type">Парламентарни > {{ year }}</p>
+                        {% endif %}
+                    {% if typeizbori=="predsjednicki" %}
+                            <p class="selected-type">Председнички > {{ year }}</p>
+                        {% endif %}
+                {%  endif %}
+            </div>
+        <div class="col-md-4 col-sm-12 col-xs-12 social-icons">
+            <ul>
+                <li>
+                    <a href="https://www.facebook.com/sharer/sharer.php?u=&t=" class="fa fa-facebook-official" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' +encodeURIComponent(document.URL) + '&t='+ encodeURIComponent(document.title)); return false;">
+                    </a>
+                </li>
+                <li>
+                    <a href="https://twitter.com/intent/tweet?source=&amp;text=:%20" class="fa fa-twitter-square" target="_blank" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title)+ ':%20'  + encodeURIComponent(document.URL)); return false;">
+                    </a>
+                </li>
+            </ul>
+        </div>
+<style>
+    .social-icons ul{
+        list-style: none;
+        width:200px;
+        float:right;
+    }
+    .social-icons ul li{
+        width: 60px;
+        float: left;
+    }
+    .social-icons ul li a{
+        font-size:30px;
+        color:#337ab7;
+    }
+    .social-icons ul li a:hover{
+        text-decoration:none;
+    }
+</style>
+</div>
+
+      <div class="tabs tabs-type-elections" id="tabs">
+        <ul>
+            <li id="presjednicki"><a href="#tabs-1">Председнички</a></li>
+            <li id="parlamentarni"><a href="#tabs-2">Парламентарни</a></li>
+        </ul>
+          <div id="tabs-1" class="year-list-tabs">
+            <ul>
+                <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2002   - Први круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2002  - Други круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='drugi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2003  - Други круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2008   - Први круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='drugi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2008   - Други круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='prvi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2012  - Први круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2012  - Други круг</a></li>
+
+            </ul>
+          </div>
+          <div id="tabs-2"  class="year-list-tabs">
+            <ul>
+                 <li>
+                            <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2003</a>
+
+                        </li>
+                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2008</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2012</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2014</a></li>
+
+
+        {#                <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='4', krug='none') }}">2007</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none') }}">2016</a></li>#}
+                        <!-- second data source -->
+
+            </ul>
+          </div>
+      </div>
+<style>
+    .fb-share-button span{
+        height:44px !important;
+    }
+</style>
