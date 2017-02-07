@@ -13,17 +13,38 @@
 	background: url("{{ url_for('static', filename = 'assets/page-loader.gif') }}")  50% 50% no-repeat rgb(249,249,249);
 }
 </style>
- <section>
+ <section style="padding-top:20px;">
+
     <div class="row">
      {% include "include/election_tabs.html" %}
     </div>
 </section>
     <section class="type-initial-results">
     <div class="row">
-        <div class="col-md-12" >
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-12 selected-year-type">
+                 {% if typeizbori=="parlamentarni" %}
+                     <span>Парламентарни</span>
+                     {% else %}
+                     <span>Председнички</span>
+                 {% endif %}
+            <span>{{ year }}</span>
+                {% if krug=="prvi" %}
+                    <span>Први круг</span>
+               {% endif %}
+                    {% if krug=="drugi" %}
+                            <span>Други круг</span>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-12">
             <div class="row">
                 <div class="col-md-9 col-xs-12 col-sm-12" id="no-territory-selected">
-                        {% include "type/_indicators_no_teritory_selected.html" %}
+                    {% include "type/_indicators_no_teritory_selected.html" %}
                 </div>
                 <div class="col-md-3 col-sm-5 col-xs-9" id="piechart-no-territory-selected">
                     {% if year!=2000 %}

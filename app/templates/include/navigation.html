@@ -12,22 +12,78 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <li>
-                    <a class="page-scroll" href="#home">Home</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#about">About</a>
-                </li>
-                <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
-                </li>
-            </ul>
+                <div class="btn-group">
+                      <button type="button" class="menu-dropdown dropdown-toggle" data-toggle="dropdown">
+                        Председнички<span class="caret"></span>
+                      </button>
+                      <ul class="dropdown-menu menu-items" role="menu">
+                          <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}">2002   - Први круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi') }}">2002  - Други круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='drugi') }}">2003  - Други круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi') }}">2008   - Први круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='drugi') }}">2008   - Други круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='prvi') }}">2012  - Први круг</a></li>
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi') }}">2012  - Други круг</a></li>
+                      </ul>
+                </div>
+
+            <div class="btn-group">
+              <button type="button" class="menu-dropdown dropdown-toggle" data-toggle="dropdown">
+                Парламентарни <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu menu-items" role="menu">
+                 <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none') }}">2003</a></li>
+                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none') }}">2008</a></li>
+                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none') }}">2012</a></li>
+                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}">2014</a></li>
+              </ul>
+            </div>
+                <li style="float:right"><a href="#">Питање и одговори</a></li>
+                 <li style="float:right"><a href="#">Контакт</a></li>
+                 <li style="float:right"><a href="#">API</a></li>
+           </ul>
+
         </div>
+
             <!-- /.navbar-collapse -->
     </div>
         <!-- /.container-fluid -->
 </nav>
 <style>
+    .selected-year-type{
+        margin-left: 20px;
+        font-size: 20px;
+        margin-bottom: 20px;
+        /* float: right; */
+        color: #337ab7;
+        font-weight: bold;
+    }
+    .navbar-right .btn-group{
+        font-size:20px;
+    }
+    .navbar-right{
+        margin-right:0px;
+    }
+    .nav>li>a{
+        font-size:20px !important;
+
+    }
+
+
+    .navbar-right .dropdown-menu{
+        border-radius: 0px;
+    }
+    .menu-dropdown:active{
+        -webkit-box-shadow: none !important;
+        -moz-box-shadow: none !important;
+        box-shadow: none !important;
+        outline:none !important;
+    }
+    .menu-dropdown{
+        background: none;
+        border:0px;
+        box-shadow: none !important;
+    }
      #territory-name{
          overflow: auto;
          line-height: 22px;
@@ -114,9 +170,10 @@
     }
     .navbar-default .nav>li>a, .navbar-default .nav>li>a:focus{
         text-transform: none;
-        padding: 0 1em !important;
         text-shadow: 0 1px 0 rgba(0,0,0,0.5);
-        font-weight:600;
+        font-weight:400;
+        padding-right:10px;
+        padding-top: 7px;
     }
     .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
         background: white;
@@ -292,11 +349,11 @@
         font-weight: bold;
     }
     .type-initial-results{
-        padding:0px;
+
         min-height: 150px;
         background:#ffffff;
         width:100%;
-        margin-top: -19px;
+
     }
     #no-territory-selected{
         padding-left: 20px;
@@ -420,6 +477,17 @@
                padding-left: 20px;
            }
        }
+      @media only screen and (max-width: 760px) {
+          .navbar-right .btn-group {
+              display: block;
+              padding-left: 8px;
+              font-weight: 600;
+          }
+
+          .menu-items li a {
+              color: white !important;
+          }
+      }
      {#@media only screen and (max-width: 1400px) {
             #all-results{
                 float:right;
