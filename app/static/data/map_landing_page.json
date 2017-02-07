@@ -2740,7 +2740,7 @@
 "udeo": 56.043956043956044
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ruska-federacija",
 "teritorija": "Руска Федерација"
@@ -2792,7 +2792,7 @@
 "udeo": 50.36496350364964
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "francuska",
 "teritorija": "Француска"
@@ -2805,7 +2805,7 @@
 "udeo": 50.719424460431654
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "orahovac",
 "teritorija": "Ораховац"
@@ -2818,7 +2818,7 @@
 "udeo": 53.144654088050316
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "crna-gora",
 "teritorija": "Црна Гора"
@@ -2896,7 +2896,7 @@
 "udeo": 55.74963609898108
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vucitrn",
 "teritorija": "Вучитрн"
@@ -2922,10 +2922,23 @@
 "udeo": 68.16037735849056
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "crna-trava",
 "teritorija": "Црна Трава"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 360,
+"udeo": 62.93706293706294
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "prizren",
+"teritorija": "Призрен"
 },
 {
 "rezultat": {
@@ -2935,7 +2948,7 @@
 "udeo": 56.3855421686747
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kosovska-kamenica",
 "teritorija": "Косовска Каменица"
@@ -2948,7 +2961,7 @@
 "udeo": 55.294117647058826
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "presevo",
 "teritorija": "Прешево"
@@ -2961,7 +2974,7 @@
 "udeo": 55.81257413997628
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lipljan",
 "teritorija": "Липљан"
@@ -2974,7 +2987,7 @@
 "udeo": 73.76668601276842
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zubin-potok",
 "teritorija": "Зубин Поток"
@@ -2987,7 +3000,7 @@
 "udeo": 55.75479566305255
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "strpce",
 "teritorija": "Штрпце"
@@ -3013,7 +3026,7 @@
 "udeo": 55.31774777741192
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "medveda",
 "teritorija": "Медвеђа"
@@ -3026,7 +3039,7 @@
 "udeo": 48.21576763485477
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "irig",
 "teritorija": "Ириг"
@@ -3039,7 +3052,7 @@
 "udeo": 60.03547896604155
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kosovska-mitrovica",
 "teritorija": "Косовска Митровица"
@@ -3078,7 +3091,7 @@
 "udeo": 57.608247422680414
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kosjeric",
 "teritorija": "Косјерић"
@@ -3117,7 +3130,7 @@
 "udeo": 63.13993174061433
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "leposavic",
 "teritorija": "Лепосавић"
@@ -3130,7 +3143,7 @@
 "udeo": 62.84141435528265
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "osecina",
 "teritorija": "Осечина"
@@ -3156,7 +3169,7 @@
 "udeo": 52.98769771528998
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "rekovac",
 "teritorija": "Рековац"
@@ -3169,7 +3182,7 @@
 "udeo": 61.411483253588514
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bosilegrad",
 "teritorija": "Босилеград"
@@ -3182,7 +3195,7 @@
 "udeo": 69.10891089108911
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "gadzin-han",
 "teritorija": "Гаџин Хан"
@@ -3195,7 +3208,7 @@
 "udeo": 49.573507275464124
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sremski-karlovci",
 "teritorija": "Сремски Карловци"
@@ -3221,7 +3234,7 @@
 "udeo": 59.10493827160494
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zvecan",
 "teritorija": "Звечан"
@@ -3234,7 +3247,7 @@
 "udeo": 48.84318766066838
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "raca",
 "teritorija": "Рача"
@@ -3247,7 +3260,7 @@
 "udeo": 54.333333333333336
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "blace",
 "teritorija": "Блаце"
@@ -3260,7 +3273,7 @@
 "udeo": 48.974739970282315
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bela-palanka",
 "teritorija": "Бела Паланка"
@@ -3273,7 +3286,7 @@
 "udeo": 51.13653469817854
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "batocina",
 "teritorija": "Баточина"
@@ -3286,7 +3299,7 @@
 "udeo": 62.46153846153846
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "mali-zvornik",
 "teritorija": "Мали Зворник"
@@ -3299,7 +3312,7 @@
 "udeo": 62.142977860402226
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "nis-niska-banja",
 "teritorija": "Ниш - Нишка Бања"
@@ -3312,7 +3325,7 @@
 "udeo": 62.252100840336134
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "svrljig",
 "teritorija": "Сврљиг"
@@ -3325,7 +3338,7 @@
 "udeo": 61.52464903689193
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ljubovija",
 "teritorija": "Љубовија"
@@ -3338,7 +3351,7 @@
 "udeo": 52.80033604032484
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sokobanja",
 "teritorija": "Сокобања"
@@ -3364,7 +3377,7 @@
 "udeo": 56.503461918892185
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "opovo",
 "teritorija": "Опово"
@@ -3390,7 +3403,7 @@
 "udeo": 64.49926482600881
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "babusnica",
 "teritorija": "Бабушница"
@@ -3403,7 +3416,7 @@
 "udeo": 66.96107294733399
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "knic",
 "teritorija": "Кнић"
@@ -3429,7 +3442,7 @@
 "udeo": 61.536248561565024
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "merosina",
 "teritorija": "Мерошина"
@@ -3481,7 +3494,7 @@
 "udeo": 60.95596830757242
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "brus",
 "teritorija": "Брус"
@@ -3494,7 +3507,7 @@
 "udeo": 55.09336911550934
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kucevo",
 "teritorija": "Кучево"
@@ -3507,7 +3520,7 @@
 "udeo": 55.481029132045244
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "raska",
 "teritorija": "Рашка"
@@ -3520,7 +3533,7 @@
 "udeo": 60.47017849368742
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vladicin-han",
 "teritorija": "Владичин Хан"
@@ -3533,7 +3546,7 @@
 "udeo": 59.85651902682471
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bajina-basta",
 "teritorija": "Бајина Башта"
@@ -3559,7 +3572,7 @@
 "udeo": 59.18242207460399
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "topola",
 "teritorija": "Топола"
@@ -3572,7 +3585,7 @@
 "udeo": 53.73694079828556
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "priboj",
 "teritorija": "Прибој"
@@ -3585,7 +3598,7 @@
 "udeo": 67.45272005603549
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kursumlija",
 "teritorija": "Куршумлија"
@@ -3611,7 +3624,7 @@
 "udeo": 55.01553867403315
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pozega",
 "teritorija": "Пожега"
@@ -3650,7 +3663,7 @@
 "udeo": 59.56434193666483
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ub",
 "teritorija": "Уб"
@@ -3676,7 +3689,7 @@
 "udeo": 49.22104644326867
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kovin",
 "teritorija": "Ковин"
@@ -3702,7 +3715,7 @@
 "udeo": 59.261744966442954
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "cuprija",
 "teritorija": "Ћуприја"
@@ -3728,7 +3741,7 @@
 "udeo": 61.37511137511138
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "cajetina",
 "teritorija": "Чајетина"
@@ -3756,8 +3769,8 @@
 "kandidat": "Борис Тадић",
 "boja": "#a6cee3"
 },
-"teritorijaSlug": "petrovac-na-mlavi",
-"teritorija": "Петровац на Млави"
+"teritorijaSlug": "petrovac",
+"teritorija": "Петровац"
 },
 {
 "rezultat": {
@@ -3780,7 +3793,7 @@
 "udeo": 58.740053050397876
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "varvarin",
 "teritorija": "Варварин"
@@ -3819,7 +3832,7 @@
 "udeo": 57.936415511820194
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lucani",
 "teritorija": "Лучани"
@@ -3832,7 +3845,7 @@
 "udeo": 52.61025581664545
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "doljevac",
 "teritorija": "Дољевац"
@@ -3845,7 +3858,7 @@
 "udeo": 57.50067695640401
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vladimirci",
 "teritorija": "Владимирци"
@@ -3858,7 +3871,7 @@
 "udeo": 59.06993775173929
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vrnjacka-banja",
 "teritorija": "Врњачка Бања"
@@ -3871,7 +3884,7 @@
 "udeo": 59.78182690002397
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "titel",
 "teritorija": "Тител"
@@ -3884,7 +3897,7 @@
 "udeo": 67.74776254208062
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ivanjica",
 "teritorija": "Ивањица"
@@ -3897,7 +3910,7 @@
 "udeo": 58.53218645948945
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vlasotince",
 "teritorija": "Власотинце"
@@ -3910,7 +3923,7 @@
 "udeo": 51.95858981533296
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lapovo",
 "teritorija": "Лапово"
@@ -3923,7 +3936,7 @@
 "udeo": 66.05909969621652
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "razanj",
 "teritorija": "Ражањ"
@@ -3936,7 +3949,7 @@
 "udeo": 60.71428571428571
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "koceljeva",
 "teritorija": "Коцељева"
@@ -3949,7 +3962,7 @@
 "udeo": 60.524002110075614
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bojnik",
 "teritorija": "Бојник"
@@ -4014,7 +4027,7 @@
 "udeo": 60.679694137638066
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "barajevo",
 "teritorija": "Барајево"
@@ -4027,7 +4040,7 @@
 "udeo": 66.53938304881702
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "nis-crveni-krst",
 "teritorija": "Ниш - Црвени крст"
@@ -4053,7 +4066,7 @@
 "udeo": 47.66671646994372
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vrbas",
 "teritorija": "Врбас"
@@ -4092,7 +4105,7 @@
 "udeo": 60.11208812445646
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bogatic",
 "teritorija": "Богатић"
@@ -4157,7 +4170,7 @@
 "udeo": 51.37429064890205
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "smederevska-palanka",
 "teritorija": "Смедеревска Паланка"
@@ -4170,7 +4183,7 @@
 "udeo": 53.0219290426101
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zagubica",
 "teritorija": "Жагубица"
@@ -4183,7 +4196,7 @@
 "udeo": 55.60594608213656
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "knjazevac",
 "teritorija": "Књажевац"
@@ -4222,7 +4235,7 @@
 "udeo": 53.60355857656938
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "indija",
 "teritorija": "Инђија"
@@ -4248,7 +4261,7 @@
 "udeo": 50.95932463545664
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "malo-crnice",
 "teritorija": "Мало Црниће"
@@ -4261,7 +4274,7 @@
 "udeo": 50.672787715687825
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kula",
 "teritorija": "Кула"
@@ -4274,7 +4287,7 @@
 "udeo": 60.17331373840774
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "nis-pantelej",
 "teritorija": "Ниш - Пантелеј"
@@ -4287,7 +4300,7 @@
 "udeo": 51.79289761667892
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ruma",
 "teritorija": "Рума"
@@ -4313,7 +4326,7 @@
 "udeo": 64.82007575757575
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "krupanj",
 "teritorija": "Крупањ"
@@ -4326,7 +4339,7 @@
 "udeo": 53.15001740341106
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "paracin",
 "teritorija": "Параћин"
@@ -4339,7 +4352,7 @@
 "udeo": 66.78485645659384
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "arilje",
 "teritorija": "Ариље"
@@ -4352,7 +4365,7 @@
 "udeo": 51.857618615111804
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zajecar",
 "teritorija": "Зајечар"
@@ -4391,7 +4404,7 @@
 "udeo": 50.01165410613005
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lazarevac",
 "teritorija": "Лазаревац"
@@ -4417,7 +4430,7 @@
 "udeo": 57.75038018683467
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "surcin",
 "teritorija": "Сурчин"
@@ -4430,7 +4443,7 @@
 "udeo": 54.06345787424406
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pirot",
 "teritorija": "Пирот"
@@ -4443,7 +4456,7 @@
 "udeo": 60.06116479035547
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "mladenovac",
 "teritorija": "Младеновац"
@@ -4482,7 +4495,7 @@
 "udeo": 50.55750535764202
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pozarevac",
 "teritorija": "Пожаревац"
@@ -4495,7 +4508,7 @@
 "udeo": 55.24990951268468
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "obrenovac",
 "teritorija": "Обреновац"
@@ -4508,7 +4521,7 @@
 "udeo": 58.3378112126097
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ljig",
 "teritorija": "Љиг"
@@ -4521,7 +4534,7 @@
 "udeo": 60.59217483256961
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "nis-palilula",
 "teritorija": "Ниш - Палилула"
@@ -4547,7 +4560,7 @@
 "udeo": 53.585904988380264
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "trstenik",
 "teritorija": "Трстеник"
@@ -4560,7 +4573,7 @@
 "udeo": 58.9968949002684
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "gornji-milanovac",
 "teritorija": "Горњи Милановац"
@@ -4599,7 +4612,7 @@
 "udeo": 60.431583134447095
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "loznica",
 "teritorija": "Лозница"
@@ -4612,7 +4625,7 @@
 "udeo": 64.07860713670057
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "grocka",
 "teritorija": "Гроцка"
@@ -4651,7 +4664,7 @@
 "udeo": 56.998533485416324
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vranje",
 "teritorija": "Врање"
@@ -4664,7 +4677,7 @@
 "udeo": 63.1578947368421
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pristina-grad",
 "teritorija": "Приштина - град"
@@ -4677,7 +4690,7 @@
 "udeo": 54.02831402831403
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "backa-palanka",
 "teritorija": "Бачка Паланка"
@@ -4690,7 +4703,7 @@
 "udeo": 59.68043264503442
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "smederevo",
 "teritorija": "Смедерево"
@@ -4716,7 +4729,7 @@
 "udeo": 50.45085478803705
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pancevo",
 "teritorija": "Панчево"
@@ -4729,7 +4742,7 @@
 "udeo": 63.669982147411375
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sopot",
 "teritorija": "Сопот"
@@ -4755,7 +4768,7 @@
 "udeo": 51.654452587164116
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "uzice",
 "teritorija": "Ужице"
@@ -4768,7 +4781,7 @@
 "udeo": 51.87424685832329
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "rakovica",
 "teritorija": "Раковица"
@@ -4781,7 +4794,7 @@
 "udeo": 52.7300185873606
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "veliko-gradiste",
 "teritorija": "Велико Градиште"
@@ -4794,7 +4807,7 @@
 "udeo": 54.466983167889516
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "mionica",
 "teritorija": "Мионица"
@@ -4833,7 +4846,7 @@
 "udeo": 62.58027160753764
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "aleksinac",
 "teritorija": "Алексинац"
@@ -4859,7 +4872,7 @@
 "udeo": 49.89041377991556
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vozdovac",
 "teritorija": "Вождовац"
@@ -4885,7 +4898,7 @@
 "udeo": 58.1759388550011
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "aleksandrovac",
 "teritorija": "Александровац"
@@ -4898,7 +4911,7 @@
 "udeo": 53.091195748967166
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zemun",
 "teritorija": "Земун"
@@ -4950,7 +4963,7 @@
 "udeo": 55.41385206155226
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "valjevo",
 "teritorija": "Ваљево"
@@ -4963,7 +4976,7 @@
 "udeo": 49.63703146691347
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "palilula",
 "teritorija": "Палилула"
@@ -4976,7 +4989,7 @@
 "udeo": 52.77562612961528
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "leskovac",
 "teritorija": "Лесковац"
@@ -5002,7 +5015,7 @@
 "udeo": 53.60916442048518
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kragujevac",
 "teritorija": "Крагујевац"
@@ -5028,7 +5041,7 @@
 "udeo": 53.60372493939277
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "stara-pazova",
 "teritorija": "Стара Пазова"
@@ -5041,7 +5054,7 @@
 "udeo": 54.959943449575874
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "nova-varos",
 "teritorija": "Нова Варош"
@@ -5067,7 +5080,7 @@
 "udeo": 51.272770662636226
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "cukarica",
 "teritorija": "Чукарица"
@@ -5093,7 +5106,7 @@
 "udeo": 51.229942403636855
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sabac",
 "teritorija": "Шабац"
@@ -5119,7 +5132,7 @@
 "udeo": 63.88382391247721
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bujanovac",
 "teritorija": "Бујановац"
@@ -5158,7 +5171,7 @@
 "udeo": 58.38474909743845
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "krusevac",
 "teritorija": "Крушевац"
@@ -5184,7 +5197,7 @@
 "udeo": 56.70968832779124
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "arandelovac",
 "teritorija": "Аранђеловац"
@@ -5210,7 +5223,7 @@
 "udeo": 50.289062704371254
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sremska-mitrovica",
 "teritorija": "Сремска Митровица"
@@ -5223,7 +5236,7 @@
 "udeo": 59.31748215104474
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "velika-plana",
 "teritorija": "Велика Плана"
@@ -5249,7 +5262,7 @@
 "udeo": 61.10136240856484
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kraljevo",
 "teritorija": "Краљево"
@@ -5275,7 +5288,7 @@
 "udeo": 57.49472202674173
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zabalj",
 "teritorija": "Жабаљ"
@@ -5288,7 +5301,7 @@
 "udeo": 48.66452714943838
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "nis-medijana",
 "teritorija": "Ниш - Медијана"
@@ -5301,7 +5314,7 @@
 "udeo": 57.00284868036297
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "nis",
 "teritorija": "Ниш"
@@ -5314,7 +5327,7 @@
 "udeo": 57.04176813858383
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "cacak",
 "teritorija": "Чачак"
@@ -5353,7 +5366,7 @@
 "udeo": 61.980995662053296
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lebane",
 "teritorija": "Лебане"
@@ -8061,7 +8074,7 @@
 "udeo": 88.88888888888889
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "podujevo",
 "teritorija": "Подујево"
@@ -8100,7 +8113,7 @@
 "udeo": 70.58823529411765
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "urosevac",
 "teritorija": "Урошевац"
@@ -8165,7 +8178,7 @@
 "udeo": 50.39370078740157
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "danska",
 "teritorija": "Данска"
@@ -8204,7 +8217,7 @@
 "udeo": 49.358974358974365
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "hrvatska",
 "teritorija": "Хрватска"
@@ -8217,7 +8230,7 @@
 "udeo": 51.49700598802395
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "klina",
 "teritorija": "Клина"
@@ -8282,7 +8295,7 @@
 "udeo": 71.15384615384616
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "orahovac",
 "teritorija": "Ораховац"
@@ -8321,7 +8334,7 @@
 "udeo": 52.65588914549654
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "svajcarska",
 "teritorija": "Швајцарска"
@@ -8334,7 +8347,7 @@
 "udeo": 62.56544502617801
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "crna-trava",
 "teritorija": "Црна Трава"
@@ -8347,7 +8360,7 @@
 "udeo": 83.29694323144105
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "novo-brdo",
 "teritorija": "Ново Брдо"
@@ -8373,7 +8386,7 @@
 "udeo": 75.054704595186
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kosovo-polje",
 "teritorija": "Косово Поље"
@@ -8386,7 +8399,7 @@
 "udeo": 69.65006729475101
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vitina",
 "teritorija": "Витина"
@@ -8399,7 +8412,7 @@
 "udeo": 69.32321315623024
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "obilic",
 "teritorija": "Обилић"
@@ -8412,7 +8425,7 @@
 "udeo": 81.37535816618912
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "crna-gora",
 "teritorija": "Црна Гора"
@@ -8425,7 +8438,7 @@
 "udeo": 82.41687979539643
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vucitrn",
 "teritorija": "Вучитрн"
@@ -8451,7 +8464,7 @@
 "udeo": 66.85236768802228
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "presevo",
 "teritorija": "Прешево"
@@ -8464,7 +8477,7 @@
 "udeo": 63.6558481322719
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "trgoviste",
 "teritorija": "Трговиште"
@@ -8477,7 +8490,7 @@
 "udeo": 73.29498767460969
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zubin-potok",
 "teritorija": "Зубин Поток"
@@ -8490,7 +8503,7 @@
 "udeo": 60.45618789521229
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "medveda",
 "teritorija": "Медвеђа"
@@ -8503,7 +8516,7 @@
 "udeo": 74.28501588853581
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lipljan",
 "teritorija": "Липљан"
@@ -8516,7 +8529,7 @@
 "udeo": 50.66072018500165
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "golubac",
 "teritorija": "Голубац"
@@ -8542,7 +8555,7 @@
 "udeo": 52.878719904291906
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "irig",
 "teritorija": "Ириг"
@@ -8568,7 +8581,7 @@
 "udeo": 56.83353808353808
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "cicevac",
 "teritorija": "Ћићевац"
@@ -8607,7 +8620,7 @@
 "udeo": 67.1957671957672
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "srbica",
 "teritorija": "Србица"
@@ -8620,7 +8633,7 @@
 "udeo": 70.29610194902548
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "strpce",
 "teritorija": "Штрпце"
@@ -8646,7 +8659,7 @@
 "udeo": 50.546795523906404
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "rekovac",
 "teritorija": "Рековац"
@@ -8672,7 +8685,7 @@
 "udeo": 65.37463509568602
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "gadzin-han",
 "teritorija": "Гаџин Хан"
@@ -8711,7 +8724,7 @@
 "udeo": 76.12795857988166
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zavod-za-izvrsenje-zavodskih-sankcija",
 "teritorija": "Завод за извршење заводских санкција"
@@ -8724,7 +8737,7 @@
 "udeo": 71.95121951219512
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "prizren",
 "teritorija": "Призрен"
@@ -8737,7 +8750,7 @@
 "udeo": 71.5196416264645
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kosovska-kamenica",
 "teritorija": "Косовска Каменица"
@@ -8763,7 +8776,7 @@
 "udeo": 49.6955072963346
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "secanj",
 "teritorija": "Сечањ"
@@ -8776,7 +8789,7 @@
 "udeo": 56.553335063586815
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "batocina",
 "teritorija": "Баточина"
@@ -8789,7 +8802,7 @@
 "udeo": 52.55319148936171
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "osecina",
 "teritorija": "Осечина"
@@ -8802,7 +8815,7 @@
 "udeo": 51.53974430239021
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "cajetina",
 "teritorija": "Чајетина"
@@ -8815,7 +8828,7 @@
 "udeo": 60.14057507987221
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "mali-zvornik",
 "teritorija": "Мали Зворник"
@@ -8828,7 +8841,7 @@
 "udeo": 70.26226107571492
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kosovska-mitrovica",
 "teritorija": "Косовска Митровица"
@@ -8841,7 +8854,7 @@
 "udeo": 76.0321356839991
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zvecan",
 "teritorija": "Звечан"
@@ -8867,7 +8880,7 @@
 "udeo": 58.36961780358006
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "blace",
 "teritorija": "Блаце"
@@ -8893,7 +8906,7 @@
 "udeo": 56.23647340243764
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "knic",
 "teritorija": "Кнић"
@@ -8906,7 +8919,7 @@
 "udeo": 56.97003957037875
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bela-palanka",
 "teritorija": "Бела Паланка"
@@ -8919,7 +8932,7 @@
 "udeo": 53.54005167958656
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "opovo",
 "teritorija": "Опово"
@@ -8945,7 +8958,7 @@
 "udeo": 57.58110792319576
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ljubovija",
 "teritorija": "Љубовија"
@@ -8971,7 +8984,7 @@
 "udeo": 62.57256687535572
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "babusnica",
 "teritorija": "Бабушница"
@@ -8984,7 +8997,7 @@
 "udeo": 67.21477643878815
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "merosina",
 "teritorija": "Мерошина"
@@ -8997,7 +9010,7 @@
 "udeo": 60.68237205523964
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "svrljig",
 "teritorija": "Сврљиг"
@@ -9010,7 +9023,7 @@
 "udeo": 71.9504867203461
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "leposavic",
 "teritorija": "Лепосавић"
@@ -9023,7 +9036,7 @@
 "udeo": 57.97034291010195
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "brus",
 "teritorija": "Брус"
@@ -9036,23 +9049,10 @@
 "udeo": 61.80862831858407
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zitorada",
 "teritorija": "Житорађа"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 6807,
-"udeo": 50.06987863184994
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-"teritorijaSlug": "kladovo",
-"teritorija": "Кладово"
 },
 {
 "rezultat": {
@@ -9075,7 +9075,7 @@
 "udeo": 75.87786259541984
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pec",
 "teritorija": "Пећ"
@@ -9092,32 +9092,6 @@
 },
 "teritorijaSlug": "topola",
 "teritorija": "Топола"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 7476,
-"udeo": 50.0334627225271
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "despotovac",
-"teritorija": "Деспотовац"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 5191,
-"udeo": 78.06015037593986
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-"teritorijaSlug": "pristina",
-"teritorija": "Приштина"
 },
 {
 "rezultat": {
@@ -9153,10 +9127,23 @@
 "udeo": 53.85410386702265
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "varvarin",
 "teritorija": "Варварин"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 7476,
+"udeo": 50.0334627225271
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "despotovac",
+"teritorija": "Деспотовац"
 },
 {
 "rezultat": {
@@ -9179,7 +9166,7 @@
 "udeo": 62.125167572144214
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lebane",
 "teritorija": "Лебане"
@@ -9192,7 +9179,7 @@
 "udeo": 53.0193807610494
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ub",
 "teritorija": "Уб"
@@ -9218,7 +9205,7 @@
 "udeo": 49.73674000997617
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "aleksandrovac",
 "teritorija": "Александровац"
@@ -9231,7 +9218,7 @@
 "udeo": 52.907759882869684
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "priboj",
 "teritorija": "Прибој"
@@ -9244,7 +9231,7 @@
 "udeo": 68.03162195771895
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kursumlija",
 "teritorija": "Куршумлија"
@@ -9261,6 +9248,19 @@
 },
 "teritorijaSlug": "temerin",
 "teritorija": "Темерин"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 9236,
+"udeo": 50.44238121245221
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "pozega",
+"teritorija": "Пожега"
 },
 {
 "rezultat": {
@@ -9283,7 +9283,7 @@
 "udeo": 49.441970133612784
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "petrovac",
 "teritorija": "Петровац"
@@ -9296,7 +9296,7 @@
 "udeo": 53.86589120766337
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vrnjacka-banja",
 "teritorija": "Врњачка Бања"
@@ -9309,7 +9309,7 @@
 "udeo": 59.62732919254658
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "titel",
 "teritorija": "Тител"
@@ -9322,7 +9322,7 @@
 "udeo": 58.81176061238692
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vladimirci",
 "teritorija": "Владимирци"
@@ -9335,7 +9335,7 @@
 "udeo": 61.821339575624854
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vladicin-han",
 "teritorija": "Владичин Хан"
@@ -9348,7 +9348,7 @@
 "udeo": 63.54025655901502
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "raska",
 "teritorija": "Рашка"
@@ -9374,7 +9374,7 @@
 "udeo": 49.705784389918946
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "beocin",
 "teritorija": "Беочин"
@@ -9387,7 +9387,7 @@
 "udeo": 53.93570987018339
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "cuprija",
 "teritorija": "Ћуприја"
@@ -9439,7 +9439,7 @@
 "udeo": 60.814099874108265
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "doljevac",
 "teritorija": "Дољевац"
@@ -9452,7 +9452,7 @@
 "udeo": 51.251452925222786
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lucani",
 "teritorija": "Лучани"
@@ -9465,7 +9465,7 @@
 "udeo": 62.27971885504736
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vlasotince",
 "teritorija": "Власотинце"
@@ -9504,7 +9504,7 @@
 "udeo": 53.15568022440392
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lapovo",
 "teritorija": "Лапово"
@@ -9517,7 +9517,7 @@
 "udeo": 62.468300929839394
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "razanj",
 "teritorija": "Ражањ"
@@ -9530,7 +9530,7 @@
 "udeo": 68.12160089248361
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bojnik",
 "teritorija": "Бојник"
@@ -9543,7 +9543,7 @@
 "udeo": 58.85217391304348
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "koceljeva",
 "teritorija": "Коцељева"
@@ -9569,7 +9569,7 @@
 "udeo": 57.03049448778287
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "barajevo",
 "teritorija": "Барајево"
@@ -9621,7 +9621,7 @@
 "udeo": 54.801875378100426
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vrbas",
 "teritorija": "Врбас"
@@ -9660,7 +9660,7 @@
 "udeo": 50.0637275727965
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "smederevska-palanka",
 "teritorija": "Смедеревска Паланка"
@@ -9673,7 +9673,7 @@
 "udeo": 52.56520142035019
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zagubica",
 "teritorija": "Жагубица"
@@ -9686,7 +9686,7 @@
 "udeo": 57.02605785321539
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "knjazevac",
 "teritorija": "Књажевац"
@@ -9699,7 +9699,7 @@
 "udeo": 53.56830858141254
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "prokuplje",
 "teritorija": "Прокупље"
@@ -9751,7 +9751,7 @@
 "udeo": 61.24818577648766
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bogatic",
 "teritorija": "Богатић"
@@ -9777,7 +9777,7 @@
 "udeo": 59.29883478349362
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "odzaci",
 "teritorija": "Оџаци"
@@ -9790,7 +9790,7 @@
 "udeo": 57.808312128922815
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "indija",
 "teritorija": "Инђија"
@@ -9829,7 +9829,7 @@
 "udeo": 50.98649291701746
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kula",
 "teritorija": "Кула"
@@ -9842,7 +9842,7 @@
 "udeo": 51.84987548914977
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ruma",
 "teritorija": "Рума"
@@ -9868,7 +9868,7 @@
 "udeo": 61.71231564834323
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "krupanj",
 "teritorija": "Крупањ"
@@ -9907,7 +9907,7 @@
 "udeo": 61.33790737564322
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "surcin",
 "teritorija": "Сурчин"
@@ -9920,7 +9920,7 @@
 "udeo": 59.16230366492147
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "istok",
 "teritorija": "Исток"
@@ -9933,7 +9933,7 @@
 "udeo": 51.11630321910696
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pirot",
 "teritorija": "Пирот"
@@ -9946,7 +9946,7 @@
 "udeo": 54.7389648218687
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "paracin",
 "teritorija": "Параћин"
@@ -9959,7 +9959,7 @@
 "udeo": 52.70845505383524
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "arilje",
 "teritorija": "Ариље"
@@ -9972,7 +9972,7 @@
 "udeo": 50.15180789401049
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zajecar",
 "teritorija": "Зајечар"
@@ -9985,7 +9985,7 @@
 "udeo": 49.45287454584313
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pozarevac",
 "teritorija": "Пожаревац"
@@ -10011,7 +10011,7 @@
 "udeo": 56.69993455497382
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "velika-plana",
 "teritorija": "Велика Плана"
@@ -10024,10 +10024,23 @@
 "udeo": 52.104212417648235
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sremska-mitrovica",
 "teritorija": "Сремска Митровица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 26288,
+"udeo": 59.61944072755313
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "grocka",
+"teritorija": "Гроцка"
 },
 {
 "rezultat": {
@@ -10063,7 +10076,7 @@
 "udeo": 50.455916267518184
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "trstenik",
 "teritorija": "Трстеник"
@@ -10115,7 +10128,7 @@
 "udeo": 54.22013973835341
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "loznica",
 "teritorija": "Лозница"
@@ -10167,7 +10180,7 @@
 "udeo": 60.06667550622241
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "vranje",
 "teritorija": "Врање"
@@ -10180,7 +10193,7 @@
 "udeo": 53.82112909106206
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "backa-palanka",
 "teritorija": "Бачка Паланка"
@@ -10193,7 +10206,7 @@
 "udeo": 55.07118385991625
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "smederevo",
 "teritorija": "Смедерево"
@@ -10210,6 +10223,19 @@
 },
 "teritorijaSlug": "zitiste",
 "teritorija": "Житиште"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5191,
+"udeo": 78.06015037593986
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "pristina-grad",
+"teritorija": "Приштина - град"
 },
 {
 "rezultat": {
@@ -10232,7 +10258,7 @@
 "udeo": 60.91238983929497
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sopot",
 "teritorija": "Сопот"
@@ -10245,7 +10271,7 @@
 "udeo": 49.34813607659401
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "lajkovac",
 "teritorija": "Лајковац"
@@ -10297,7 +10323,7 @@
 "udeo": 55.90603469743505
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pecinci",
 "teritorija": "Пећинци"
@@ -10323,7 +10349,7 @@
 "udeo": 52.33634695126096
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kraljevo",
 "teritorija": "Краљево"
@@ -10362,7 +10388,7 @@
 "udeo": 65.82777972641179
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bujanovac",
 "teritorija": "Бујановац"
@@ -10375,7 +10401,7 @@
 "udeo": 52.867670618391536
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "mionica",
 "teritorija": "Мионица"
@@ -10401,7 +10427,7 @@
 "udeo": 51.07852331827095
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "veliko-gradiste",
 "teritorija": "Велико Градиште"
@@ -10427,7 +10453,7 @@
 "udeo": 54.030180345969825
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sokobanja",
 "teritorija": "Сокобања"
@@ -10453,7 +10479,7 @@
 "udeo": 71.42787745320292
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "kosovo-i-metohija",
 "teritorija": "Косово и Метохија"
@@ -10466,7 +10492,7 @@
 "udeo": 52.86820767275808
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "bajina-basta",
 "teritorija": "Бајина Башта"
@@ -10479,7 +10505,7 @@
 "udeo": 51.101339236525
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "zemun",
 "teritorija": "Земун"
@@ -10492,7 +10518,7 @@
 "udeo": 65.53727008712488
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "gnjilane",
 "teritorija": "Гњилане"
@@ -10518,7 +10544,7 @@
 "udeo": 51.76410707262337
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "jagodina",
 "teritorija": "Јагодина"
@@ -10544,7 +10570,7 @@
 "udeo": 53.259727150691496
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "leskovac",
 "teritorija": "Лесковац"
@@ -10583,7 +10609,7 @@
 "udeo": 58.727921833897035
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "aleksinac",
 "teritorija": "Алексинац"
@@ -10616,6 +10642,32 @@
 },
 {
 "rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6807,
+"udeo": 50.06987863184994
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "kladovo",
+"teritorija": "Кладово"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 57355,
+"udeo": 49.48833436874439
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "kragujevac",
+"teritorija": "Крагујевац"
+},
+{
+"rezultat": {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
 "glasova": 88,
@@ -10635,7 +10687,7 @@
 "udeo": 52.55885431156684
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "sabac",
 "teritorija": "Шабац"
@@ -10648,7 +10700,7 @@
 "udeo": 49.82037758923794
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "surdulica",
 "teritorija": "Сурдулица"
@@ -10674,7 +10726,7 @@
 "udeo": 53.9914638001897
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "stara-pazova",
 "teritorija": "Стара Пазова"
@@ -10700,7 +10752,7 @@
 "udeo": 54.42786069651741
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "nova-varos",
 "teritorija": "Нова Варош"
@@ -10726,7 +10778,7 @@
 "udeo": 54.92225229528207
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "ivanjica",
 "teritorija": "Ивањица"
@@ -10752,10 +10804,114 @@
 "udeo": 59.307226227427336
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "pcinjski",
 "teritorija": "ПЧИЊСКИ"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 70000,
+"udeo": 76.11260315976035
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "subotica",
+"teritorija": "Суботица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 42386,
+"udeo": 51.3582939537138
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "krusevac",
+"teritorija": "Крушевац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 15541,
+"udeo": 54.64102383798608
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "arandelovac",
+"teritorija": "Аранђеловац"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 83069,
+"udeo": 49.57005352699324
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "nis",
+"teritorija": "Ниш"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 36690,
+"udeo": 52.82404941186633
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "cacak",
+"teritorija": "Чачак"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 83081,
+"udeo": 57.368853534411926
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "novi-beograd",
+"teritorija": "Нови Београд"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 8880,
+"udeo": 61.241379310344826
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "zabalj",
+"teritorija": "Жабаљ"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 111968,
+"udeo": 54.75368470468571
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "novi-sad",
+"teritorija": "Нови Сад"
 },
 {
 "rezultat": {
@@ -10798,130 +10954,13 @@
 },
 {
 "rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 70000,
-"udeo": 76.11260315976035
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "subotica",
-"teritorija": "Суботица"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 42386,
-"udeo": 51.3582939537138
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-"teritorijaSlug": "krusevac",
-"teritorija": "Крушевац"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 15541,
-"udeo": 54.64102383798608
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-"teritorijaSlug": "arandelovac",
-"teritorija": "Аранђеловац"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 83069,
-"udeo": 49.57005352699324
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-"teritorijaSlug": "nis",
-"teritorija": "Ниш"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 36690,
-"udeo": 52.82404941186633
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "cacak",
-"teritorija": "Чачак"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 83081,
-"udeo": 57.368853534411926
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "novi-beograd",
-"teritorija": "Нови Београд"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 8880,
-"udeo": 61.241379310344826
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-"teritorijaSlug": "zabalj",
-"teritorija": "Жабаљ"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 111968,
-"udeo": 54.75368470468571
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "novi-sad-grad",
-"teritorija": "Нови Сад-град"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 9236,
-"udeo": 50.44238121245221
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "pozega",
-"teritorija": "Пожега"
-},
-{
-"rezultat": {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 22899,
 "udeo": 52.600266458400334
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "obrenovac",
 "teritorija": "Обреновац"
@@ -10943,37 +10982,11 @@
 "rezultat": {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
-"glasova": 57355,
-"udeo": 49.48833436874439
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-"teritorijaSlug": "kragujevac-grad",
-"teritorija": "Крагујевац-град"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 26288,
-"udeo": 59.61944072755313
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-"teritorijaSlug": "grocka",
-"teritorija": "Гроцка"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
 "glasova": 19198,
 "udeo": 57.4017042906264
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "mladenovac",
 "teritorija": "Младеновац"
@@ -10986,7 +10999,7 @@
 "udeo": 49.221067066606864
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 "teritorijaSlug": "centralna-srbija",
 "teritorija": "Централна Србија"
