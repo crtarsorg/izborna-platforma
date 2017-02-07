@@ -1325,6 +1325,7 @@
                 colorAxis: {
                     min: 0
                 },
+
                 series: [{
                     showInLegend: true,
                     data: data,
@@ -1332,14 +1333,15 @@
                     joinBy: ['NAME_2', 'teritorija'],
                     keys: ['NAME_2', 'NAME_1'],
                     animation: true,
+
                     name: 'Teritorija',
                     borderColor: 'black',
                     borderWidth: 1,
-                     dataLabels: {
+                     {#dataLabels: {
                      enabled: true,
                      color: '#FFFFFF',
                      format: '{point.NAME_2}'
-                 },
+                 },#}
                 }]
             });
         });
@@ -1414,15 +1416,15 @@
                 $('.type-initial-results').insertBefore('.indicators');
                 $('.territory_info').insertBefore('.indicators');
             }
-    Highcharts.setOptions({
-	lang: {
-        printChart: "принт графикон",
-        downloadPNG:"Пнг слика за преузимање",
-        downloadJPEG:"ЈПЕГ слика Преузимање",
-        downloadPDF:"Преузмите ПДФ документ",
-        downloadSVG:"СВГ вектор слику Преузимање"
-	}
-});
+            Highcharts.setOptions({
+            lang: {
+                printChart: "принт графикон",
+                downloadPNG:"Пнг слика за преузимање",
+                downloadJPEG:"ЈПЕГ слика Преузимање",
+                downloadPDF:"Преузмите ПДФ документ",
+                downloadSVG:"СВГ вектор слику Преузимање"
+            }
+        });
         $(".loader").css("display", "none");
         $.ajax({
             type: "GET",
