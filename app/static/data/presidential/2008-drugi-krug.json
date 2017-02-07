@@ -11,7 +11,7 @@
 "udeo": 88.88888888888889
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -47,7 +47,7 @@
 "udeo": 10.344827586206897
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Алжир",
@@ -74,7 +74,7 @@
 "udeo": 14.634146341463413
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Народна Република Кина",
@@ -101,7 +101,7 @@
 "udeo": 32.72727272727273
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Украјина",
@@ -128,7 +128,7 @@
 "udeo": 19.298245614035086
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Бугарска",
@@ -155,7 +155,7 @@
 "udeo": 31.3953488372093
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Аустралија",
@@ -182,7 +182,7 @@
 "udeo": 20
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Кипар",
@@ -200,7 +200,7 @@
 "udeo": 50.39370078740157
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -227,7 +227,7 @@
 "udeo": 49.358974358974365
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -248,6 +248,33 @@
 {
 "rezultat": [
 {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 86,
+"udeo": 51.49700598802395
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 81,
+"udeo": 48.50299401197605
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Клина",
+"brojUpisanihBiracaUBirackiSpisak": 444,
+"percentage": 37.612612612612615,
+"biraciKojiSuGlasali": 167,
+"teritorijaSlug": "klina"
+},
+{
+"rezultat": [
+{
 "kandidatSlug": "boris-tadic",
 "rezultat": {
 "glasova": 88,
@@ -263,7 +290,7 @@
 "udeo": 42.675159235668794
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Холандија",
@@ -290,7 +317,7 @@
 "udeo": 16.101694915254235
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Белгија",
@@ -317,7 +344,7 @@
 "udeo": 20
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Чешка Република",
@@ -344,7 +371,7 @@
 "udeo": 46.568627450980394
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Босна и Херцеговина",
@@ -362,7 +389,7 @@
 "udeo": 71.95121951219512
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -389,7 +416,7 @@
 "udeo": 67.1957671957672
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -425,7 +452,7 @@
 "udeo": 41.10671936758894
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Словенија",
@@ -452,7 +479,7 @@
 "udeo": 39.46360153256705
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Руска Федерација",
@@ -470,7 +497,7 @@
 "udeo": 59.16230366492147
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -506,7 +533,7 @@
 "udeo": 27.906976744186046
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Норвешка",
@@ -533,7 +560,7 @@
 "udeo": 22.30392156862745
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Сједињене Америчке Државе",
@@ -551,7 +578,7 @@
 "udeo": 71.15384615384616
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -587,7 +614,7 @@
 "udeo": 40.816326530612244
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Јужноафричка Република",
@@ -614,7 +641,7 @@
 "udeo": 36.51226158038147
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Италија",
@@ -632,7 +659,7 @@
 "udeo": 75.87786259541984
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -659,7 +686,7 @@
 "udeo": 83.29694323144105
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -695,7 +722,7 @@
 "udeo": 26.671732522796354
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Гора",
@@ -713,7 +740,7 @@
 "udeo": 75.054704595186
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -749,7 +776,7 @@
 "udeo": 48.264597795018375
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Босилеград",
@@ -767,7 +794,7 @@
 "udeo": 73.29498767460969
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -794,7 +821,7 @@
 "udeo": 52.65588914549654
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -821,7 +848,7 @@
 "udeo": 63.6558481322719
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -857,7 +884,7 @@
 "udeo": 46.27584253752478
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Пландиште",
@@ -875,7 +902,7 @@
 "udeo": 62.468300929839394
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -902,7 +929,7 @@
 "udeo": 56.83353808353808
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -929,7 +956,7 @@
 "udeo": 70.29610194902548
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -965,7 +992,7 @@
 "udeo": 46.253122398001665
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Рача",
@@ -983,7 +1010,7 @@
 "udeo": 50.546795523906404
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1019,7 +1046,7 @@
 "udeo": 46.67331173685522
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Љиг",
@@ -1046,7 +1073,7 @@
 "udeo": 47.668467443844186
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Жабари",
@@ -1064,7 +1091,7 @@
 "udeo": 65.53727008712488
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1091,7 +1118,7 @@
 "udeo": 52.878719904291906
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1118,7 +1145,7 @@
 "udeo": 71.5196416264645
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1154,7 +1181,7 @@
 "udeo": 40.35941089042021
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Нови Кнежевац",
@@ -1172,7 +1199,7 @@
 "udeo": 49.6955072963346
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1208,7 +1235,7 @@
 "udeo": 43.02325581395349
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Либија",
@@ -1235,7 +1262,7 @@
 "udeo": 45.74480712166172
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Бољевац",
@@ -1253,7 +1280,7 @@
 "udeo": 51.53974430239021
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1289,7 +1316,7 @@
 "udeo": 48.28911956939639
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Савезна Република Немачка",
@@ -1307,7 +1334,7 @@
 "udeo": 70.26226107571492
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1334,7 +1361,7 @@
 "udeo": 58.36961780358006
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1361,7 +1388,7 @@
 "udeo": 49.34813607659401
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1397,7 +1424,7 @@
 "udeo": 47.91836734693877
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Француска",
@@ -1424,7 +1451,7 @@
 "udeo": 30.27638190954774
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Мали Иђош",
@@ -1442,7 +1469,7 @@
 "udeo": 58.85217391304348
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1469,7 +1496,7 @@
 "udeo": 70.58823529411765
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1505,7 +1532,7 @@
 "udeo": 32.3897730237412
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Чока",
@@ -1523,7 +1550,7 @@
 "udeo": 78.06015037593986
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1535,11 +1562,11 @@
 "boja": "#a6cee3"
 }
 ],
-"teritorija": "Приштина",
+"teritorija": "Приштина - град",
 "brojUpisanihBiracaUBirackiSpisak": 10931,
 "percentage": 60.836154057268324,
 "biraciKojiSuGlasali": 6650,
-"teritorijaSlug": "pristina"
+"teritorijaSlug": "pristina-grad"
 },
 {
 "rezultat": [
@@ -1559,7 +1586,7 @@
 "udeo": 49.244090159428254
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Мало Црниће",
@@ -1577,7 +1604,7 @@
 "udeo": 59.62732919254658
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1604,7 +1631,7 @@
 "udeo": 54.030180345969825
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1631,7 +1658,7 @@
 "udeo": 60.68237205523964
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1658,7 +1685,7 @@
 "udeo": 51.07852331827095
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1685,7 +1712,7 @@
 "udeo": 54.42786069651741
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1712,7 +1739,7 @@
 "udeo": 53.85410386702265
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1748,7 +1775,7 @@
 "udeo": 46.41075164976662
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Мајданпек",
@@ -1766,7 +1793,7 @@
 "udeo": 51.251452925222786
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1802,7 +1829,7 @@
 "udeo": 43.74312431243124
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Димитровград",
@@ -1820,7 +1847,7 @@
 "udeo": 55.90603469743505
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1856,7 +1883,7 @@
 "udeo": 22.315907813378303
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Бачки Петровац",
@@ -1874,7 +1901,7 @@
 "udeo": 60.91238983929497
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1901,7 +1928,7 @@
 "udeo": 62.56544502617801
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -1937,7 +1964,7 @@
 "udeo": 41.76017954472587
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Алибунар",
@@ -1964,7 +1991,7 @@
 "udeo": 45.878749020445966
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Топола",
@@ -1982,7 +2009,7 @@
 "udeo": 65.82777972641179
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2009,7 +2036,7 @@
 "udeo": 50.66072018500165
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2045,7 +2072,7 @@
 "udeo": 48.46891838612169
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Свилајнац",
@@ -2063,7 +2090,7 @@
 "udeo": 61.821339575624854
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2090,7 +2117,7 @@
 "udeo": 56.23647340243764
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2117,7 +2144,7 @@
 "udeo": 68.03162195771895
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2144,7 +2171,7 @@
 "udeo": 62.125167572144214
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2171,7 +2198,7 @@
 "udeo": 57.97034291010195
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2207,7 +2234,7 @@
 "udeo": 37.65690376569037
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Канада",
@@ -2225,7 +2252,7 @@
 "udeo": 82.41687979539643
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2252,7 +2279,7 @@
 "udeo": 53.0193807610494
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2279,7 +2306,7 @@
 "udeo": 49.73674000997617
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2306,7 +2333,7 @@
 "udeo": 71.9504867203461
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2333,7 +2360,7 @@
 "udeo": 52.907759882869684
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2360,7 +2387,7 @@
 "udeo": 49.441970133612784
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2383,6 +2410,60 @@
 {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
+"glasova": 9301,
+"udeo": 50.54341919356592
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 8849,
+"udeo": 48.087164438647974
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Апатин",
+"brojUpisanihBiracaUBirackiSpisak": 27338,
+"percentage": 67.31289779793694,
+"biraciKojiSuGlasali": 18402,
+"teritorijaSlug": "apatin"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 9447,
+"udeo": 53.86589120766337
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 7802,
+"udeo": 44.48625841030904
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Врњачка Бања",
+"brojUpisanihBiracaUBirackiSpisak": 25434,
+"percentage": 68.95494220334984,
+"biraciKojiSuGlasali": 17538,
+"teritorijaSlug": "vrnjacka-banja"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
 "glasova": 9724,
 "udeo": 86.83693516699411
 },
@@ -2396,7 +2477,7 @@
 "udeo": 12.627254866940524
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Ада",
@@ -2414,7 +2495,7 @@
 "udeo": 60.814099874108265
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2441,7 +2522,7 @@
 "udeo": 63.54025655901502
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2464,6 +2545,60 @@
 {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
+"glasova": 51,
+"udeo": 71.83098591549296
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 20,
+"udeo": 28.169014084507044
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Пољска",
+"brojUpisanihBiracaUBirackiSpisak": 141,
+"percentage": 50.354609929078016,
+"biraciKojiSuGlasali": 71,
+"teritorijaSlug": "poljska"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 10349,
+"udeo": 54.92225229528207
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 8246,
+"udeo": 43.76160908560208
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Ивањица",
+"brojUpisanihBiracaUBirackiSpisak": 28404,
+"percentage": 66.33924799324039,
+"biraciKojiSuGlasali": 18843,
+"teritorijaSlug": "ivanjica"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
 "glasova": 245,
 "udeo": 59.61070559610706
 },
@@ -2477,7 +2612,7 @@
 "udeo": 38.68613138686132
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Шведска",
@@ -2495,7 +2630,7 @@
 "udeo": 53.93570987018339
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2531,7 +2666,7 @@
 "udeo": 28.46268948018997
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Ковачица",
@@ -2549,7 +2684,7 @@
 "udeo": 76.12795857988166
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2576,7 +2711,7 @@
 "udeo": 52.55319148936171
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2603,7 +2738,7 @@
 "udeo": 61.24818577648766
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2639,7 +2774,7 @@
 "udeo": 44.64042185653241
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Бела Црква",
@@ -2666,7 +2801,7 @@
 "udeo": 48.17603823781395
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Шид",
@@ -2684,7 +2819,7 @@
 "udeo": 50.06987863184994
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2711,7 +2846,7 @@
 "udeo": 57.02605785321539
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2738,7 +2873,7 @@
 "udeo": 61.71231564834323
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2765,7 +2900,7 @@
 "udeo": 62.57256687535572
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2792,7 +2927,7 @@
 "udeo": 53.54005167958656
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2819,7 +2954,7 @@
 "udeo": 49.82037758923794
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2846,7 +2981,7 @@
 "udeo": 62.27971885504736
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2882,7 +3017,7 @@
 "udeo": 46.02733874412644
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Пријепоље",
@@ -2909,7 +3044,7 @@
 "udeo": 42.39739413680782
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Неготин",
@@ -2936,7 +3071,7 @@
 "udeo": 7.8594980149384295
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Сента",
@@ -2954,7 +3089,7 @@
 "udeo": 56.69993455497382
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -2990,7 +3125,7 @@
 "udeo": 47.93170731707317
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Ковин",
@@ -3008,7 +3143,7 @@
 "udeo": 61.33790737564322
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3044,7 +3179,7 @@
 "udeo": 48.49417748628028
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Деспотовац",
@@ -3071,7 +3206,7 @@
 "udeo": 46.32086009494555
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Горњи Милановац",
@@ -3089,7 +3224,7 @@
 "udeo": 50.0637275727965
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3125,7 +3260,7 @@
 "udeo": 12.82051282051282
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Израел",
@@ -3143,7 +3278,7 @@
 "udeo": 53.56830858141254
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3179,7 +3314,7 @@
 "udeo": 31.187765219948744
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Бечеј",
@@ -3206,7 +3341,7 @@
 "udeo": 6.273905349089456
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Кањижа",
@@ -3224,7 +3359,7 @@
 "udeo": 52.86820767275808
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3260,7 +3395,7 @@
 "udeo": 19.642857142857142
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Грчка",
@@ -3287,7 +3422,7 @@
 "udeo": 25.654497283218824
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Бачка Топола",
@@ -3314,7 +3449,7 @@
 "udeo": 35.87656124969558
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Савски Венац",
@@ -3341,7 +3476,7 @@
 "udeo": 48.98466368006279
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Бор",
@@ -3359,7 +3494,7 @@
 "udeo": 52.70845505383524
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3395,7 +3530,7 @@
 "udeo": 44.972247321543826
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Косјерић",
@@ -3413,7 +3548,7 @@
 "udeo": 58.727921833897035
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3449,7 +3584,7 @@
 "udeo": 10.596026490066226
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Румунија",
@@ -3476,7 +3611,7 @@
 "udeo": 48.3785921434221
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Лазаревац",
@@ -3503,7 +3638,7 @@
 "udeo": 44.3475940585253
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Житиште",
@@ -3521,7 +3656,7 @@
 "udeo": 57.4017042906264
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3557,7 +3692,7 @@
 "udeo": 47.63520305589063
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Кикинда",
@@ -3575,7 +3710,7 @@
 "udeo": 68.12160089248361
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3602,7 +3737,7 @@
 "udeo": 53.9914638001897
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3629,7 +3764,7 @@
 "udeo": 51.76410707262337
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3656,7 +3791,7 @@
 "udeo": 81.37535816618912
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3692,7 +3827,7 @@
 "udeo": 48.52833638025594
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Кучево",
@@ -3710,7 +3845,7 @@
 "udeo": 60.14057507987221
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3737,7 +3872,7 @@
 "udeo": 50.98649291701746
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3764,7 +3899,7 @@
 "udeo": 52.600266458400334
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3800,7 +3935,7 @@
 "udeo": 47.436908517350155
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Србобран",
@@ -3818,7 +3953,7 @@
 "udeo": 51.11630321910696
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3845,7 +3980,7 @@
 "udeo": 66.85236768802228
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3872,7 +4007,7 @@
 "udeo": 53.15568022440392
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3908,7 +4043,7 @@
 "udeo": 47.75514734446973
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Темерин",
@@ -3935,7 +4070,7 @@
 "udeo": 21.428571428571427
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Словачка",
@@ -3953,7 +4088,7 @@
 "udeo": 49.45287454584313
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -3980,7 +4115,7 @@
 "udeo": 59.29883478349362
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4007,7 +4142,7 @@
 "udeo": 67.21477643878815
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4043,7 +4178,7 @@
 "udeo": 28.70765237199693
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Стари Град",
@@ -4061,7 +4196,7 @@
 "udeo": 54.22013973835341
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4097,7 +4232,7 @@
 "udeo": 44.32171748599876
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Ваљево",
@@ -4115,7 +4250,7 @@
 "udeo": 53.82112909106206
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4142,7 +4277,7 @@
 "udeo": 60.06667550622241
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4169,7 +4304,7 @@
 "udeo": 57.58110792319576
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4205,7 +4340,7 @@
 "udeo": 46.104121776603876
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Нови Бечеј",
@@ -4232,7 +4367,7 @@
 "udeo": 46.654862393723384
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Раковица",
@@ -4250,7 +4385,7 @@
 "udeo": 69.32321315623024
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4286,7 +4421,7 @@
 "udeo": 42.91715574226231
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Ужице",
@@ -4313,7 +4448,7 @@
 "udeo": 13.432835820895523
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Португалија",
@@ -4331,7 +4466,7 @@
 "udeo": 52.867670618391536
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4358,7 +4493,7 @@
 "udeo": 55.07118385991625
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4385,7 +4520,7 @@
 "udeo": 50.15180789401049
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4421,7 +4556,7 @@
 "udeo": 41.971383147853736
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Бач",
@@ -4448,7 +4583,7 @@
 "udeo": 44.75142894164735
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Чачак",
@@ -4460,13 +4595,67 @@
 {
 "rezultat": [
 {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 43,
+"udeo": 91.48936170212765
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 4,
+"udeo": 8.51063829787234
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Шпанија",
+"brojUpisanihBiracaUBirackiSpisak": 135,
+"percentage": 34.81481481481481,
+"biraciKojiSuGlasali": 47,
+"teritorijaSlug": "spanija"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 38496,
+"udeo": 52.33634695126096
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 33737,
+"udeo": 45.86635850723948
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Краљево",
+"brojUpisanihBiracaUBirackiSpisak": 112416,
+"percentage": 65.43107742670082,
+"biraciKojiSuGlasali": 73555,
+"teritorijaSlug": "kraljevo"
+},
+{
+"rezultat": [
+{
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 19544,
 "udeo": 54.7389648218687
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4493,7 +4682,7 @@
 "udeo": 59.61944072755313
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4529,7 +4718,7 @@
 "udeo": 28.406623920836065
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Врачар",
@@ -4547,7 +4736,7 @@
 "udeo": 54.801875378100426
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4574,7 +4763,7 @@
 "udeo": 57.03049448778287
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4601,7 +4790,7 @@
 "udeo": 61.80862831858407
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4628,7 +4817,7 @@
 "udeo": 74.28501588853581
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4664,7 +4853,7 @@
 "udeo": 18.074949399955024
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Нови Пазар",
@@ -4676,67 +4865,13 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 540,
-"udeo": 55.04587155963303
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 433,
-"udeo": 44.13863404689093
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-}
-],
-"teritorija": "Аустрија",
-"brojUpisanihBiracaUBirackiSpisak": 3132,
-"percentage": 31.32183908045977,
-"biraciKojiSuGlasali": 981,
-"teritorijaSlug": "austrija"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 43285,
-"udeo": 55.22454707833631
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 33990,
-"udeo": 43.36565450369992
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-}
-],
-"teritorija": "Зрењанин",
-"brojUpisanihBiracaUBirackiSpisak": 108621,
-"percentage": 72.15915891033963,
-"biraciKojiSuGlasali": 78380,
-"teritorijaSlug": "zrenjanin"
-},
-{
-"rezultat": [
-{
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 17039,
 "udeo": 57.808312128922815
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4763,7 +4898,7 @@
 "udeo": 51.84987548914977
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4790,7 +4925,7 @@
 "udeo": 51.3582939537138
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4817,7 +4952,7 @@
 "udeo": 58.81176061238692
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4853,7 +4988,7 @@
 "udeo": 47.65701802293829
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Пожега",
@@ -4880,7 +5015,7 @@
 "udeo": 14.084507042253522
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Мађарска",
@@ -4907,7 +5042,7 @@
 "udeo": 44.021580635753864
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Нова Црња",
@@ -4925,7 +5060,7 @@
 "udeo": 52.56520142035019
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -4961,7 +5096,7 @@
 "udeo": 43.468038358077166
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Вождовац",
@@ -4979,7 +5114,7 @@
 "udeo": 50.455916267518184
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5006,7 +5141,7 @@
 "udeo": 59.307226227427336
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5033,7 +5168,7 @@
 "udeo": 56.553335063586815
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5060,7 +5195,7 @@
 "udeo": 54.64102383798608
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5087,7 +5222,7 @@
 "udeo": 56.97003957037875
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5123,7 +5258,7 @@
 "udeo": 44.28582181298141
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "СРЕДЊЕ-БАНАТСКИ",
@@ -5131,6 +5266,33 @@
 "percentage": 71.50648558459964,
 "biraciKojiSuGlasali": 119571,
 "teritorijaSlug": "srednje-banatski"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 57355,
+"udeo": 49.48833436874439
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 56386,
+"udeo": 48.652239939255885
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Крагујевац",
+"brojUpisanihBiracaUBirackiSpisak": 159376,
+"percentage": 72.71860254994479,
+"biraciKojiSuGlasali": 115896,
+"teritorijaSlug": "kragujevac"
 },
 {
 "rezultat": [
@@ -5150,7 +5312,7 @@
 "udeo": 22.98818080005219
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Суботица",
@@ -5158,168 +5320,6 @@
 "percentage": 69.9873675879703,
 "biraciKojiSuGlasali": 91969,
 "teritorijaSlug": "subotica"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 51,
-"udeo": 71.83098591549296
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 20,
-"udeo": 28.169014084507044
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-}
-],
-"teritorija": "Пољска",
-"brojUpisanihBiracaUBirackiSpisak": 141,
-"percentage": 50.354609929078016,
-"biraciKojiSuGlasali": 71,
-"teritorijaSlug": "poljska"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 10349,
-"udeo": 54.92225229528207
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 8246,
-"udeo": 43.76160908560208
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Ивањица",
-"brojUpisanihBiracaUBirackiSpisak": 28404,
-"percentage": 66.33924799324039,
-"biraciKojiSuGlasali": 18843,
-"teritorijaSlug": "ivanjica"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 86,
-"udeo": 51.49700598802395
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 81,
-"udeo": 48.50299401197605
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Клина",
-"brojUpisanihBiracaUBirackiSpisak": 444,
-"percentage": 37.612612612612615,
-"biraciKojiSuGlasali": 167,
-"teritorijaSlug": "klina"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 57355,
-"udeo": 49.48833436874439
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 56386,
-"udeo": 48.652239939255885
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Крагујевац-град",
-"brojUpisanihBiracaUBirackiSpisak": 159376,
-"percentage": 72.71860254994479,
-"biraciKojiSuGlasali": 115896,
-"teritorijaSlug": "kragujevac-grad"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 43,
-"udeo": 91.48936170212765
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 4,
-"udeo": 8.51063829787234
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-}
-],
-"teritorija": "Шпанија",
-"brojUpisanihBiracaUBirackiSpisak": 135,
-"percentage": 34.81481481481481,
-"biraciKojiSuGlasali": 47,
-"teritorijaSlug": "spanija"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 38496,
-"udeo": 52.33634695126096
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 33737,
-"udeo": 45.86635850723948
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Краљево",
-"brojUpisanihBiracaUBirackiSpisak": 112416,
-"percentage": 65.43107742670082,
-"biraciKojiSuGlasali": 73555,
-"teritorijaSlug": "kraljevo"
 },
 {
 "rezultat": [
@@ -5339,7 +5339,7 @@
 "udeo": 40.50021060772412
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Нови Београд",
@@ -5351,13 +5351,94 @@
 {
 "rezultat": [
 {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 540,
+"udeo": 55.04587155963303
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 433,
+"udeo": 44.13863404689093
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Аустрија",
+"brojUpisanihBiracaUBirackiSpisak": 3132,
+"percentage": 31.32183908045977,
+"biraciKojiSuGlasali": 981,
+"teritorijaSlug": "austrija"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 43285,
+"udeo": 55.22454707833631
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 33990,
+"udeo": 43.36565450369992
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Зрењанин",
+"brojUpisanihBiracaUBirackiSpisak": 108621,
+"percentage": 72.15915891033963,
+"biraciKojiSuGlasali": 78380,
+"teritorijaSlug": "zrenjanin"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 111968,
+"udeo": 54.75368470468571
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 89222,
+"udeo": 43.63061996929005
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Нови Сад",
+"brojUpisanihBiracaUBirackiSpisak": 295057,
+"percentage": 69.3066085536015,
+"biraciKojiSuGlasali": 204494,
+"teritorijaSlug": "novi-sad"
+},
+{
+"rezultat": [
+{
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 1035,
 "udeo": 69.65006729475101
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5393,7 +5474,7 @@
 "udeo": 43.24877494425541
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Војводина",
@@ -5420,7 +5501,7 @@
 "udeo": 40.07232704402516
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Вршац",
@@ -5447,7 +5528,7 @@
 "udeo": 47.97687861271676
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Македонија",
@@ -5474,7 +5555,7 @@
 "udeo": 48.60910404624278
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Сремски Карловци",
@@ -5501,7 +5582,7 @@
 "udeo": 47.10784641068447
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Панчево",
@@ -5528,7 +5609,7 @@
 "udeo": 4.000652280263086
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Тутин",
@@ -5555,7 +5636,7 @@
 "udeo": 21.093897008091325
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Сјеница",
@@ -5582,7 +5663,7 @@
 "udeo": 23.6734693877551
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Велика Британија",
@@ -5600,7 +5681,7 @@
 "udeo": 71.42787745320292
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5636,7 +5717,7 @@
 "udeo": 41.86850429281518
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Звездара",
@@ -5654,7 +5735,7 @@
 "udeo": 49.57005352699324
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5681,7 +5762,7 @@
 "udeo": 49.705784389918946
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5708,7 +5789,7 @@
 "udeo": 61.241379310344826
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5735,7 +5816,7 @@
 "udeo": 51.101339236525
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5756,94 +5837,13 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 9301,
-"udeo": 50.54341919356592
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 8849,
-"udeo": 48.087164438647974
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-}
-],
-"teritorija": "Апатин",
-"brojUpisanihBiracaUBirackiSpisak": 27338,
-"percentage": 67.31289779793694,
-"biraciKojiSuGlasali": 18402,
-"teritorijaSlug": "apatin"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 111968,
-"udeo": 54.75368470468571
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 89222,
-"udeo": 43.63061996929005
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-}
-],
-"teritorija": "Нови Сад-град",
-"brojUpisanihBiracaUBirackiSpisak": 295057,
-"percentage": 69.3066085536015,
-"biraciKojiSuGlasali": 204494,
-"teritorijaSlug": "novi-sad-grad"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 9447,
-"udeo": 53.86589120766337
-},
-"kandidat": "Томислав Николић",
-"boja": "#bebada"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 7802,
-"udeo": 44.48625841030904
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Врњачка Бања",
-"brojUpisanihBiracaUBirackiSpisak": 25434,
-"percentage": 68.95494220334984,
-"biraciKojiSuGlasali": 17538,
-"teritorijaSlug": "vrnjacka-banja"
-},
-{
-"rezultat": [
-{
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 3407,
 "udeo": 76.0321356839991
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5870,7 +5870,7 @@
 "udeo": 53.259727150691496
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5906,7 +5906,7 @@
 "udeo": 45.74946296443631
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Палилула",
@@ -5924,7 +5924,7 @@
 "udeo": 65.37463509568602
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5951,7 +5951,7 @@
 "udeo": 52.104212417648235
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -5987,7 +5987,7 @@
 "udeo": 45.61013659368368
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Чукарица",
@@ -6014,7 +6014,7 @@
 "udeo": 45.39315264425253
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 }
 ],
 "teritorija": "Сомбор",
@@ -6032,7 +6032,7 @@
 "udeo": 60.45618789521229
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -6059,7 +6059,7 @@
 "udeo": 52.55885431156684
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -6086,7 +6086,7 @@
 "udeo": 49.221067066606864
 },
 "kandidat": "Томислав Николић",
-"boja": "#bebada"
+"boja": "#1f78b4"
 },
 {
 "kandidatSlug": "boris-tadic",
@@ -6116,7 +6116,7 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "glasova": 2074419,
-"boja": "#bebada",
+"boja": "#1f78b4",
 "kandidat": "Томислав Николић",
 "udeo": 11.87909682354463
 }

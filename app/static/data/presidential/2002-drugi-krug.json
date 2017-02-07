@@ -2309,42 +2309,6 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "dr-vojislav-seselj-srs",
-"rezultat": {
-"glasova": 2859,
-"udeo": 77.73246329526917
-},
-"kandidat": "др Војислав Шешељ (СРС)",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "vojislav-kostunica-dss",
-"rezultat": {
-"glasova": 660,
-"udeo": 17.94453507340946
-},
-"kandidat": "Војислав Коштуница (ДСС)",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "borislav-pelevic-ssj",
-"rezultat": {
-"glasova": 130,
-"udeo": 3.5345296356715608
-},
-"kandidat": "Борислав Пелевић (ССЈ)",
-"boja": "#33a02c"
-}
-],
-"teritorija": "Приштина",
-"brojUpisanihBiracaUBirackiSpisak": 8162,
-"percentage": 45.06248468512619,
-"biraciKojiSuGlasali": 3678,
-"teritorijaSlug": "pristina"
-},
-{
-"rezultat": [
-{
 "kandidatSlug": "vojislav-kostunica-dss",
 "rezultat": {
 "glasova": 6138,
@@ -6085,6 +6049,42 @@
 "percentage": 46.08148599915146,
 "biraciKojiSuGlasali": 69513,
 "teritorijaSlug": "cukarica"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "dr-vojislav-seselj-srs",
+"rezultat": {
+"glasova": 2859,
+"udeo": 77.73246329526917
+},
+"kandidat": "др Војислав Шешељ (СРС)",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "vojislav-kostunica-dss",
+"rezultat": {
+"glasova": 660,
+"udeo": 17.94453507340946
+},
+"kandidat": "Војислав Коштуница (ДСС)",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "borislav-pelevic-ssj",
+"rezultat": {
+"glasova": 130,
+"udeo": 3.5345296356715608
+},
+"kandidat": "Борислав Пелевић (ССЈ)",
+"boja": "#33a02c"
+}
+],
+"teritorija": "Приштина - град",
+"brojUpisanihBiracaUBirackiSpisak": 8162,
+"percentage": 45.06248468512619,
+"biraciKojiSuGlasali": 3678,
+"teritorijaSlug": "pristina-grad"
 },
 {
 "rezultat": [
