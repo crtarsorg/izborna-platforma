@@ -50,6 +50,29 @@
         <!-- /.container-fluid -->
 </nav>
 <style>
+    .main-btn{
+        background: #337ab7;
+        color:#ffffff;
+        border-radius: 0px;
+    }
+    .main-btn:hover{
+        background: #337ab7;
+        color:#ffffff;
+    }
+    #contact-form{
+        width:70%;
+        margin:0 auto;
+    }
+            .contact-form{ margin-top:15px;}
+        .contact-form .textarea{ min-height:220px; resize:none;}
+        .form-control{ box-shadow:none; border-color:rgba(53, 48, 48, 0.25); height:49px;}
+        .form-control:focus{ box-shadow:none; border-color:#00b09c;}
+        .form-control-feedback{ line-height:50px;}
+
+        .form-control-feedback {
+        line-height: 50px;
+        top: 0px;
+        }
     .body_pages{
         background: #ffffff;
         padding-bottom:50px;
@@ -62,9 +85,7 @@
         margin:0px;
         margin-bottom:5px;
     }
-    .footer-list h2{
-        text-align: center;
-    }
+
     .footer-list ul{
         list-style: none;
         padding-left: 10px;
@@ -95,7 +116,9 @@
     }
     .grandjani-logo .text_logo {
         text-align: center;
-        line-height: 64px;
+        padding-top:10px;
+        padding-bottom: 10px;
+        line-height: 38px;
         font-size: 28px;
         display: block;
         color: #fff;
@@ -561,6 +584,12 @@
               color: white !important;
           }
       }
+      @media only screen and (max-width:  1460px) {
+        .pres-list{
+            width:100%;
+        }
+      }
+
      {#@media only screen and (max-width: 1400px) {
             #all-results{
                 float:right;

@@ -9,9 +9,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3 col-sm-12 footer-list">
+                        <div class="col-lg-3 col-md-3  col-sm-12 footer-list">
                             <h2>Председнички</h2>
-                            <div class="col-md-6">
+                            <div class="col-lg-6 col-md-12 col-sm-12 pres-list">
                                  <ul>
                                     <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}">2002-Први круг</a></li>
                                     <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi') }}">2002-Други круг</a></li>
@@ -19,7 +19,7 @@
                                     <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi') }}">2008-Први круг</a></li>
                                 </ul>
                             </div>
-                            <div class="col-md-6">
+                            <div class="col-lg-6 col-md-12 col-sm-12 pres-list">
                                 <ul>
                                     <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='drugi') }}">2008-Други круг</a></li>
                                     <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='prvi') }}">2012-Први круг</a></li>
@@ -28,7 +28,7 @@
                             </div>
 
                         </div>
-                         <div class="col-md-2 col-sm-12 footer-list">
+                         <div class="col-md-3 col-sm-12 footer-list">
                                 <h2 style="text-align: left">Парламентарни</h2>
                              <div class="col-md-3">
                                  <ul>
@@ -45,22 +45,14 @@
                              </div>
 
                          </div>
-                        <div class="col-md-2 col-sm-12 social-icons">
-                            <ul>
-                                <li>
-                                    <a href="https://www.facebook.com/sharer/sharer.php?u=&t=" class="fa fa-facebook-official" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' +encodeURIComponent(document.URL) + '&t='+ encodeURIComponent(document.title)); return false;">
-                                    </a>
-                                </li>
-                                <li>
-                                    <a href="https://twitter.com/intent/tweet?source=&amp;text=:%20" class="fa fa-twitter-square" target="_blank" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title)+ ':%20'  + encodeURIComponent(document.URL)); return false;">
-                                    </a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md-2 col-sm-12 footer-contact">
+
+                        <div class="col-md-3 col-sm-12 footer-contact">
                             <h2>Контакт</h2>
-                            <p>Email: kontakt@gradjaninastrazi.rs </p>
-                            <p>Tel: 011 2400062</p>
+                            <div class="row">
+                                <div class="col-md-12"><p>Емаил: kontakt@gradjaninastrazi.rs </p></div>
+                                <div class="col-md-12"><p>Тел: 011 2400062</p></div>
+                            </div>
+
                         </div>
                     </div>
                 </div>
