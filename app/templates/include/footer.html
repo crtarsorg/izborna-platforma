@@ -29,7 +29,7 @@
 
                         </div>
                          <div class="col-md-3 col-sm-12 footer-list">
-                                <h2 style="text-align: left">Парламентарни</h2>
+                                <h2 >Парламентарни</h2>
                              <div class="col-md-3">
                                  <ul>
                                     <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none') }}">2003</a></li>
@@ -46,7 +46,7 @@
 
                          </div>
 
-                        <div class="col-md-3 col-sm-12 footer-contact">
+                        <div class="col-md-3 col-sm-12 footer-contact footer-list">
                             <h2>Контакт</h2>
                             <div class="row">
                                 <div class="col-md-12"><p>Емаил: kontakt@gradjaninastrazi.rs </p></div>
@@ -56,5 +56,20 @@
                         </div>
                     </div>
                 </div>
-
+                 <div class="col-md-12">
+                    <div class="row footer-social">
+                       <div class="col-md-4 col-sm-12 col-xs-12 social-icons">
+                            <ul>
+                                <li>
+                                    <a href="https://www.facebook.com/sharer/sharer.php?u=&t=" class="fa fa-facebook-official" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' +encodeURIComponent(document.URL) + '&t='+ encodeURIComponent(document.title)); return false;">
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/intent/tweet?source=&amp;text=:%20" class="fa fa-twitter-square" target="_blank" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title)+ ':%20'  + encodeURIComponent(document.URL)); return false;">
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                 </div>
 
