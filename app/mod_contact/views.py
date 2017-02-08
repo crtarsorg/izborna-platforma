@@ -1,7 +1,7 @@
 # coding=utf-8
 import pprint
 
-from flask import Blueprint,request, redirect,url_for
+from flask import Blueprint,request, redirect,url_for, flash
 from flask import render_template
 from app import mongo_utils
 from bson.json_util import dumps
@@ -14,18 +14,20 @@ mod_contact = Blueprint('contact', __name__, url_prefix="/contact",static_folder
 #get data for all territories selected by year
 @mod_contact.route('/', methods=['GET'])
 def contact_page():
-    return render_template('contact/contact.html')
+    return render_template('contact/contact.html',year=0)
 
 @mod_contact.route('/sendemail', methods=['POST'])
 def send_email():
     data=request.form.to_dict()
     print data
-    message = data['Message'] + '/n ' + "email:" + data['email']
+    message ="from:" + data['email'] + '<br/>' + data['Message'] + '/n '
     msg = Message(subject=data['subject'],
                   sender=data['Name'],
-                  recipients=["feride_adili@hotmail.com"],
+                  recipients=["kontakt@gradjaninastrazi.rs"],
                   body=message)
+    msg.html="<b>From:</b> " + data['email'] + '<br/><br/>' + data['Message']
     mail.send(msg)
+    flash('Порука је успешно послата')
     return redirect(url_for('contact.contact_page'))
 
 

@@ -16,7 +16,7 @@ def create_app():
     # Here we  create flask instance
 
     app = Flask(__name__)
-
+    app.secret_key = 'random string'
     # Load application configurations
     load_config(app)
 

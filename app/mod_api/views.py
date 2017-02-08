@@ -12,7 +12,7 @@ mod_api = Blueprint('api', __name__, url_prefix="/api",static_folder="static", t
 #get data for all territories selected by year
 @mod_api.route('/', methods=['GET'])
 def api_page():
-    return render_template('api/api.html')
+    return render_template('api/api.html',year=0)
 
 
 

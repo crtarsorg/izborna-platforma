@@ -13,4 +13,4 @@ mod_main = Blueprint('main', __name__)
 @mod_main.route('/', methods=['GET'])
 def index():
 
-    return render_template('site/home.html')
+    return render_template('site/home.html',year=0)

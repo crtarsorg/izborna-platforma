@@ -13,35 +13,47 @@
                         </div>
                         	<div class="row">
                                 <form role="form" id="contact-form" class="contact-form" action="{{ url_for('contact.send_email') }}" method="POST">
-                                        <div class="row">
+{% with messages = get_flashed_messages() %}
+  {% if messages %}
+
+    {% for message in messages %}
+        <div class="alert alert-success">
+        <strong>Успех! </strong> {{ message.decode('utf-8') }}.
+        </div>
+
+    {% endfor %}
+
+  {% endif %}
+{% endwith %}
+                                    <div class="row">
                                             <div class="col-md-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control" name="Name" autocomplete="off" id="Name" placeholder="Име">
+                                                <input type="text" class="form-control" name="Name" autocomplete="off" id="Name" placeholder="Име" required>
                                             </div>
                                         </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <input type="email" class="form-control" name="email" autocomplete="off" id="email" placeholder="Емаил">
+                                                    <input type="email" class="form-control" name="email" autocomplete="off" id="email" placeholder="Емаил" required>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <div class="form-group">
-                                                    <input type="text" class="form-control" name="subject" autocomplete="off" id="email" placeholder="тема">
+                                                    <input type="text" class="form-control" name="subject" autocomplete="off" id="email" placeholder="тема" required>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-md-12">
                                             <div class="form-group">
-                                                <textarea class="form-control textarea" rows="3" name="Message" id="Message" placeholder="Порука"></textarea>
+                                                <textarea class="form-control textarea" rows="3" name="Message" id="Message" placeholder="Порука" required></textarea>
                                             </div>
                                         </div>
                                         </div>
                                         <div class="row">
                                         <div class="col-md-12">
-                                      <button type="submit" class="btn main-btn pull-right">Пошаљи поруку</button>
+                                      <button type="submit" class="btn main-btn pull-right" id="btn-email">Пошаљи поруку</button>
                                       </div>
                                       </div>
                                 </form>
@@ -53,8 +65,9 @@
 </section>
 {% endblock %}
 <script>
-    $('#contact-form').bootstrapValidator({
-//        live: 'disabled',
+    $('#btn-email').click(function(){
+            $('#contact-form').bootstrapValidator({
+     live: 'disabled',
         message: 'This value is not valid',
         feedbackIcons: {
             valid: 'glyphicon glyphicon-ok',
@@ -88,4 +101,6 @@
             }
         }
     });
+    })
+
 </script>

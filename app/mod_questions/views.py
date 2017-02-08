@@ -12,7 +12,7 @@ mod_questions = Blueprint('questions', __name__, url_prefix="/questions",static_
 #get data for all territories selected by year
 @mod_questions.route('/', methods=['GET'])
 def questions_page():
-    return render_template('questions/questions.html')
+    return render_template('questions/questions.html',year=0)
 
 
 

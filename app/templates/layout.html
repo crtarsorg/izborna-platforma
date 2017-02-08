@@ -1428,8 +1428,7 @@
             }
         });
         $(".loader").css("display", "none");
-        {{ year }}
-        {% if year!="" %}
+        {% if year!=0 %}
         $.ajax({
             type: "GET",
             {% if typeizbori=="predsjednicki" %}
@@ -1467,9 +1466,10 @@
                 console.log(error);
             }
         });
+     {% endif %}
     })
-    {% endif %}
 
+ {% if year!=0 %}
     // end of window load
     // restar results from beginning - no selections
     function init_results() {
@@ -1482,8 +1482,8 @@
         $('.territory_info').hide();
          $('.default-first-indicators').show();
 
-        {% if year!=0 %}
-        console.log("sdfdgdfg");
+
+
         $.ajax({
             type: "GET",
 
@@ -1505,10 +1505,8 @@
                 console.log(error);
             }
         });
-        {% endif %}
-
     }
-
+      {% endif %}
 
     $.extend($.fn.dataTableExt.oStdClasses, {
         "sFilterInput": "form-control",
