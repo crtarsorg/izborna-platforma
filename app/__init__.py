@@ -82,12 +82,17 @@ def configure_logging(app):
 
 
 def init_modules(app):
-
     # Import blueprint modules
     from app.mod_main.views import mod_main
     from app.mod_type.views import mod_type
+    from app.mod_api.views import mod_api
+    from app.mod_contact.views import mod_contact
+    from app.mod_questions.views import mod_questions
     app.register_blueprint(mod_main)
     app.register_blueprint(mod_type)
+    app.register_blueprint(mod_api)
+    app.register_blueprint(mod_contact)
+    app.register_blueprint(mod_questions)
 
 
 

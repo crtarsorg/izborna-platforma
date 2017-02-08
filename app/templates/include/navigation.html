@@ -38,9 +38,9 @@
                   <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}">2014</a></li>
               </ul>
             </div>
-                <li class="other-menu-links"><a href="#">Питања и одговори</a></li>
-                 <li class="other-menu-links"><a href="#">Контакт</a></li>
-                 <li class="other-menu-links"><a href="#">API</a></li>
+                <li class="other-menu-links"><a href="{{ url_for('questions.questions_page') }}">Питања и одговори</a></li>
+                 <li class="other-menu-links"><a href="{{ url_for('contact.contact_page') }}">Контакт</a></li>
+                 <li class="other-menu-links"><a href="{{ url_for('api.api_page') }}">АПИ</a></li>
            </ul>
 
         </div>
@@ -50,6 +50,10 @@
         <!-- /.container-fluid -->
 </nav>
 <style>
+    .body_pages{
+        background: #ffffff;
+        padding-bottom:50px;
+    }
     .footer-contact a{
         color:#337ab7;
 
@@ -745,6 +749,21 @@
     }
     select.form-control{
         width:30% !important;
+    }
+     .landingpage-h4{
+        background-color: #c6363c;
+    color: #368bc2;
+    /* padding: 10px; */
+    margin: 0px;
+    padding-left: 20px;
+    background-color: #dddddd;
+    padding: 12px 0;
+    border-top: solid 2px #c2c2c2;
+    border-bottom: solid 5px #f5f5f5;
+    padding-left: 20px;
+    font-size: 18px;
+    font-weight: 700;
+        margin-top:-10px
     }
 </style>
 <script>

@@ -1,0 +1,53 @@
+{% extends "layout.html" %}
+{% block body %}
+    <section style="padding-top:100px;">
+        <div class="row">
+        <div class="col-md-12">
+            <div class="row">
+                <div class="col-md-12 body_pages">
+                    <div class="row">
+                        <h4 class="landingpage-h4">АПИ</h4>
+                        <div class="arrow_left_side">
+                            <img alt="elections" src="/static/assets/arrow_elections-home.jpg">
+                        </div>
+                    </div>
+
+
+                                <div class="form-group">
+                                    <!--<h5>OPIS:</h5>-->
+                                    <h2>DESCRIPTION: Use GET request to download data.</h2>
+                                </div>
+
+                                <div class="">
+                                    <!--<h5>URL POST ZAHTEVA:</h5>-->
+                                    <h2>Parlamentary</h2>
+                                    <span><b>GET</b> election results grouped by territories:</span><br>
+
+                                    <span style="word-break:break-all"><b>GET REQUEST URL:</b>   <br>http://datacentar.io/api/izbori/datasource/parlamentarni/godina/int:godina/teritorija/instanca/int:territory_admin_level</span><br><br>
+
+                                    <span style="word-break:break-all"><b>EXAMPLE GET REQUEST URL</b>: http://datacentar.io/api/izbori/2/parlamentarni/godina/2003/teritorija/instanca/2</span>
+
+                                    <br><br>
+                                    <span style="word-break:break-all"><b>GET</b> election results for a given territory:</span><br>
+                                    <span style="word-break:break-all"><b>EXAMPLE GET REQUEST URL</b>:</span><br>
+                                    <span style="word-break:break-all">http://datacentar.io/api/izbori/int:data_source_id/parlamentarni/godina/int:godina/teritorija/instanca/int:territory_admin_level/string:territory_slug</span>
+
+                                                                        <br><br>
+                                    <h2>Presidential</h2>
+                                    <span style="word-break:break-all"><b>GET</b>  election results grouped by parties:</span><br>
+                                    <span style="word-break:break-all"><b>EXAMPLE GET REQUEST URL</b>:</span><br>
+                                    <span style="word-break:break-all">http://datacentar.io/api/izbori/int:data_source_id/predsjednicki/godina/int:godina/krug/string:krug/teritorija</span><br><br>
+                                    <span style="word-break:break-all"><b>EXAMPLE GET REQUEST URL</b>: http://datacentar.io/api/izbori/2/predsjednicki/godina/2003/krug/prvi/teritorija</span><br>
+                                    <span style="word-break:break-all"><b>Short description: Krug can be prvi or drugi<b></b></b></span><b><b>
+                                </b></b></div><b><b>
+                                <br>
+
+
+                            </b></b></div><b><b>
+
+                        </b></b></div>
+                </div>
+            </div>
+
+    </section>
+{% endblock %}
