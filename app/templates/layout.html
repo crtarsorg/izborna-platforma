@@ -1428,6 +1428,8 @@
             }
         });
         $(".loader").css("display", "none");
+        {{ year }}
+        {% if year!="" %}
         $.ajax({
             type: "GET",
             {% if typeizbori=="predsjednicki" %}
@@ -1466,6 +1468,7 @@
             }
         });
     })
+    {% endif %}
 
     // end of window load
     // restar results from beginning - no selections
@@ -1479,10 +1482,11 @@
         $('.territory_info').hide();
          $('.default-first-indicators').show();
 
-
-
+        {% if year!=0 %}
+        console.log("sdfdgdfg");
         $.ajax({
             type: "GET",
+
              {% if typeizbori=="predsjednicki" %}
                 url: "{{ url_for("static",filename="data/presidential/") }}{{ year }}-{{ krug }}-krug.json",
             {% else %}
@@ -1501,6 +1505,7 @@
                 console.log(error);
             }
         });
+        {% endif %}
 
     }
 
