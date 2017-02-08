@@ -1,15 +1,68 @@
 
-        <div class="container">
-            <div class="row">
+
                 <div class="col-md-12">
-                <div class="col-lg-4 col-lg-offset-2 col-sm-offset-0 col-xs-offset-0 col-sm-6 col-xs-6 text-center">
-                    <i class="fa fa-phone fa-3x sr-contact" data-sr-id="9" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                    <p>123-456-6789</p>
+                    <div class="row">
+                        <div class="col-md-3 col-sm-12">
+                            <div class="logo-wrapper extend">
+                                <div class="grandjani-logo">
+                                 <span class="text_logo"><a href="http://www.gradjaninastrazi.rs/" target="_blank">Грађани на стражи</a></span>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-12 footer-list">
+                            <h2>Председнички</h2>
+                            <div class="col-md-6">
+                                 <ul>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi') }}">2002-Први круг</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi') }}">2002-Други круг</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='drugi') }}">2003-Други круг</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi') }}">2008-Први круг</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-6">
+                                <ul>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='drugi') }}">2008-Други круг</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='prvi') }}">2012-Први круг</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi') }}">2012-Други круг</a></li>
+                                </ul>
+                            </div>
+
+                        </div>
+                         <div class="col-md-2 col-sm-12 footer-list">
+                                <h2 style="text-align: left">Парламентарни</h2>
+                             <div class="col-md-3">
+                                 <ul>
+                                    <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none') }}">2003</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none') }}">2008</a></li>
+
+                                </ul>
+                             </div>
+                             <div class="col-md-3">
+                                  <ul>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none') }}">2012</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none') }}">2014</a></li>
+                                </ul>
+                             </div>
+
+                         </div>
+                        <div class="col-md-2 col-sm-12 social-icons">
+                            <ul>
+                                <li>
+                                    <a href="https://www.facebook.com/sharer/sharer.php?u=&t=" class="fa fa-facebook-official" target="_blank" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=' +encodeURIComponent(document.URL) + '&t='+ encodeURIComponent(document.title)); return false;">
+                                    </a>
+                                </li>
+                                <li>
+                                    <a href="https://twitter.com/intent/tweet?source=&amp;text=:%20" class="fa fa-twitter-square" target="_blank" onclick="window.open('https://twitter.com/intent/tweet?text=' + encodeURIComponent(document.title)+ ':%20'  + encodeURIComponent(document.URL)); return false;">
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md-2 col-sm-12 footer-contact">
+                            <h2>Контакт</h2>
+                            <p>Email: </p>
+                            <p>Tel: </p>
+                        </div>
+                    </div>
                 </div>
-               <div class="col-lg-4 text-center">
-                    <i class="fa fa-envelope-o fa-3x sr-contact" data-sr-id="10" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
-                    <p><a href="mailto:your-email@your-domain.com">feedback@crta.com</a></p>
-                </div>
-            </div>
-            </div>
-        </div>
+
+
