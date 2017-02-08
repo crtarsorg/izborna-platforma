@@ -12,7 +12,7 @@
                             </div>
                         </div>
                         	<div class="row">
-                                <form role="form" id="contact-form" class="contact-form">
+                                <form role="form" id="contact-form" class="contact-form" action="{{ url_for('contact.send_email') }}" method="POST">
                                         <div class="row">
                                             <div class="col-md-6">
                                             <div class="form-group">

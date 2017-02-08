@@ -1,12 +1,14 @@
 from flask import Flask
 import os
+import ast
 import ConfigParser
 from logging.handlers import RotatingFileHandler
 from flask.ext.pymongo import PyMongo
 from app.utils.mongo_utils import MongoUtils
+from flask.ext.mail import Mail
 
 mongo = PyMongo()
-
+mail=Mail()
 #Initialize mongo access point
 mongo_utils = MongoUtils(mongo)
 
@@ -23,7 +25,7 @@ def create_app():
 
     # Init modules
     init_modules(app)
-
+    mail.init_app(app)
     # Initialize the app to work with MongoDB
     mongo.init_app(app, config_prefix='MONGO')
 
@@ -43,6 +45,13 @@ def load_config(app):
     config = ConfigParser.RawConfigParser()
     config_filepath = app_dir + '/config.cfg'
     config.read(config_filepath)
+
+    app.config['MAIL_SERVER'] = config.get('Mail', 'MAIL_SERVER')
+    app.config['MAIL_PORT'] = config.get('Mail', 'MAIL_PORT')
+    app.config['MAIL_USE_SSL'] = ast.literal_eval(config.get('Mail', 'MAIL_USE_SSL'))
+    app.config['MAIL_USE_TLS'] = ast.literal_eval(config.get('Mail', 'MAIL_USE_TLS'))
+    app.config['MAIL_USERNAME'] = config.get('Mail', 'MAIL_USERNAME')
+    app.config['MAIL_PASSWORD'] = config.get('Mail', 'MAIL_PASSWORD')
 
     app.config['SERVER_PORT'] = config.get('Application', 'SERVER_PORT')
     app.config['MONGO_DBNAME'] = config.get('Mongo', 'DB_NAME')
