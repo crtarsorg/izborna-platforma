@@ -2,23 +2,7 @@
     </div>
 
    <script type="text/javascript">
-       function transliterate(word)
-       {
-            var A = {};
-            var result = '';
-            A["Ё"]="YO";A["Й"]="I";A["Ц"]="C";A["У"]="U";A["К"]="K";A["Е"]="E";A["Н"]="N";A["Г"]="G";A["Ш"]="Š";A["Щ"]="Dž";A["З"]="Z";A["Х"]="H";A["Ъ"]="Lj";
-            A["ё"]="yo";A["й"]="i";A["ц"]="c";A["у"]="u";A["к"]="k";A["е"]="e";A["н"]="n";A["г"]="g";A["ш"]="š";A["щ"]="dž";A["з"]="z";A["х"]="h";A["ъ"]="lj";
-            A["Ф"]="F";A["Ы"]="I";A["В"]="V";A["А"]="A";A["П"]="P";A["Р"]="R";A["О"]="O";A["Л"]="L";A["Д"]="D";A["Ж"]="Ž";A["Э"]="E";A["Ђ"]="Đ";A["Ћ"]="Ć";A["Њ"]="Nj";
-            A["ф"]="f";A["ы"]="i";A["в"]="v";A["а"]="a";A["п"]="p";A["р"]="r";A["о"]="o";A["л"]="l";A["д"]="d";A["ж"]="ž";A["э"]="e";A["ђ"]="đ";A["ћ"]="ć";A["њ"]="nj"
-            A["Я"]="YA";A["Ч"]="Č";A["С"]="S";A["М"]="M";A["И"]="I";A["Т"]="T";A["Ь"]="'";A["Б"]="B";A["Ю"]="YU";A["Љ"]="Lj";A["Џ"]="Dž";A["џ"]="dž";
-            A["я"]="ya";A["ч"]="č";A["с"]="s";A["м"]="m";A["и"]="i";A["т"]="t";A["ь"]="'";A["б"]="b";A["ю"]="yu";A["љ"]="lj";
-
-            for(var i = 0; i < word.length; i++) {
-                var c = word.charAt(i);
-                result += A[c] || c;
-            }
-            return result;
-        }
+      
         $(function () {
             var data = [];
         $.getJSON('{{ url_for("static",filename="data/map_landing_page.json") }}',function (datajson) {

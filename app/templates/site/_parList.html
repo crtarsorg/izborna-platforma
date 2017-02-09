@@ -82,7 +82,57 @@
 
         <!-- beginning of the year 2014 -->
         <!-- first indicator -->
+      <div class="row" style="background: #ffffff;">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="row">
+                     <div class="col-md-2">
+                      {% include "site/_map_parl_2016.html" %}
+                    </div>
+                    <div class="col-md-10 year-data">
+                            <div class="col-md-12 year-list">
+                                <div class="row">
+                                    <h3>
+                                        <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none') }}">2016</a>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row indicator-row">
 
+                                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list1_2016"></div>
+                                    <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                        <p class="nr-votes nr-votes1_2016"></p>
+                                    </div>
+                                    <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                        <div class="progress custom-progress">
+                                            <div class="progress-bar first-progress-2016" style="" role="progressbar" aria-valuenow="" aria-valuemin="0" aria-valuemax="100" >
+                                              <span class="sr-only">Complete</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                 <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage1-2016">
+
+                                    </div>
+                            </div>
+                         <div class="row indicator-row">
+                                     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list2_2016"></div>
+                                <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                    <p class="nr-votes nr-votes2_2016"></p>
+                                </div>
+                                <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                    <div class="progress custom-progress">
+                                        <div class="progress-bar  second-progress-2016" role="progressbar" style="" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
+                                          <span class="sr-only">Complete</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage2-2016">
+
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
         <div class="row" style="background: #ffffff;">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="row" >
@@ -191,11 +241,12 @@
                 </div>
             </div>
         </div>
+
 <!-- presidential -->
   <div class="row" style="background: #ffffff;">
         <h4 style="margin-top:0px;" class="landingpage-h4">Председнички избори</h4>
         <div class="arrow_left_side">
-            <img style="top:525px;" alt="elections" src="{{ url_for('static', filename = 'assets/arrow_elections-home.jpg') }}">
+            <img style="top:725px;" alt="elections" src="{{ url_for('static', filename = 'assets/arrow_elections-home.jpg') }}">
       </div>
         <div class="show_all_circle elections_show_all">
             <a href="#landing_menu" class="landing_circle_link" data-toggle="modal" data-target="#myModal">
@@ -318,7 +369,7 @@
 
         $(".loader").css("display", "none");
 
-        var years = [2012, 2014];
+        var years = [2012, 2014,2016];
         var arrayLength=years.length;
 
         var years_pres = [2012, 2008];

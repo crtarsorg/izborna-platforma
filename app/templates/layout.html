@@ -389,26 +389,27 @@
                 'territoryslug': exists_territory_slug,
                 'boja': boja_selected
             });
-            console.log(mergearray);
+
         })
 
 
         $(mergearray).each(function (a, b) {
+            if (b['territory']!="") {
+                $('#details tbody').append('<tr class=' + b['territoryslug'] + '><td>' + b['territory'] + '</tr>');
+                $(b['rezults']).each(function (aa, bb) {
 
-            $('#details tbody').append('<tr class=' + b['territoryslug'] + '><td>' + b['territory'] + '</tr>');
-            $(b['rezults']).each(function (aa, bb) {
+                    if (aa <= arraylength) {
+                        var color = "";
+                        if (b['boja'] == bb['boja']) {
+                            color = bb['boja'];
+                        }
 
-                if (aa <= arraylength) {
-                    var color = "";
-                    if (b['boja'] == bb['boja']) {
-                        color = bb['boja'];
+                        $('#details tbody tr.' + b['territoryslug']).append('<td  href="#" data-territory-slug=' + b['territoryslug'] + ' data-territory=' + b['territory'] + ' data-candidate=' + bb['candidate'] + ' style="display:none;background:' + color + '" class="data_glasova selected_' + bb['candidate'] + ' territory_redirect"><a  href="#">' + bb['glasova'].toLocaleString() + '</a></td>');
+
                     }
 
-                    $('#details tbody tr.' + b['territoryslug']).append('<td  href="#" data-territory-slug=' + b['territoryslug'] + ' data-territory=' + b['territory'] + ' data-candidate=' + bb['candidate'] + ' style="display:none;background:' + color + '" class="data_glasova selected_' + bb['candidate'] + ' territory_redirect"><a  href="#">' + bb['glasova'].toLocaleString() + '</a></td>')
-
-                }
-
-            })
+                })
+            }
             //console.log(find_max);
         })
 
@@ -948,7 +949,7 @@
     function init_summary_table(response) {
 
         $.each(response['winners'], function (key, index) {
-
+        if(index['teritorija']!=""){
                 var resigtered_voters = index['brojUpisanihBiracaUBirackiSpisak'];
                 var voters = index['biraciKojiSuGlasali'];
                 var percentage = (voters / resigtered_voters) * 100;
@@ -1048,6 +1049,7 @@
                           $('#pierow_'+key).css('width',remove+"%");
 
             {% endif %}
+        }
         })
     }
     // end of summary table
@@ -1339,11 +1341,11 @@
                     name: 'Teritorija',
                     borderColor: 'black',
                     borderWidth: 1,
-                     {#dataLabels: {
+                     dataLabels: {
                      enabled: true,
                      color: '#FFFFFF',
                      format: '{point.NAME_2}'
-                 },#}
+                 },
                 }]
             });
         });
@@ -1443,8 +1445,9 @@
                 var text = $('.highcharts-menu-item').text();
                 $('.highcharts-menu-item').html(text.replace('Print chart', 'test'));
                 init_map(response);
+                      init_details_table(response);
                 init_summary_table(response);
-                init_details_table(response);
+
                 default_first_indicators(response);
                 $('#summary').DataTable({
                     "language": {

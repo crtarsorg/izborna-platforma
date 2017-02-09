@@ -5372,6 +5372,2478 @@
 "teritorija": "Лебане"
 }
 ],
+"map_par_2016": [
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 170,
+"udeo": 39.351851851851855
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "svajcarska",
+"teritorija": "Швајцарска"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 206,
+"udeo": 57.06371191135734
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "crna-gora",
+"teritorija": "Црна Гора"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 245,
+"udeo": 62.65984654731458
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "orahovac",
+"teritorija": "Ораховац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 409,
+"udeo": 28.601398601398603
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "savezna-republika-nemacka",
+"teritorija": "Савезна Република Немачка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 591,
+"udeo": 64.44929116684843
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vitina",
+"teritorija": "Витина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 760,
+"udeo": 77.63023493360572
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "gora",
+"teritorija": "Гора"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 795,
+"udeo": 66.58291457286433
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kosovo-polje",
+"teritorija": "Косово Поље"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 819,
+"udeo": 79.43743937924346
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "crna-trava",
+"teritorija": "Црна Трава"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 867,
+"udeo": 67.15724244771495
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vucitrn",
+"teritorija": "Вучитрн"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 1699,
+"udeo": 76.35955056179775
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "lipljan",
+"teritorija": "Липљан"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 1704,
+"udeo": 59.04365904365905
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zubin-potok",
+"teritorija": "Зубин Поток"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 1889,
+"udeo": 47.84701114488348
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "medveda",
+"teritorija": "Медвеђа"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2348,
+"udeo": 45.95811313368565
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kosjeric",
+"teritorija": "Косјерић"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2421,
+"udeo": 38.465204957102
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "nova-crnja",
+"teritorija": "Нова Црња"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2432,
+"udeo": 67.10816777041943
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kosovska-kamenica",
+"teritorija": "Косовска Каменица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2438,
+"udeo": 40.76241431198796
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "mali-idos",
+"teritorija": "Мали Иђош"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2024,
+"udeo": 38.983050847457626
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bosilegrad",
+"teritorija": "Босилеград"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2503,
+"udeo": 45.77542062911485
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "gadzin-han",
+"teritorija": "Гаџин Хан"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2886,
+"udeo": 49.426271621853054
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "irig",
+"teritorija": "Ириг"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2227,
+"udeo": 40.40275761973875
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "coka",
+"teritorija": "Чока"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2901,
+"udeo": 54.901589704769115
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "opovo",
+"teritorija": "Опово"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2933,
+"udeo": 41.86411647159577
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "rekovac",
+"teritorija": "Рековац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2934,
+"udeo": 63.20551486428264
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kosovska-mitrovica",
+"teritorija": "Косовска Митровица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2946,
+"udeo": 49.075462268865564
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "osecina",
+"teritorija": "Осечина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2991,
+"udeo": 42.079347214406305
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "backi-petrovac",
+"teritorija": "Бачки Петровац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3014,
+"udeo": 58.86718749999999
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "golubac",
+"teritorija": "Голубац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3023,
+"udeo": 78.80604796663191
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "trgoviste",
+"teritorija": "Трговиште"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3195,
+"udeo": 48.37244511733535
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kostolac",
+"teritorija": "Костолац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3277,
+"udeo": 52.752736638763686
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "cicevac",
+"teritorija": "Ћићевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3283,
+"udeo": 51.99556541019955
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zabari",
+"teritorija": "Жабари"
+},
+{
+"rezultat": {
+"izbornaLista": "Vajdasági Magyar Szövetség-Pásztor István - Савез војвођанских Мађара-Иштван Пастор",
+"rezultat": {
+"glasova": 2255,
+"udeo": 28.09268718076492
+},
+"boja": "#fdb462",
+"izbornaListaSlug": "vajdasagi-magyar-szovetseg-pasztor-istvan-savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "ada",
+"teritorija": "Ада"
+},
+{
+"rezultat": {
+"izbornaLista": "Vajdasági Magyar Szövetség-Pásztor István - Савез војвођанских Мађара-Иштван Пастор",
+"rezultat": {
+"glasova": 3317,
+"udeo": 38.15713792706776
+},
+"boja": "#fdb462",
+"izbornaListaSlug": "vajdasagi-magyar-szovetseg-pasztor-istvan-savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "senta",
+"teritorija": "Сента"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2484,
+"udeo": 50.51860890787066
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "sremski-karlovci",
+"teritorija": "Сремски Карловци"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3604,
+"udeo": 49.47151681537406
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "secanj",
+"teritorija": "Сечањ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3799,
+"udeo": 42.56582633053221
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "ljubovija",
+"teritorija": "Љубовија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3971,
+"udeo": 52.89025039957379
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "babusnica",
+"teritorija": "Бабушница"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4051,
+"udeo": 53.42917436032709
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "knic",
+"teritorija": "Кнић"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4188,
+"udeo": 55.484896661367245
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "batocina",
+"teritorija": "Баточина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4212,
+"udeo": 52.40109479970142
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "mali-zvornik",
+"teritorija": "Мали Зворник"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4385,
+"udeo": 52.29576624925462
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bela-palanka",
+"teritorija": "Бела Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3447,
+"udeo": 41.296274110458846
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "srbobran",
+"teritorija": "Србобран"
+},
+{
+"rezultat": {
+"izbornaLista": "Vajdasági Magyar Szövetség-Pásztor István - Савез војвођанских Мађара-Иштван Пастор",
+"rezultat": {
+"glasova": 4665,
+"udeo": 32.486072423398326
+},
+"boja": "#fdb462",
+"izbornaListaSlug": "vajdasagi-magyar-szovetseg-pasztor-istvan-savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "backa-topola",
+"teritorija": "Бачка Топола"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4679,
+"udeo": 45.84558103076621
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zitorada",
+"teritorija": "Житорађа"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4897,
+"udeo": 66.25625761060749
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "svrljig",
+"teritorija": "Сврљиг"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4273,
+"udeo": 54.627972385579135
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "nis-niska-banja",
+"teritorija": "Ниш - Нишка Бања"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4998,
+"udeo": 56.157303370786515
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "merosina",
+"teritorija": "Мерошина"
+},
+{
+"rezultat": {
+"izbornaLista": "SDA Sandžaka – Dr. Sulejman Ugljanin СДА Санџака – Др Сулејман Угљанин",
+"rezultat": {
+"glasova": 5089,
+"udeo": 33.619607584065534
+},
+"boja": "#33a02c",
+"izbornaListaSlug": "sda-sandzaka-dr-sulejman-ugljanin-sda-sandzaka-dr-sulejman-ugljanin"
+},
+"teritorijaSlug": "sjenica",
+"teritorija": "Сјеница"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5280,
+"udeo": 85.02415458937197
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "strpce",
+"teritorija": "Штрпце"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5412,
+"udeo": 69.7332817935833
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "leposavic",
+"teritorija": "Лепосавић"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3408,
+"udeo": 47.524752475247524
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "boljevac",
+"teritorija": "Бољевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5663,
+"udeo": 47.203467533550054
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kovacica",
+"teritorija": "Ковачица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5741,
+"udeo": 55.96061994346427
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "brus",
+"teritorija": "Брус"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 6555,
+"udeo": 65.82647117895159
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kucevo",
+"teritorija": "Кучево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 6616,
+"udeo": 31.37329286798179
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "savski-venac",
+"teritorija": "Савски Венац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 6687,
+"udeo": 44.9304575690385
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "temerin",
+"teritorija": "Темерин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 788,
+"udeo": 61.32295719844358
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "pec",
+"teritorija": "Пећ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 6744,
+"udeo": 59.3296384270256
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "topola",
+"teritorija": "Топола"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 6980,
+"udeo": 53.31907417309601
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "lebane",
+"teritorija": "Лебане"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7195,
+"udeo": 45.758076825235314
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "apatin",
+"teritorija": "Апатин"
+},
+{
+"rezultat": {
+"izbornaLista": "ПАРТИЈА ЗА ДЕМОКРАТСКО ДЕЛОВАЊЕ – АРДИТА СИНАНИ PARTIA PËR VEPRIM DEMOKRATIK – ARDITA SINANI",
+"rezultat": {
+"glasova": 7228,
+"udeo": 57.16997548050304
+},
+"boja": "#e31a1c",
+"izbornaListaSlug": "partija-za-demokratsko-delovanje-ardita-sinani-partia-per-veprim-demokratik-ardita-sinani"
+},
+"teritorijaSlug": "presevo",
+"teritorija": "Прешево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7313,
+"udeo": 51.550824756802484
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "barajevo",
+"teritorija": "Барајево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7395,
+"udeo": 50.7201646090535
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "priboj",
+"teritorija": "Прибој"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5778,
+"udeo": 53.994953742640874
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kursumlija",
+"teritorija": "Куршумлија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7471,
+"udeo": 55.70384730092455
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bajina-basta",
+"teritorija": "Бајина Башта"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7519,
+"udeo": 26.328874571048395
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "stari-grad",
+"teritorija": "Стари Град"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7160,
+"udeo": 66.31471705103269
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "pecinci",
+"teritorija": "Пећинци"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3777,
+"udeo": 57.357630979498865
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "dimitrovgrad",
+"teritorija": "Димитровград"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5598,
+"udeo": 53.44152744630072
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "varvarin",
+"teritorija": "Варварин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7532,
+"udeo": 57.703209990040605
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "despotovac",
+"teritorija": "Деспотовац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7539,
+"udeo": 52.25256445799834
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "pozega",
+"teritorija": "Пожега"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7298,
+"udeo": 59.63392711227324
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vladicin-han",
+"teritorija": "Владичин Хан"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7727,
+"udeo": 52.11087132452118
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "raska",
+"teritorija": "Рашка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7946,
+"udeo": 44.49795598364787
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "becej",
+"teritorija": "Бечеј"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 8105,
+"udeo": 53.231314856167074
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kovin",
+"teritorija": "Ковин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3632,
+"udeo": 46.570073086293114
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bac",
+"teritorija": "Бач"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 8220,
+"udeo": 58.244172039963146
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "ub",
+"teritorija": "Уб"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 8546,
+"udeo": 54.61749856202467
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "odzaci",
+"teritorija": "Оџаци"
+},
+{
+"rezultat": {
+"izbornaLista": "Vajdasági Magyar Szövetség-Pásztor István - Савез војвођанских Мађара-Иштван Пастор",
+"rezultat": {
+"glasova": 5068,
+"udeo": 47.65397273154678
+},
+"boja": "#fdb462",
+"izbornaListaSlug": "vajdasagi-magyar-szovetseg-pasztor-istvan-savez-vojvodanskih-madara-istvan-pastor"
+},
+"teritorijaSlug": "kanjiza",
+"teritorija": "Кањижа"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 6088,
+"udeo": 36.27264061010486
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bogatic",
+"teritorija": "Богатић"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 8644,
+"udeo": 56.54847572942562
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "aleksandrovac",
+"teritorija": "Александровац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 8651,
+"udeo": 49.15620205693506
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vlasotince",
+"teritorija": "Власотинце"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 8814,
+"udeo": 41.78637462665339
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vrbas",
+"teritorija": "Врбас"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 8836,
+"udeo": 48.866275854440886
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "petrovac",
+"teritorija": "Петровац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5213,
+"udeo": 52.25017540342788
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "cajetina",
+"teritorija": "Чајетина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 8991,
+"udeo": 62.19132600124507
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "svilajnac",
+"teritorija": "Свилајнац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 9185,
+"udeo": 52.997518896774565
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "sid",
+"teritorija": "Шид"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7877,
+"udeo": 70.27388705504505
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "doljevac",
+"teritorija": "Дољевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5442,
+"udeo": 57.526427061310784
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "lucani",
+"teritorija": "Лучани"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 9790,
+"udeo": 61.71205244578921
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "ivanjica",
+"teritorija": "Ивањица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 10353,
+"udeo": 64.70625
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "cuprija",
+"teritorija": "Ћуприја"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5057,
+"udeo": 55.72451790633609
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "beocin",
+"teritorija": "Беочин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 10565,
+"udeo": 48.67990600377828
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "nis-pantelej",
+"teritorija": "Ниш - Пантелеј"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 10764,
+"udeo": 42.94091833885187
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bor",
+"teritorija": "Бор"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 9033,
+"udeo": 59.23667125713161
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "knjazevac",
+"teritorija": "Књажевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4567,
+"udeo": 56.83175709308114
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zagubica",
+"teritorija": "Жагубица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 12717,
+"udeo": 55.523052741879155
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "prokuplje",
+"teritorija": "Прокупље"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 9188,
+"udeo": 56.79317591791322
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vrnjacka-banja",
+"teritorija": "Врњачка Бања"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5022,
+"udeo": 53.68826170622194
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "titel",
+"teritorija": "Тител"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5061,
+"udeo": 52.740725302209256
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vladimirci",
+"teritorija": "Владимирци"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 13041,
+"udeo": 48.421951581761476
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vrsac",
+"teritorija": "Вршац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5864,
+"udeo": 64.48916749147696
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "krupanj",
+"teritorija": "Крупањ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3267,
+"udeo": 54.55911823647295
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "plandiste",
+"teritorija": "Пландиште"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5463,
+"udeo": 53.82266009852217
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bela-crkva",
+"teritorija": "Бела Црква"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 13111,
+"udeo": 52.1976271996178
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "smederevska-palanka",
+"teritorija": "Смедеревска Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 14600,
+"udeo": 54.66526883330837
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "mladenovac",
+"teritorija": "Младеновац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 14668,
+"udeo": 54.13944561325804
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "ruma",
+"teritorija": "Рума"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 14888,
+"udeo": 57.265943534118016
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "indija",
+"teritorija": "Инђија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 190,
+"udeo": 45.23809523809524
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "italija",
+"teritorija": "Италија"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2899,
+"udeo": 45.75441919191919
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "malo-crnice",
+"teritorija": "Мало Црниће"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 10454,
+"udeo": 48.72751002144122
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kula",
+"teritorija": "Кула"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 15665,
+"udeo": 44.12924671812497
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "lazarevac",
+"teritorija": "Лазаревац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 13046,
+"udeo": 56.49086342773014
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "surcin",
+"teritorija": "Сурчин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 16084,
+"udeo": 49.0440615947553
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "pozarevac",
+"teritorija": "Пожаревац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3485,
+"udeo": 53.08453922315308
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "ljig",
+"teritorija": "Љиг"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 16364,
+"udeo": 48.08274321981606
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "nis-palilula",
+"teritorija": "Ниш - Палилула"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2308,
+"udeo": 65.54955978415224
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zvecan",
+"teritorija": "Звечан"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2830,
+"udeo": 40.43434776396629
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "raca",
+"teritorija": "Рача"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4527,
+"udeo": 59.47970043358297
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "blace",
+"teritorija": "Блаце"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 18651,
+"udeo": 43.84138028301443
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "sombor",
+"teritorija": "Сомбор"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 18999,
+"udeo": 52.197922962800156
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "grocka",
+"teritorija": "Гроцка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 19016,
+"udeo": 50.84763891117172
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "obrenovac",
+"teritorija": "Обреновац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 19887,
+"udeo": 42.00266120345534
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "novi-pazar",
+"teritorija": "Нови Пазар"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5216,
+"udeo": 48.27841540170307
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "alibunar",
+"teritorija": "Алибунар"
+},
+{
+"rezultat": {
+"izbornaLista": "ПАРТИЈА ЗА ДЕМОКРАТСКО ДЕЛОВАЊЕ – АРДИТА СИНАНИ PARTIA PËR VEPRIM DEMOKRATIK – ARDITA SINANI",
+"rezultat": {
+"glasova": 7245,
+"udeo": 36.26307623004154
+},
+"boja": "#e31a1c",
+"izbornaListaSlug": "partija-za-demokratsko-delovanje-ardita-sinani-partia-per-veprim-demokratik-ardita-sinani"
+},
+"teritorijaSlug": "bujanovac",
+"teritorija": "Бујановац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 359,
+"udeo": 59.73377703826955
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bosna-i-hercegovina",
+"teritorija": "Босна и Херцеговина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 12131,
+"udeo": 52.85378180550715
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "gornji-milanovac",
+"teritorija": "Горњи Милановац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 13051,
+"udeo": 55.437091156231425
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "trstenik",
+"teritorija": "Трстеник"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2789,
+"udeo": 46.336600764246555
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "novi-knezevac",
+"teritorija": "Нови Кнежевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 22734,
+"udeo": 57.55880193432412
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "loznica",
+"teritorija": "Лозница"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 17917,
+"udeo": 60.7438296718199
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "pirot",
+"teritorija": "Пирот"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 25485,
+"udeo": 53.52867044738501
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vranje",
+"teritorija": "Врање"
+},
+{
+"rezultat": {
+"izbornaLista": "SDA Sandžaka – Dr. Sulejman Ugljanin СДА Санџака – Др Сулејман Угљанин",
+"rezultat": {
+"glasova": 8187,
+"udeo": 50.99028400597907
+},
+"boja": "#33a02c",
+"izbornaListaSlug": "sda-sandzaka-dr-sulejman-ugljanin-sda-sandzaka-dr-sulejman-ugljanin"
+},
+"teritorijaSlug": "tutin",
+"teritorija": "Тутин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 13177,
+"udeo": 52.55663688576898
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "aleksinac",
+"teritorija": "Алексинац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 33066,
+"udeo": 40.91769684820136
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "vozdovac",
+"teritorija": "Вождовац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3913,
+"udeo": 56.26168224299065
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "mionica",
+"teritorija": "Мионица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 23650,
+"udeo": 44.46157316889758
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "rakovica",
+"teritorija": "Раковица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5245,
+"udeo": 55.70897503983006
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "veliko-gradiste",
+"teritorija": "Велико Градиште"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 16629,
+"udeo": 53.56763199433045
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kikinda",
+"teritorija": "Кикинда"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4843,
+"udeo": 54.31807985643786
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "sokobanja",
+"teritorija": "Сокобања"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 24957,
+"udeo": 45.15551213157466
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zrenjanin",
+"teritorija": "Зрењанин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 9454,
+"udeo": 47.529033231109544
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "prijepolje",
+"teritorija": "Пријепоље"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 33527,
+"udeo": 40.01312805824084
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "severnobacki-okug",
+"teritorija": "Севернобачки окуг"
+},
+{
+"rezultat": {
+"izbornaLista": "ДОСТА ЈЕ БИЛО – САША РАДУЛОВИЋ",
+"rezultat": {
+"glasova": 68,
+"udeo": 24.727272727272727
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "dosta-je-bilo-sasa-radulovic"
+},
+"teritorijaSlug": "sjedinjene-americke-drzave",
+"teritorija": "Сједињене Америчке Државе"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 11076,
+"udeo": 55.69747561098261
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "velika-plana",
+"teritorija": "Велика Плана"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 22373,
+"udeo": 51.51626793156646
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "sremska-mitrovica",
+"teritorija": "Сремска Митровица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5874,
+"udeo": 45.341566962562716
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "novi-becej",
+"teritorija": "Нови Бечеј"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 28823,
+"udeo": 48.1402301538256
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kraljevo",
+"teritorija": "Краљево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 34926,
+"udeo": 55.558913828484165
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "krusevac",
+"teritorija": "Крушевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 26426,
+"udeo": 41.64919856892937
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "subotica",
+"teritorija": "Суботица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 11015,
+"udeo": 53.71598556520043
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "arandelovac",
+"teritorija": "Аранђеловац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2211,
+"udeo": 65.54995552920249
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "gnjilane",
+"teritorija": "Гњилане"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 28132,
+"udeo": 38.35676206318258
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zvezdara",
+"teritorija": "Звездара"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 16380,
+"udeo": 44.61634843243537
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "jagodina",
+"teritorija": "Јагодина"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 37430,
+"udeo": 46.075064317983184
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zemun",
+"teritorija": "Земун"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 17504,
+"udeo": 54.43801704298066
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "stara-pazova",
+"teritorija": "Стара Пазова"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5311,
+"udeo": 49.60306341645652
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "nova-varos",
+"teritorija": "Нова Варош"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4843,
+"udeo": 47.540983606557376
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "majdanpek",
+"teritorija": "Мајданпек"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 37972,
+"udeo": 43.00680688163275
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "cukarica",
+"teritorija": "Чукарица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 33836,
+"udeo": 52.50205595295358
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "sabac",
+"teritorija": "Шабац"
+},
+{
+"rezultat": {
+"izbornaLista": "ИВИЦА ДАЧИЋ -\"Социјалистичка партија Србије (СПС), Јединствена Србија (ЈС) - Драган Марковић Палма\"",
+"rezultat": {
+"glasova": 5936,
+"udeo": 44.1108716653043
+},
+"boja": "#33a02c",
+"izbornaListaSlug": "ivica-dacic-socijalisticka-partija-srbije-sps-jedinstvena-srbija-js-dragan-markovic-palma"
+},
+"teritorijaSlug": "surdulica",
+"teritorija": "Сурдулица"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 41516,
+"udeo": 36.19813237307199
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "novi-beograd",
+"teritorija": "Нови Београд"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7627,
+"udeo": 57.81972557046471
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zabalj",
+"teritorija": "Жабаљ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 20364,
+"udeo": 45.99123718325128
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "valjevo",
+"teritorija": "Ваљево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 36633,
+"udeo": 44.53535304415483
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "palilula",
+"teritorija": "Палилула"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 18508,
+"udeo": 60.41258649954302
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "paracin",
+"teritorija": "Параћин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5712,
+"udeo": 56.34247386072203
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "arilje",
+"teritorija": "Ариље"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 11683,
+"udeo": 43.930961871098745
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zajecar",
+"teritorija": "Зајечар"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 43385,
+"udeo": 53.45942948678455
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "leskovac",
+"teritorija": "Лесковац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 7085,
+"udeo": 58.534368803701256
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kladovo",
+"teritorija": "Кладово"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 44888,
+"udeo": 48.831643531613075
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "kragujevac",
+"teritorija": "Крагујевац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 57512,
+"udeo": 46.46946179391256
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "nis",
+"teritorija": "Ниш"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 28028,
+"udeo": 49.52118449415174
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "cacak",
+"teritorija": "Чачак"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 16640,
+"udeo": 38.47487803186201
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "nis-medijana",
+"teritorija": "Ниш - Медијана"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2665,
+"udeo": 71.7555196553581
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "pristina-grad",
+"teritorija": "Приштина - град"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 3782,
+"udeo": 40.42325780247969
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "zitiste",
+"teritorija": "Житиште"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 15606,
+"udeo": 51.631046119235094
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "backa-palanka",
+"teritorija": "Бачка Паланка"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 28369,
+"udeo": 56.88704405542522
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "smederevo",
+"teritorija": "Смедерево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 9670,
+"udeo": 57.02995989620193
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "nis-crveni-krst",
+"teritorija": "Ниш - Црвени Крст"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 75401,
+"udeo": 42.25329223872233
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "novi-sad",
+"teritorija": "Нови Сад"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 29191,
+"udeo": 48.43451857505517
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "pancevo",
+"teritorija": "Панчево"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 5637,
+"udeo": 58.80450657208429
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "sopot",
+"teritorija": "Сопот"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4040,
+"udeo": 44.690265486725664
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "lajkovac",
+"teritorija": "Лајковац"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 19664,
+"udeo": 50.52415210688592
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "uzice",
+"teritorija": "Ужице"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2519,
+"udeo": 57.537688442211056
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "razanj",
+"teritorija": "Ражањ"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 2591,
+"udeo": 55.64862542955326
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "lapovo",
+"teritorija": "Лапово"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 4078,
+"udeo": 60.27194797516997
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "bojnik",
+"teritorija": "Бојник"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 9498,
+"udeo": 53.82217940726469
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "negotin",
+"teritorija": "Неготин"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 6252,
+"udeo": 75.80019398642095
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "koceljeva",
+"teritorija": "Коцељева"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 134,
+"udeo": 35.82887700534759
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "francuska",
+"teritorija": "Француска"
+},
+{
+"rezultat": {
+"izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
+"rezultat": {
+"glasova": 144714,
+"udeo": 44.9004033509153
+},
+"boja": "#a6cee3",
+"izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje"
+},
+"teritorijaSlug": "",
+"teritorija": ""
+}
+],
 "map_par_2012": [
 {
 "rezultat": {

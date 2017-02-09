@@ -1,4 +1,4 @@
-   <div id="containermap_2014" class="col-md-12 col-sm-12 col-xs-12 lists div-map" style="height:200px;">
+   <div id="containermap_2016" class="col-md-12 col-sm-12 col-xs-12 lists div-map" style="height:200px;">
     </div>
 
    <script type="text/javascript">
@@ -7,11 +7,11 @@
             var data = [];
         $.getJSON('{{ url_for("static",filename="data/map_landing_page.json") }}',function (datajson) {
 
-            for (var i = 0; i < datajson['map_par_2014'].length; i++) {
+            for (var i = 0; i < datajson['map_par_2016'].length; i++) {
 
                      data.push({
-                            "NAME_2": transliterate(datajson['map_par_2014'][i]['teritorija']),
-                            "terrigorySlug": transliterate(datajson['map_par_2014'][i]['teritorijaSlug']),
+                            "NAME_2": transliterate(datajson['map_par_2016'][i]['teritorija']),
+                            "terrigorySlug": transliterate(datajson['map_par_2016'][i]['teritorijaSlug']),
                             "color": datajson['map_par_2014'][i]['rezultat']['boja'],
                             "izbornaLista":""
                         });
@@ -22,7 +22,7 @@
             $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
                 console.log(data);
             // Initialize the map
-            $('#containermap_2014').highcharts('Map', {
+            $('#containermap_2016').highcharts('Map', {
                 chart: {
                     //backgroundColor:'lightgray'
 	            },
@@ -65,7 +65,7 @@
         });
 
        $(window).resize(function () {
-           $("#containermap_2014").highcharts().setSize($("#containermap_2014").width(),$("#containermap_2014").height(),doAnimation = true);
+           $("#containermap_2016").highcharts().setSize($("#containermap_2016").width(),$("#containermap_2016").height(),doAnimation = true);
        });
 
 
