@@ -32,6 +32,7 @@
 </style>
 </html>
 <script>
+
     var $iW = $(window).innerWidth();
     function transliterate(word) {
         var A = {};
@@ -118,6 +119,7 @@
         }
         return result;
     }
+    console.log(transliterate('Priština - grad'));
     function fill_html(response) {
         $('#piechart-no-territory-selected .x7').css('width',response['percentage'].toFixed(2)+'%');
          $('#piechart-no-territory-selected .x8').css('width',100-response['percentage'].toFixed(2)+'%');
@@ -1276,6 +1278,8 @@
             var data = [];
             var i = 0;
             $.each(response['winners'], function (index, value) {
+
+
                 data.push({
                     "teritorija": transliterate(value['teritorija']),
                     "terrigorySlug": transliterate(value['teritorijaSlug']),
