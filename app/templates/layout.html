@@ -738,23 +738,20 @@
         console.log(arraylength);
 
         $(mergearray).each(function (a, b) {
+            if (b['territory']!="") {
+                $('#details tbody').append('<tr class=' + b['territoryslug'] + '><td>' + b['territory'] + '</tr>');
+                $(b['rezults']).each(function (aa, bb) {
 
-            $('#details tbody').append('<tr class=' + b['territoryslug'] + '><td>' + b['territory'] + '</tr>');
-            $(b['rezults']).each(function (aa, bb) {
-
-                if (aa <= arraylength) {
-                    var color = "";
-                    if (b['boja'] == bb['boja']) {
-
-                        color = bb['boja'];
+                    if (aa <= arraylength) {
+                        var color = "";
+                        if (b['boja'] == bb['boja']) {
+                            color = bb['boja'];
+                        }
+                        $('#details tbody tr.' + b['territoryslug']).append('<td  href="#" data-territory-slug=' + b['territoryslug'] + ' data-territory=' + b['territory'] + ' data-candidate=' + bb['candidate'] + ' style="display:none;background:' + color + '" class="data_glasova selected_' + bb['candidate'] + ' territory_redirect"><a  href="#">' + bb['glasova'].toLocaleString() + '</a></td>')
                     }
-                       $('#details tbody tr.' + b['territoryslug']).append('<td  href="#" data-territory-slug=' + b['territoryslug'] + ' data-territory=' + b['territory'] + ' data-candidate=' + bb['candidate'] + ' style="display:none;background:' + color + '" class="data_glasova selected_' + bb['candidate'] + ' territory_redirect"><a  href="#">' + bb['glasova'].toLocaleString() + '</a></td>')
 
-
-
-                }
-
-            })
+                })
+            }
             //console.log(find_max);
         })
 
