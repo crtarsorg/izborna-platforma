@@ -1293,6 +1293,13 @@
 
             $('#containermap').highcharts('Map', {
                 chart: {
+
+               {# events: {
+                    load: function () {
+                        this.mapZoom(0.9,-100,-60);
+                        }
+                    },#}
+
                     backgroundColor: {
                         linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                         stops: [
@@ -1304,6 +1311,7 @@
                 title: {
                     text: ''
                 },
+
                 tooltip: {
                     'enabled': false
                 },
@@ -1339,14 +1347,13 @@
                     keys: ['NAME_2', 'NAME_1'],
                     animation: true,
 
-                    name: 'Teritorija',
                     borderColor: 'black',
                     borderWidth: 1,
-                     dataLabels: {
+               {#      dataLabels: {
                      enabled: true,
                      color: '#FFFFFF',
                      format: '{point.NAME_2}'
-                 },
+                 },#}
                 }]
             });
         });
@@ -1557,4 +1564,7 @@
         float: right;
         margin-right: 20px;
     }
+    {##containermap {
+    background: url("{{ url_for('static', filename = 'assets/background-map') }}") 50% 50% no-repeat rgb(249, 249, 249)repeat;
+}#}
 </style>
