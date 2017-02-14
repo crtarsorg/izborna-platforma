@@ -15,7 +15,7 @@
                         });
             }
             });
-            $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
+            $.getJSON('{{ url_for("static",filename="data/serbia.geojson") }}', function (geojson) {
                 console.log(data);
             // Initialize the map
             $('#containermap_pres_2012').highcharts('Map', {
