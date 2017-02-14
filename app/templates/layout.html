@@ -1293,12 +1293,12 @@
 
             $('#containermap').highcharts('Map', {
                 chart: {
+                        events: {
+                            load: function () {
+                            this.mapZoom(0.5,21,-44);
+                            }
 
-               {# events: {
-                    load: function () {
-                        this.mapZoom(0.9,-100,-60);
-                        }
-                    },#}
+                            },
 
                     backgroundColor: {
                         linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
@@ -1420,7 +1420,7 @@
                 $('#containermap').css('height','400px');
 
             } else {
-                $('#containermap').css('height','900px');
+                $('#containermap').css('height','600px');
             }
 
             if ($iW < 990) {
