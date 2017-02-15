@@ -808,6 +808,12 @@
 
                 chart = $('#containermap').highcharts('Map', {
                     chart: {
+                        events: {
+                            load: function () {
+                            this.mapZoom(0.5,21,-44);
+                            }
+
+                            },
                         backgroundColor: {
                             linearGradient: {x1: 0, y1: 0, x2: 0, y2: 1},
                             stops: [
@@ -1155,12 +1161,7 @@
     }
 
     function on_reinit_map_click(response, territory_selected_slug, candidate_selected, terrritory_selected) {
-        $('#territory-name').html('');
-        $('#party-list').html('');
-         if ($iW < 990) {
-             $('html, body').animate({scrollTop : 600}, 1000);
 
-          }
         var territorija = [];
         $('#territory-selected').show();
         $('#no-territory-selected').removeClass('col-md-12');
