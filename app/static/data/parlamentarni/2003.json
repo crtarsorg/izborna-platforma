@@ -7484,6 +7484,15 @@
 "izbornaListaSlug": "otpor"
 },
 {
+"izbornaLista": "ЈУЛ",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.0749063670411985
+},
+"boja": "#b3de69",
+"izbornaListaSlug": "jul"
+},
+{
 "izbornaLista": "Заједно за толеранцију",
 "rezultat": {
 "glasova": 1,
@@ -7527,15 +7536,6 @@
 },
 "boja": "#b3de69",
 "izbornaListaSlug": "savez-srba-vojvodine"
-},
-{
-"izbornaLista": "ЈУЛ",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.0749063670411985
-},
-"boja": "#b3de69",
-"izbornaListaSlug": "jul"
 },
 {
 "izbornaLista": "Одбрана и правда",
@@ -11480,15 +11480,6 @@
 "izbornaListaSlug": "zajedno-za-toleranciju"
 },
 {
-"izbornaLista": "ЈУЛ",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.05067139599695972
-},
-"boja": "#b3de69",
-"izbornaListaSlug": "jul"
-},
-{
 "izbornaLista": "Лабурист. партија Србије",
 "rezultat": {
 "glasova": 4,
@@ -11496,6 +11487,15 @@
 },
 "boja": "#b3de69",
 "izbornaListaSlug": "laburist-partija-srbije"
+},
+{
+"izbornaLista": "ЈУЛ",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.05067139599695972
+},
+"boja": "#b3de69",
+"izbornaListaSlug": "jul"
 },
 {
 "izbornaLista": "Савез Срба Војводине",

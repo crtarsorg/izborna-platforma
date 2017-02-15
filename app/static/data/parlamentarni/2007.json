@@ -1,6 +1,6 @@
 {
-"total_voters": 9248345,
-"percentage": 60.5199680632965,
+"total_voters": 4033586,
+"percentage": 60.620323478839545,
 "winners": [
 {
 "rezultat": [
@@ -9646,195 +9646,6 @@
 {
 "izbornaLista": "СРС",
 "rezultat": {
-"glasova": 2639,
-"udeo": 23.99309028093463
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 2522,
-"udeo": 22.92935721429221
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 1656,
-"udeo": 15.05591417401582
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 1371,
-"udeo": 12.464769524502227
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 933,
-"udeo": 8.48258932630239
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 844,
-"udeo": 7.6734248568051635
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 355,
-"udeo": 3.22756614237658
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 231,
-"udeo": 2.100190926447859
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 190,
-"udeo": 1.7274297663423948
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 23,
-"udeo": 0.20910991908355303
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 15,
-"udeo": 0.13637603418492592
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 14,
-"udeo": 0.12728429857259752
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 12,
-"udeo": 0.10910082734794072
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.10000909173561233
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 5,
-"udeo": 0.04545867806164197
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.03636694244931357
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.03636694244931357
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.02727520683698518
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 2,
-"udeo": 0.018183471224656786
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.009091735612328393
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Варварин",
-"brojUpisanihBiracaUBirackiSpisak": 17064,
-"percentage": 64.45733708391936,
-"biraciKojiSuGlasali": 10999,
-"teritorijaSlug": "varvarin"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
 "glasova": 2923,
 "udeo": 31.65475416937405
 },
@@ -10018,6 +9829,195 @@
 "percentage": 56.91217257318952,
 "biraciKojiSuGlasali": 9234,
 "teritorijaSlug": "sokobanja"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 2639,
+"udeo": 23.99309028093463
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 2522,
+"udeo": 22.92935721429221
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 1656,
+"udeo": 15.05591417401582
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 1371,
+"udeo": 12.464769524502227
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 933,
+"udeo": 8.48258932630239
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 844,
+"udeo": 7.6734248568051635
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 355,
+"udeo": 3.22756614237658
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 231,
+"udeo": 2.100190926447859
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 190,
+"udeo": 1.7274297663423948
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 23,
+"udeo": 0.20910991908355303
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 15,
+"udeo": 0.13637603418492592
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 14,
+"udeo": 0.12728429857259752
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 12,
+"udeo": 0.10910082734794072
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.10000909173561233
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 5,
+"udeo": 0.04545867806164197
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.03636694244931357
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.03636694244931357
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.02727520683698518
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 2,
+"udeo": 0.018183471224656786
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.009091735612328393
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Варварин",
+"brojUpisanihBiracaUBirackiSpisak": 17064,
+"percentage": 64.45733708391936,
+"biraciKojiSuGlasali": 10999,
+"teritorijaSlug": "varvarin"
 },
 {
 "rezultat": [
@@ -16261,573 +16261,6 @@
 {
 "izbornaLista": "СРС",
 "rezultat": {
-"glasova": 3315,
-"udeo": 30.83434099153567
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 3132,
-"udeo": 29.132173751278952
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 1207,
-"udeo": 11.226862617430937
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 900,
-"udeo": 8.371314296344526
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 679,
-"udeo": 6.315691563575482
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 344,
-"udeo": 3.1997023532694633
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 279,
-"udeo": 2.5951074318668033
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 257,
-"udeo": 2.390475304622826
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 202,
-"udeo": 1.8788949865128826
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 62,
-"udeo": 0.5766905404148451
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 58,
-"udeo": 0.5394846990977584
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 32,
-"udeo": 0.29764673053669427
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 24,
-"udeo": 0.2232350479025207
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 21,
-"udeo": 0.1953306669147056
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 18,
-"udeo": 0.16742628592689052
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 13,
-"udeo": 0.12091898428053204
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 12,
-"udeo": 0.11161752395126034
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.05580876197563017
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.027904380987815086
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 2,
-"udeo": 0.018602920658543392
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-}
-],
-"teritorija": "Алибунар",
-"brojUpisanihBiracaUBirackiSpisak": 19632,
-"percentage": 54.76263243683782,
-"biraciKojiSuGlasali": 10751,
-"teritorijaSlug": "alibunar"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 1593,
-"udeo": 26.899696048632222
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 1047,
-"udeo": 17.67983789260385
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 911,
-"udeo": 15.383316447146234
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 764,
-"udeo": 12.901046943600136
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 524,
-"udeo": 8.848362039851402
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 263,
-"udeo": 4.441067207024654
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 217,
-"udeo": 3.664302600472813
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 202,
-"udeo": 3.4110097939885176
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 126,
-"udeo": 2.127659574468085
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 41,
-"udeo": 0.6923336710570753
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 33,
-"udeo": 0.5572441742654508
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 18,
-"udeo": 0.303951367781155
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 16,
-"udeo": 0.2701789935832489
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.18574805808848363
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.18574805808848363
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.10131712259371835
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.06754474839581223
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.06754474839581223
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.050658561296859174
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 2,
-"udeo": 0.033772374197906116
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Гаџин Хан",
-"brojUpisanihBiracaUBirackiSpisak": 8843,
-"percentage": 66.9682234535791,
-"biraciKojiSuGlasali": 5922,
-"teritorijaSlug": "gadzin-han"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 6554,
-"udeo": 34.312339668080206
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 4573,
-"udeo": 23.941154913355323
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 2088,
-"udeo": 10.931364850007853
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 1416,
-"udeo": 7.413224438511072
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 983,
-"udeo": 5.146327417412701
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 785,
-"udeo": 4.109732474739542
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 726,
-"udeo": 3.8008481231349145
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 686,
-"udeo": 3.591435003402963
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 517,
-"udeo": 2.706664572535469
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 125,
-"udeo": 0.6544159991623475
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 86,
-"udeo": 0.4502382074236951
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 51,
-"udeo": 0.26700172765823776
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 47,
-"udeo": 0.24606041568504267
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 34,
-"udeo": 0.17800115177215853
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 22,
-"udeo": 0.11517721585257318
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 18,
-"udeo": 0.09423590387937804
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 18,
-"udeo": 0.09423590387937804
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 15,
-"udeo": 0.0785299198994817
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.05758860792628659
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 8,
-"udeo": 0.04188262394639024
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-}
-],
-"teritorija": "Шид",
-"brojUpisanihBiracaUBirackiSpisak": 30800,
-"percentage": 62.01623376623377,
-"biraciKojiSuGlasali": 19101,
-"teritorijaSlug": "sid"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
 "glasova": 6761,
 "udeo": 26.71276175424733
 },
@@ -18334,6 +17767,573 @@
 "percentage": 61.67338838742718,
 "biraciKojiSuGlasali": 28902,
 "teritorijaSlug": "vrsac"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 3315,
+"udeo": 30.83434099153567
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 3132,
+"udeo": 29.132173751278952
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 1207,
+"udeo": 11.226862617430937
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 900,
+"udeo": 8.371314296344526
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 679,
+"udeo": 6.315691563575482
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 344,
+"udeo": 3.1997023532694633
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 279,
+"udeo": 2.5951074318668033
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 257,
+"udeo": 2.390475304622826
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 202,
+"udeo": 1.8788949865128826
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 62,
+"udeo": 0.5766905404148451
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 58,
+"udeo": 0.5394846990977584
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 32,
+"udeo": 0.29764673053669427
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 24,
+"udeo": 0.2232350479025207
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 21,
+"udeo": 0.1953306669147056
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 18,
+"udeo": 0.16742628592689052
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 13,
+"udeo": 0.12091898428053204
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 12,
+"udeo": 0.11161752395126034
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.05580876197563017
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.027904380987815086
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 2,
+"udeo": 0.018602920658543392
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+}
+],
+"teritorija": "Алибунар",
+"brojUpisanihBiracaUBirackiSpisak": 19632,
+"percentage": 54.76263243683782,
+"biraciKojiSuGlasali": 10751,
+"teritorijaSlug": "alibunar"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 1593,
+"udeo": 26.899696048632222
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 1047,
+"udeo": 17.67983789260385
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 911,
+"udeo": 15.383316447146234
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 764,
+"udeo": 12.901046943600136
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 524,
+"udeo": 8.848362039851402
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 263,
+"udeo": 4.441067207024654
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 217,
+"udeo": 3.664302600472813
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 202,
+"udeo": 3.4110097939885176
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 126,
+"udeo": 2.127659574468085
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 41,
+"udeo": 0.6923336710570753
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 33,
+"udeo": 0.5572441742654508
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 18,
+"udeo": 0.303951367781155
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 16,
+"udeo": 0.2701789935832489
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.18574805808848363
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.18574805808848363
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.10131712259371835
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.06754474839581223
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.06754474839581223
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.050658561296859174
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 2,
+"udeo": 0.033772374197906116
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Гаџин Хан",
+"brojUpisanihBiracaUBirackiSpisak": 8843,
+"percentage": 66.9682234535791,
+"biraciKojiSuGlasali": 5922,
+"teritorijaSlug": "gadzin-han"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 6554,
+"udeo": 34.312339668080206
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 4573,
+"udeo": 23.941154913355323
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 2088,
+"udeo": 10.931364850007853
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 1416,
+"udeo": 7.413224438511072
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 983,
+"udeo": 5.146327417412701
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 785,
+"udeo": 4.109732474739542
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 726,
+"udeo": 3.8008481231349145
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 686,
+"udeo": 3.591435003402963
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 517,
+"udeo": 2.706664572535469
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 125,
+"udeo": 0.6544159991623475
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 86,
+"udeo": 0.4502382074236951
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 51,
+"udeo": 0.26700172765823776
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 47,
+"udeo": 0.24606041568504267
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 34,
+"udeo": 0.17800115177215853
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 22,
+"udeo": 0.11517721585257318
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 18,
+"udeo": 0.09423590387937804
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 18,
+"udeo": 0.09423590387937804
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 15,
+"udeo": 0.0785299198994817
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.05758860792628659
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 8,
+"udeo": 0.04188262394639024
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+}
+],
+"teritorija": "Шид",
+"brojUpisanihBiracaUBirackiSpisak": 30800,
+"percentage": 62.01623376623377,
+"biraciKojiSuGlasali": 19101,
+"teritorijaSlug": "sid"
 },
 {
 "rezultat": [
@@ -27034,762 +27034,6 @@
 {
 "izbornaLista": "СРС",
 "rezultat": {
-"glasova": 10063,
-"udeo": 30.286522602780952
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 8243,
-"udeo": 24.808884608439175
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 3181,
-"udeo": 9.573827725275388
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 2838,
-"udeo": 8.541503641726358
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 2061,
-"udeo": 6.202973574911215
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 1259,
-"udeo": 3.7892012279540115
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 1258,
-"udeo": 3.78619153674833
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 1209,
-"udeo": 3.638716667669897
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 1169,
-"udeo": 3.518329019442605
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 735,
-"udeo": 2.2121230361764885
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 112,
-"udeo": 0.33708541503641726
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 90,
-"udeo": 0.27087220851140675
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 89,
-"udeo": 0.2678625173057244
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 69,
-"udeo": 0.20766869319207848
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 48,
-"udeo": 0.14446517787275026
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 34,
-"udeo": 0.1023295009931981
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 28,
-"udeo": 0.08427135375910431
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 27,
-"udeo": 0.08126166255342201
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 12,
-"udeo": 0.036116294468187565
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 10,
-"udeo": 0.03009691205682297
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Пирот",
-"brojUpisanihBiracaUBirackiSpisak": 51496,
-"percentage": 64.52151623427062,
-"biraciKojiSuGlasali": 33226,
-"teritorijaSlug": "pirot"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 3561,
-"udeo": 39.67245989304813
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 1660,
-"udeo": 18.493761140819963
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 570,
-"udeo": 6.350267379679145
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 556,
-"udeo": 6.194295900178253
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 467,
-"udeo": 5.202762923351158
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 446,
-"udeo": 4.968805704099822
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 302,
-"udeo": 3.364527629233512
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 301,
-"udeo": 3.353386809269162
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 267,
-"udeo": 2.9745989304812834
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 267,
-"udeo": 2.9745989304812834
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 138,
-"udeo": 1.537433155080214
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 130,
-"udeo": 1.4483065953654188
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 99,
-"udeo": 1.1029411764705883
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 24,
-"udeo": 0.267379679144385
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 19,
-"udeo": 0.21167557932263814
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 8,
-"udeo": 0.08912655971479501
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 8,
-"udeo": 0.08912655971479501
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.06684491978609625
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 5,
-"udeo": 0.055704099821746886
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.044563279857397504
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-}
-],
-"teritorija": "Србобран",
-"brojUpisanihBiracaUBirackiSpisak": 13913,
-"percentage": 64.51520161000502,
-"biraciKojiSuGlasali": 8976,
-"teritorijaSlug": "srbobran"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 7982,
-"udeo": 30.58823529411765
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 5080,
-"udeo": 19.46733090630389
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 4874,
-"udeo": 18.677907645142746
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 2740,
-"udeo": 10.50009580379383
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 1566,
-"udeo": 6.001149645525962
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 1356,
-"udeo": 5.196397777351983
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 787,
-"udeo": 3.015903429775819
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 674,
-"udeo": 2.582870281663154
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 379,
-"udeo": 1.4523855144663729
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 57,
-"udeo": 0.21843264993293732
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 26,
-"udeo": 0.0996359455834451
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 26,
-"udeo": 0.0996359455834451
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 23,
-"udeo": 0.08813949032381682
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 15,
-"udeo": 0.057482276298141406
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.042153669285303695
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.042153669285303695
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 10,
-"udeo": 0.03832151753209427
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 7,
-"udeo": 0.02682506227246599
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 5,
-"udeo": 0.019160758766047135
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 2,
-"udeo": 0.007664303506418854
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Горњи Милановац",
-"brojUpisanihBiracaUBirackiSpisak": 40667,
-"percentage": 64.16750682371456,
-"biraciKojiSuGlasali": 26095,
-"teritorijaSlug": "gornji-milanovac"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 21214,
-"udeo": 32.492456615969004
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 16977,
-"udeo": 26.00284887193861
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 8645,
-"udeo": 13.241127908223438
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 4709,
-"udeo": 7.212547289742529
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 4098,
-"udeo": 6.276708174424482
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 3880,
-"udeo": 5.942808130006586
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 1695,
-"udeo": 2.596149427928135
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 1025,
-"udeo": 1.56994286939607
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 738,
-"udeo": 1.1303588659651702
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 314,
-"udeo": 0.48093859608816186
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 239,
-"udeo": 0.3660647275957665
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 181,
-"udeo": 0.27722893596164744
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 165,
-"udeo": 0.2527225106832698
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 45,
-"udeo": 0.06892432109543721
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 38,
-"udeo": 0.05820276003614698
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 34,
-"udeo": 0.05207615371655256
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 33,
-"udeo": 0.05054450213665395
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 18,
-"udeo": 0.027569728438174883
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 14,
-"udeo": 0.021443122118580467
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.004594954739695814
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Шабац",
-"brojUpisanihBiracaUBirackiSpisak": 102782,
-"percentage": 63.52182288727598,
-"biraciKojiSuGlasali": 65289,
-"teritorijaSlug": "sabac"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
 "glasova": 2424,
 "udeo": 31.362401345581574
 },
@@ -29678,10 +28922,19 @@
 {
 "rezultat": [
 {
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 10063,
+"udeo": 30.286522602780952
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
 "izbornaLista": "ДС",
 "rezultat": {
-"glasova": 12533,
-"udeo": 34.85455253351132
+"glasova": 8243,
+"udeo": 24.808884608439175
 },
 "boja": "#fb9a99",
 "izbornaListaSlug": "ds"
@@ -29689,35 +28942,17 @@
 {
 "izbornaLista": "ДСС",
 "rezultat": {
-"glasova": 6929,
-"udeo": 19.269703543022416
+"glasova": 3181,
+"udeo": 9.573827725275388
 },
 "boja": "#b2df8a",
 "izbornaListaSlug": "dss"
 },
 {
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 5761,
-"udeo": 16.02146949218533
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 4286,
-"udeo": 11.919461594081984
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
 "izbornaLista": "Г17",
 "rezultat": {
-"glasova": 1722,
-"udeo": 4.788920407141665
+"glasova": 2838,
+"udeo": 8.541503641726358
 },
 "boja": "#fb9a99",
 "izbornaListaSlug": "g17"
@@ -29725,17 +28960,26 @@
 {
 "izbornaLista": "СПС",
 "rezultat": {
-"glasova": 1401,
-"udeo": 3.8962122476222256
+"glasova": 2061,
+"udeo": 6.202973574911215
 },
 "boja": "#cab2d6",
 "izbornaListaSlug": "sps"
 },
 {
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 1259,
+"udeo": 3.7892012279540115
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
 "izbornaLista": "ПУПС-СДП",
 "rezultat": {
-"glasova": 994,
-"udeo": 2.764336169976083
+"glasova": 1258,
+"udeo": 3.78619153674833
 },
 "boja": "#b2df8a",
 "izbornaListaSlug": "pups-sdp"
@@ -29743,107 +28987,107 @@
 {
 "izbornaLista": "СПО",
 "rezultat": {
-"glasova": 848,
-"udeo": 2.358306913621447
+"glasova": 1209,
+"udeo": 3.638716667669897
 },
 "boja": "#b2df8a",
 "izbornaListaSlug": "spo"
 },
 {
-"izbornaLista": "ПСС",
+"izbornaLista": "ЛДП",
 "rezultat": {
-"glasova": 316,
-"udeo": 0.878803048000445
+"glasova": 1169,
+"udeo": 3.518329019442605
 },
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 274,
-"udeo": 0.7620001112408921
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
 },
 {
 "izbornaLista": "УРС",
 "rezultat": {
-"glasova": 148,
-"udeo": 0.41159130096223373
+"glasova": 735,
+"udeo": 2.2121230361764885
 },
 "boja": "#cab2d6",
 "izbornaListaSlug": "urs"
 },
 {
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 68,
-"udeo": 0.1891095166583236
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
 "izbornaLista": "ДЗС",
 "rezultat": {
-"glasova": 49,
-"udeo": 0.13627009288614494
+"glasova": 112,
+"udeo": 0.33708541503641726
 },
 "boja": "#cab2d6",
 "izbornaListaSlug": "dzs"
 },
 {
-"izbornaLista": "СВМ",
+"izbornaLista": "Б.ПАВЛОВИЋ",
 "rezultat": {
-"glasova": 14,
-"udeo": 0.03893431225318427
+"glasova": 90,
+"udeo": 0.27087220851140675
 },
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 89,
+"udeo": 0.2678625173057244
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
 },
 {
 "izbornaLista": "СД",
 "rezultat": {
-"glasova": 14,
-"udeo": 0.03893431225318427
+"glasova": 69,
+"udeo": 0.20766869319207848
 },
 "boja": "#cab2d6",
 "izbornaListaSlug": "sd"
 },
 {
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.030591245341787643
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 9,
-"udeo": 0.02502920073418989
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
 "izbornaLista": "РС",
 "rezultat": {
-"glasova": 9,
-"udeo": 0.02502920073418989
+"glasova": 48,
+"udeo": 0.14446517787275026
 },
 "boja": "#cab2d6",
 "izbornaListaSlug": "rs"
 },
 {
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 34,
+"udeo": 0.1023295009931981
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 28,
+"udeo": 0.08427135375910431
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 27,
+"udeo": 0.08126166255342201
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
 "izbornaLista": "КАПД",
 "rezultat": {
-"glasova": 9,
-"udeo": 0.02502920073418989
+"glasova": 12,
+"udeo": 0.036116294468187565
 },
 "boja": "#cab2d6",
 "izbornaListaSlug": "kapd"
@@ -29851,18 +29095,585 @@
 {
 "izbornaLista": "КМС",
 "rezultat": {
-"glasova": 4,
-"udeo": 0.011124089215195506
+"glasova": 10,
+"udeo": 0.03009691205682297
 },
 "boja": "#cab2d6",
 "izbornaListaSlug": "kms"
 }
 ],
-"teritorija": "Врачар",
-"brojUpisanihBiracaUBirackiSpisak": 61965,
-"percentage": 58.02953280077463,
-"biraciKojiSuGlasali": 35958,
-"teritorijaSlug": "vracar"
+"teritorija": "Пирот",
+"brojUpisanihBiracaUBirackiSpisak": 51496,
+"percentage": 64.52151623427062,
+"biraciKojiSuGlasali": 33226,
+"teritorijaSlug": "pirot"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 3561,
+"udeo": 39.67245989304813
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 1660,
+"udeo": 18.493761140819963
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 570,
+"udeo": 6.350267379679145
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 556,
+"udeo": 6.194295900178253
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 467,
+"udeo": 5.202762923351158
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 446,
+"udeo": 4.968805704099822
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 302,
+"udeo": 3.364527629233512
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 301,
+"udeo": 3.353386809269162
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 267,
+"udeo": 2.9745989304812834
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 267,
+"udeo": 2.9745989304812834
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 138,
+"udeo": 1.537433155080214
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 130,
+"udeo": 1.4483065953654188
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 99,
+"udeo": 1.1029411764705883
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 24,
+"udeo": 0.267379679144385
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 19,
+"udeo": 0.21167557932263814
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 8,
+"udeo": 0.08912655971479501
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 8,
+"udeo": 0.08912655971479501
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.06684491978609625
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 5,
+"udeo": 0.055704099821746886
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.044563279857397504
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+}
+],
+"teritorija": "Србобран",
+"brojUpisanihBiracaUBirackiSpisak": 13913,
+"percentage": 64.51520161000502,
+"biraciKojiSuGlasali": 8976,
+"teritorijaSlug": "srbobran"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 7982,
+"udeo": 30.58823529411765
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 5080,
+"udeo": 19.46733090630389
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 4874,
+"udeo": 18.677907645142746
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 2740,
+"udeo": 10.50009580379383
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 1566,
+"udeo": 6.001149645525962
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 1356,
+"udeo": 5.196397777351983
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 787,
+"udeo": 3.015903429775819
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 674,
+"udeo": 2.582870281663154
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 379,
+"udeo": 1.4523855144663729
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 57,
+"udeo": 0.21843264993293732
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 26,
+"udeo": 0.0996359455834451
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 26,
+"udeo": 0.0996359455834451
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 23,
+"udeo": 0.08813949032381682
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 15,
+"udeo": 0.057482276298141406
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.042153669285303695
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.042153669285303695
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 10,
+"udeo": 0.03832151753209427
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 7,
+"udeo": 0.02682506227246599
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 5,
+"udeo": 0.019160758766047135
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 2,
+"udeo": 0.007664303506418854
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Горњи Милановац",
+"brojUpisanihBiracaUBirackiSpisak": 40667,
+"percentage": 64.16750682371456,
+"biraciKojiSuGlasali": 26095,
+"teritorijaSlug": "gornji-milanovac"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 21214,
+"udeo": 32.492456615969004
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 16977,
+"udeo": 26.00284887193861
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 8645,
+"udeo": 13.241127908223438
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 4709,
+"udeo": 7.212547289742529
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 4098,
+"udeo": 6.276708174424482
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 3880,
+"udeo": 5.942808130006586
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 1695,
+"udeo": 2.596149427928135
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 1025,
+"udeo": 1.56994286939607
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 738,
+"udeo": 1.1303588659651702
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 314,
+"udeo": 0.48093859608816186
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 239,
+"udeo": 0.3660647275957665
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 181,
+"udeo": 0.27722893596164744
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 165,
+"udeo": 0.2527225106832698
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 45,
+"udeo": 0.06892432109543721
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 38,
+"udeo": 0.05820276003614698
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 34,
+"udeo": 0.05207615371655256
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 33,
+"udeo": 0.05054450213665395
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 18,
+"udeo": 0.027569728438174883
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 14,
+"udeo": 0.021443122118580467
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.004594954739695814
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Шабац",
+"brojUpisanihBiracaUBirackiSpisak": 102782,
+"percentage": 63.52182288727598,
+"biraciKojiSuGlasali": 65289,
+"teritorijaSlug": "sabac"
 },
 {
 "rezultat": [
@@ -30430,6 +30241,195 @@
 "percentage": 67.09790593136718,
 "biraciKojiSuGlasali": 12240,
 "teritorijaSlug": "surdulica"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 12533,
+"udeo": 34.85455253351132
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 6929,
+"udeo": 19.269703543022416
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 5761,
+"udeo": 16.02146949218533
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 4286,
+"udeo": 11.919461594081984
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 1722,
+"udeo": 4.788920407141665
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 1401,
+"udeo": 3.8962122476222256
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 994,
+"udeo": 2.764336169976083
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 848,
+"udeo": 2.358306913621447
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 316,
+"udeo": 0.878803048000445
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 274,
+"udeo": 0.7620001112408921
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 148,
+"udeo": 0.41159130096223373
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 68,
+"udeo": 0.1891095166583236
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 49,
+"udeo": 0.13627009288614494
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 14,
+"udeo": 0.03893431225318427
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 14,
+"udeo": 0.03893431225318427
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.030591245341787643
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 9,
+"udeo": 0.02502920073418989
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 9,
+"udeo": 0.02502920073418989
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 9,
+"udeo": 0.02502920073418989
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.011124089215195506
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Врачар",
+"brojUpisanihBiracaUBirackiSpisak": 61965,
+"percentage": 58.02953280077463,
+"biraciKojiSuGlasali": 35958,
+"teritorijaSlug": "vracar"
 },
 {
 "rezultat": [
@@ -32704,6 +32704,1896 @@
 {
 "izbornaLista": "СРС",
 "rezultat": {
+"glasova": 13580,
+"udeo": 42.04855090413673
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 7236,
+"udeo": 22.405251424324995
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 3882,
+"udeo": 12.02006440426059
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 2118,
+"udeo": 6.55808768887788
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 1583,
+"udeo": 4.901535793906366
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 1358,
+"udeo": 4.204855090413673
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 600,
+"udeo": 1.857815209313847
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 453,
+"udeo": 1.4026504830319544
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 448,
+"udeo": 1.3871686896210056
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 165,
+"udeo": 0.510899182561308
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 136,
+"udeo": 0.4211047807778053
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 110,
+"udeo": 0.3405994550408719
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 46,
+"udeo": 0.14243249938072827
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 30,
+"udeo": 0.09289076046569235
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 15,
+"udeo": 0.046445380232846174
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 12,
+"udeo": 0.03715630418627694
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 7,
+"udeo": 0.021674510775328212
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 5,
+"udeo": 0.015481793410948724
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.009289076046569235
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.009289076046569235
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Стара Пазова",
+"brojUpisanihBiracaUBirackiSpisak": 51263,
+"percentage": 63.000604724655204,
+"biraciKojiSuGlasali": 32296,
+"teritorijaSlug": "stara-pazova"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 152,
+"udeo": 45.9214501510574
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 148,
+"udeo": 44.71299093655589
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 25,
+"udeo": 7.552870090634441
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 6,
+"udeo": 1.812688821752266
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+}
+],
+"teritorija": "Урошевац",
+"brojUpisanihBiracaUBirackiSpisak": 390,
+"percentage": 84.87179487179486,
+"biraciKojiSuGlasali": 331,
+"teritorijaSlug": "urosevac"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 3284,
+"udeo": 34.887920960373954
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 2786,
+"udeo": 29.597365345798366
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 1064,
+"udeo": 11.303516413470732
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 493,
+"udeo": 5.237437586316796
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 449,
+"udeo": 4.769998937639435
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 300,
+"udeo": 3.187081695527462
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 252,
+"udeo": 2.677148624243068
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 142,
+"udeo": 1.5085520025496653
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 118,
+"udeo": 1.2535854669074684
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 118,
+"udeo": 1.2535854669074684
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 91,
+"udeo": 0.9667481143099967
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 84,
+"udeo": 0.8923828747476893
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 36,
+"udeo": 0.38244980346329543
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 13,
+"udeo": 0.1381068734728567
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 8,
+"udeo": 0.08498884521406566
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.06374163391054924
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.06374163391054924
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.04249442260703283
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.03187081695527462
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.03187081695527462
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+}
+],
+"teritorija": "Бач",
+"brojUpisanihBiracaUBirackiSpisak": 13526,
+"percentage": 69.59189708709152,
+"biraciKojiSuGlasali": 9413,
+"teritorijaSlug": "bac"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 8630,
+"udeo": 82.4890078378895
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 665,
+"udeo": 6.356337220416747
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 226,
+"udeo": 2.1601988147581723
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 187,
+"udeo": 1.7874211431848597
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 184,
+"udeo": 1.75874593767922
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 170,
+"udeo": 1.6249283119862359
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 115,
+"udeo": 1.0992162110495125
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 101,
+"udeo": 0.9653985853565283
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 37,
+"udeo": 0.35366086790288664
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 19,
+"udeo": 0.18160963486904988
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 12,
+"udeo": 0.11470082202255784
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 7,
+"udeo": 0.06690881284649207
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.05735041101127892
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.02867520550563946
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.02867520550563946
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.02867520550563946
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.02867520550563946
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 2,
+"udeo": 0.019116803670426306
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 2,
+"udeo": 0.019116803670426306
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.009558401835213153
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Прешево",
+"brojUpisanihBiracaUBirackiSpisak": 30593,
+"percentage": 34.197365410387995,
+"biraciKojiSuGlasali": 10462,
+"teritorijaSlug": "presevo"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 12042,
+"udeo": 34.37821171634121
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 6932,
+"udeo": 19.789882379810436
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 5686,
+"udeo": 16.2327281032317
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 4095,
+"udeo": 11.690647482014388
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 1649,
+"udeo": 4.7076624414753905
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 1249,
+"udeo": 3.565718853488638
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 996,
+"udeo": 2.843439534087016
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 860,
+"udeo": 2.4551787141715202
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 391,
+"udeo": 1.1162498572570516
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 259,
+"udeo": 0.7394084732214229
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 107,
+"udeo": 0.30546990978645655
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 89,
+"udeo": 0.2540824483270527
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 52,
+"udeo": 0.14845266643827795
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 39,
+"udeo": 0.11133949982870847
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 15,
+"udeo": 0.042822884549503254
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 8,
+"udeo": 0.022838871759735067
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 8,
+"udeo": 0.022838871759735067
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 7,
+"udeo": 0.019984012789768184
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 7,
+"udeo": 0.019984012789768184
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+}
+],
+"teritorija": "Стари",
+"brojUpisanihBiracaUBirackiSpisak": 60205,
+"percentage": 58.18121418486837,
+"biraciKojiSuGlasali": 35028,
+"teritorijaSlug": "stari"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 2110,
+"udeo": 26.10416924409254
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 1772,
+"udeo": 21.92255350736113
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 1365,
+"udeo": 16.887294321415318
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 632,
+"udeo": 7.818879129036249
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 525,
+"udeo": 6.495113200544353
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 478,
+"udeo": 5.913645923543239
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 386,
+"udeo": 4.775454657924038
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 248,
+"udeo": 3.068167759495237
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 216,
+"udeo": 2.6722751453668194
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 64,
+"udeo": 0.7917852282568354
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 16,
+"udeo": 0.19794630706420885
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 14,
+"udeo": 0.17320301868118274
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 13,
+"udeo": 0.16083137448966967
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 12,
+"udeo": 0.14845973029815662
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.07422986514907831
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.04948657676605221
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.037114932574539156
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.037114932574539156
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.037114932574539156
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.012371644191513053
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+}
+],
+"teritorija": "Бољевац",
+"brojUpisanihBiracaUBirackiSpisak": 12844,
+"percentage": 62.93210837745251,
+"biraciKojiSuGlasali": 8083,
+"teritorijaSlug": "boljevac"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 22503,
+"udeo": 35.416043689702384
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 11499,
+"udeo": 18.097546388832058
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 11258,
+"udeo": 17.718251782369883
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 4571,
+"udeo": 7.194006830450589
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 3274,
+"udeo": 5.152740836336738
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 3209,
+"udeo": 5.050441461149845
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 2676,
+"udeo": 4.211586584617322
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 1854,
+"udeo": 2.9178929476384585
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 1006,
+"udeo": 1.5832795605848375
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 201,
+"udeo": 0.3163411448087002
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 125,
+"udeo": 0.1967295676671021
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 71,
+"udeo": 0.11174239443491399
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 48,
+"udeo": 0.07554415398416721
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 32,
+"udeo": 0.05036276932277814
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 26,
+"udeo": 0.04091975007475723
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 19,
+"udeo": 0.02990289428539952
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 16,
+"udeo": 0.02518138466138907
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 13,
+"udeo": 0.020459875037378616
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 7,
+"udeo": 0.011016855789357717
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 5,
+"udeo": 0.007869182706684083
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Чачак",
+"brojUpisanihBiracaUBirackiSpisak": 100274,
+"percentage": 63.36537886191834,
+"biraciKojiSuGlasali": 63539,
+"teritorijaSlug": "cacak"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 10494,
+"udeo": 37.34785393978219
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 5286,
+"udeo": 18.812726884475765
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 5170,
+"udeo": 18.3998861128906
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 1471,
+"udeo": 5.235248060360168
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 1396,
+"udeo": 4.968325147697345
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 1216,
+"udeo": 4.32771015730657
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 635,
+"udeo": 2.2599473272119015
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 618,
+"udeo": 2.1994448003416616
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 505,
+"udeo": 1.7972809452630083
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 452,
+"udeo": 1.608655420314613
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 91,
+"udeo": 0.32386646736422525
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 65,
+"udeo": 0.23133319097444655
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 53,
+"udeo": 0.1886255249483949
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 18,
+"udeo": 0.06406149903907751
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 18,
+"udeo": 0.06406149903907751
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 10,
+"udeo": 0.035589721688376395
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 9,
+"udeo": 0.032030749519538756
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 7,
+"udeo": 0.024912805181863475
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.014235888675350559
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.0035589721688376397
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Младеновац",
+"brojUpisanihBiracaUBirackiSpisak": 47447,
+"percentage": 59.21976099648029,
+"biraciKojiSuGlasali": 28098,
+"teritorijaSlug": "mladenovac"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 36770,
+"udeo": 28.191583160186767
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 33460,
+"udeo": 25.653803985310013
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 23266,
+"udeo": 17.838057487215266
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 9987,
+"udeo": 7.657039462082819
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 7012,
+"udeo": 5.376105007321992
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 6774,
+"udeo": 5.193630250941125
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 5782,
+"udeo": 4.4330631991351614
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 1877,
+"udeo": 1.4390971333062432
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 1359,
+"udeo": 1.0419461929478873
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 1053,
+"udeo": 0.8073357918867737
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 366,
+"udeo": 0.2806124404848615
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 306,
+"udeo": 0.23461040106111372
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 172,
+"udeo": 0.13187251301474368
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 104,
+"udeo": 0.07973686833449616
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 49,
+"udeo": 0.03756833219606069
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 45,
+"udeo": 0.03450152956781084
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 36,
+"udeo": 0.027601223654248674
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 28,
+"udeo": 0.021467618397748967
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 24,
+"udeo": 0.018400815769499115
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 16,
+"udeo": 0.01226721051299941
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Нови Београд",
+"brojUpisanihBiracaUBirackiSpisak": 212356,
+"percentage": 61.4199740059146,
+"biraciKojiSuGlasali": 130429,
+"teritorijaSlug": "novi-beograd"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
+"glasova": 4415,
+"udeo": 42.43152330610284
+},
+"boja": "#1f78b4",
+"izbornaListaSlug": "srs"
+},
+{
+"izbornaLista": "ДС",
+"rezultat": {
+"glasova": 2076,
+"udeo": 19.95194617972129
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ds"
+},
+{
+"izbornaLista": "ДСС",
+"rezultat": {
+"glasova": 969,
+"udeo": 9.312830370014415
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "dss"
+},
+{
+"izbornaLista": "Г17",
+"rezultat": {
+"glasova": 761,
+"udeo": 7.31379144641999
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "g17"
+},
+{
+"izbornaLista": "ЛДП",
+"rezultat": {
+"glasova": 414,
+"udeo": 3.9788563190773667
+},
+"boja": "#fb9a99",
+"izbornaListaSlug": "ldp"
+},
+{
+"izbornaLista": "СПС",
+"rezultat": {
+"glasova": 386,
+"udeo": 3.7097549255165783
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sps"
+},
+{
+"izbornaLista": "ПУПС-СДП",
+"rezultat": {
+"glasova": 368,
+"udeo": 3.536761172513215
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pups-sdp"
+},
+{
+"izbornaLista": "СПО",
+"rezultat": {
+"glasova": 263,
+"udeo": 2.5276309466602593
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "spo"
+},
+{
+"izbornaLista": "РП",
+"rezultat": {
+"glasova": 224,
+"udeo": 2.152811148486305
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rp"
+},
+{
+"izbornaLista": "УРС",
+"rezultat": {
+"glasova": 95,
+"udeo": 0.9130225852955309
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "urs"
+},
+{
+"izbornaLista": "ПСС",
+"rezultat": {
+"glasova": 65,
+"udeo": 0.6246996636232581
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "pss"
+},
+{
+"izbornaLista": "КВП",
+"rezultat": {
+"glasova": 58,
+"udeo": 0.557424315233061
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kvp"
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"rezultat": {
+"glasova": 35,
+"udeo": 0.3363767419509851
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "b-pavlovic"
+},
+{
+"izbornaLista": "СД",
+"rezultat": {
+"glasova": 35,
+"udeo": 0.3363767419509851
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "sd"
+},
+{
+"izbornaLista": "ДЗС",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.10571840461316676
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "dzs"
+},
+{
+"izbornaLista": "СВМ",
+"rezultat": {
+"glasova": 8,
+"udeo": 0.07688611244593946
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "svm"
+},
+{
+"izbornaLista": "КЛС",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.05766458433445459
+},
+"boja": "#b2df8a",
+"izbornaListaSlug": "kls"
+},
+{
+"izbornaLista": "РС",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.03844305622296973
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "rs"
+},
+{
+"izbornaLista": "КАПД",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.009610764055742432
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kapd"
+},
+{
+"izbornaLista": "КМС",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.009610764055742432
+},
+"boja": "#cab2d6",
+"izbornaListaSlug": "kms"
+}
+],
+"teritorija": "Пећинци",
+"brojUpisanihBiracaUBirackiSpisak": 15721,
+"percentage": 66.18535716557471,
+"biraciKojiSuGlasali": 10405,
+"teritorijaSlug": "pecinci"
+},
+{
+"rezultat": [
+{
+"izbornaLista": "СРС",
+"rezultat": {
 "glasova": 43557,
 "udeo": 30.328371095545126
 },
@@ -34777,2227 +36667,148 @@
 "percentage": 65.09528428826235,
 "biraciKojiSuGlasali": 83210,
 "teritorijaSlug": "leskovac"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 13580,
-"udeo": 42.04855090413673
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 7236,
-"udeo": 22.405251424324995
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 3882,
-"udeo": 12.02006440426059
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 2118,
-"udeo": 6.55808768887788
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 1583,
-"udeo": 4.901535793906366
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 1358,
-"udeo": 4.204855090413673
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 600,
-"udeo": 1.857815209313847
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 453,
-"udeo": 1.4026504830319544
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 448,
-"udeo": 1.3871686896210056
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 165,
-"udeo": 0.510899182561308
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 136,
-"udeo": 0.4211047807778053
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 110,
-"udeo": 0.3405994550408719
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 46,
-"udeo": 0.14243249938072827
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 30,
-"udeo": 0.09289076046569235
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 15,
-"udeo": 0.046445380232846174
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 12,
-"udeo": 0.03715630418627694
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 7,
-"udeo": 0.021674510775328212
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 5,
-"udeo": 0.015481793410948724
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.009289076046569235
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.009289076046569235
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Стара Пазова",
-"brojUpisanihBiracaUBirackiSpisak": 51263,
-"percentage": 63.000604724655204,
-"biraciKojiSuGlasali": 32296,
-"teritorijaSlug": "stara-pazova"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 152,
-"udeo": 45.9214501510574
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 148,
-"udeo": 44.71299093655589
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 25,
-"udeo": 7.552870090634441
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 6,
-"udeo": 1.812688821752266
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-}
-],
-"teritorija": "Урошевац",
-"brojUpisanihBiracaUBirackiSpisak": 390,
-"percentage": 84.87179487179486,
-"biraciKojiSuGlasali": 331,
-"teritorijaSlug": "urosevac"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 3284,
-"udeo": 34.887920960373954
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 2786,
-"udeo": 29.597365345798366
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 1064,
-"udeo": 11.303516413470732
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 493,
-"udeo": 5.237437586316796
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 449,
-"udeo": 4.769998937639435
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 300,
-"udeo": 3.187081695527462
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 252,
-"udeo": 2.677148624243068
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 142,
-"udeo": 1.5085520025496653
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 118,
-"udeo": 1.2535854669074684
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 118,
-"udeo": 1.2535854669074684
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 91,
-"udeo": 0.9667481143099967
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 84,
-"udeo": 0.8923828747476893
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 36,
-"udeo": 0.38244980346329543
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 13,
-"udeo": 0.1381068734728567
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 8,
-"udeo": 0.08498884521406566
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.06374163391054924
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.06374163391054924
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.04249442260703283
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.03187081695527462
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.03187081695527462
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-}
-],
-"teritorija": "Бач",
-"brojUpisanihBiracaUBirackiSpisak": 13526,
-"percentage": 69.59189708709152,
-"biraciKojiSuGlasali": 9413,
-"teritorijaSlug": "bac"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 8630,
-"udeo": 82.4890078378895
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 665,
-"udeo": 6.356337220416747
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 226,
-"udeo": 2.1601988147581723
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 187,
-"udeo": 1.7874211431848597
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 184,
-"udeo": 1.75874593767922
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 170,
-"udeo": 1.6249283119862359
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 115,
-"udeo": 1.0992162110495125
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 101,
-"udeo": 0.9653985853565283
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 37,
-"udeo": 0.35366086790288664
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 19,
-"udeo": 0.18160963486904988
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 12,
-"udeo": 0.11470082202255784
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 7,
-"udeo": 0.06690881284649207
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.05735041101127892
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.02867520550563946
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.02867520550563946
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.02867520550563946
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.02867520550563946
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 2,
-"udeo": 0.019116803670426306
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 2,
-"udeo": 0.019116803670426306
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.009558401835213153
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Прешево",
-"brojUpisanihBiracaUBirackiSpisak": 30593,
-"percentage": 34.197365410387995,
-"biraciKojiSuGlasali": 10462,
-"teritorijaSlug": "presevo"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 12042,
-"udeo": 34.37821171634121
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 6932,
-"udeo": 19.789882379810436
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 5686,
-"udeo": 16.2327281032317
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 4095,
-"udeo": 11.690647482014388
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 1649,
-"udeo": 4.7076624414753905
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 1249,
-"udeo": 3.565718853488638
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 996,
-"udeo": 2.843439534087016
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 860,
-"udeo": 2.4551787141715202
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 391,
-"udeo": 1.1162498572570516
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 259,
-"udeo": 0.7394084732214229
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 107,
-"udeo": 0.30546990978645655
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 89,
-"udeo": 0.2540824483270527
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 52,
-"udeo": 0.14845266643827795
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 39,
-"udeo": 0.11133949982870847
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 15,
-"udeo": 0.042822884549503254
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 8,
-"udeo": 0.022838871759735067
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 8,
-"udeo": 0.022838871759735067
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 7,
-"udeo": 0.019984012789768184
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 7,
-"udeo": 0.019984012789768184
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-}
-],
-"teritorija": "Стари",
-"brojUpisanihBiracaUBirackiSpisak": 60205,
-"percentage": 58.18121418486837,
-"biraciKojiSuGlasali": 35028,
-"teritorijaSlug": "stari"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 2110,
-"udeo": 26.10416924409254
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 1772,
-"udeo": 21.92255350736113
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 1365,
-"udeo": 16.887294321415318
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 632,
-"udeo": 7.818879129036249
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 525,
-"udeo": 6.495113200544353
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 478,
-"udeo": 5.913645923543239
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 386,
-"udeo": 4.775454657924038
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 248,
-"udeo": 3.068167759495237
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 216,
-"udeo": 2.6722751453668194
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 64,
-"udeo": 0.7917852282568354
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 16,
-"udeo": 0.19794630706420885
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 14,
-"udeo": 0.17320301868118274
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 13,
-"udeo": 0.16083137448966967
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 12,
-"udeo": 0.14845973029815662
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.07422986514907831
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.04948657676605221
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.037114932574539156
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.037114932574539156
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.037114932574539156
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.012371644191513053
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-}
-],
-"teritorija": "Бољевац",
-"brojUpisanihBiracaUBirackiSpisak": 12844,
-"percentage": 62.93210837745251,
-"biraciKojiSuGlasali": 8083,
-"teritorijaSlug": "boljevac"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 22503,
-"udeo": 35.416043689702384
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 11499,
-"udeo": 18.097546388832058
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 11258,
-"udeo": 17.718251782369883
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 4571,
-"udeo": 7.194006830450589
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 3274,
-"udeo": 5.152740836336738
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 3209,
-"udeo": 5.050441461149845
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 2676,
-"udeo": 4.211586584617322
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 1854,
-"udeo": 2.9178929476384585
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 1006,
-"udeo": 1.5832795605848375
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 201,
-"udeo": 0.3163411448087002
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 125,
-"udeo": 0.1967295676671021
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 71,
-"udeo": 0.11174239443491399
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 48,
-"udeo": 0.07554415398416721
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 32,
-"udeo": 0.05036276932277814
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 26,
-"udeo": 0.04091975007475723
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 19,
-"udeo": 0.02990289428539952
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 16,
-"udeo": 0.02518138466138907
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 13,
-"udeo": 0.020459875037378616
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 7,
-"udeo": 0.011016855789357717
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 5,
-"udeo": 0.007869182706684083
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Чачак",
-"brojUpisanihBiracaUBirackiSpisak": 100274,
-"percentage": 63.36537886191834,
-"biraciKojiSuGlasali": 63539,
-"teritorijaSlug": "cacak"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 10494,
-"udeo": 37.34785393978219
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 5286,
-"udeo": 18.812726884475765
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 5170,
-"udeo": 18.3998861128906
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 1471,
-"udeo": 5.235248060360168
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 1396,
-"udeo": 4.968325147697345
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 1216,
-"udeo": 4.32771015730657
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 635,
-"udeo": 2.2599473272119015
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 618,
-"udeo": 2.1994448003416616
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 505,
-"udeo": 1.7972809452630083
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 452,
-"udeo": 1.608655420314613
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 91,
-"udeo": 0.32386646736422525
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 65,
-"udeo": 0.23133319097444655
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 53,
-"udeo": 0.1886255249483949
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 18,
-"udeo": 0.06406149903907751
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 18,
-"udeo": 0.06406149903907751
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 10,
-"udeo": 0.035589721688376395
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 9,
-"udeo": 0.032030749519538756
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 7,
-"udeo": 0.024912805181863475
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.014235888675350559
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.0035589721688376397
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Младеновац",
-"brojUpisanihBiracaUBirackiSpisak": 47447,
-"percentage": 59.21976099648029,
-"biraciKojiSuGlasali": 28098,
-"teritorijaSlug": "mladenovac"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 36770,
-"udeo": 28.191583160186767
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 33460,
-"udeo": 25.653803985310013
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 23266,
-"udeo": 17.838057487215266
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 9987,
-"udeo": 7.657039462082819
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 7012,
-"udeo": 5.376105007321992
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 6774,
-"udeo": 5.193630250941125
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 5782,
-"udeo": 4.4330631991351614
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 1877,
-"udeo": 1.4390971333062432
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 1359,
-"udeo": 1.0419461929478873
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 1053,
-"udeo": 0.8073357918867737
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 366,
-"udeo": 0.2806124404848615
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 306,
-"udeo": 0.23461040106111372
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 172,
-"udeo": 0.13187251301474368
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 104,
-"udeo": 0.07973686833449616
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 49,
-"udeo": 0.03756833219606069
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 45,
-"udeo": 0.03450152956781084
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 36,
-"udeo": 0.027601223654248674
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 28,
-"udeo": 0.021467618397748967
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 24,
-"udeo": 0.018400815769499115
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 16,
-"udeo": 0.01226721051299941
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Нови Београд",
-"brojUpisanihBiracaUBirackiSpisak": 212356,
-"percentage": 61.4199740059146,
-"biraciKojiSuGlasali": 130429,
-"teritorijaSlug": "novi-beograd"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 4415,
-"udeo": 42.43152330610284
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 2076,
-"udeo": 19.95194617972129
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 969,
-"udeo": 9.312830370014415
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 761,
-"udeo": 7.31379144641999
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 414,
-"udeo": 3.9788563190773667
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 386,
-"udeo": 3.7097549255165783
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 368,
-"udeo": 3.536761172513215
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 263,
-"udeo": 2.5276309466602593
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 224,
-"udeo": 2.152811148486305
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 95,
-"udeo": 0.9130225852955309
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 65,
-"udeo": 0.6246996636232581
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 58,
-"udeo": 0.557424315233061
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 35,
-"udeo": 0.3363767419509851
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 35,
-"udeo": 0.3363767419509851
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.10571840461316676
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 8,
-"udeo": 0.07688611244593946
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.05766458433445459
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.03844305622296973
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.009610764055742432
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.009610764055742432
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-}
-],
-"teritorija": "Пећинци",
-"brojUpisanihBiracaUBirackiSpisak": 15721,
-"percentage": 66.18535716557471,
-"biraciKojiSuGlasali": 10405,
-"teritorijaSlug": "pecinci"
-},
-{
-"rezultat": [
-{
-"izbornaLista": "СРС",
-"rezultat": {
-"glasova": 1153453,
-"udeo": 28.596216865092256
-},
-"boja": "#1f78b4",
-"izbornaListaSlug": "srs"
-},
-{
-"izbornaLista": "ДС",
-"rezultat": {
-"glasova": 915854,
-"udeo": 22.705701576711146
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ds"
-},
-{
-"izbornaLista": "ДСС",
-"rezultat": {
-"glasova": 667615,
-"udeo": 16.551401160158726
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "dss"
-},
-{
-"izbornaLista": "Г17",
-"rezultat": {
-"glasova": 275041,
-"udeo": 6.81877118772229
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "g17"
-},
-{
-"izbornaLista": "СПС",
-"rezultat": {
-"glasova": 227580,
-"udeo": 5.642125889964909
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sps"
-},
-{
-"izbornaLista": "ЛДП",
-"rezultat": {
-"glasova": 214262,
-"udeo": 5.311948226714393
-},
-"boja": "#fb9a99",
-"izbornaListaSlug": "ldp"
-},
-{
-"izbornaLista": "СПО",
-"rezultat": {
-"glasova": 134147,
-"udeo": 3.32575033729292
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "spo"
-},
-{
-"izbornaLista": "ПУПС-СДП",
-"rezultat": {
-"glasova": 125342,
-"udeo": 3.1074582269970197
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pups-sdp"
-},
-{
-"izbornaLista": "ПСС",
-"rezultat": {
-"glasova": 70727,
-"udeo": 1.75345213911393
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "pss"
-},
-{
-"izbornaLista": "СВМ",
-"rezultat": {
-"glasova": 52510,
-"udeo": 1.3018192744619799
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "svm"
-},
-{
-"izbornaLista": "КЛС",
-"rezultat": {
-"glasova": 33823,
-"udeo": 0.8385342471934404
-},
-"boja": "#b2df8a",
-"izbornaListaSlug": "kls"
-},
-{
-"izbornaLista": "УРС",
-"rezultat": {
-"glasova": 17128,
-"udeo": 0.4246345559509578
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "urs"
-},
-{
-"izbornaLista": "КАПД",
-"rezultat": {
-"glasova": 16973,
-"udeo": 0.4207918214710186
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kapd"
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"rezultat": {
-"glasova": 15722,
-"udeo": 0.3897772354426062
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "b-pavlovic"
-},
-{
-"izbornaLista": "РП",
-"rezultat": {
-"glasova": 14631,
-"udeo": 0.36272934307090515
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rp"
-},
-{
-"izbornaLista": "КМС",
-"rezultat": {
-"glasova": 12940,
-"udeo": 0.3208063494865363
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kms"
-},
-{
-"izbornaLista": "КВП",
-"rezultat": {
-"glasova": 7359,
-"udeo": 0.182443116373371
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "kvp"
-},
-{
-"izbornaLista": "ДЗС",
-"rezultat": {
-"glasova": 5438,
-"udeo": 0.13481800065747948
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "dzs"
-},
-{
-"izbornaLista": "СД",
-"rezultat": {
-"glasova": 4909,
-"udeo": 0.12170311975497733
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "sd"
-},
-{
-"izbornaLista": "РС",
-"rezultat": {
-"glasova": 1881,
-"udeo": 0.046633442301713665
-},
-"boja": "#cab2d6",
-"izbornaListaSlug": "rs"
-}
-],
-"teritorija": "Република Србија",
-"brojUpisanihBiracaUBirackiSpisak": 6653851,
-"percentage": 60.620323478839545,
-"biraciKojiSuGlasali": 4033586,
-"teritorijaSlug": "republika-srbija"
 }
 ],
 "candidates": [
 {
 "izbornaLista": "СРС",
 "izbornaListaSlug": "srs",
-"glasova": 2672938,
+"glasova": 1519485,
 "boja": "#1f78b4",
-"udeo": 29.377002955243377
+"udeo": 29.611463364441104
 },
 {
 "izbornaLista": "ДС",
 "izbornaListaSlug": "ds",
-"glasova": 2106284,
+"glasova": 1190430,
 "boja": "#fb9a99",
-"udeo": 23.149175660857768
+"udeo": 23.198895897578208
 },
 {
 "izbornaLista": "ДСС",
 "izbornaListaSlug": "dss",
-"glasova": 1459447,
+"glasova": 791832,
 "boja": "#b2df8a",
-"udeo": 16.040094769134594
+"udeo": 15.431086360702558
 },
 {
 "izbornaLista": "Г17",
 "izbornaListaSlug": "g17",
-"glasova": 623215,
+"glasova": 348174,
 "boja": "#fb9a99",
-"udeo": 6.849462612582859
+"udeo": 6.785155263428673
 },
 {
 "izbornaLista": "ЛДП",
 "izbornaListaSlug": "ldp",
-"glasova": 519524,
+"glasova": 305262,
 "boja": "#fb9a99",
-"udeo": 5.7098436564259485
+"udeo": 5.948893559038767
 },
 {
 "izbornaLista": "СПС",
 "izbornaListaSlug": "sps",
-"glasova": 503945,
+"glasova": 276365,
 "boja": "#cab2d6",
-"udeo": 5.5386222030889325
-},
-{
-"izbornaLista": "СПО",
-"izbornaListaSlug": "spo",
-"glasova": 293227,
-"boja": "#b2df8a",
-"udeo": 3.222719885592988
+"udeo": 5.385753773623146
 },
 {
 "izbornaLista": "ПУПС-СДП",
 "izbornaListaSlug": "pups-sdp",
-"glasova": 286323,
+"glasova": 160981,
 "boja": "#b2df8a",
-"udeo": 3.146841272470274
+"udeo": 3.137170149011733
+},
+{
+"izbornaLista": "СПО",
+"izbornaListaSlug": "spo",
+"glasova": 159080,
+"boja": "#b2df8a",
+"udeo": 3.100123786687786
 },
 {
 "izbornaLista": "СВМ",
 "izbornaListaSlug": "svm",
-"glasova": 168803,
+"glasova": 116293,
 "boja": "#b2df8a",
-"udeo": 1.8552342889561777
+"udeo": 2.266298060883095
 },
 {
 "izbornaLista": "ПСС",
 "izbornaListaSlug": "pss",
-"glasova": 161458,
+"glasova": 90731,
 "boja": "#b2df8a",
-"udeo": 1.7745088524865467
+"udeo": 1.7681501841210054
 },
 {
 "izbornaLista": "КЛС",
 "izbornaListaSlug": "kls",
-"glasova": 68327,
+"glasova": 34504,
 "boja": "#b2df8a",
-"udeo": 0.7509498839564982
+"udeo": 0.6724080408340166
 },
 {
 "izbornaLista": "КМС",
 "izbornaListaSlug": "kms",
-"glasova": 41756,
+"glasova": 28816,
 "boja": "#cab2d6",
-"udeo": 0.45892053440788466
+"udeo": 0.5615612712924016
 },
 {
 "izbornaLista": "УРС",
 "izbornaListaSlug": "urs",
-"glasova": 38062,
+"glasova": 20934,
 "boja": "#cab2d6",
-"udeo": 0.41832151979674553
+"udeo": 0.407958205623096
 },
 {
 "izbornaLista": "Б.ПАВЛОВИЋ",
 "izbornaListaSlug": "b-pavlovic",
-"glasova": 36601,
+"glasova": 20879,
 "boja": "#cab2d6",
-"udeo": 0.40226435673587
+"udeo": 0.4068863750456015
 },
 {
 "izbornaLista": "РП",
 "izbornaListaSlug": "rp",
-"glasova": 34845,
+"glasova": 20214,
 "boja": "#cab2d6",
-"udeo": 0.3829649875812516
+"udeo": 0.39392696897225865
 },
 {
 "izbornaLista": "КАПД",
 "izbornaListaSlug": "kapd",
-"glasova": 34378,
+"glasova": 17405,
 "boja": "#cab2d6",
-"udeo": 0.37783241047691973
+"udeo": 0.3391856582053113
 },
 {
 "izbornaLista": "КВП",
 "izbornaListaSlug": "kvp",
-"glasova": 22036,
+"glasova": 14677,
 "boja": "#cab2d6",
-"udeo": 0.24218729993802443
+"udeo": 0.28602286156158313
 },
 {
 "izbornaLista": "ДЗС",
 "izbornaListaSlug": "dzs",
-"glasova": 12273,
+"glasova": 6835,
 "boja": "#cab2d6",
-"udeo": 0.13488676402883343
+"udeo": 0.13319930903954627
 },
 {
 "izbornaLista": "СД",
 "izbornaListaSlug": "sd",
-"glasova": 11160,
+"glasova": 6251,
 "boja": "#cab2d6",
-"udeo": 0.1226543051056613
+"udeo": 0.12181841708942262
 },
 {
 "izbornaLista": "РС",
 "izbornaListaSlug": "rs",
-"glasova": 4141,
+"glasova": 2260,
 "boja": "#cab2d6",
-"udeo": 0.045511781132844396
+"udeo": 0.04404249282068392
 }
 ]
 }
