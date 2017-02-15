@@ -1,6 +1,6 @@
 {
-"total_voters": 3895520,
-"percentage": 61.2402714460506,
+"total_voters": 4116844,
+"percentage": 61.36577639443248,
 "winners": [
 {
 "rezultat": [
@@ -203,15 +203,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 1,
-"udeo": 2.857142857142857
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
 "kandidatSlug": "cedomir-jova-novic",
 "rezultat": {
 "glasova": 1,
@@ -219,6 +210,15 @@
 },
 "kandidat": "Чедомир Јова-новић",
 "boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 1,
+"udeo": 2.857142857142857
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
 },
 {
 "kandidatSlug": "milanka-karic",
@@ -239,15 +239,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
 "glasova": 0,
@@ -264,6 +255,15 @@
 },
 "kandidat": "Милутин Мркоњић",
 "boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
 }
 ],
 "teritorija": "Алжир",
@@ -509,15 +509,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
 "glasova": 0,
@@ -525,6 +516,15 @@
 },
 "kandidat": "Маријан Ристи-чевић",
 "boja": "#e31a1c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
 },
 {
 "kandidatSlug": "milanka-karic",
@@ -950,15 +950,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
 "glasova": 0,
@@ -975,6 +966,15 @@
 },
 "kandidat": "Чедомир Јова-новић",
 "boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
 },
 {
 "kandidatSlug": "milanka-karic",
@@ -1139,15 +1139,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
 "glasova": 0,
@@ -1155,6 +1146,15 @@
 },
 "kandidat": "Маријан Ристи-чевић",
 "boja": "#e31a1c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
 },
 {
 "kandidatSlug": "milanka-karic",
@@ -1445,96 +1445,6 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 222,
-"udeo": 61.32596685082873
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 66,
-"udeo": 18.23204419889503
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 42,
-"udeo": 11.602209944751381
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 20,
-"udeo": 5.524861878453039
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.8287292817679558
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.2762430939226519
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.2762430939226519
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-}
-],
-"teritorija": "Сједињене Америчке Државе",
-"brojUpisanihBiracaUBirackiSpisak": 1355,
-"percentage": 26.715867158671585,
-"biraciKojiSuGlasali": 362,
-"teritorijaSlug": "sjedinjene-americke-drzave"
-},
-{
-"rezultat": [
-{
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 222,
@@ -1621,6 +1531,96 @@
 "percentage": 56.02836879432624,
 "biraciKojiSuGlasali": 553,
 "teritorijaSlug": "pec"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 222,
+"udeo": 61.32596685082873
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 66,
+"udeo": 18.23204419889503
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 42,
+"udeo": 11.602209944751381
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 20,
+"udeo": 5.524861878453039
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.8287292817679558
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.2762430939226519
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.2762430939226519
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+}
+],
+"teritorija": "Сједињене Америчке Државе",
+"brojUpisanihBiracaUBirackiSpisak": 1355,
+"percentage": 26.715867158671585,
+"biraciKojiSuGlasali": 362,
+"teritorijaSlug": "sjedinjene-americke-drzave"
 },
 {
 "rezultat": [
@@ -2341,6 +2341,96 @@
 "percentage": 63.42285019182184,
 "biraciKojiSuGlasali": 6778,
 "teritorijaSlug": "raca"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2043,
+"udeo": 45.43028685790527
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 1521,
+"udeo": 33.82254836557705
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 297,
+"udeo": 6.604402935290193
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 281,
+"udeo": 6.2486101845674895
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 138,
+"udeo": 3.068712474983322
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 46,
+"udeo": 1.0229041583277743
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 17,
+"udeo": 0.37802979764287303
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.24460751612185905
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.13342228152101399
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Лапово",
+"brojUpisanihBiracaUBirackiSpisak": 7524,
+"percentage": 59.76874003189793,
+"biraciKojiSuGlasali": 4497,
+"teritorijaSlug": "lapovo"
 },
 {
 "rezultat": [
@@ -5407,96 +5497,6 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
-"glasova": 3422,
-"udeo": 40.2162416265131
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 2164,
-"udeo": 25.431895639910685
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 1892,
-"udeo": 22.235280291456107
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 487,
-"udeo": 5.723351745210953
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 260,
-"udeo": 3.0555882007286406
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 55,
-"udeo": 0.6463744270772124
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 47,
-"udeo": 0.5523563285932542
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 16,
-"udeo": 0.18803619696791632
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 13,
-"udeo": 0.15277941003643203
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Кнић",
-"brojUpisanihBiracaUBirackiSpisak": 12678,
-"percentage": 67.11626439501498,
-"biraciKojiSuGlasali": 8509,
-"teritorijaSlug": "knic"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
 "glasova": 3944,
 "udeo": 42.73948851322063
 },
@@ -6031,6 +6031,96 @@
 "percentage": 70.44178210408087,
 "biraciKojiSuGlasali": 11289,
 "teritorijaSlug": "arilje"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 4118,
+"udeo": 42.353183173917515
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3852,
+"udeo": 39.617402036408514
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 1066,
+"udeo": 10.963694333024787
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 333,
+"udeo": 3.424868867633447
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 130,
+"udeo": 1.3370358942713154
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 58,
+"udeo": 0.5965237066748946
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 21,
+"udeo": 0.21598272138228944
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 19,
+"udeo": 0.19541293839349994
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 10,
+"udeo": 0.10284891494394735
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Ада",
+"brojUpisanihBiracaUBirackiSpisak": 16428,
+"percentage": 59.1855368882396,
+"biraciKojiSuGlasali": 9723,
+"teritorijaSlug": "ada"
 },
 {
 "rezultat": [
@@ -6638,15 +6728,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.2830188679245283
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
 "glasova": 3,
@@ -6654,6 +6735,15 @@
 },
 "kandidat": "Маријан Ристи-чевић",
 "boja": "#e31a1c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.2830188679245283
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
 }
 ],
 "teritorija": "Гора",
@@ -7781,15 +7871,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
 "glasova": 0,
@@ -7815,6 +7896,15 @@
 },
 "kandidat": "Милутин Мркоњић",
 "boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
 },
 {
 "kandidatSlug": "milanka-karic",
@@ -8011,6 +8101,276 @@
 "percentage": 31.63136868603951,
 "biraciKojiSuGlasali": 11560,
 "teritorijaSlug": "bujanovac"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3422,
+"udeo": 40.2162416265131
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 2164,
+"udeo": 25.431895639910685
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 1892,
+"udeo": 22.235280291456107
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 487,
+"udeo": 5.723351745210953
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 260,
+"udeo": 3.0555882007286406
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 55,
+"udeo": 0.6463744270772124
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 47,
+"udeo": 0.5523563285932542
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 16,
+"udeo": 0.18803619696791632
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 13,
+"udeo": 0.15277941003643203
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Кнић",
+"brojUpisanihBiracaUBirackiSpisak": 12678,
+"percentage": 67.11626439501498,
+"biraciKojiSuGlasali": 8509,
+"teritorijaSlug": "knic"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6736,
+"udeo": 40.102399237959155
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 5767,
+"udeo": 34.333511936655356
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 1795,
+"udeo": 10.68643210097041
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 1189,
+"udeo": 7.078644996130261
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 619,
+"udeo": 3.6851818777162584
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 248,
+"udeo": 1.4764541287134607
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 124,
+"udeo": 0.7382270643567304
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 62,
+"udeo": 0.3691135321783652
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 33,
+"udeo": 0.19646365422396855
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Апатин",
+"brojUpisanihBiracaUBirackiSpisak": 27338,
+"percentage": 61.441948935547586,
+"biraciKojiSuGlasali": 16797,
+"teritorijaSlug": "apatin"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 4501,
+"udeo": 36.36583986426436
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3374,
+"udeo": 27.260240769168618
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2708,
+"udeo": 21.87929223559829
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 1034,
+"udeo": 8.354205380948533
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 427,
+"udeo": 3.449947483235033
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 99,
+"udeo": 0.7998707279631574
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 32,
+"udeo": 0.258544073685061
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 20,
+"udeo": 0.16159004605316313
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.08887452532923971
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Лучани",
+"brojUpisanihBiracaUBirackiSpisak": 18927,
+"percentage": 65.39335341047182,
+"biraciKojiSuGlasali": 12377,
+"teritorijaSlug": "lucani"
 },
 {
 "rezultat": [
@@ -9419,15 +9779,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
 "glasova": 0,
@@ -9444,6 +9795,15 @@
 },
 "kandidat": "Чедомир Јова-новић",
 "boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
 }
 ],
 "teritorija": "Урошевац",
@@ -10087,6 +10447,456 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
+"glasova": 2348,
+"udeo": 41.50609863885452
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 1498,
+"udeo": 26.480466678451474
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 1120,
+"udeo": 19.79847975958989
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 372,
+"udeo": 6.575923634435213
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 124,
+"udeo": 2.1919745448117376
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 45,
+"udeo": 0.7954746331978081
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 31,
+"udeo": 0.5479936362029344
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 23,
+"udeo": 0.40657592363443523
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 18,
+"udeo": 0.3181898532791232
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Ражањ",
+"brojUpisanihBiracaUBirackiSpisak": 8530,
+"percentage": 66.31887456037515,
+"biraciKojiSuGlasali": 5657,
+"teritorijaSlug": "razanj"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 2594,
+"udeo": 40.36725801431684
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2467,
+"udeo": 38.39091192032368
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 339,
+"udeo": 5.275443510737628
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 291,
+"udeo": 4.5284780578898225
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 279,
+"udeo": 4.341736694677871
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 225,
+"udeo": 3.5014005602240896
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 57,
+"udeo": 0.8870214752567693
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 37,
+"udeo": 0.575785869903517
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.1711795829442888
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Пландиште",
+"brojUpisanihBiracaUBirackiSpisak": 9932,
+"percentage": 64.69995972613773,
+"biraciKojiSuGlasali": 6426,
+"teritorijaSlug": "plandiste"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 8626,
+"udeo": 42.77708901562113
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 7035,
+"udeo": 34.88718075874039
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 1849,
+"udeo": 9.169352839077611
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 1135,
+"udeo": 5.628564344160675
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 745,
+"udeo": 3.694520208281676
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 209,
+"udeo": 1.0364492933300273
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 105,
+"udeo": 0.5207041904289611
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 63,
+"udeo": 0.31242251425737666
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 39,
+"udeo": 0.19340441358789984
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Неготин",
+"brojUpisanihBiracaUBirackiSpisak": 43971,
+"percentage": 45.859771212844834,
+"biraciKojiSuGlasali": 20165,
+"teritorijaSlug": "negotin"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 11269,
+"udeo": 41.398185224642745
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 7751,
+"udeo": 28.474339664229824
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 4285,
+"udeo": 15.741523088791743
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 1747,
+"udeo": 6.417839168289189
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 1167,
+"udeo": 4.287131258954484
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 187,
+"udeo": 0.6869696190441203
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 81,
+"udeo": 0.29756438044157085
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 36,
+"udeo": 0.13225083575180926
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 26,
+"udeo": 0.09551449248741781
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Аранђеловац",
+"brojUpisanihBiracaUBirackiSpisak": 39246,
+"percentage": 69.35993477042246,
+"biraciKojiSuGlasali": 27221,
+"teritorijaSlug": "arandelovac"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6471,
+"udeo": 38.42180263626648
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 6002,
+"udeo": 35.63709773186082
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 2191,
+"udeo": 13.009143807148796
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 837,
+"udeo": 4.969718560741004
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 601,
+"udeo": 3.5684598028737677
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 200,
+"udeo": 1.187507421921387
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 82,
+"udeo": 0.4868780429877687
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 76,
+"udeo": 0.4512528203301271
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 27,
+"udeo": 0.16031350195938723
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Александровац",
+"brojUpisanihBiracaUBirackiSpisak": 24844,
+"percentage": 67.79101593946226,
+"biraciKojiSuGlasali": 16842,
+"teritorijaSlug": "aleksandrovac"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
 "glasova": 11417,
 "udeo": 43.58631747728487
 },
@@ -10171,96 +10981,6 @@
 "percentage": 56.28034893214731,
 "biraciKojiSuGlasali": 26194,
 "teritorijaSlug": "bor"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 7124,
-"udeo": 46.39531097362423
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 3711,
-"udeo": 24.16802344513188
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1801,
-"udeo": 11.729078476066428
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 1490,
-"udeo": 9.703679583197655
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 523,
-"udeo": 3.4060566590687067
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 212,
-"udeo": 1.3806577661999349
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 73,
-"udeo": 0.47541517421035495
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 30,
-"udeo": 0.19537609899055683
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 22,
-"udeo": 0.14327580592640835
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Рашка",
-"brojUpisanihBiracaUBirackiSpisak": 21961,
-"percentage": 69.91940257729611,
-"biraciKojiSuGlasali": 15355,
-"teritorijaSlug": "raska"
 },
 {
 "rezultat": [
@@ -10357,6 +11077,96 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
+"glasova": 12008,
+"udeo": 56.59879336349925
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 6268,
+"udeo": 29.543740573152338
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 893,
+"udeo": 4.209087481146305
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 684,
+"udeo": 3.2239819004524892
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 555,
+"udeo": 2.615950226244344
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 206,
+"udeo": 0.9709653092006033
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 101,
+"udeo": 0.47605580693815985
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 38,
+"udeo": 0.17911010558069382
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 32,
+"udeo": 0.1508295625942685
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Сурчин",
+"brojUpisanihBiracaUBirackiSpisak": 33856,
+"percentage": 62.66540642722117,
+"biraciKojiSuGlasali": 21216,
+"teritorijaSlug": "surcin"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
 "glasova": 3535,
 "udeo": 34.40389294403893
 },
@@ -10447,8 +11257,8 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
-"glasova": 12008,
-"udeo": 56.59879336349925
+"glasova": 7124,
+"udeo": 46.39531097362423
 },
 "kandidat": "Томислав Николић",
 "boja": "#1f78b4"
@@ -10456,8 +11266,8 @@
 {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
-"glasova": 6268,
-"udeo": 29.543740573152338
+"glasova": 3711,
+"udeo": 24.16802344513188
 },
 "kandidat": "Борис Тадић",
 "boja": "#a6cee3"
@@ -10465,8 +11275,8 @@
 {
 "kandidatSlug": "milutin-mrkonjic",
 "rezultat": {
-"glasova": 893,
-"udeo": 4.209087481146305
+"glasova": 1801,
+"udeo": 11.729078476066428
 },
 "kandidat": "Милутин Мркоњић",
 "boja": "#fdbf6f"
@@ -10474,8 +11284,8 @@
 {
 "kandidatSlug": "velimir-ilic",
 "rezultat": {
-"glasova": 684,
-"udeo": 3.2239819004524892
+"glasova": 1490,
+"udeo": 9.703679583197655
 },
 "kandidat": "Велимир Илић",
 "boja": "#33a02c"
@@ -10483,8 +11293,8 @@
 {
 "kandidatSlug": "cedomir-jova-novic",
 "rezultat": {
-"glasova": 555,
-"udeo": 2.615950226244344
+"glasova": 523,
+"udeo": 3.4060566590687067
 },
 "kandidat": "Чедомир Јова-новић",
 "boja": "#fdbf6f"
@@ -10492,8 +11302,8 @@
 {
 "kandidatSlug": "milanka-karic",
 "rezultat": {
-"glasova": 206,
-"udeo": 0.9709653092006033
+"glasova": 212,
+"udeo": 1.3806577661999349
 },
 "kandidat": "Миланка Карић",
 "boja": "#ff7f00"
@@ -10501,8 +11311,8 @@
 {
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
-"glasova": 101,
-"udeo": 0.47605580693815985
+"glasova": 73,
+"udeo": 0.47541517421035495
 },
 "kandidat": "Маријан Ристи-чевић",
 "boja": "#e31a1c"
@@ -10510,8 +11320,8 @@
 {
 "kandidatSlug": "jugoslav-dobri-canin",
 "rezultat": {
-"glasova": 38,
-"udeo": 0.17911010558069382
+"glasova": 30,
+"udeo": 0.19537609899055683
 },
 "kandidat": "Југослав Добри-чанин",
 "boja": "#1f78b4"
@@ -10519,18 +11329,18 @@
 {
 "kandidatSlug": "istvan-pastor",
 "rezultat": {
-"glasova": 32,
-"udeo": 0.1508295625942685
+"glasova": 22,
+"udeo": 0.14327580592640835
 },
 "kandidat": "Иштван Пастор",
 "boja": "#8dd3c7"
 }
 ],
-"teritorija": "Сурчин",
-"brojUpisanihBiracaUBirackiSpisak": 33856,
-"percentage": 62.66540642722117,
-"biraciKojiSuGlasali": 21216,
-"teritorijaSlug": "surcin"
+"teritorija": "Рашка",
+"brojUpisanihBiracaUBirackiSpisak": 21961,
+"percentage": 69.91940257729611,
+"biraciKojiSuGlasali": 15355,
+"teritorijaSlug": "raska"
 },
 {
 "rezultat": [
@@ -11071,6 +11881,186 @@
 "percentage": 64.64567096349467,
 "biraciKojiSuGlasali": 30441,
 "teritorijaSlug": "ruma"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6538,
+"udeo": 45.99043331457512
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4345,
+"udeo": 30.5641530669668
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 1684,
+"udeo": 11.8458075407991
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 890,
+"udeo": 6.260551491277434
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 352,
+"udeo": 2.4760832864378166
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 116,
+"udeo": 0.8159819921215531
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 53,
+"udeo": 0.37281935846933034
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 13,
+"udeo": 0.09144625773776026
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.07737760270118177
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Барајево",
+"brojUpisanihBiracaUBirackiSpisak": 22176,
+"percentage": 64.1053391053391,
+"biraciKojiSuGlasali": 14216,
+"teritorijaSlug": "barajevo"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 14649,
+"udeo": 47.623537061118334
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 9141,
+"udeo": 29.71716514954486
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 3052,
+"udeo": 9.921976592977893
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 1451,
+"udeo": 4.717165149544863
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 1258,
+"udeo": 4.0897269180754225
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 299,
+"udeo": 0.9720416124837452
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 90,
+"udeo": 0.2925877763328999
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 50,
+"udeo": 0.1625487646293888
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 29,
+"udeo": 0.09427828348504551
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Младеновац",
+"brojUpisanihBiracaUBirackiSpisak": 47810,
+"percentage": 64.3380046015478,
+"biraciKojiSuGlasali": 30760,
+"teritorijaSlug": "mladenovac"
 },
 {
 "rezultat": [
@@ -11741,24 +12731,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
 "glasova": 0,
@@ -11775,6 +12747,24 @@
 },
 "kandidat": "Милутин Мркоњић",
 "boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
 },
 {
 "kandidatSlug": "milanka-karic",
@@ -12421,6 +13411,186 @@
 "percentage": 54.47418308003727,
 "biraciKojiSuGlasali": 33908,
 "teritorijaSlug": "vracar"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 511,
+"udeo": 44.90333919156414
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 454,
+"udeo": 39.894551845342704
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 97,
+"udeo": 8.52372583479789
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 37,
+"udeo": 3.2513181019332165
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 23,
+"udeo": 2.0210896309314585
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 4,
+"udeo": 0.35149384885764495
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.26362038664323373
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.26362038664323373
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.26362038664323373
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+}
+],
+"teritorija": "Швајцарска",
+"brojUpisanihBiracaUBirackiSpisak": 3023,
+"percentage": 37.64472378432021,
+"biraciKojiSuGlasali": 1138,
+"teritorijaSlug": "svajcarska"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 16651,
+"udeo": 49.00235432607416
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 12156,
+"udeo": 35.77398469688052
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 1583,
+"udeo": 4.658622719246615
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 1501,
+"udeo": 4.417304296645085
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 858,
+"udeo": 2.5250147145379636
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 321,
+"udeo": 0.94467333725721
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 157,
+"udeo": 0.4620364920541495
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 83,
+"udeo": 0.2442613301942319
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 48,
+"udeo": 0.14125956444967627
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Стара Пазова",
+"brojUpisanihBiracaUBirackiSpisak": 52157,
+"percentage": 65.14945261422244,
+"biraciKojiSuGlasali": 33980,
+"teritorijaSlug": "stara-pazova"
 },
 {
 "rezultat": [
@@ -14135,276 +15305,6 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 19834,
-"udeo": 45.35455397772747
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 9460,
-"udeo": 21.632251720747295
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 7337,
-"udeo": 16.777571974114473
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 6076,
-"udeo": 13.894033980471518
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 548,
-"udeo": 1.253115638791704
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 58,
-"udeo": 0.13262902746335553
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 44,
-"udeo": 0.10061512428254556
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 31,
-"udeo": 0.07088792847179345
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 20,
-"udeo": 0.04573414740115707
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Нови Пазар",
-"brojUpisanihBiracaUBirackiSpisak": 72757,
-"percentage": 60.105556853636074,
-"biraciKojiSuGlasali": 43731,
-"teritorijaSlug": "novi-pazar"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 3627,
-"udeo": 61.516282225237454
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 1421,
-"udeo": 24.101085481682496
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 355,
-"udeo": 6.021031207598371
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 278,
-"udeo": 4.715061058344641
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 71,
-"udeo": 1.2042062415196744
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 65,
-"udeo": 1.1024423337856173
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 10,
-"udeo": 0.16960651289009498
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 5,
-"udeo": 0.08480325644504749
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.05088195386702849
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Косовска Митровица",
-"brojUpisanihBiracaUBirackiSpisak": 19318,
-"percentage": 30.52075784242675,
-"biraciKojiSuGlasali": 5896,
-"teritorijaSlug": "kosovska-mitrovica"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 28117,
-"udeo": 47.63009892939423
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 19176,
-"udeo": 32.48407643312102
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 3717,
-"udeo": 6.296584903103401
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 3129,
-"udeo": 5.300514974928852
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 2657,
-"udeo": 4.500948638026833
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 607,
-"udeo": 1.0282558612278088
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 218,
-"udeo": 0.36929123187423774
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 94,
-"udeo": 0.15923566878980894
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 83,
-"udeo": 0.14060170754844828
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Смедерево",
-"brojUpisanihBiracaUBirackiSpisak": 100639,
-"percentage": 58.657180615864625,
-"biraciKojiSuGlasali": 59032,
-"teritorijaSlug": "smederevo"
-},
-{
-"rezultat": [
-{
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 20966,
@@ -15035,19 +15935,10 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 30790,
-"udeo": 55.26537791897762
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
 "kandidatSlug": "boris-tadic",
 "rezultat": {
-"glasova": 13238,
-"udeo": 23.761061152693266
+"glasova": 19834,
+"udeo": 45.35455397772747
 },
 "kandidat": "Борис Тадић",
 "boja": "#a6cee3"
@@ -15055,17 +15946,35 @@
 {
 "kandidatSlug": "velimir-ilic",
 "rezultat": {
-"glasova": 5790,
-"udeo": 10.392547520327392
+"glasova": 9460,
+"udeo": 21.632251720747295
 },
 "kandidat": "Велимир Илић",
 "boja": "#33a02c"
 },
 {
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 7337,
+"udeo": 16.777571974114473
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6076,
+"udeo": 13.894033980471518
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
 "kandidatSlug": "milutin-mrkonjic",
 "rezultat": {
-"glasova": 4026,
-"udeo": 7.226320607398633
+"glasova": 548,
+"udeo": 1.253115638791704
 },
 "kandidat": "Милутин Мркоњић",
 "boja": "#fdbf6f"
@@ -15073,8 +15982,89 @@
 {
 "kandidatSlug": "milanka-karic",
 "rezultat": {
-"glasova": 729,
-"udeo": 1.3084917344246405
+"glasova": 58,
+"udeo": 0.13262902746335553
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 44,
+"udeo": 0.10061512428254556
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 31,
+"udeo": 0.07088792847179345
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 20,
+"udeo": 0.04573414740115707
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Нови Пазар",
+"brojUpisanihBiracaUBirackiSpisak": 72757,
+"percentage": 60.105556853636074,
+"biraciKojiSuGlasali": 43731,
+"teritorijaSlug": "novi-pazar"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3627,
+"udeo": 61.516282225237454
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 1421,
+"udeo": 24.101085481682496
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 355,
+"udeo": 6.021031207598371
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 278,
+"udeo": 4.715061058344641
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 71,
+"udeo": 1.2042062415196744
 },
 "kandidat": "Миланка Карић",
 "boja": "#ff7f00"
@@ -15082,8 +16072,8 @@
 {
 "kandidatSlug": "cedomir-jova-novic",
 "rezultat": {
-"glasova": 258,
-"udeo": 0.4630876097140703
+"glasova": 65,
+"udeo": 1.1024423337856173
 },
 "kandidat": "Чедомир Јова-новић",
 "boja": "#fdbf6f"
@@ -15091,8 +16081,8 @@
 {
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
-"glasova": 120,
-"udeo": 0.2153895859135211
+"glasova": 10,
+"udeo": 0.16960651289009498
 },
 "kandidat": "Маријан Ристи-чевић",
 "boja": "#e31a1c"
@@ -15100,8 +16090,8 @@
 {
 "kandidatSlug": "jugoslav-dobri-canin",
 "rezultat": {
-"glasova": 70,
-"udeo": 0.12564392511622063
+"glasova": 5,
+"udeo": 0.08480325644504749
 },
 "kandidat": "Југослав Добри-чанин",
 "boja": "#1f78b4"
@@ -15109,18 +16099,558 @@
 {
 "kandidatSlug": "istvan-pastor",
 "rezultat": {
-"glasova": 62,
-"udeo": 0.11128461938865256
+"glasova": 3,
+"udeo": 0.05088195386702849
 },
 "kandidat": "Иштван Пастор",
 "boja": "#8dd3c7"
 }
 ],
-"teritorija": "Косово и Метохија",
-"brojUpisanihBiracaUBirackiSpisak": 112852,
-"percentage": 49.36819905717223,
-"biraciKojiSuGlasali": 55713,
-"teritorijaSlug": "kosovo-i-metohija"
+"teritorija": "Косовска Митровица",
+"brojUpisanihBiracaUBirackiSpisak": 19318,
+"percentage": 30.52075784242675,
+"biraciKojiSuGlasali": 5896,
+"teritorijaSlug": "kosovska-mitrovica"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 28117,
+"udeo": 47.63009892939423
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 19176,
+"udeo": 32.48407643312102
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 3717,
+"udeo": 6.296584903103401
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 3129,
+"udeo": 5.300514974928852
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 2657,
+"udeo": 4.500948638026833
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 607,
+"udeo": 1.0282558612278088
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 218,
+"udeo": 0.36929123187423774
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 94,
+"udeo": 0.15923566878980894
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 83,
+"udeo": 0.14060170754844828
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Смедерево",
+"brojUpisanihBiracaUBirackiSpisak": 100639,
+"percentage": 58.657180615864625,
+"biraciKojiSuGlasali": 59032,
+"teritorijaSlug": "smederevo"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 76,
+"udeo": 58.91472868217055
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 36,
+"udeo": 27.906976744186046
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 8,
+"udeo": 6.2015503875969
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 5,
+"udeo": 3.875968992248062
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 2,
+"udeo": 1.550387596899225
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.7751937984496124
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.7751937984496124
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+}
+],
+"teritorija": "Норвешка",
+"brojUpisanihBiracaUBirackiSpisak": 417,
+"percentage": 30.93525179856115,
+"biraciKojiSuGlasali": 129,
+"teritorijaSlug": "norveska"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 31845,
+"udeo": 42.27455561603101
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 26049,
+"udeo": 34.58030771681557
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 6570,
+"udeo": 8.721740631098248
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 5056,
+"udeo": 6.711890506976065
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 2901,
+"udeo": 3.8511064795762584
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 777,
+"udeo": 1.0314752618513454
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 313,
+"udeo": 0.415510626717466
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 144,
+"udeo": 0.19116143848982464
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 100,
+"udeo": 0.13275099895126713
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Крушевац",
+"brojUpisanihBiracaUBirackiSpisak": 117657,
+"percentage": 64.02423995172407,
+"biraciKojiSuGlasali": 75329,
+"teritorijaSlug": "krusevac"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 6796,
+"udeo": 42.326856003986045
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 5207,
+"udeo": 32.43024414549078
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 1940,
+"udeo": 12.082710513203788
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 956,
+"udeo": 5.954160438465371
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 559,
+"udeo": 3.481564524165421
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 155,
+"udeo": 0.9653712007972097
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 65,
+"udeo": 0.40483308420528147
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 26,
+"udeo": 0.16193323368211263
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 21,
+"udeo": 0.13079222720478326
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Врњачка Бања",
+"brojUpisanihBiracaUBirackiSpisak": 25406,
+"percentage": 63.19766984176966,
+"biraciKojiSuGlasali": 16056,
+"teritorijaSlug": "vrnjacka-banja"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 3626,
+"udeo": 35.86547972304649
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3085,
+"udeo": 30.514342235410485
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 1854,
+"udeo": 18.338278931750743
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 791,
+"udeo": 7.823936696340257
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 538,
+"udeo": 5.321463897131553
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 42,
+"udeo": 0.4154302670623145
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 24,
+"udeo": 0.2373887240356083
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 12,
+"udeo": 0.11869436201780414
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.05934718100890207
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "Нова Варош",
+"brojUpisanihBiracaUBirackiSpisak": 15522,
+"percentage": 65.13335910320835,
+"biraciKojiSuGlasali": 10110,
+"teritorijaSlug": "nova-varos"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5975,
+"udeo": 40.418047757559364
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 4396,
+"udeo": 29.73685990664953
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 2417,
+"udeo": 16.349861327200163
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 1025,
+"udeo": 6.9336399918825675
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 336,
+"udeo": 2.2728810119732126
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 133,
+"udeo": 0.8996820672393966
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 85,
+"udeo": 0.574984779814652
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 26,
+"udeo": 0.17587769735507003
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 20,
+"udeo": 0.13529053642697692
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Уб",
+"brojUpisanihBiracaUBirackiSpisak": 24300,
+"percentage": 60.83539094650206,
+"biraciKojiSuGlasali": 14783,
+"teritorijaSlug": "ub"
 },
 {
 "rezultat": [
@@ -15575,96 +17105,6 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 34601,
-"udeo": 42.367360932544784
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 19326,
-"udeo": 23.663813686955883
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 17485,
-"udeo": 21.409592378993253
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 6505,
-"udeo": 7.965078548776157
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1162,
-"udeo": 1.422816490957401
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 815,
-"udeo": 0.997930671368573
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 488,
-"udeo": 0.5975339480096488
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 173,
-"udeo": 0.21183068238866645
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 85,
-"udeo": 0.10407865897709045
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Суботица",
-"brojUpisanihBiracaUBirackiSpisak": 131343,
-"percentage": 62.17994107032731,
-"biraciKojiSuGlasali": 81669,
-"teritorijaSlug": "subotica"
-},
-{
-"rezultat": [
-{
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 28264,
@@ -15755,406 +17195,46 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 2348,
-"udeo": 41.50609863885452
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 1498,
-"udeo": 26.480466678451474
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
 "kandidatSlug": "boris-tadic",
 "rezultat": {
-"glasova": 1120,
-"udeo": 19.79847975958989
+"glasova": 34601,
+"udeo": 42.367360932544784
 },
 "kandidat": "Борис Тадић",
 "boja": "#a6cee3"
 },
 {
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 372,
-"udeo": 6.575923634435213
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 124,
-"udeo": 2.1919745448117376
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 45,
-"udeo": 0.7954746331978081
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 31,
-"udeo": 0.5479936362029344
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 23,
-"udeo": 0.40657592363443523
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
 "kandidatSlug": "istvan-pastor",
 "rezultat": {
-"glasova": 18,
-"udeo": 0.3181898532791232
+"glasova": 19326,
+"udeo": 23.663813686955883
 },
 "kandidat": "Иштван Пастор",
 "boja": "#8dd3c7"
-}
-],
-"teritorija": "Ражањ",
-"brojUpisanihBiracaUBirackiSpisak": 8530,
-"percentage": 66.31887456037515,
-"biraciKojiSuGlasali": 5657,
-"teritorijaSlug": "razanj"
 },
-{
-"rezultat": [
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
-"glasova": 2594,
-"udeo": 40.36725801431684
+"glasova": 17485,
+"udeo": 21.409592378993253
 },
 "kandidat": "Томислав Николић",
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 2467,
-"udeo": 38.39091192032368
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 339,
-"udeo": 5.275443510737628
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
 "kandidatSlug": "cedomir-jova-novic",
 "rezultat": {
-"glasova": 291,
-"udeo": 4.5284780578898225
+"glasova": 6505,
+"udeo": 7.965078548776157
 },
 "kandidat": "Чедомир Јова-новић",
 "boja": "#fdbf6f"
 },
 {
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 279,
-"udeo": 4.341736694677871
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 225,
-"udeo": 3.5014005602240896
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 57,
-"udeo": 0.8870214752567693
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 37,
-"udeo": 0.575785869903517
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.1711795829442888
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Пландиште",
-"brojUpisanihBiracaUBirackiSpisak": 9932,
-"percentage": 64.69995972613773,
-"biraciKojiSuGlasali": 6426,
-"teritorijaSlug": "plandiste"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 8626,
-"udeo": 42.77708901562113
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 7035,
-"udeo": 34.88718075874039
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
 "kandidatSlug": "milutin-mrkonjic",
 "rezultat": {
-"glasova": 1849,
-"udeo": 9.169352839077611
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 1135,
-"udeo": 5.628564344160675
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 745,
-"udeo": 3.694520208281676
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 209,
-"udeo": 1.0364492933300273
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 105,
-"udeo": 0.5207041904289611
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 63,
-"udeo": 0.31242251425737666
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 39,
-"udeo": 0.19340441358789984
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Неготин",
-"brojUpisanihBiracaUBirackiSpisak": 43971,
-"percentage": 45.859771212844834,
-"biraciKojiSuGlasali": 20165,
-"teritorijaSlug": "negotin"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 11269,
-"udeo": 41.398185224642745
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 7751,
-"udeo": 28.474339664229824
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 4285,
-"udeo": 15.741523088791743
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1747,
-"udeo": 6.417839168289189
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 1167,
-"udeo": 4.287131258954484
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 187,
-"udeo": 0.6869696190441203
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 81,
-"udeo": 0.29756438044157085
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 36,
-"udeo": 0.13225083575180926
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 26,
-"udeo": 0.09551449248741781
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Аранђеловац",
-"brojUpisanihBiracaUBirackiSpisak": 39246,
-"percentage": 69.35993477042246,
-"biraciKojiSuGlasali": 27221,
-"teritorijaSlug": "arandelovac"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 41428,
-"udeo": 38.56134929351974
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 39194,
-"udeo": 36.48193309380643
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 8117,
-"udeo": 7.5553362994955044
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 6536,
-"udeo": 6.083735130405644
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 5343,
-"udeo": 4.97328592438148
+"glasova": 1162,
+"udeo": 1.422816490957401
 },
 "kandidat": "Милутин Мркоњић",
 "boja": "#fdbf6f"
@@ -16162,8 +17242,8 @@
 {
 "kandidatSlug": "velimir-ilic",
 "rezultat": {
-"glasova": 3717,
-"udeo": 3.4597985740082287
+"glasova": 815,
+"udeo": 0.997930671368573
 },
 "kandidat": "Велимир Илић",
 "boja": "#33a02c"
@@ -16171,8 +17251,8 @@
 {
 "kandidatSlug": "milanka-karic",
 "rezultat": {
-"glasova": 917,
-"udeo": 0.8535472941526892
+"glasova": 488,
+"udeo": 0.5975339480096488
 },
 "kandidat": "Миланка Карић",
 "boja": "#ff7f00"
@@ -16180,8 +17260,8 @@
 {
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
-"glasova": 437,
-"udeo": 0.4067613604631681
+"glasova": 173,
+"udeo": 0.21183068238866645
 },
 "kandidat": "Маријан Ристи-чевић",
 "boja": "#e31a1c"
@@ -16189,108 +17269,18 @@
 {
 "kandidatSlug": "jugoslav-dobri-canin",
 "rezultat": {
-"glasova": 159,
-"udeo": 0.14799784053465384
+"glasova": 85,
+"udeo": 0.10407865897709045
 },
 "kandidat": "Југослав Добри-чанин",
 "boja": "#1f78b4"
 }
 ],
-"teritorija": "СРЕДЊЕ-БАНАТСКИ",
-"brojUpisanihBiracaUBirackiSpisak": 166206,
-"percentage": 64.63906236838622,
-"biraciKojiSuGlasali": 107434,
-"teritorijaSlug": "srednje-banatski"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 6471,
-"udeo": 38.42180263626648
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 6002,
-"udeo": 35.63709773186082
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 2191,
-"udeo": 13.009143807148796
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 837,
-"udeo": 4.969718560741004
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 601,
-"udeo": 3.5684598028737677
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 200,
-"udeo": 1.187507421921387
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 82,
-"udeo": 0.4868780429877687
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 76,
-"udeo": 0.4512528203301271
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 27,
-"udeo": 0.16031350195938723
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Александровац",
-"brojUpisanihBiracaUBirackiSpisak": 24844,
-"percentage": 67.79101593946226,
-"biraciKojiSuGlasali": 16842,
-"teritorijaSlug": "aleksandrovac"
+"teritorija": "Суботица",
+"brojUpisanihBiracaUBirackiSpisak": 131343,
+"percentage": 62.17994107032731,
+"biraciKojiSuGlasali": 81669,
+"teritorijaSlug": "subotica"
 },
 {
 "rezultat": [
@@ -17377,8 +18367,8 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
-"glasova": 511,
-"udeo": 44.90333919156414
+"glasova": 36123,
+"udeo": 41.55794850555671
 },
 "kandidat": "Томислав Николић",
 "boja": "#1f78b4"
@@ -17386,26 +18376,17 @@
 {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
-"glasova": 454,
-"udeo": 39.894551845342704
+"glasova": 34544,
+"udeo": 39.74137732679874
 },
 "kandidat": "Борис Тадић",
 "boja": "#a6cee3"
 },
 {
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 97,
-"udeo": 8.52372583479789
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
 "kandidatSlug": "cedomir-jova-novic",
 "rezultat": {
-"glasova": 37,
-"udeo": 3.2513181019332165
+"glasova": 5688,
+"udeo": 6.543797887761442
 },
 "kandidat": "Чедомир Јова-новић",
 "boja": "#fdbf6f"
@@ -17413,170 +18394,8 @@
 {
 "kandidatSlug": "milutin-mrkonjic",
 "rezultat": {
-"glasova": 23,
-"udeo": 2.0210896309314585
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 4,
-"udeo": 0.35149384885764495
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.26362038664323373
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.26362038664323373
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.26362038664323373
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-}
-],
-"teritorija": "Швајцарска",
-"brojUpisanihBiracaUBirackiSpisak": 3023,
-"percentage": 37.64472378432021,
-"biraciKojiSuGlasali": 1138,
-"teritorijaSlug": "svajcarska"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 16651,
-"udeo": 49.00235432607416
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 12156,
-"udeo": 35.77398469688052
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1583,
-"udeo": 4.658622719246615
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 1501,
-"udeo": 4.417304296645085
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 858,
-"udeo": 2.5250147145379636
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 321,
-"udeo": 0.94467333725721
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 157,
-"udeo": 0.4620364920541495
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 83,
-"udeo": 0.2442613301942319
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 48,
-"udeo": 0.14125956444967627
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Стара Пазова",
-"brojUpisanihBiracaUBirackiSpisak": 52157,
-"percentage": 65.14945261422244,
-"biraciKojiSuGlasali": 33980,
-"teritorijaSlug": "stara-pazova"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 45387,
-"udeo": 47.02585090400456
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 29819,
-"udeo": 30.89571569186137
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 7599,
-"udeo": 7.873387556338393
+"glasova": 4116,
+"udeo": 4.735279906122731
 },
 "kandidat": "Милутин Мркоњић",
 "boja": "#fdbf6f"
@@ -17584,116 +18403,8 @@
 {
 "kandidatSlug": "velimir-ilic",
 "rezultat": {
-"glasova": 6365,
-"udeo": 6.594829819199088
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 3539,
-"udeo": 3.666787545977309
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 1006,
-"udeo": 1.0423250271978448
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 476,
-"udeo": 0.49318758742164426
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 357,
-"udeo": 0.3698906905662332
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 274,
-"udeo": 0.2838936952805263
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "ПЧИЊСКИ",
-"brojUpisanihBiracaUBirackiSpisak": 190633,
-"percentage": 50.62869492690143,
-"biraciKojiSuGlasali": 96515,
-"teritorijaSlug": "pcinjski"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 6736,
-"udeo": 40.102399237959155
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 5767,
-"udeo": 34.333511936655356
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1795,
-"udeo": 10.68643210097041
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 1189,
-"udeo": 7.078644996130261
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 619,
-"udeo": 3.6851818777162584
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 248,
-"udeo": 1.4764541287134607
+"glasova": 3465,
+"udeo": 3.986332574031891
 },
 "kandidat": "Велимир Илић",
 "boja": "#33a02c"
@@ -17701,8 +18412,8 @@
 {
 "kandidatSlug": "milanka-karic",
 "rezultat": {
-"glasova": 124,
-"udeo": 0.7382270643567304
+"glasova": 691,
+"udeo": 0.7949656013437334
 },
 "kandidat": "Миланка Карић",
 "boja": "#ff7f00"
@@ -17710,8 +18421,8 @@
 {
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
-"glasova": 62,
-"udeo": 0.3691135321783652
+"glasova": 258,
+"udeo": 0.2968178366811624
 },
 "kandidat": "Маријан Ристи-чевић",
 "boja": "#e31a1c"
@@ -17719,89 +18430,8 @@
 {
 "kandidatSlug": "jugoslav-dobri-canin",
 "rezultat": {
-"glasova": 33,
-"udeo": 0.19646365422396855
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Апатин",
-"brojUpisanihBiracaUBirackiSpisak": 27338,
-"percentage": 61.441948935547586,
-"biraciKojiSuGlasali": 16797,
-"teritorijaSlug": "apatin"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 4501,
-"udeo": 36.36583986426436
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 3374,
-"udeo": 27.260240769168618
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 2708,
-"udeo": 21.87929223559829
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1034,
-"udeo": 8.354205380948533
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 427,
-"udeo": 3.449947483235033
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 99,
-"udeo": 0.7998707279631574
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 32,
-"udeo": 0.258544073685061
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 20,
-"udeo": 0.16159004605316313
+"glasova": 179,
+"udeo": 0.20593175490669796
 },
 "kandidat": "Југослав Добри-чанин",
 "boja": "#1f78b4"
@@ -17809,108 +18439,18 @@
 {
 "kandidatSlug": "istvan-pastor",
 "rezultat": {
-"glasova": 11,
-"udeo": 0.08887452532923971
+"glasova": 136,
+"udeo": 0.15646211545983754
 },
 "kandidat": "Иштван Пастор",
 "boja": "#8dd3c7"
 }
 ],
-"teritorija": "Лучани",
-"brojUpisanihBiracaUBirackiSpisak": 18927,
-"percentage": 65.39335341047182,
-"biraciKojiSuGlasali": 12377,
-"teritorijaSlug": "lucani"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 34246,
-"udeo": 40.64372945323348
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 32531,
-"udeo": 38.6083385751077
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 5857,
-"udeo": 6.951186223430137
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 4660,
-"udeo": 5.530566467677043
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 3818,
-"udeo": 4.531266689611792
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 743,
-"udeo": 0.8818049110480779
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 300,
-"udeo": 0.35604505156719163
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 191,
-"udeo": 0.22668201616444536
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 130,
-"udeo": 0.1542861890124497
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Вождовац",
-"brojUpisanihBiracaUBirackiSpisak": 148230,
-"percentage": 56.84341901099643,
-"biraciKojiSuGlasali": 84259,
-"teritorijaSlug": "vozdovac"
+"teritorija": "Палилула",
+"brojUpisanihBiracaUBirackiSpisak": 154604,
+"percentage": 56.22234871025329,
+"biraciKojiSuGlasali": 86922,
+"teritorijaSlug": "palilula"
 },
 {
 "rezultat": [
@@ -18005,28 +18545,28 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 36123,
-"udeo": 41.55794850555671
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
 "kandidatSlug": "boris-tadic",
 "rezultat": {
-"glasova": 34544,
-"udeo": 39.74137732679874
+"glasova": 34246,
+"udeo": 40.64372945323348
 },
 "kandidat": "Борис Тадић",
 "boja": "#a6cee3"
 },
 {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 32531,
+"udeo": 38.6083385751077
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
 "kandidatSlug": "cedomir-jova-novic",
 "rezultat": {
-"glasova": 5688,
-"udeo": 6.543797887761442
+"glasova": 5857,
+"udeo": 6.951186223430137
 },
 "kandidat": "Чедомир Јова-новић",
 "boja": "#fdbf6f"
@@ -18034,8 +18574,8 @@
 {
 "kandidatSlug": "milutin-mrkonjic",
 "rezultat": {
-"glasova": 4116,
-"udeo": 4.735279906122731
+"glasova": 4660,
+"udeo": 5.530566467677043
 },
 "kandidat": "Милутин Мркоњић",
 "boja": "#fdbf6f"
@@ -18043,8 +18583,8 @@
 {
 "kandidatSlug": "velimir-ilic",
 "rezultat": {
-"glasova": 3465,
-"udeo": 3.986332574031891
+"glasova": 3818,
+"udeo": 4.531266689611792
 },
 "kandidat": "Велимир Илић",
 "boja": "#33a02c"
@@ -18052,8 +18592,8 @@
 {
 "kandidatSlug": "milanka-karic",
 "rezultat": {
-"glasova": 691,
-"udeo": 0.7949656013437334
+"glasova": 743,
+"udeo": 0.8818049110480779
 },
 "kandidat": "Миланка Карић",
 "boja": "#ff7f00"
@@ -18061,8 +18601,8 @@
 {
 "kandidatSlug": "marijan-risti-cevic",
 "rezultat": {
-"glasova": 258,
-"udeo": 0.2968178366811624
+"glasova": 300,
+"udeo": 0.35604505156719163
 },
 "kandidat": "Маријан Ристи-чевић",
 "boja": "#e31a1c"
@@ -18070,8 +18610,8 @@
 {
 "kandidatSlug": "jugoslav-dobri-canin",
 "rezultat": {
-"glasova": 179,
-"udeo": 0.20593175490669796
+"glasova": 191,
+"udeo": 0.22668201616444536
 },
 "kandidat": "Југослав Добри-чанин",
 "boja": "#1f78b4"
@@ -18079,18 +18619,18 @@
 {
 "kandidatSlug": "istvan-pastor",
 "rezultat": {
-"glasova": 136,
-"udeo": 0.15646211545983754
+"glasova": 130,
+"udeo": 0.1542861890124497
 },
 "kandidat": "Иштван Пастор",
 "boja": "#8dd3c7"
 }
 ],
-"teritorija": "Палилула",
-"brojUpisanihBiracaUBirackiSpisak": 154604,
-"percentage": 56.22234871025329,
-"biraciKojiSuGlasali": 86922,
-"teritorijaSlug": "palilula"
+"teritorija": "Вождовац",
+"brojUpisanihBiracaUBirackiSpisak": 148230,
+"percentage": 56.84341901099643,
+"biraciKojiSuGlasali": 84259,
+"teritorijaSlug": "vozdovac"
 },
 {
 "rezultat": [
@@ -18907,6 +19447,96 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
+"glasova": 69739,
+"udeo": 40.29642042007338
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 55778,
+"udeo": 32.229509143963256
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "velimir-ilic",
+"rezultat": {
+"glasova": 22292,
+"udeo": 12.88070955999191
+},
+"kandidat": "Велимир Илић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "milutin-mrkonjic",
+"rezultat": {
+"glasova": 10458,
+"udeo": 6.042816282899489
+},
+"kandidat": "Милутин Мркоњић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "cedomir-jova-novic",
+"rezultat": {
+"glasova": 7998,
+"udeo": 4.621385028746425
+},
+"kandidat": "Чедомир Јова-новић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milanka-karic",
+"rezultat": {
+"glasova": 1764,
+"udeo": 1.0192702163926848
+},
+"kandidat": "Миланка Карић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "marijan-risti-cevic",
+"rezultat": {
+"glasova": 662,
+"udeo": 0.38251523993875136
+},
+"kandidat": "Маријан Ристи-чевић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "jugoslav-dobri-canin",
+"rezultat": {
+"glasova": 250,
+"udeo": 0.1444543957472626
+},
+"kandidat": "Југослав Добри-чанин",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "istvan-pastor",
+"rezultat": {
+"glasova": 244,
+"udeo": 0.14098749024932827
+},
+"kandidat": "Иштван Пастор",
+"boja": "#8dd3c7"
+}
+],
+"teritorija": "шумадијски",
+"brojUpisanihBiracaUBirackiSpisak": 258474,
+"percentage": 66.95644436190875,
+"biraciKojiSuGlasali": 173065,
+"teritorijaSlug": "sumadijski"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
 "glasova": 17699,
 "udeo": 41.15855076508069
 },
@@ -19351,1061 +19981,71 @@
 "percentage": 69.03687503460495,
 "biraciKojiSuGlasali": 49875,
 "teritorijaSlug": "vranje"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 2043,
-"udeo": 45.43028685790527
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 1521,
-"udeo": 33.82254836557705
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 297,
-"udeo": 6.604402935290193
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 281,
-"udeo": 6.2486101845674895
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 138,
-"udeo": 3.068712474983322
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 46,
-"udeo": 1.0229041583277743
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 17,
-"udeo": 0.37802979764287303
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.24460751612185905
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.13342228152101399
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Лапово",
-"brojUpisanihBiracaUBirackiSpisak": 7524,
-"percentage": 59.76874003189793,
-"biraciKojiSuGlasali": 4497,
-"teritorijaSlug": "lapovo"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 411971,
-"udeo": 38.167621387601876
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 402619,
-"udeo": 37.30119245154363
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 88415,
-"udeo": 8.191329595978406
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 63761,
-"udeo": 5.907225769034429
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 51864,
-"udeo": 4.805011798516361
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 26051,
-"udeo": 2.41353081835473
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 10231,
-"udeo": 0.9478651031663753
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 5084,
-"udeo": 0.47101419064586575
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 1826,
-"udeo": 0.1691722879857102
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Војводина",
-"brojUpisanihBiracaUBirackiSpisak": 1718138,
-"percentage": 62.82225292729688,
-"biraciKojiSuGlasali": 1079373,
-"teritorijaSlug": "vojvodina"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 5975,
-"udeo": 40.418047757559364
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 4396,
-"udeo": 29.73685990664953
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 2417,
-"udeo": 16.349861327200163
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1025,
-"udeo": 6.9336399918825675
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 336,
-"udeo": 2.2728810119732126
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 133,
-"udeo": 0.8996820672393966
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 85,
-"udeo": 0.574984779814652
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 26,
-"udeo": 0.17587769735507003
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 20,
-"udeo": 0.13529053642697692
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Уб",
-"brojUpisanihBiracaUBirackiSpisak": 24300,
-"percentage": 60.83539094650206,
-"biraciKojiSuGlasali": 14783,
-"teritorijaSlug": "ub"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 76,
-"udeo": 58.91472868217055
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 36,
-"udeo": 27.906976744186046
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 8,
-"udeo": 6.2015503875969
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 5,
-"udeo": 3.875968992248062
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 2,
-"udeo": 1.550387596899225
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.7751937984496124
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.7751937984496124
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-}
-],
-"teritorija": "Норвешка",
-"brojUpisanihBiracaUBirackiSpisak": 417,
-"percentage": 30.93525179856115,
-"biraciKojiSuGlasali": 129,
-"teritorijaSlug": "norveska"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 3626,
-"udeo": 35.86547972304649
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 3085,
-"udeo": 30.514342235410485
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 1854,
-"udeo": 18.338278931750743
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 791,
-"udeo": 7.823936696340257
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 538,
-"udeo": 5.321463897131553
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 42,
-"udeo": 0.4154302670623145
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 24,
-"udeo": 0.2373887240356083
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 12,
-"udeo": 0.11869436201780414
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.05934718100890207
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Нова Варош",
-"brojUpisanihBiracaUBirackiSpisak": 15522,
-"percentage": 65.13335910320835,
-"biraciKojiSuGlasali": 10110,
-"teritorijaSlug": "nova-varos"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 31845,
-"udeo": 42.27455561603101
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 26049,
-"udeo": 34.58030771681557
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 6570,
-"udeo": 8.721740631098248
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 5056,
-"udeo": 6.711890506976065
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 2901,
-"udeo": 3.8511064795762584
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 777,
-"udeo": 1.0314752618513454
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 313,
-"udeo": 0.415510626717466
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 144,
-"udeo": 0.19116143848982464
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 100,
-"udeo": 0.13275099895126713
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Крушевац",
-"brojUpisanihBiracaUBirackiSpisak": 117657,
-"percentage": 64.02423995172407,
-"biraciKojiSuGlasali": 75329,
-"teritorijaSlug": "krusevac"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 6796,
-"udeo": 42.326856003986045
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 5207,
-"udeo": 32.43024414549078
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 1940,
-"udeo": 12.082710513203788
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 956,
-"udeo": 5.954160438465371
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 559,
-"udeo": 3.481564524165421
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 155,
-"udeo": 0.9653712007972097
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 65,
-"udeo": 0.40483308420528147
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 26,
-"udeo": 0.16193323368211263
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 21,
-"udeo": 0.13079222720478326
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Врњачка Бања",
-"brojUpisanihBiracaUBirackiSpisak": 25406,
-"percentage": 63.19766984176966,
-"biraciKojiSuGlasali": 16056,
-"teritorijaSlug": "vrnjacka-banja"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 6538,
-"udeo": 45.99043331457512
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 4345,
-"udeo": 30.5641530669668
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 1684,
-"udeo": 11.8458075407991
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 890,
-"udeo": 6.260551491277434
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 352,
-"udeo": 2.4760832864378166
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 116,
-"udeo": 0.8159819921215531
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 53,
-"udeo": 0.37281935846933034
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 13,
-"udeo": 0.09144625773776026
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.07737760270118177
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Барајево",
-"brojUpisanihBiracaUBirackiSpisak": 22176,
-"percentage": 64.1053391053391,
-"biraciKojiSuGlasali": 14216,
-"teritorijaSlug": "barajevo"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 14649,
-"udeo": 47.623537061118334
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 9141,
-"udeo": 29.71716514954486
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 3052,
-"udeo": 9.921976592977893
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 1451,
-"udeo": 4.717165149544863
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 1258,
-"udeo": 4.0897269180754225
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 299,
-"udeo": 0.9720416124837452
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 90,
-"udeo": 0.2925877763328999
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 50,
-"udeo": 0.1625487646293888
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 29,
-"udeo": 0.09427828348504551
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Младеновац",
-"brojUpisanihBiracaUBirackiSpisak": 47810,
-"percentage": 64.3380046015478,
-"biraciKojiSuGlasali": 30760,
-"teritorijaSlug": "mladenovac"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 1194933,
-"udeo": 40.30966983685981
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 1034886,
-"udeo": 34.9106711244802
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 273069,
-"udeo": 9.211663944908603
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 189660,
-"udeo": 6.397958698319346
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 154894,
-"udeo": 5.225168272790662
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 29182,
-"udeo": 0.9844207040723146
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 13245,
-"udeo": 0.4468046133040164
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 9948,
-"udeo": 0.3355841670931185
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 4480,
-"udeo": 0.15112757022287607
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-}
-],
-"teritorija": "Централна Србија",
-"brojUpisanihBiracaUBirackiSpisak": 4886892,
-"percentage": 60.65988362337453,
-"biraciKojiSuGlasali": 2964383,
-"teritorijaSlug": "centralna-srbija"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "istvan-pastor",
-"rezultat": {
-"glasova": 4118,
-"udeo": 42.353183173917515
-},
-"kandidat": "Иштван Пастор",
-"boja": "#8dd3c7"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 3852,
-"udeo": 39.617402036408514
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 1066,
-"udeo": 10.963694333024787
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "cedomir-jova-novic",
-"rezultat": {
-"glasova": 333,
-"udeo": 3.424868867633447
-},
-"kandidat": "Чедомир Јова-новић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milutin-mrkonjic",
-"rezultat": {
-"glasova": 130,
-"udeo": 1.3370358942713154
-},
-"kandidat": "Милутин Мркоњић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "velimir-ilic",
-"rezultat": {
-"glasova": 58,
-"udeo": 0.5965237066748946
-},
-"kandidat": "Велимир Илић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "milanka-karic",
-"rezultat": {
-"glasova": 21,
-"udeo": 0.21598272138228944
-},
-"kandidat": "Миланка Карић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "marijan-risti-cevic",
-"rezultat": {
-"glasova": 19,
-"udeo": 0.19541293839349994
-},
-"kandidat": "Маријан Ристи-чевић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "jugoslav-dobri-canin",
-"rezultat": {
-"glasova": 10,
-"udeo": 0.10284891494394735
-},
-"kandidat": "Југослав Добри-чанин",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Ада",
-"brojUpisanihBiracaUBirackiSpisak": 16428,
-"percentage": 59.1855368882396,
-"biraciKojiSuGlasali": 9723,
-"teritorijaSlug": "ada"
 }
 ],
 "candidates": [
 {
 "kandidatSlug": "tomislav-nikolic",
-"glasova": 1550879,
+"glasova": 1646172,
 "boja": "#1f78b4",
 "kandidat": "Томислав Николић",
-"udeo": 8.881061059796536
+"udeo": 39.98626132056498
 },
 {
 "kandidatSlug": "boris-tadic",
-"glasova": 1381730,
+"glasova": 1457030,
 "boja": "#a6cee3",
 "kandidat": "Борис Тадић",
-"udeo": 7.912434495632908
+"udeo": 35.39191672067244
 },
 {
 "kandidatSlug": "velimir-ilic",
-"glasova": 294828,
+"glasova": 305828,
 "boja": "#33a02c",
 "kandidat": "Велимир Илић",
-"udeo": 1.6883235056620753
+"udeo": 7.428700237366294
 },
 {
 "kandidatSlug": "milutin-mrkonjic",
-"glasova": 232608,
+"glasova": 245889,
 "boja": "#fdbf6f",
 "kandidat": "Милутин Мркоњић",
-"udeo": 1.332022582675472
+"udeo": 5.972754857847419
 },
 {
 "kandidatSlug": "cedomir-jova-novic",
-"glasova": 207257,
+"glasova": 219689,
 "boja": "#fdbf6f",
 "kandidat": "Чедомир Јова-новић",
-"udeo": 1.18685085817156
+"udeo": 5.3363450254612514
 },
 {
 "kandidatSlug": "istvan-pastor",
-"glasova": 86147,
+"glasova": 93039,
 "boja": "#8dd3c7",
 "kandidat": "Иштван Пастор",
-"udeo": 0.49331815513543764
+"udeo": 2.259959328067811
 },
 {
 "kandidatSlug": "milanka-karic",
-"glasova": 38219,
+"glasova": 40332,
 "boja": "#ff7f00",
 "kandidat": "Миланка Карић",
-"udeo": 0.21885993210583407
+"udeo": 0.9796824946488135
 },
 {
 "kandidatSlug": "marijan-risti-cevic",
-"glasova": 17655,
+"glasova": 18500,
 "boja": "#e31a1c",
 "kandidat": "Маријан Ристи-чевић",
-"udeo": 0.10110081638265002
+"udeo": 0.44937335492916414
 },
 {
 "kandidatSlug": "jugoslav-dobri-canin",
-"glasova": 11209,
+"glasova": 11894,
 "boja": "#1f78b4",
 "kandidat": "Југослав Добри-чанин",
-"udeo": 0.06418799494948309
+"udeo": 0.2889106315420259
 }
 ]
 }

@@ -1,6 +1,6 @@
 {
-"total_voters": 3505060,
-"percentage": 46.321470790550585,
+"total_voters": 3132679,
+"percentage": 46.26284745179007,
 "winners": [
 {
 "rezultat": [
@@ -410,15 +410,6 @@
 {
 "rezultat": [
 {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 352,
-"udeo": 48.484848484848484
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 352,
@@ -426,6 +417,15 @@
 },
 "kandidat": "Томислав Николић",
 "boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 352,
+"udeo": 48.484848484848484
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
 }
 ],
 "teritorija": "Косово Поље",
@@ -5595,17 +5595,17 @@
 "candidates": [
 {
 "kandidatSlug": "tomislav-nikolic",
-"glasova": 1732104,
+"glasova": 1552063,
 "boja": "#1f78b4",
 "kandidat": "Томислав Николић",
-"udeo": 23.885982996738626
+"udeo": 49.54427185166434
 },
 {
 "kandidatSlug": "boris-tadic",
-"glasova": 1660787,
+"glasova": 1481952,
 "boja": "#a6cee3",
 "kandidat": "Борис Тадић",
-"udeo": 22.902510497755653
+"udeo": 47.30621937325848
 }
 ]
 }

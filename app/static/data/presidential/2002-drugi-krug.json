@@ -1,6 +1,6 @@
 {
 "total_voters": 2979254,
-"percentage": 45.31075218104992,
+"percentage": 45.46367931107416,
 "winners": [
 {
 "rezultat": [
@@ -4869,14 +4869,14 @@
 "glasova": 1991947,
 "boja": "#33a02c",
 "kandidat": "Војислав Коштуница (ДСС)",
-"udeo": 68.3803283235629
+"udeo": 66.86059664600602
 },
 {
 "kandidatSlug": "dr-miroljub-labus-gg",
 "glasova": 921094,
 "boja": "#ff7f00",
 "kandidat": "др Мирољуб Лабус      (ГГ)",
-"udeo": 31.6196716764371
+"udeo": 30.916934239242444
 }
 ]
 }

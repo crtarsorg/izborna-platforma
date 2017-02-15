@@ -1,6 +1,6 @@
 {
-"total_voters": 3917048,
-"percentage": 55.457954338714124,
+"total_voters": 3637062,
+"percentage": 55.50188752033025,
 "winners": [
 {
 "rezultat": [
@@ -2480,11 +2480,11 @@
 "boja": "#e31a1c"
 }
 ],
-"teritorija": "Приштина - град",
+"teritorija": "Приштина",
 "brojUpisanihBiracaUBirackiSpisak": 10005,
 "percentage": 29.12543728135932,
 "biraciKojiSuGlasali": 2914,
-"teritorijaSlug": "pristina-grad"
+"teritorijaSlug": "pristina"
 },
 {
 "rezultat": [
@@ -19554,80 +19554,80 @@
 "candidates": [
 {
 "kandidatSlug": "vojislav-kostunica-dss",
-"glasova": 1181590,
+"glasova": 1123420,
 "boja": "#33a02c",
 "kandidat": "Војислав Коштуница (ДСС)",
-"udeo": 17.632695137582
+"udeo": 30.88811793695021
 },
 {
 "kandidatSlug": "dr-miroljub-labus-gg",
-"glasova": 1093638,
+"glasova": 995200,
 "boja": "#ff7f00",
 "kandidat": "др Мирољуб Лабус      (ГГ)",
-"udeo": 16.320200276639866
+"udeo": 27.362744984825664
 },
 {
 "kandidatSlug": "dr-vojislav-seselj-srs",
-"glasova": 925886,
+"glasova": 845308,
 "boja": "#8dd3c7",
 "kandidat": "др Војислав Шешељ (СРС)",
-"udeo": 13.816861661113625
+"udeo": 23.24150646868269
 },
 {
 "kandidatSlug": "vuk-draskovic-spo",
-"glasova": 166913,
+"glasova": 159959,
 "boja": "#a6cee3",
 "kandidat": "Вук Драшковић (СПО)",
-"udeo": 2.4908183409636373
+"udeo": 4.398027858749727
 },
 {
 "kandidatSlug": "prof-borislav-pelevic-ssj",
-"glasova": 148146,
+"glasova": 139047,
 "boja": "#6a3d9a",
 "kandidat": "проф. Борислав  Пелевић  (ССЈ)",
-"udeo": 2.210761138679426
+"udeo": 3.8230582816570076
 },
 {
 "kandidatSlug": "velimir-bata-zivojinovic-sps",
-"glasova": 129323,
+"glasova": 119052,
 "boja": "#1f78b4",
 "kandidat": "Велимир-Бата Живојиновић (СПС)",
-"udeo": 1.9298682565674363
+"udeo": 3.2733013624733367
 },
 {
 "kandidatSlug": "nebojsa-pavkovic-gg",
-"glasova": 80177,
+"glasova": 75662,
 "boja": "#ff7f00",
 "kandidat": "Небојша Павковић  (ГГ)",
-"udeo": 1.1964696705675504
+"udeo": 2.0803054773330785
 },
 {
 "kandidatSlug": "prof-dr-branislav-bane-ivkovic-gg",
-"glasova": 44488,
+"glasova": 42853,
 "boja": "#b2df8a",
 "kandidat": "проф. др Бранислав-Бане Ивковић (ГГ)",
-"udeo": 0.6638879317536099
-},
-{
-"kandidatSlug": "dr-tomislav-lalosevic-gg",
-"glasova": 27887,
-"boja": "#e31a1c",
-"kandidat": "др Томислав Лалошевић (ГГ)",
-"udeo": 0.41615363137953876
+"udeo": 1.1782312206940657
 },
 {
 "kandidatSlug": "dr-vuk-obradovic-sd",
-"glasova": 27756,
+"glasova": 26050,
 "boja": "#fdbf6f",
 "kandidat": "др Вук Обрадовић  (СД)",
-"udeo": 0.41419873749670016
+"udeo": 0.7162374465983808
+},
+{
+"kandidatSlug": "dr-tomislav-lalosevic-gg",
+"glasova": 25133,
+"boja": "#e31a1c",
+"kandidat": "др Томислав Лалошевић (ГГ)",
+"udeo": 0.6910247886893323
 },
 {
 "kandidatSlug": "dr-dragan-radenovic-gg",
-"glasova": 9007,
+"glasova": 8280,
 "boja": "#b15928",
 "kandidat": "др Драган Раденовић (ГГ)",
-"udeo": 0.13441014658570322
+"udeo": 0.2276562786116926
 }
 ]
 }

@@ -1,6 +1,6 @@
 {
-"total_voters": 4038723,
-"percentage": 57.629850857015654,
+"total_voters": 3908652,
+"percentage": 57.73477835271513,
 "winners": [
 {
 "rezultat": [
@@ -23,6 +23,15 @@
 "boja": "#b2df8a"
 },
 {
+"kandidatSlug": "cedomir-jovanovic",
+"rezultat": {
+"glasova": 1,
+"udeo": 9.090909090909092
+},
+"kandidat": "Чедомир Јовановић",
+"boja": "#b15928"
+},
+{
 "kandidatSlug": "muamer-zukorlic",
 "rezultat": {
 "glasova": 1,
@@ -41,24 +50,6 @@
 "boja": "#6a3d9a"
 },
 {
-"kandidatSlug": "cedomir-jovanovic",
-"rezultat": {
-"glasova": 1,
-"udeo": 9.090909090909092
-},
-"kandidat": "Чедомир Јовановић",
-"boja": "#b15928"
-},
-{
-"kandidatSlug": "vladan-glisic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Владан Глишић",
-"boja": "#33a02c"
-},
-{
 "kandidatSlug": "vojislav-kostunica",
 "rezultat": {
 "glasova": 0,
@@ -75,6 +66,15 @@
 },
 "kandidat": "проф. др Зоран Драгишић",
 "boja": "#fb9a99"
+},
+{
+"kandidatSlug": "vladan-glisic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Владан Глишић",
+"boja": "#33a02c"
 },
 {
 "kandidatSlug": "jadranka-seselj",
@@ -194,15 +194,6 @@
 "boja": "#e31a1c"
 },
 {
-"kandidatSlug": "vladan-glisic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Владан Глишић",
-"boja": "#33a02c"
-},
-{
 "kandidatSlug": "prof-dr-zoran-dragisic",
 "rezultat": {
 "glasova": 0,
@@ -210,6 +201,15 @@
 },
 "kandidat": "проф. др Зоран Драгишић",
 "boja": "#fb9a99"
+},
+{
+"kandidatSlug": "vladan-glisic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Владан Глишић",
+"boja": "#33a02c"
 },
 {
 "kandidatSlug": "muamer-zukorlic",
@@ -293,15 +293,6 @@
 "boja": "#6a3d9a"
 },
 {
-"kandidatSlug": "vladan-glisic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Владан Глишић",
-"boja": "#33a02c"
-},
-{
 "kandidatSlug": "prof-dr-zoran-dragisic",
 "rezultat": {
 "glasova": 0,
@@ -309,6 +300,15 @@
 },
 "kandidat": "проф. др Зоран Драгишић",
 "boja": "#fb9a99"
+},
+{
+"kandidatSlug": "vladan-glisic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Владан Глишић",
+"boja": "#33a02c"
 },
 {
 "kandidatSlug": "jadranka-seselj",
@@ -15062,15 +15062,6 @@
 "boja": "#fb9a99"
 },
 {
-"kandidatSlug": "danica-grujicic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Даница Грујичић",
-"boja": "#ff7f00"
-},
-{
 "kandidatSlug": "cedomir-jovanovic",
 "rezultat": {
 "glasova": 0,
@@ -15078,6 +15069,15 @@
 },
 "kandidat": "Чедомир Јовановић",
 "boja": "#b15928"
+},
+{
+"kandidatSlug": "danica-grujicic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Даница Грујичић",
+"boja": "#ff7f00"
 },
 {
 "kandidatSlug": "istvan-pastor",
@@ -17726,15 +17726,6 @@
 "boja": "#b2df8a"
 },
 {
-"kandidatSlug": "vladan-glisic",
-"rezultat": {
-"glasova": 6,
-"udeo": 1.7647058823529411
-},
-"kandidat": "Владан Глишић",
-"boja": "#33a02c"
-},
-{
 "kandidatSlug": "prof-dr-zoran-dragisic",
 "rezultat": {
 "glasova": 6,
@@ -17742,6 +17733,15 @@
 },
 "kandidat": "проф. др Зоран Драгишић",
 "boja": "#fb9a99"
+},
+{
+"kandidatSlug": "vladan-glisic",
+"rezultat": {
+"glasova": 6,
+"udeo": 1.7647058823529411
+},
+"kandidat": "Владан Глишић",
+"boja": "#33a02c"
 },
 {
 "kandidatSlug": "muamer-zukorlic",
@@ -18086,15 +18086,6 @@
 "boja": "#e31a1c"
 },
 {
-"kandidatSlug": "vladan-glisic",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.9345794392523363
-},
-"kandidat": "Владан Глишић",
-"boja": "#33a02c"
-},
-{
 "kandidatSlug": "prof-dr-zoran-dragisic",
 "rezultat": {
 "glasova": 1,
@@ -18102,6 +18093,15 @@
 },
 "kandidat": "проф. др Зоран Драгишић",
 "boja": "#fb9a99"
+},
+{
+"kandidatSlug": "vladan-glisic",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.9345794392523363
+},
+"kandidat": "Владан Глишић",
+"boja": "#33a02c"
 },
 {
 "kandidatSlug": "muamer-zukorlic",
@@ -23198,15 +23198,6 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "ivica-dacic",
-"rezultat": {
-"glasova": 4,
-"udeo": 5.714285714285714
-},
-"kandidat": "Ивица Дачић",
-"boja": "#6a3d9a"
-},
-{
 "kandidatSlug": "cedomir-jovanovic",
 "rezultat": {
 "glasova": 4,
@@ -23214,6 +23205,15 @@
 },
 "kandidat": "Чедомир Јовановић",
 "boja": "#b15928"
+},
+{
+"kandidatSlug": "ivica-dacic",
+"rezultat": {
+"glasova": 4,
+"udeo": 5.714285714285714
+},
+"kandidat": "Ивица Дачић",
+"boja": "#6a3d9a"
 },
 {
 "kandidatSlug": "prof-dr-zoran-stankovic",
@@ -24108,87 +24108,87 @@
 "candidates": [
 {
 "kandidatSlug": "boris-tadic",
-"glasova": 1017371,
+"glasova": 989454,
 "boja": "#a6cee3",
 "kandidat": "Борис Тадић",
-"udeo": 14.030772039931607
+"udeo": 25.31445623708634
 },
 {
 "kandidatSlug": "tomislav-nikolic",
-"glasova": 1014734,
+"glasova": 979216,
 "boja": "#1f78b4",
 "kandidat": "Томислав Николић",
-"udeo": 13.99440463230027
+"udeo": 25.05252450205339
 },
 {
 "kandidatSlug": "ivica-dacic",
-"glasova": 575718,
+"glasova": 556013,
 "boja": "#6a3d9a",
 "kandidat": "Ивица Дачић",
-"udeo": 7.939844970306156
+"udeo": 14.225185562695271
 },
 {
 "kandidatSlug": "vojislav-kostunica",
-"glasova": 299796,
+"glasova": 290861,
 "boja": "#a6cee3",
 "kandidat": "Војислав Коштуница",
-"udeo": 4.134548099447827
+"udeo": 7.44146575341064
 },
 {
 "kandidatSlug": "prof-dr-zoran-stankovic",
-"glasova": 270969,
+"glasova": 257054,
 "boja": "#b2df8a",
 "kandidat": "проф. др  Зоран Станковић",
-"udeo": 3.736989032406298
+"udeo": 6.576538407614698
 },
 {
 "kandidatSlug": "cedomir-jovanovic",
-"glasova": 204037,
+"glasova": 196668,
 "boja": "#b15928",
 "kandidat": "Чедомир Јовановић",
-"udeo": 2.8139160981702105
+"udeo": 5.031606804596572
 },
 {
 "kandidatSlug": "jadranka-seselj",
-"glasova": 151809,
+"glasova": 147793,
 "boja": "#e31a1c",
 "kandidat": "Јадранка Шешељ",
-"udeo": 2.0936290425124926
+"udeo": 3.781175709682008
 },
 {
 "kandidatSlug": "vladan-glisic",
-"glasova": 111929,
+"glasova": 108303,
 "boja": "#33a02c",
 "kandidat": "Владан Глишић",
-"udeo": 1.5436357864117463
+"udeo": 2.770852969258967
 },
 {
 "kandidatSlug": "istvan-pastor",
-"glasova": 63616,
+"glasova": 63420,
 "boja": "#8dd3c7",
 "kandidat": "Иштван Пастор",
-"udeo": 0.8773412983978206
+"udeo": 1.6225542719075527
 },
 {
 "kandidatSlug": "prof-dr-zoran-dragisic",
-"glasova": 62167,
+"glasova": 60116,
 "boja": "#fb9a99",
 "kandidat": "проф. др Зоран Драгишић",
-"udeo": 0.8573578423273597
+"udeo": 1.538023850677932
 },
 {
 "kandidatSlug": "muamer-zukorlic",
-"glasova": 54741,
+"glasova": 54492,
 "boja": "#fdbf6f",
 "kandidat": "Муамер Зукорлић",
-"udeo": 0.7549443538668746
+"udeo": 1.3941379278585047
 },
 {
 "kandidatSlug": "danica-grujicic",
-"glasova": 31772,
+"glasova": 30602,
 "boja": "#ff7f00",
 "kandidat": "Даница Грујичић",
-"udeo": 0.4381741658182777
+"udeo": 0.7829297670910584
 }
 ]
 }

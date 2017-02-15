@@ -1,6 +1,6 @@
 {
 "total_voters": 2524522,
-"percentage": 38.778567935096504,
+"percentage": 38.7999701836854,
 "winners": [
 {
 "rezultat": [
@@ -8285,15 +8285,6 @@
 "boja": "#e31a1c"
 },
 {
-"kandidatSlug": "dragan-s-tomic-sns",
-"rezultat": {
-"glasova": 180,
-"udeo": 2.462717197975099
-},
-"kandidat": "Драган С. Томић (СНС)",
-"boja": "#c7e9b4"
-},
-{
 "kandidatSlug": "marijan-risticevic-nss",
 "rezultat": {
 "glasova": 180,
@@ -8301,6 +8292,15 @@
 },
 "kandidat": "Маријан Ристичевић (НСС)",
 "boja": "#7fcdbb"
+},
+{
+"kandidatSlug": "dragan-s-tomic-sns",
+"rezultat": {
+"glasova": 180,
+"udeo": 2.462717197975099
+},
+"kandidat": "Драган С. Томић (СНС)",
+"boja": "#c7e9b4"
 },
 {
 "kandidatSlug": "radoslav-avlijas-dso",
@@ -11349,42 +11349,42 @@
 "glasova": 1166896,
 "boja": "#253494",
 "kandidat": "Томислав Николић (СРС)",
-"udeo": 47.86851271541212
+"udeo": 46.222453201041624
 },
 {
 "kandidatSlug": "prof-dr-dragoljub-micunovic-dos",
 "glasova": 893906,
 "boja": "#2c7fb8",
 "kandidat": "Проф. др Драгољуб Мићуновић (ДОС)",
-"udeo": 36.6698923703425
+"udeo": 35.40892097593129
 },
 {
 "kandidatSlug": "velimir-ilic-ns",
 "glasova": 229229,
 "boja": "#e31a1c",
 "kandidat": "Велимир    Илић    (НС)",
-"udeo": 9.403452665225698
+"udeo": 9.080095162569389
 },
 {
 "kandidatSlug": "marijan-risticevic-nss",
 "glasova": 72105,
 "boja": "#7fcdbb",
 "kandidat": "Маријан Ристичевић (НСС)",
-"udeo": 2.9578977983854524
+"udeo": 2.8561842598321583
 },
 {
 "kandidatSlug": "dragan-s-tomic-sns",
 "glasova": 54703,
 "boja": "#c7e9b4",
 "kandidat": "Драган С. Томић (СНС)",
-"udeo": 2.244031388462373
+"udeo": 2.166865648229645
 },
 {
 "kandidatSlug": "radoslav-avlijas-dso",
 "glasova": 20872,
 "boja": "#ffffcc",
 "kandidat": "Радослав Авлијаш (ДСО)",
-"udeo": 0.8562130621718489
+"udeo": 0.8267703747481701
 }
 ]
 }

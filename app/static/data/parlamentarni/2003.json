@@ -32409,133 +32409,133 @@
 "izbornaListaSlug": "srs",
 "glasova": 1056256,
 "boja": "#1f78b4",
-"udeo": 27.981759043255778
+"udeo": 27.611135988222102
 },
 {
 "izbornaLista": "ДСС",
 "izbornaListaSlug": "dss",
 "glasova": 678031,
 "boja": "#b2df8a",
-"udeo": 17.962028207042383
+"udeo": 17.72411815433969
 },
 {
 "izbornaLista": "ДС",
 "izbornaListaSlug": "ds",
 "glasova": 481249,
 "boja": "#fb9a99",
-"udeo": 12.748986569361783
+"udeo": 12.580124120663836
 },
 {
 "izbornaLista": "Г17 плус",
 "izbornaListaSlug": "g17-plus",
 "glasova": 438422,
 "boja": "#a6cee3",
-"udeo": 11.614436995635797
+"udeo": 11.460601844844726
 },
 {
 "izbornaLista": "СПО - НС",
 "izbornaListaSlug": "spo-ns",
 "glasova": 293082,
 "boja": "#e31a1c",
-"udeo": 7.764168822629637
+"udeo": 7.661331114521584
 },
 {
 "izbornaLista": "СПС",
 "izbornaListaSlug": "sps",
 "glasova": 291341,
 "boja": "#cab2d6",
-"udeo": 7.718047198237153
+"udeo": 7.615820378719379
 },
 {
 "izbornaLista": "Заједно за толеранцију",
 "izbornaListaSlug": "zajedno-za-toleranciju",
 "glasova": 161765,
 "boja": "#8dd3c7",
-"udeo": 4.285390333055879
+"udeo": 4.2286296249533715
 },
 {
 "izbornaLista": "ДА",
 "izbornaListaSlug": "da",
 "glasova": 84463,
 "boja": "#33a02c",
-"udeo": 2.237547823700422
+"udeo": 2.2079111304202805
 },
 {
 "izbornaLista": "За народно јединство",
 "izbornaListaSlug": "za-narodno-jedinstvo",
 "glasova": 68537,
 "boja": "#ff7f00",
-"udeo": 1.8156449000503865
+"udeo": 1.7915963812037785
 },
 {
 "izbornaLista": "Отпор",
 "izbornaListaSlug": "otpor",
 "glasova": 62545,
 "boja": "#fdbf6f",
-"udeo": 1.6569080974313355
+"udeo": 1.6349620739511552
 },
 {
 "izbornaLista": "Самостална Србија",
 "izbornaListaSlug": "samostalna-srbija",
 "glasova": 45211,
 "boja": "#6a3d9a",
-"udeo": 1.1977052041405085
+"udeo": 1.1818413993989236
 },
 {
 "izbornaLista": "СНС",
 "izbornaListaSlug": "sns",
 "glasova": 27596,
 "boja": "#80b1d3",
-"udeo": 0.7310582117949498
+"udeo": 0.7213752241227289
 },
 {
 "izbornaLista": "Либерали Србије",
 "izbornaListaSlug": "liberali-srbije",
 "glasova": 22852,
 "boja": "#bebada",
-"udeo": 0.6053827459029639
+"udeo": 0.5973643506904117
 },
 {
 "izbornaLista": "Реформисти",
 "izbornaListaSlug": "reformisti",
 "glasova": 19464,
 "boja": "#fb8072",
-"udeo": 0.5156296939548087
+"udeo": 0.5088000928513117
 },
 {
 "izbornaLista": "Одбрана и правда",
 "izbornaListaSlug": "odbrana-i-pravda",
 "glasova": 18423,
 "boja": "#b15928",
-"udeo": 0.4880520885598768
+"udeo": 0.4815877574290852
 },
 {
 "izbornaLista": "Привредна снага Србије и дијаспора",
 "izbornaListaSlug": "privredna-snaga-srbije-i-dijaspora",
 "glasova": 14113,
 "boja": "#fdb462",
-"udeo": 0.37387391444637363
+"udeo": 0.36892189223235516
 },
 {
 "izbornaLista": "Лабурист. партија Србије",
 "izbornaListaSlug": "laburist-partija-srbije",
 "glasova": 4666,
 "boja": "#b3de69",
-"udeo": 0.12360913234654428
+"udeo": 0.12197190881854811
 },
 {
 "izbornaLista": "ЈУЛ",
 "izbornaListaSlug": "jul",
 "glasova": 3771,
 "boja": "#b3de69",
-"udeo": 0.09989927948538758
+"udeo": 0.09857609690414593
 },
 {
 "izbornaLista": "Савез Срба Војводине",
 "izbornaListaSlug": "savez-srba-vojvodine",
 "glasova": 3015,
 "boja": "#b3de69",
-"udeo": 0.07987173896803064
+"udeo": 0.07881382449376823
 }
 ]
 }

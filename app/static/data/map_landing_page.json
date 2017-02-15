@@ -10867,6 +10867,19 @@
 "rezultat": {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
+"glasova": 186,
+"udeo": 75.91836734693878
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "velika-britanija",
+"teritorija": "Велика Британија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
 "glasova": 134,
 "udeo": 79.76190476190477
 },
@@ -11972,6 +11985,19 @@
 "rezultat": {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
+"glasova": 10349,
+"udeo": 54.92225229528207
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "ivanjica",
+"teritorija": "Ивањица"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
 "glasova": 4477,
 "udeo": 49.705784389918946
 },
@@ -12139,19 +12165,6 @@
 },
 {
 "rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 5076,
-"udeo": 58.85217391304348
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-"teritorijaSlug": "koceljeva",
-"teritorija": "Коцељева"
-},
-{
-"rezultat": {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
 "glasova": 12921,
@@ -12167,53 +12180,14 @@
 "rezultat": {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
-"glasova": 8846,
-"udeo": 57.03049448778287
+"glasova": 5076,
+"udeo": 58.85217391304348
 },
 "kandidat": "Томислав Николић",
 "boja": "#1f78b4"
 },
-"teritorijaSlug": "barajevo",
-"teritorija": "Барајево"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 269,
-"udeo": 51.83044315992292
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "makedonija",
-"teritorija": "Македонија"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 13610,
-"udeo": 91.58199313639727
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "senta",
-"teritorija": "Сента"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 9724,
-"udeo": 86.83693516699411
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "ada",
-"teritorija": "Ада"
+"teritorijaSlug": "koceljeva",
+"teritorija": "Коцељева"
 },
 {
 "rezultat": {
@@ -12386,6 +12360,32 @@
 },
 {
 "rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 16360,
+"udeo": 73.46535542682653
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "backa-topola",
+"teritorija": "Бачка Топола"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 5196,
+"udeo": 51.222397476340696
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "srbobran",
+"teritorija": "Србобран"
+},
+{
+"rezultat": {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
 "glasova": 17039,
@@ -12435,6 +12435,58 @@
 },
 "teritorijaSlug": "kula",
 "teritorija": "Кула"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 8846,
+"udeo": 57.03049448778287
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "barajevo",
+"teritorija": "Барајево"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 269,
+"udeo": 51.83044315992292
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "makedonija",
+"teritorija": "Македонија"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 13610,
+"udeo": 91.58199313639727
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "senta",
+"teritorija": "Сента"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 9724,
+"udeo": 86.83693516699411
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "ada",
+"teritorija": "Ада"
 },
 {
 "rezultat": {
@@ -12591,45 +12643,6 @@
 },
 "teritorijaSlug": "pozarevac",
 "teritorija": "Пожаревац"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 312,
-"udeo": 76.47058823529412
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "sjedinjene-americke-drzave",
-"teritorija": "Сједињене Америчке Државе"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 13862,
-"udeo": 56.69993455497382
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-"teritorijaSlug": "velika-plana",
-"teritorija": "Велика Плана"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 26099,
-"udeo": 52.104212417648235
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-"teritorijaSlug": "sremska-mitrovica",
-"teritorija": "Сремска Митровица"
 },
 {
 "rezultat": {
@@ -12895,6 +12908,71 @@
 "rezultat": {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
+"glasova": 312,
+"udeo": 76.47058823529412
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "sjedinjene-americke-drzave",
+"teritorija": "Сједињене Америчке Државе"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 13862,
+"udeo": 56.69993455497382
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "velika-plana",
+"teritorija": "Велика Плана"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 26099,
+"udeo": 52.104212417648235
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "sremska-mitrovica",
+"teritorija": "Сремска Митровица"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 7574,
+"udeo": 52.644748731493706
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+"teritorijaSlug": "novi-becej",
+"teritorija": "Нови Бечеј"
+},
+{
+"rezultat": {
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 38496,
+"udeo": 52.33634695126096
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+"teritorijaSlug": "kraljevo",
+"teritorija": "Краљево"
+},
+{
+"rezultat": {
+"kandidatSlug": "boris-tadic",
+"rezultat": {
 "glasova": 134,
 "udeo": 88.74172185430463
 },
@@ -12929,32 +13007,6 @@
 },
 "teritorijaSlug": "pecinci",
 "teritorija": "Пећинци"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 7574,
-"udeo": 52.644748731493706
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "novi-becej",
-"teritorija": "Нови Бечеј"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 38496,
-"udeo": 52.33634695126096
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-"teritorijaSlug": "kraljevo",
-"teritorija": "Краљево"
 },
 {
 "rezultat": {
@@ -13376,40 +13428,14 @@
 "rezultat": {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
-"glasova": 10349,
-"udeo": 54.92225229528207
+"glasova": 42386,
+"udeo": 51.3582939537138
 },
 "kandidat": "Томислав Николић",
 "boja": "#1f78b4"
 },
-"teritorijaSlug": "ivanjica",
-"teritorija": "Ивањица"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 186,
-"udeo": 75.91836734693878
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "velika-britanija",
-"teritorija": "Велика Британија"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 59806,
-"udeo": 59.307226227427336
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-"teritorijaSlug": "pcinjski",
-"teritorija": "ПЧИЊСКИ"
+"teritorijaSlug": "krusevac",
+"teritorija": "Крушевац"
 },
 {
 "rezultat": {
@@ -13423,19 +13449,6 @@
 },
 "teritorijaSlug": "subotica",
 "teritorija": "Суботица"
-},
-{
-"rezultat": {
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 42386,
-"udeo": 51.3582939537138
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-"teritorijaSlug": "krusevac",
-"teritorija": "Крушевац"
 },
 {
 "rezultat": {
@@ -13514,45 +13527,6 @@
 },
 "teritorijaSlug": "novi-sad",
 "teritorija": "Нови Сад"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 16360,
-"udeo": 73.46535542682653
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "backa-topola",
-"teritorija": "Бачка Топола"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 5196,
-"udeo": 51.222397476340696
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "srbobran",
-"teritorija": "Србобран"
-},
-{
-"rezultat": {
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 65002,
-"udeo": 54.36267991402598
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-"teritorijaSlug": "srednje-banatski",
-"teritorija": "СРЕДЊЕ-БАНАТСКИ"
 },
 {
 "rezultat": {

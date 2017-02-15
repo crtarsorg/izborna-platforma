@@ -8,7 +8,7 @@
         $.getJSON('{{ url_for("static",filename="data/map_landing_page.json") }}',function (datajson) {
 
             for (var i = 0; i < datajson['map_par_2012'].length; i++) {
-                console.log(datajson['map_par_2012'][i]['rezultat']['boja']);
+
                      data.push({
                             "NAME_2": transliterate(datajson['map_par_2012'][i]['teritorija']),
                             "terrigorySlug": transliterate(datajson['map_par_2012'][i]['teritorijaSlug']),

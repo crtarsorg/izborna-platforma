@@ -645,14 +645,6 @@
 "boja": "#6a3d9a"
 },
 {
-"kandidatSlug": "ljiljana-arandelovic",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.35842293906810035
-},
-"kandidat": "Љиљана Аранђеловић"
-},
-{
 "kandidatSlug": "branislav-ivkovic",
 "rezultat": {
 "glasova": 1,
@@ -671,21 +663,12 @@
 "boja": "#1f78b4"
 },
 {
-"kandidatSlug": "vladan-batic",
+"kandidatSlug": "ljiljana-arandelovic",
 "rezultat": {
-"glasova": 0,
-"udeo": 0
+"glasova": 1,
+"udeo": 0.35842293906810035
 },
-"kandidat": "Владан Батић"
-},
-{
-"kandidatSlug": "mirko-jovic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Мирко Јовић",
-"boja": "#6a3d9a"
+"kandidat": "Љиљана Аранђеловић"
 },
 {
 "kandidatSlug": "milovan-drecun",
@@ -703,6 +686,23 @@
 "udeo": 0
 },
 "kandidat": "Драган Ђорђевић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "vladan-batic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Владан Батић"
+},
+{
+"kandidatSlug": "mirko-jovic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Мирко Јовић",
 "boja": "#6a3d9a"
 }
 ],
@@ -26421,103 +26421,103 @@
 "glasova": 954179,
 "boja": "#1f78b4",
 "kandidat": "Томислав Николић",
-"udeo": 30.983529530953852
+"udeo": 30.605535932626566
 },
 {
 "kandidatSlug": "boris-tadic",
 "glasova": 852918,
 "boja": "#a6cee3",
 "kandidat": "Борис Тадић",
-"udeo": 27.695442931024573
+"udeo": 27.35756340957408
 },
 {
 "kandidatSlug": "bogoljub-karic",
 "glasova": 568522,
 "boja": "#6a3d9a",
 "kandidat": "Богољуб Карић",
-"udeo": 18.460706194536815
+"udeo": 18.23548883332029
 },
 {
 "kandidatSlug": "dragan-marsicanin",
 "glasova": 414721,
 "boja": "#6a3d9a",
 "kandidat": "Драган Маршићанин",
-"udeo": 13.466572153240339
+"udeo": 13.30228234693367
 },
 {
 "kandidatSlug": "ivica-dacic",
 "glasova": 125934,
 "boja": "#6a3d9a",
 "kandidat": "Ивица Дачић",
-"udeo": 4.089253492218066
+"udeo": 4.039365320489545
 },
 {
 "kandidatSlug": "jelisaveta-karadordevic",
 "glasova": 62689,
 "boja": "#6a3d9a",
 "kandidat": "Јелисавета Карађорђевић",
-"udeo": 2.0355996964573375
+"udeo": 2.010765739007489
 },
 {
 "kandidatSlug": "milovan-drecun",
 "glasova": 16906,
 "boja": "#6a3d9a",
 "kandidat": "Милован Дрецун",
-"udeo": 0.5489615158689364
+"udeo": 0.5422642821493501
 },
 {
 "kandidatSlug": "vladan-batic",
 "glasova": 16790,
 "kandidat": "Владан Батић",
-"udeo": 0.5451948332804591
+"udeo": 0.5385435524244403
 },
 {
 "kandidatSlug": "borislav-pelevic",
 "glasova": 14299,
 "boja": "#1f78b4",
 "kandidat": "Борислав Пелевић",
-"udeo": 0.4643085718330723
+"udeo": 0.45864408910762783
 },
 {
 "kandidatSlug": "branislav-ivkovic",
 "glasova": 13959,
 "boja": "#6a3d9a",
 "kandidat": "Бранислав Ивковић",
-"udeo": 0.453268295280639
+"udeo": 0.44773850198289233
 },
 {
 "kandidatSlug": "ljiljana-arandelovic",
 "glasova": 11785,
 "kandidat": "Љиљана Аранђеловић",
-"udeo": 0.38267546814831505
+"udeo": 0.37800689489708333
 },
 {
 "kandidatSlug": "marijan-risticevic",
 "glasova": 10185,
 "boja": "#1f78b4",
 "kandidat": "Маријан Ристичевић",
-"udeo": 0.3307212255486287
+"udeo": 0.32668648489832786
 },
 {
 "kandidatSlug": "dragan-dordevic",
 "glasova": 5781,
 "boja": "#6a3d9a",
 "kandidat": "Драган Ђорђевић",
-"udeo": 0.1877171727929919
+"udeo": 0.18542705637675339
 },
 {
 "kandidatSlug": "mirko-jovic",
 "glasova": 5542,
 "boja": "#6a3d9a",
 "kandidat": "Мирко Јовић",
-"udeo": 0.17995650780466374
+"udeo": 0.1777610701331893
 },
 {
 "kandidatSlug": "zoran-milinkovic",
 "glasova": 5423,
 "boja": "#6a3d9a",
 "kandidat": "Зоран Милинковић",
-"udeo": 0.17609241101131207
+"udeo": 0.17394411463953185
 }
 ]
 }

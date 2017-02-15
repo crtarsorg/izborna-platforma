@@ -1,6 +1,6 @@
 {
-"total_voters": 4341795,
-"percentage": 68.11064816412586,
+"total_voters": 4580428,
+"percentage": 68.12299424042672,
 "winners": [
 {
 "rezultat": [
@@ -1405,6 +1405,33 @@
 "percentage": 78.03210936258145,
 "biraciKojiSuGlasali": 9818,
 "teritorijaSlug": "lajkovac"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 5039,
+"udeo": 56.97003957037875
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 3623,
+"udeo": 40.960994912379874
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Бела Паланка",
+"brojUpisanihBiracaUBirackiSpisak": 10923,
+"percentage": 80.97592236565046,
+"biraciKojiSuGlasali": 8845,
+"teritorijaSlug": "bela-palanka"
 },
 {
 "rezultat": [
@@ -3106,6 +3133,33 @@
 "percentage": 62.109087213881054,
 "biraciKojiSuGlasali": 24448,
 "teritorijaSlug": "velika-plana"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 14221,
+"udeo": 50.455916267518184
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 13185,
+"udeo": 46.780202235231506
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Трстеник",
+"brojUpisanihBiracaUBirackiSpisak": 40017,
+"percentage": 70.43256615938226,
+"biraciKojiSuGlasali": 28185,
+"teritorijaSlug": "trstenik"
 },
 {
 "rezultat": [
@@ -5110,60 +5164,6 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
-"glasova": 14221,
-"udeo": 50.455916267518184
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 13185,
-"udeo": 46.780202235231506
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Трстеник",
-"brojUpisanihBiracaUBirackiSpisak": 40017,
-"percentage": 70.43256615938226,
-"biraciKojiSuGlasali": 28185,
-"teritorijaSlug": "trstenik"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 59806,
-"udeo": 59.307226227427336
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 39496,
-"udeo": 39.16660881982527
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "ПЧИЊСКИ",
-"brojUpisanihBiracaUBirackiSpisak": 191482,
-"percentage": 52.6634357276402,
-"biraciKojiSuGlasali": 100841,
-"teritorijaSlug": "pcinjski"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
 "glasova": 4358,
 "udeo": 56.553335063586815
 },
@@ -5212,60 +5212,6 @@
 "percentage": 71.80147430071695,
 "biraciKojiSuGlasali": 28442,
 "teritorijaSlug": "arandelovac"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 5039,
-"udeo": 56.97003957037875
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 3623,
-"udeo": 40.960994912379874
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Бела Паланка",
-"brojUpisanihBiracaUBirackiSpisak": 10923,
-"percentage": 80.97592236565046,
-"biraciKojiSuGlasali": 8845,
-"teritorijaSlug": "bela-palanka"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 65002,
-"udeo": 54.36267991402598
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 52953,
-"udeo": 44.28582181298141
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "СРЕДЊЕ-БАНАТСКИ",
-"brojUpisanihBiracaUBirackiSpisak": 167217,
-"percentage": 71.50648558459964,
-"biraciKojiSuGlasali": 119571,
-"teritorijaSlug": "srednje-banatski"
 },
 {
 "rezultat": [
@@ -5353,6 +5299,33 @@
 {
 "kandidatSlug": "boris-tadic",
 "rezultat": {
+"glasova": 111968,
+"udeo": 54.75368470468571
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 89222,
+"udeo": 43.63061996929005
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+}
+],
+"teritorija": "Нови Сад",
+"brojUpisanihBiracaUBirackiSpisak": 295057,
+"percentage": 69.3066085536015,
+"biraciKojiSuGlasali": 204494,
+"teritorijaSlug": "novi-sad"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
 "glasova": 540,
 "udeo": 55.04587155963303
 },
@@ -5401,33 +5374,6 @@
 "percentage": 72.15915891033963,
 "biraciKojiSuGlasali": 78380,
 "teritorijaSlug": "zrenjanin"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 111968,
-"udeo": 54.75368470468571
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 89222,
-"udeo": 43.63061996929005
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-}
-],
-"teritorija": "Нови Сад",
-"brojUpisanihBiracaUBirackiSpisak": 295057,
-"percentage": 69.3066085536015,
-"biraciKojiSuGlasali": 204494,
-"teritorijaSlug": "novi-sad"
 },
 {
 "rezultat": [
@@ -5839,6 +5785,60 @@
 {
 "kandidatSlug": "tomislav-nikolic",
 "rezultat": {
+"glasova": 4031,
+"udeo": 65.37463509568602
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 2016,
+"udeo": 32.69542653259812
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Гаџин Хан",
+"brojUpisanihBiracaUBirackiSpisak": 8693,
+"percentage": 70.93063384332221,
+"biraciKojiSuGlasali": 6166,
+"teritorijaSlug": "gadzin-han"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
+"glasova": 26099,
+"udeo": 52.104212417648235
+},
+"kandidat": "Томислав Николић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "boris-tadic",
+"rezultat": {
+"glasova": 23134,
+"udeo": 46.18486723896986
+},
+"kandidat": "Борис Тадић",
+"boja": "#a6cee3"
+}
+],
+"teritorija": "Сремска Митровица",
+"brojUpisanihBiracaUBirackiSpisak": 69030,
+"percentage": 72.56265391858612,
+"biraciKojiSuGlasali": 50090,
+"teritorijaSlug": "sremska-mitrovica"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"rezultat": {
 "glasova": 3407,
 "udeo": 76.0321356839991
 },
@@ -5914,60 +5914,6 @@
 "percentage": 65.00772577694163,
 "biraciKojiSuGlasali": 100552,
 "teritorijaSlug": "palilula"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 4031,
-"udeo": 65.37463509568602
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 2016,
-"udeo": 32.69542653259812
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Гаџин Хан",
-"brojUpisanihBiracaUBirackiSpisak": 8693,
-"percentage": 70.93063384332221,
-"biraciKojiSuGlasali": 6166,
-"teritorijaSlug": "gadzin-han"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"rezultat": {
-"glasova": 26099,
-"udeo": 52.104212417648235
-},
-"kandidat": "Томислав Николић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "boris-tadic",
-"rezultat": {
-"glasova": 23134,
-"udeo": 46.18486723896986
-},
-"kandidat": "Борис Тадић",
-"boja": "#a6cee3"
-}
-],
-"teritorija": "Сремска Митровица",
-"brojUpisanihBiracaUBirackiSpisak": 69030,
-"percentage": 72.56265391858612,
-"biraciKojiSuGlasali": 50090,
-"teritorijaSlug": "sremska-mitrovica"
 },
 {
 "rezultat": [
@@ -6108,17 +6054,17 @@
 "candidates": [
 {
 "kandidatSlug": "boris-tadic",
-"glasova": 2191967,
+"glasova": 2304467,
 "boja": "#a6cee3",
 "kandidat": "Борис Тадић",
-"udeo": 12.552231842754358
+"udeo": 50.3111717944262
 },
 {
 "kandidatSlug": "tomislav-nikolic",
-"glasova": 2074419,
+"glasova": 2197155,
 "boja": "#1f78b4",
 "kandidat": "Томислав Николић",
-"udeo": 11.87909682354463
+"udeo": 47.968333963551004
 }
 ]
 }
