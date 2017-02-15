@@ -20,7 +20,7 @@
             });
 
             $.getJSON('{{ url_for("static",filename="data/serbia.geojson") }}', function (geojson) {
-                console.log(data);
+
             // Initialize the map
             $('#containermap_2014').highcharts('Map', {
                 chart: {

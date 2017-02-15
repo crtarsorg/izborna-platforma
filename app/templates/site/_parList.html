@@ -376,7 +376,7 @@
 
         var years_pres = [2012, 2008];
         var arrayLength_pres=years_pres.length;
-        console.log(arrayLength_pres);
+
             $.ajax({
             type: "GET",
             url: "{{ url_for("static",filename="data/landingpage.json") }}",
@@ -384,7 +384,7 @@
            dataType: 'json',
 
            success: function (response) {
-               console.log(response);
+
                for (var i = 0; i < arrayLength; i++) {
                    $('.first-progress-' + years[i]).css('background-color', response['par_'+years[i]][0]['boja']);
                    $('.second-progress-' + years[i]).css('background-color', response['par_'+years[i]][1]['boja']);

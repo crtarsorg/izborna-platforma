@@ -16,7 +16,7 @@
             }
             });
             $.getJSON('{{ url_for("static",filename="data/serbia.geojson") }}', function (geojson) {
-                console.log(data);
+
             // Initialize the map
             $('#containermap_pres_2008').highcharts('Map', {
                 chart: {
