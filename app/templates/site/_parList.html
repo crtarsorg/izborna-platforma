@@ -426,8 +426,8 @@
                          var nr_votes_2_pres = response['pres_'+years_pres[i]][1]['glasova'].toLocaleString();
                          $('.nr-votes1_pres_' + years_pres[i]).css('color',response['pres_'+years_pres[i]][0]['boja']);
                          $('.nr-votes2_pres_' + years_pres[i]).css('color',response['pres_'+years_pres[i]][1]['boja']);
-                         $('.percentage1-'+years_pres[i]).css('color',response['pres_'+years_pres[i]][0]['boja']);
-                         $('.percentage2-'+years_pres[i]).css('color',response['pres_'+years_pres[i]][1]['boja']);
+                         $('.percentage1-pres-'+years_pres[i]).css('color',response['pres_'+years_pres[i]][0]['boja']);
+                         $('.percentage2-pres-'+years_pres[i]).css('color',response['pres_'+years_pres[i]][1]['boja']);
                          $('.nr-votes1_pres_' + years_pres[i]).text(nr_votes_1_pres);
                          $('.nr-votes2_pres_' + years_pres[i]).text(nr_votes_2_pres);
                          var udeo1_pres = response['pres_'+years_pres[i]][0]['udeo'];
