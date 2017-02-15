@@ -36673,142 +36673,142 @@
 {
 "izbornaLista": "СРС",
 "izbornaListaSlug": "srs",
-"glasova": 1519485,
+"glasova": 1153453,
 "boja": "#1f78b4",
-"udeo": 29.611463364441104
+"udeo": 22.478294456414304
 },
 {
 "izbornaLista": "ДС",
 "izbornaListaSlug": "ds",
-"glasova": 1190430,
+"glasova": 915854,
 "boja": "#fb9a99",
-"udeo": 23.198895897578208
+"udeo": 17.84800584946666
 },
 {
 "izbornaLista": "ДСС",
 "izbornaListaSlug": "dss",
-"glasova": 791832,
+"glasova": 667615,
 "boja": "#b2df8a",
-"udeo": 15.431086360702558
+"udeo": 13.010366745345529
 },
 {
 "izbornaLista": "Г17",
 "izbornaListaSlug": "g17",
-"glasova": 348174,
+"glasova": 275041,
 "boja": "#fb9a99",
-"udeo": 6.785155263428673
-},
-{
-"izbornaLista": "ЛДП",
-"izbornaListaSlug": "ldp",
-"glasova": 305262,
-"boja": "#fb9a99",
-"udeo": 5.948893559038767
+"udeo": 5.359951888448551
 },
 {
 "izbornaLista": "СПС",
 "izbornaListaSlug": "sps",
-"glasova": 276365,
+"glasova": 227580,
 "boja": "#cab2d6",
-"udeo": 5.385753773623146
+"udeo": 4.435040051385506
 },
 {
-"izbornaLista": "ПУПС-СДП",
-"izbornaListaSlug": "pups-sdp",
-"glasova": 160981,
-"boja": "#b2df8a",
-"udeo": 3.137170149011733
+"izbornaLista": "ЛДП",
+"izbornaListaSlug": "ldp",
+"glasova": 214262,
+"boja": "#fb9a99",
+"udeo": 4.175501149002379
 },
 {
 "izbornaLista": "СПО",
 "izbornaListaSlug": "spo",
-"glasova": 159080,
+"glasova": 134147,
 "boja": "#b2df8a",
-"udeo": 3.100123786687786
+"udeo": 2.6142337541664977
 },
 {
-"izbornaLista": "СВМ",
-"izbornaListaSlug": "svm",
-"glasova": 116293,
+"izbornaLista": "ПУПС-СДП",
+"izbornaListaSlug": "pups-sdp",
+"glasova": 125342,
 "boja": "#b2df8a",
-"udeo": 2.266298060883095
+"udeo": 2.442643422623966
 },
 {
 "izbornaLista": "ПСС",
 "izbornaListaSlug": "pss",
-"glasova": 90731,
+"glasova": 70727,
 "boja": "#b2df8a",
-"udeo": 1.7681501841210054
+"udeo": 1.3783156591719077
+},
+{
+"izbornaLista": "СВМ",
+"izbornaListaSlug": "svm",
+"glasova": 52510,
+"boja": "#b2df8a",
+"udeo": 1.0233058840770408
 },
 {
 "izbornaLista": "КЛС",
 "izbornaListaSlug": "kls",
-"glasova": 34504,
+"glasova": 33823,
 "boja": "#b2df8a",
-"udeo": 0.6724080408340166
-},
-{
-"izbornaLista": "КМС",
-"izbornaListaSlug": "kms",
-"glasova": 28816,
-"boja": "#cab2d6",
-"udeo": 0.5615612712924016
+"udeo": 0.6591368295017664
 },
 {
 "izbornaLista": "УРС",
 "izbornaListaSlug": "urs",
-"glasova": 20934,
+"glasova": 17128,
 "boja": "#cab2d6",
-"udeo": 0.407958205623096
-},
-{
-"izbornaLista": "Б.ПАВЛОВИЋ",
-"izbornaListaSlug": "b-pavlovic",
-"glasova": 20879,
-"boja": "#cab2d6",
-"udeo": 0.4068863750456015
-},
-{
-"izbornaLista": "РП",
-"izbornaListaSlug": "rp",
-"glasova": 20214,
-"boja": "#cab2d6",
-"udeo": 0.39392696897225865
+"udeo": 0.33378752966047526
 },
 {
 "izbornaLista": "КАПД",
 "izbornaListaSlug": "kapd",
-"glasova": 17405,
+"glasova": 16973,
 "boja": "#cab2d6",
-"udeo": 0.3391856582053113
+"udeo": 0.33076691621480886
+},
+{
+"izbornaLista": "Б.ПАВЛОВИЋ",
+"izbornaListaSlug": "b-pavlovic",
+"glasova": 15722,
+"boja": "#cab2d6",
+"udeo": 0.306387642533979
+},
+{
+"izbornaLista": "РП",
+"izbornaListaSlug": "rp",
+"glasova": 14631,
+"boja": "#cab2d6",
+"udeo": 0.28512642144222405
+},
+{
+"izbornaLista": "КМС",
+"izbornaListaSlug": "kms",
+"glasova": 12940,
+"boja": "#cab2d6",
+"udeo": 0.252172503141438
 },
 {
 "izbornaLista": "КВП",
 "izbornaListaSlug": "kvp",
-"glasova": 14677,
+"glasova": 7359,
 "boja": "#cab2d6",
-"udeo": 0.28602286156158313
+"udeo": 0.14341093126876678
 },
 {
 "izbornaLista": "ДЗС",
 "izbornaListaSlug": "dzs",
-"glasova": 6835,
+"glasova": 5438,
 "boja": "#cab2d6",
-"udeo": 0.13319930903954627
+"udeo": 0.10597481237118545
 },
 {
 "izbornaLista": "СД",
 "izbornaListaSlug": "sd",
-"glasova": 6251,
+"glasova": 4909,
 "boja": "#cab2d6",
-"udeo": 0.12181841708942262
+"udeo": 0.09566575099855634
 },
 {
 "izbornaLista": "РС",
 "izbornaListaSlug": "rs",
-"glasova": 2260,
+"glasova": 1881,
 "boja": "#cab2d6",
-"udeo": 0.04404249282068392
+"udeo": 0.036656605750312585
 }
 ]
 }

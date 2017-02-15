@@ -102,7 +102,7 @@
 "izbornaLista": "РУСКА СТРАНКА - СЛОБОДАН НИКОЛИЋ",
 "izbornaListaSlug": "ruska-stranka-slobodan-nikolic",
 "glasova": 6547,
-"boja": "#b3de69",
+"boja": "#80b1d3",
 "udeo": 0.18830988783668268
 },
 {
@@ -154,9 +154,9 @@
 {
 "izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СРБИЈА ПОБЕЂУЈЕ",
 "izbornaListaSlug": "aleksandar-vucic-srbija-pobeduje",
-"glasova": 1823281,
+"glasova": 1823147,
 "boja": "#a6cee3",
-"udeo": 52.44262114017941
+"udeo": 52.43876692833121
 },
 {
 "izbornaLista": "ИВИЦА ДАЧИЋ -\"Социјалистичка партија Србије (СПС), Јединствена Србија (ЈС) - Драган Марковић Палма\"",
@@ -168,30 +168,30 @@
 {
 "izbornaLista": "Др ВОЈИСЛАВ ШЕШЕЉ - СРПСКА РАДИКАЛНА СТРАНКА",
 "izbornaListaSlug": "dr-vojislav-seselj-srpska-radikalna-stranka",
-"glasova": 306136,
+"glasova": 306052,
 "boja": "#b2df8a",
-"udeo": 8.805320883270303
+"udeo": 8.802904810171437
 },
 {
 "izbornaLista": "ДОСТА ЈЕ БИЛО – САША РАДУЛОВИЋ",
 "izbornaListaSlug": "dosta-je-bilo-sasa-radulovic",
-"glasova": 227639,
+"glasova": 227626,
 "boja": "#1f78b4",
-"udeo": 6.547529335154209
+"udeo": 6.547155419079384
 },
 {
 "izbornaLista": "ЗА ПРАВЕДНУ СРБИЈУ - ДЕМОКРАТСКА СТРАНКА (НОВА, ДСХВ, ЗЗС)",
 "izbornaListaSlug": "za-pravednu-srbiju-demokratska-stranka-nova-dshv-zzs",
-"glasova": 227594,
+"glasova": 227589,
 "boja": "#fb9a99",
-"udeo": 6.546235010279816
+"udeo": 6.546091196404884
 },
 {
 "izbornaLista": "ДВЕРИ - ДЕМОКРАТСКА СТРАНКА СРБИЈЕ - САНДА РАШКОВИЋ ИВИЋ - БОШКО ОБРАДОВИЋ",
 "izbornaListaSlug": "dveri-demokratska-stranka-srbije-sanda-raskovic-ivic-bosko-obradovic",
-"glasova": 190536,
+"glasova": 190530,
 "boja": "#e31a1c",
-"udeo": 5.480344094829719
+"udeo": 5.4801715181798
 },
 {
 "izbornaLista": "БОРИС ТАДИЋ, ЧЕДОМИР ЈОВАНОВИЋ - САВЕЗ ЗА БОЉУ СРБИЈУ - Либерално демократска партија, Лига социјалдемократа Војводине, Социјалдемократска странка",
@@ -203,93 +203,93 @@
 {
 "izbornaLista": "Vajdasági Magyar Szövetség-Pásztor István - Савез војвођанских Мађара-Иштван Пастор",
 "izbornaListaSlug": "vajdasagi-magyar-szovetseg-pasztor-istvan-savez-vojvodanskih-madara-istvan-pastor",
-"glasova": 56628,
+"glasova": 56620,
 "boja": "#fdb462",
-"udeo": 1.628778421936103
+"udeo": 1.628548319736211
 },
 {
 "izbornaLista": "Борко Стефановић – Србија за све нас",
 "izbornaListaSlug": "borko-stefanovic-srbija-za-sve-nas",
-"glasova": 35714,
+"glasova": 35710,
 "boja": "#ff7f00",
-"udeo": 1.0272337458682275
+"udeo": 1.0271186947682813
 },
 {
 "izbornaLista": "МУАМЕР ЗУКОРЛИЋ / MUAMER ZUKORLIĆ - БОШЊАЧКА ДЕМОКРАТСКА ЗАЈЕДНИЦА САНЏАКА / BOŠNJAČKA DEMOKRATSKA ZAJEDNICA SANDŽAKA",
 "izbornaListaSlug": "muamer-zukorlic-muamer-zukorlic-bosnjacka-demokratska-zajednica-sandzaka-bosnjacka-demokratska-zajednica-sandzaka",
-"glasova": 32532,
+"glasova": 32526,
 "boja": "#b3de69",
-"udeo": 0.9357105958611518
+"udeo": 0.9355380192112326
 },
 {
 "izbornaLista": "SDA Sandžaka – Dr. Sulejman Ugljanin СДА Санџака – Др Сулејман Угљанин",
 "izbornaListaSlug": "sda-sandzaka-dr-sulejman-ugljanin-sda-sandzaka-dr-sulejman-ugljanin",
-"glasova": 30096,
+"glasova": 30092,
 "boja": "#33a02c",
-"udeo": 0.8656444759940127
+"udeo": 0.8655294248940668
 },
 {
 "izbornaLista": "За слободну Србију – ЗАВЕТНИЦИ – Милица Ђурђевић",
 "izbornaListaSlug": "za-slobodnu-srbiju-zavetnici-milica-durdevic",
-"glasova": 27692,
+"glasova": 27690,
 "boja": "#6a3d9a",
-"udeo": 0.7964987649264421
+"udeo": 0.7964412393764689
 },
 {
 "izbornaLista": "ЗЕЛЕНА СТРАНКА",
 "izbornaListaSlug": "zelena-stranka",
-"glasova": 23892,
+"glasova": 23890,
 "boja": "#e31a1c",
-"udeo": 0.6872002199777031
+"udeo": 0.68714269442773
 },
 {
 "izbornaLista": "У ИНАТ – СЛОЖНО ЗА СРБИЈУ – НАРОДНИ САВЕЗ",
 "izbornaListaSlug": "u-inat-slozno-za-srbiju-narodni-savez",
-"glasova": 17531,
+"glasova": 17528,
 "boja": "#8dd3c7",
-"udeo": 0.5042402082885113
+"udeo": 0.5041539199635519
 },
 {
 "izbornaLista": "ПАРТИЈА ЗА ДЕМОКРАТСКО ДЕЛОВАЊЕ – АРДИТА СИНАНИ PARTIA PËR VEPRIM DEMOKRATIK – ARDITA SINANI",
 "izbornaListaSlug": "partija-za-demokratsko-delovanje-ardita-sinani-partia-per-veprim-demokratik-ardita-sinani",
-"glasova": 16263,
+"glasova": 16262,
 "boja": "#e31a1c",
-"udeo": 0.4677690096056163
+"udeo": 0.4677402468306298
 },
 {
 "izbornaLista": "РУСКА СТРАНКА - СЛОБОДАН НИКОЛИЋ",
 "izbornaListaSlug": "ruska-stranka-slobodan-nikolic",
-"glasova": 13778,
+"glasova": 13777,
 "boja": "#80b1d3",
-"udeo": 0.39629351376413835
+"udeo": 0.39626475098915187
 },
 {
 "izbornaLista": "Група грађана ЗА ПРЕПОРОД СРБИЈЕ – ПРОФ. ДР СЛОБОДАН КОМАЗЕЦ",
 "izbornaListaSlug": "grupa-gradana-za-preporod-srbije-prof-dr-slobodan-komazec",
-"glasova": 13273,
+"glasova": 13260,
 "boja": "#bebada",
-"udeo": 0.38176831239595066
+"udeo": 0.381394396321126
 },
 {
 "izbornaLista": "СРПСКО РУСКИ ПОКРЕТ – СЛОБОДАН ДИМИТРИЈЕВИЋ",
 "izbornaListaSlug": "srpsko-ruski-pokret-slobodan-dimitrijevic",
-"glasova": 10019,
+"glasova": 10016,
 "boja": "#bc80bd",
-"udeo": 0.2881742425898463
+"udeo": 0.28808795426488676
 },
 {
 "izbornaLista": "ДИЈАЛОГ – МЛАДИ СА СТАВОМ – СТАНКО ДЕБЕЉАКОВИЋ",
 "izbornaListaSlug": "dijalog-mladi-sa-stavom-stanko-debeljakovic",
-"glasova": 7746,
+"glasova": 7744,
 "boja": "#fb8072",
-"udeo": 0.22279645504550846
+"udeo": 0.22273892949553545
 },
 {
 "izbornaLista": "Републиканска странка – Republikánus párt – Никола Сандуловић",
 "izbornaListaSlug": "republikanska-stranka-republikanus-part-nikola-sandulovic",
-"glasova": 4524,
+"glasova": 4522,
 "boja": "#1f78b4",
-"udeo": 0.1301227940389724
+"udeo": 0.13006526848899938
 }
 ],
 "pres_2012": [
