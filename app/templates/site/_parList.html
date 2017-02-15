@@ -384,7 +384,7 @@
            dataType: 'json',
 
            success: function (response) {
-
+               console.log(response);
                for (var i = 0; i < arrayLength; i++) {
                    $('.first-progress-' + years[i]).css('background-color', response['par_'+years[i]][0]['boja']);
                    $('.second-progress-' + years[i]).css('background-color', response['par_'+years[i]][1]['boja']);
@@ -396,10 +396,10 @@
 
 
                  for (var i = 0; i < arrayLength; i++) {
-                     $('.name-list1_' + years[i]).text(response['par_'+years[i]][0]['kandidat']);
+                     $('.name-list1_' + years[i]).text(response['par_'+years[i]][0]['izbornaLista']);
                      $('.name-list1_' + years[i]).css('color',response['par_'+years[i]][0]['boja']);
                       $('.name-list2_' + years[i]).css('color',response['par_'+years[i]][1]['boja']);
-                     $('.name-list2_' + years[i]).text(response['par_'+years[i]][1]['kandidat']);
+                     $('.name-list2_' + years[i]).text(response['par_'+years[i]][1]['izbornaLista']);
                      var nr_votes_1 = response['par_'+years[i]][0]['glasova'].toLocaleString();
                      var nr_votes_2 = response['par_'+years[i]][1]['glasova'].toLocaleString();
                      $('.nr-votes1_' + years[i]).css('color',response['par_'+years[i]][0]['boja']);
