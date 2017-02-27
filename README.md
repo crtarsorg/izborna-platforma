@@ -8,6 +8,7 @@ We have 2 types of datas:
 - Parliamentary and Presidential
 
 And the json files are saved to corresponding directories.
+
 /static/data/parlamentarni
 
 /static/data/presidential
