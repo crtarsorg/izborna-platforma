@@ -8,12 +8,12 @@ from bson.json_util import dumps
 import json,urllib
 from bson import json_util
 
-mod_type = Blueprint('type', __name__, url_prefix="/type",static_folder="static", template_folder='templates', )
+mod_type = Blueprint('type', __name__, url_prefix="/type",static_folder="static", template_folder='templates')
 #get data for all territories selected by year
-@mod_type.route('/<int:datasource>/<string:typeizbori>/<int:year>/<int:instanca>/krug/<string:krug>', methods=['GET'])
-def electionType(datasource, typeizbori,year, instanca, krug):
+@mod_type.route('/<int:datasource>/<string:typeizbori>/<int:year>/<int:instanca>/krug/<string:krug>/status/<string:status>', methods=['GET'])
+def electionType(datasource, typeizbori,year, instanca, krug, status):
 
-    return render_template('type/type.html',typeizbori=typeizbori,year=year,instanca=instanca, krug=krug)
+    return render_template('type/type.html',typeizbori=typeizbori,year=year,instanca=instanca, krug=krug, status=status)
 
 
 

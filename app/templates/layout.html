@@ -1452,7 +1452,11 @@
         $.ajax({
             type: "GET",
             {% if typeizbori=="predsjednicki" %}
-                url: "{{ url_for("static",filename="data/presidential/") }}{{ year }}-{{ krug }}-krug.json",
+                {% if status=="ponovljeni" %}
+                url: "{{ url_for("static",filename="data/presidential/") }}{{ year }}-{{ krug }}-krug-ponovljeni.json",
+                    {% else %}
+                    url: "{{ url_for("static",filename="data/presidential/") }}{{ year }}-{{ krug }}-krug.json",
+                {% endif %}
             {% else %}
             url: "{{ url_for("static",filename="data/parlamentarni/") }}{{ year }}.json",
             {% endif %}

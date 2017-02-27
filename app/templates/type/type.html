@@ -24,11 +24,14 @@
                      <span>Председнички</span>
                  {% endif %}
             <span>{{ year }}</span>
-                {% if krug=="prvi" %}
+                {% if krug=="prvi"and status=="none" %}
                     <span>Први круг</span>
                {% endif %}
-                    {% if krug=="drugi" %}
+                    {% if krug=="drugi" and status=="none" %}
                             <span>Други круг</span>
+                    {% endif %}
+                    {% if krug=="prvi" and status=="ponovljeni" %}
+                            <span>Поновљени</span>
                     {% endif %}
                 </div>
             </div>
