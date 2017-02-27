@@ -3,10 +3,8 @@ import pprint
 
 from flask import Blueprint,request, redirect,url_for, flash
 from flask import render_template
-from app import mongo_utils
-from bson.json_util import dumps
 import json,urllib
-from bson import json_util
+
 from flask_mail import Message
 from app import mail
 

@@ -3,14 +3,14 @@ import os
 import ast
 import ConfigParser
 from logging.handlers import RotatingFileHandler
-from flask.ext.pymongo import PyMongo
-from app.utils.mongo_utils import MongoUtils
+
+
 from flask.ext.mail import Mail
 
-mongo = PyMongo()
+
 mail=Mail()
 #Initialize mongo access point
-mongo_utils = MongoUtils(mongo)
+
 
 def create_app():
     # Here we  create flask instance
@@ -27,7 +27,7 @@ def create_app():
     init_modules(app)
     mail.init_app(app)
     # Initialize the app to work with MongoDB
-    mongo.init_app(app, config_prefix='MONGO')
+
 
     return app
 
