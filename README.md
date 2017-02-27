@@ -9,6 +9,7 @@ We have 2 types of datas:
 
 And the json files are saved to corresponding directories.
 /static/data/parlamentarni
+
 /static/data/presidential
 
 The data and the years that are displayed on the homepage are also saved on the json file, these data are saved on the landingpage.json
