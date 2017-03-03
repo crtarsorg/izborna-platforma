@@ -32,6 +32,110 @@
 </style>
 </html>
 <script>
+    var marker;
+    var heatmap_active=0;
+    var map = undefined;
+    var cfg = {
+      // radius should be small ONLY if scaleRadius is true (or small radius is intended)
+      // if scaleRadius is false it will be the constant radius used in pixels
+      "radius": 0.1,
+      "maxOpacity": .8,
+      // scales the radius based on map zoom
+      "scaleRadius": true,
+      // if set to false the heatmap uses the global maximum for colorization
+      // if activated: uses the data maximum within the current map boundaries
+      //   (there will always be a red spot with useLocalExtremas true)
+      "useLocalExtrema": true,
+      // which field name in your data represents the latitude - default "lat"
+      latField: 'lat',
+      // which field name in your data represents the longitude - default "lng"
+      lngField: 'lng',
+      // which field name in your data represents the data value - default "value"
+      valueField: 'count'
+    };
+    var heatmapLayer = new HeatmapOverlay(cfg);
+        var baseLayer = L.tileLayer(
+          'http://{s}.tile.osm.org/{z}/{x}/{y}.png',{
+            maxZoom: 18
+          }
+        );
+
+    var jsonArr = [];
+        data_array={
+            max: 3000,
+            data: ''
+        };
+
+    heatmapLayer.setData(data_array);
+
+   $('#heatmap').on('click',function(e) {
+       $(this).addClass('btn-selected-territory');
+        e.preventDefault();
+       $('.tabs_table').hide();
+       $('#all-results').removeClass('disabled-link');
+       $('#all-results').addClass('btn-selected-territory');
+       $('#all-results').removeAttr('disabled');
+       $('.default-first-indicators').hide();
+       $('.party_name').removeClass('select-p-tab');
+       $("a[href*=aleksandar-vucic-srbija-pobeduje]").addClass('select-p-tab');
+
+
+       $('#containermap').hide();
+       $('#containerheatmap').show();
+
+       if(heatmap_active == 0){
+           map = new L.Map('containerheatmap', {
+                center: new L.LatLng(44.787197, 20.457273),
+                zoom: 7,
+                layers: [baseLayer, heatmapLayer]
+            });
+
+
+           heatmap_active = 1;
+       }
+
+       $.ajax({
+           type: "GET",
+           url: "{{ url_for("static",filename="data/parlamentarni/") }}2016.json",
+           async: false,
+           dataType: 'json',
+           success: function (response) {
+               jsonArr = [];
+               heatmapLayer.setData({
+                   max: 3000,
+                   data: []
+               });
+               $(response['winners']).each(function(key,value){
+                   $(value['rezultat']).each(function(a,b){
+                        var lat = value['coordinates'].split(",")[0];
+                        var lng = value['coordinates'].split(",")[1];
+                    if (b['izbornaListaSlug'] == "aleksandar-vucic-srbija-pobeduje") {
+                        if (lat != "" && lng != "") {
+                           jsonArr.push({
+                               lat: lat,
+                               lng: lng,
+                               count: b['rezultat']['udeo']
+                           });
+                       }
+                    }
+                   })
+
+               })
+               data_array = {
+                   max: 3000,
+                   data: jsonArr
+               };
+               console.log(data_array);
+               heatmapLayer.setData(data_array);
+           },
+           error: function (error) {
+               console.log(error);
+           }
+       });
+
+   });
+
+
 
     var $iW = $(window).innerWidth();
     function transliterate(word) {
@@ -156,21 +260,79 @@
         $('#first-percentage-value-main').html(udeo1.toFixed(2) + '%');
         $('#second-percentage-value-main').html(udeo2.toFixed(2) + '%');
         $('.party_name').on('click', function (e) {
-            e.preventDefault();
-             if ($iW < 990) {
-              $('html, body').animate({scrollTop:0}, 'slow');
-            }
-            $('#party-list-names li a').removeClass('select-p-tab');
-
             var selected_candidate = $(this).attr('href');
-            $('#containermap').html('');
-            $(this).addClass('select-p-tab');
+                e.preventDefault();
+                 if ($iW < 990) {
+                  $('html, body').animate({scrollTop:0}, 'slow');
+                }
+                $('#party-list-names li a').removeClass('select-p-tab');
 
-            $('.territory_info').hide();
+                $('#containermap').html('');
+                $(this).addClass('select-p-tab');
 
-            reinit_map(response, selected_candidate);
+                $('.territory_info').hide();
+                  if (heatmap_active===1){
+                       jsonArr = [];
+                            data_array={
+                                max: 3000,
+                                data: ''
+                            };
+                        heatmapLayer.setData(data_array);
+                      $('.default-first-indicators').hide();
+                   $("a[href*=aleksandar-vucic-srbija-pobeduje]").removeClass('select-p-tab');
+                      $("a[href*=aleksandar-vucic-srbija-pobeduje]").addClass('select-p-tab-heatmap');
+                       $('.select-p-tab-heatmap').on('click',function(){
+                        $(this).addClass('select-p-tab');
+                        })
+                   $.ajax({
+                       type: "GET",
+                       url: "{{ url_for("static",filename="data/parlamentarni/") }}2016.json",
+                       async: false,
+                       dataType: 'json',
+                       success: function (response) {
+                           jsonArr = [];
+                           heatmapLayer.setData({
+                               max: 3000,
+                               data: []
+                           });
+                           $(response['winners']).each(function(key,value){
+                               $(value['rezultat']).each(function(a,b){
+                                    var lat = value['coordinates'].split(",")[0];
+                                    var lng = value['coordinates'].split(",")[1];
+                                if (b['izbornaListaSlug']==selected_candidate) {
+                                    if (lat != "" && lng != "") {
+                                       jsonArr.push({
+                                           lat: lat,
+                                           lng: lng,
+                                           count: b['rezultat']['udeo']
+                                       });
+                                   }
+                                }
+                               })
+
+                           })
+
+                           data_array = {
+                               max: 3000,
+                               data: jsonArr
+                           };
+                            console.log(data_array);
+                           heatmapLayer.setData(data_array);
+                       },
+                       error: function (error) {
+                           console.log(error);
+                       }
+                   });
+
+                }else{
+                      console.log('dfgfdgfdgfdg');
+                      reinit_map(response, selected_candidate);
+                  }
+
+
         })
     }
+
     function reinit_map(response, selected_candidate) {
         $('.party_info').hide();
         $.getJSON('{{ url_for("static",filename="data/serbia-municipality.geojson") }}', function (geojson) {
@@ -549,8 +711,7 @@
                     $('.party_name').removeClass('select-p-tab');
                     $('#start-map').addClass('select-p-tab');
                     init_results(response);
-
-                    })
+                })
                {# console.log(data);
                 getSelectedTeritorijaIndex(chart, chart.highcharts().series[0].data, selected_territory);
                 return chart;#}
@@ -1372,7 +1533,6 @@
     {
         return array.indexOf(search) >= 0;
     }
-
     //first indicators components on default map
      function default_first_indicators(response){
             var array_list=[];
@@ -1506,9 +1666,6 @@
         $('#piechart-no-territory-selected').show();
         $('.territory_info').hide();
          $('.default-first-indicators').show();
-
-
-
         $.ajax({
             type: "GET",
 
@@ -1523,8 +1680,6 @@
             success: function (response) {
                 $('#map-legend').html('');
                 init_map(response);
-
-
             },
             error: function (error) {
                 console.log(error);
@@ -1539,22 +1694,72 @@
     });
     $('#all-results').click(function (e) {
         e.preventDefault();
+        $('.tabs_table').show();
+        $('#heatmap').removeClass('btn-selected-territory');
+
+       if (heatmap_active==1){
+              map.remove();
+         heatmapLayer = new HeatmapOverlay(cfg);
+        baseLayer = L.tileLayer(
+          'http://{s}.tile.osm.org/{z}/{x}/{y}.png',{
+            maxZoom: 18
+          }
+        );
+
+    var jsonArr = [];
+        data_array={
+            max: 3000,
+            data: ''
+        };
+            heatmapLayer.setData(data_array);
+           heatmap_active=0;
+        }
+
+         $('#containerheatmap').hide();
+        $('#containermap').show();
+
+        e.preventDefault();
         $(this).addClass('disabled-link');
         $(this).removeClass('btn-selected-territory');
         $(this).attr('disabled', 'disabled');
         init_results();
     })
     $('#start-map').on('click', function (e) {
+        $('.tabs_table').show();
+        $('#all-results').removeClass('btn-selected-territory');
+        $('#heatmap').removeClass('btn-selected-territory');
+
+        if (heatmap_active==1){
+              map.remove();
+         heatmapLayer = new HeatmapOverlay(cfg);
+        baseLayer = L.tileLayer(
+          'http://{s}.tile.osm.org/{z}/{x}/{y}.png',{
+            maxZoom: 18
+          }
+        );
+
+    var jsonArr = [];
+        data_array={
+            max: 3000,
+            data: ''
+        };
+            heatmapLayer.setData(data_array);
+               heatmap_active=0;
+        }
+
+
         e.preventDefault();
+         $('#containerheatmap').hide();
+        $('#containermap').show();
         $('#party-list-names li a').removeClass('select-p-tab');
 
         init_results();
     });
 
 
-
 </script>
 <style>
+
     .party_list_t {
         font-size:12px;
         padding-bottom:10px;

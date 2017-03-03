@@ -1,12 +1,22 @@
 
-<div class="col-md-12 col-sm-12 col-xs-12">
+<div class="col-md-6 col-sm-6 col-xs-6">
     <a href="#" id="all-results" class="disabled-link btn btn-default" disabled>
         Сви резултати
     </a>
-</div>
-<div id="containermap" class="" style="margin-bottom: 30px;">
-</div>
 
+
+</div>
+{% if year==2016 %}
+<div class="col-md-6 col-sm-6 col-xs-6">
+    <a href="#" id="heatmap" class="btn btn-default">
+         Heatmap
+    </a>
+</div>
+{% endif %}
+<div id="containermap" class="" style="margin-bottom: 30px;"></div>
+{% if year==2016 %}
+<div id="containerheatmap" class="col-md-12 col-xs-12" style="margin-bottom: 30px;height: 700px;display: none"></div>
+{% endif %}
 {#  <div class="col-md-12" style="margin-top:20px;">
       {% include "type/_legend.html" %}
   </div>#}
