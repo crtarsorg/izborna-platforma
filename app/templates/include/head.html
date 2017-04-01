@@ -22,9 +22,7 @@
 <meta property="og:description" content="Srpski izbora podataka donosi vam rezultate svakog izbora u Srbiji. Možete istražiti svaki izbor u detalje korišćenjem različitih indikatora kao što su birača, ukupnim rezultatima, pojedinačnih rezultata stranaka, itd." />
 <meta property="og:site_name" content="Izborna platforma" />
 <meta property="fb:admins" content="" />
-
     <!-- Bootstrap Core CSS -->
-
     <link href="{{ url_for('static',filename='vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
     <link rel="shortcut icon" href="{{ url_for('static',filename='assets/favicon.ico') }}" />
     <!-- Custom Fonts -->
@@ -68,7 +66,7 @@
         <link href="http://cdnjs.cloudflare.com/ajax/libs/select2/3.4.8/select2-bootstrap.css" rel="stylesheet" />
 
     <script src="http://cdnjs.cloudflare.com/ajax/libs/select2/3.4.8/select2.min.js"></script>
-
+    <script type="text/javascript" src="{{ url_for('static', filename='js/papaparse.js') }}"></script>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>

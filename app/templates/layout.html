@@ -32,6 +32,65 @@
 </style>
 </html>
 <script>
+
+    var data_array_download=[];
+    var data_array_csv=[];
+    function download(filename, text) {
+        var pom = document.createElement('a');
+        pom.setAttribute('href', 'data:text/csv;charset=utf-8,' + encodeURIComponent(text));
+        pom.setAttribute('download', filename);
+
+        if (document.createEvent) {
+            var event = document.createEvent('MouseEvents');
+            event.initEvent('click', true, true);
+            pom.dispatchEvent(event);
+        }
+        else {
+            pom.click();
+        }
+    }
+    function get_array_download(){
+               $.ajax({
+            type: "GET",
+            {% if typeizbori=="predsjednicki" %}
+                {% if status=="ponovljeni" %}
+                url: "{{ url_for("static",filename="data/presidential/") }}{{ year }}-{{ krug }}-krug-ponovljeni.json",
+                    {% else %}
+                    url: "{{ url_for("static",filename="data/presidential/") }}{{ year }}-{{ krug }}-krug.json",
+                {% endif %}
+            {% else %}
+            url: "{{ url_for("static",filename="data/parlamentarni/") }}{{ year }}.json",
+            {% endif %}
+            //url: "http://0.0.0.0:5006/api/izbori/2/{{ typeizbori }}/godina/{{ year }}/instanca/3/krug/{{ krug }}",
+            async: false,
+            dataType: 'json',
+            success: function (response) {
+                  data_array_download=response['winners'];
+                    data_array_csv = Papa.unparse({
+                    fields: ["teritorija"],
+                    data: response['winners'],
+                    quotes: false,
+                    quoteChar: '"',
+                    delimiter: ",",
+                    header: true,
+                    newline: "\r\n"
+                });
+            },
+            error: function (error) {
+                console.log(error);
+            }
+        });
+    }
+    $('#d_json').on('click',function(){
+        get_array_download();
+        console.log(data_array_download);
+       download('{{ year }}-{{ typeizbori }}.json', JSON.stringify(data_array_download));
+    })
+    $('#d_csv').on('click',function(){
+        get_array_download();
+        console.log(data_array_download);
+       download('{{ year }}-{{ typeizbori }}.csv',data_array_csv);
+    });
     var marker;
     var heatmap_active=0;
     var map = undefined;
@@ -1056,7 +1115,6 @@
                     $('.party_name').removeClass('select-p-tab');
                     $('#start-map').addClass('select-p-tab');
                     init_results(response);
-
                     })
                {# console.log(data);
                 getSelectedTeritorijaIndex(chart, chart.highcharts().series[0].data, selected_territory);
