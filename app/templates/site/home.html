@@ -1,20 +1,20 @@
 {% extends "layout.html" %}
 
 {% block body %}
-<section>
+<section style="padding-top: 0px;">
     <div class="row">
      {% include "include/election_tabs.html" %}
     </div>
 </section>
 
-
+           <div class="row">
         <div class="col-md-9 lists">
                 {% include "site/_parList.html" %}
-
         </div>
         <div class="col-md-3">
              {% include "site/_description.html" %}
         </div>
+    </div>
 
 {% endblock %}
 <script>
