@@ -1793,9 +1793,9 @@
             }
 
         });
-    })
+    });
 
-  $('#d_csv').click(function (e){
+  $('#d_csv').click(function (){
                 {% if typeizbori=="predsjednicki" and status!="ponovljeni" %}
                     $(this).prop("href", "{{ url_for("static",filename="data/download/csv/predsjednicki/") }}predsjednicki_{{ year }}_{{ krug }}_krug.csv");
                 {% endif %}
@@ -1808,11 +1808,7 @@
                      $(this).prop("href", "{{ url_for("static",filename="data/download/csv/parlamentarni/") }}parlamentarni_{{ year }}.csv");
                 {% endif %}
         });
-    $('.download_types').toggle();
-$('#link_download').click(function(e){
-    e.preventDefault();
-    $('.download_types').toggle();
-});
+
 </script>
 <style>
 
