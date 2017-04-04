@@ -1733,7 +1733,6 @@
                         maxZoom: 18
                     }
             );
-
             var jsonArr = [];
             data_array = {
                 max: 3000,
@@ -1762,9 +1761,7 @@
         else {
             pom.click();
         }
-
     }
-
     $('#d_json').click(function () {
         $.ajax({
             type: "GET",
@@ -1799,7 +1796,6 @@
     })
 
   $('#d_csv').click(function (e){
-
                 {% if typeizbori=="predsjednicki" and status!="ponovljeni" %}
                     $(this).prop("href", "{{ url_for("static",filename="data/download/csv/predsjednicki/") }}predsjednicki_{{ year }}_{{ krug }}_krug.csv");
                 {% endif %}
@@ -1812,6 +1808,11 @@
                      $(this).prop("href", "{{ url_for("static",filename="data/download/csv/parlamentarni/") }}parlamentarni_{{ year }}.csv");
                 {% endif %}
         });
+    $('.download_types').toggle();
+$('#link_download').click(function(e){
+    e.preventDefault();
+    $('.download_types').toggle();
+});
 </script>
 <style>
 
@@ -1832,6 +1833,16 @@
         height: 30px;
         float: left;
 
+    }
+    #link_download,.download_types{
+        cursor: pointer;
+        float:left;
+        padding:10px;
+        background: #337ab7;
+        color:white;
+    }
+    .download_types a{
+        color:white;
     }
     #party-list-rez {
         float: right;

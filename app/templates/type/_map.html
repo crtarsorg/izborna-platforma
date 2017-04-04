@@ -4,11 +4,7 @@
         Сви резултати
     </a>
 </div>
-<div class="col-md-6 col-sm-6 col-xs-6">
-    Download:
-    <a  id="d_csv">CSV</a>
-    <a href="#" id="d_json">JSON</a>
-</div>
+
 {% if year==2016 %}
 <div class="col-md-6 col-sm-6 col-xs-6">
     <a href="#" id="heatmap" class="btn btn-default">
@@ -18,7 +14,7 @@
 {% endif %}
 <div id="containermap" class="" style="margin-bottom: 30px;"></div>
 {% if year==2016 %}
-<div id="containerheatmap" class="col-md-12 col-xs-12" style="margin-bottom: 30px;height: 700px;display: none"></div>
+
 {% endif %}
 {#  <div class="col-md-12" style="margin-top:20px;">
       {% include "type/_legend.html" %}
@@ -28,3 +24,12 @@
         cursor: pointer;
     }
 </style>
+<div id="containerheatmap" class="col-md-12 col-xs-12" style="margin-bottom: 30px;height: 700px;display: none"></div>
+<div class="col-md-6 col-sm-6 col-xs-6" style="margin-top: 20px;margin-bottom: 20px;">
+    <a href="#" id="link_download">Преузимање:</a>
+        <div class="download_types">
+            <a  id="d_csv">CSV</a>
+            <a href="#" id="d_json">JSON</a>
+        </div>
+
+</div>
