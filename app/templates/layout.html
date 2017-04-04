@@ -1748,7 +1748,7 @@
 
         init_results();
     });
-    function download(filename, text) {
+     function download(filename, text) {
         var pom = document.createElement('a');
         pom.setAttribute('href', 'data:json;charset=utf-8,' + encodeURIComponent(text));
         pom.setAttribute('download', filename);
@@ -1806,7 +1806,11 @@
                      $(this).prop("href", "{{ url_for("static",filename="data/download/csv/parlamentarni/") }}parlamentarni_{{ year }}.csv");
                 {% endif %}
         });
-
+    $('.download_types').toggle();
+    $('#link_download').click(function(e){
+        e.preventDefault();
+        $('.download_types').toggle();
+    });
 </script>
 <style>
 
