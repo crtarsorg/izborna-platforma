@@ -1785,7 +1785,7 @@
                 {% endif %}
                 {% if typeizbori=="parlamentarni" %}
 
-                    download('parlamentarni-{{ year }}.json', JSON.stringify(response['winners']));
+                    dowgit nload('parlamentarni-{{ year }}.json', JSON.stringify(response['winners']));
                 {% endif %}
             },
             error: function (error) {
@@ -1801,10 +1801,8 @@
                 {% endif %}
                 {% if typeizbori=="predsjednicki" and status=="ponovljeni" %}
                     $(this).prop("href", "{{ url_for("static",filename="data/download/csv/predsjednicki/") }}predsjednicki_{{ year }}_{{ krug }}_krug_ponovljeni.csv");
-
                 {% endif %}
                 {% if typeizbori=="parlamentarni" %}
-                    download()
                      $(this).prop("href", "{{ url_for("static",filename="data/download/csv/parlamentarni/") }}parlamentarni_{{ year }}.csv");
                 {% endif %}
         });
