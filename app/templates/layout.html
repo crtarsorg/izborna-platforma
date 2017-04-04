@@ -1785,7 +1785,7 @@
                 {% endif %}
                 {% if typeizbori=="parlamentarni" %}
 
-                    dowgit nload('parlamentarni-{{ year }}.json', JSON.stringify(response['winners']));
+                    download('parlamentarni-{{ year }}.json', JSON.stringify(response['winners']));
                 {% endif %}
             },
             error: function (error) {
