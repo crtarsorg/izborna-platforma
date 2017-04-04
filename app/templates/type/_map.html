@@ -4,11 +4,11 @@
         Сви резултати
     </a>
 </div>
-{#<div class="col-md-6 col-sm-6 col-xs-6">
+<div class="col-md-6 col-sm-6 col-xs-6">
     Download:
-    <a href="#" id="d_csv">CSV</a>
+    <a  id="d_csv">CSV</a>
     <a href="#" id="d_json">JSON</a>
-</div>#}
+</div>
 {% if year==2016 %}
 <div class="col-md-6 col-sm-6 col-xs-6">
     <a href="#" id="heatmap" class="btn btn-default">
@@ -23,3 +23,8 @@
 {#  <div class="col-md-12" style="margin-top:20px;">
       {% include "type/_legend.html" %}
   </div>#}
+<style>
+    #d_csv{
+        cursor: pointer;
+    }
+</style>
