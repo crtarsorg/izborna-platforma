@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-06 14:55+0200\n"
+"POT-Creation-Date: 2017-04-06 16:30+0200\n"
 "PO-Revision-Date: 2017-04-06 13:54+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -71,6 +71,24 @@ msgstr "Questions and answers"
 #: app/templates/include/navigation.html:50
 msgid "АПИ"
 msgstr "API"
+
+#: app/templates/site/_description.html:2
+msgid ""
+"    На овом порталу налазе се сви подаци о резултатима председничких и "
+"парламентарних избора од 2003. године до данас у отвореном формату.\n"
+"    Једноставном претрагом брзо долазите до података о томе колико је "
+"који кандидат или изборна листа освојила гласова или колика је била "
+"излазност укупно или у конкретном граду/ општини. Такође, веома "
+"једноставно можете да упоредите резултате одређених кандидата или "
+"изборних листа по различитим критеријумима.\n"
+"    Интерактивна мапа вам нуди визуелни преглед резултата конкретних "
+"избора а табеларни преглед вам омогућава да радите додатне анализе.\n"
+"    Сви подаци су преузети са званичног сајта:"
+msgstr "This portal contains all the information about the results of presidential and parliamentary elections of 2003 until today in an open format. Simple search quickly obtain information on how the candidate or electoral list won the votes or what was the turnout in total or in a particular city / municipality. Also, it's easy to compare the results of certain candidates or electoral lists by various criteria. Interactive map gives you a visual overview of specific choices a tabular overview allows you to do further analysis. All data are taken from the official website:"
+
+#: app/templates/site/_description.html:7
+msgid "Републичке изборне комисије"
+msgstr "The Republic Electoral Commission"
 
 #: app/templates/site/_parList.html:15
 msgid "Парламентарни избори"
