@@ -1,0 +1,168 @@
+# Serbian translations for PROJECT.
+# Copyright (C) 2017 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2017.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2017-04-06 14:55+0200\n"
+"PO-Revision-Date: 2017-04-06 13:54+0200\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: sr\n"
+"Language-Team: sr <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.3.4\n"
+
+#: app/templates/include/footer.html:13
+#: app/templates/include/navigation.html:20 app/templates/site/_parList.html:42
+#: app/templates/type/type.html:25
+msgid "Председнички"
+msgstr ""
+
+#: app/templates/include/footer.html:16 app/templates/include/footer.html:19
+#: app/templates/include/footer.html:20 app/templates/include/footer.html:26
+#: app/templates/site/_parList.html:47 app/templates/site/_parList.html:50
+#: app/templates/site/_parList.html:51 app/templates/site/_parList.html:53
+#: app/templates/site/_parList.html:55 app/templates/type/type.html:29
+msgid "Први круг"
+msgstr ""
+
+#: app/templates/include/footer.html:17 app/templates/include/footer.html:25
+#: app/templates/include/footer.html:27 app/templates/site/_parList.html:48
+#: app/templates/site/_parList.html:52 app/templates/site/_parList.html:54
+#: app/templates/site/_parList.html:56 app/templates/site/_parList.html:275
+#: app/templates/site/_parList.html:327 app/templates/type/type.html:32
+msgid "Други круг"
+msgstr ""
+
+#: app/templates/include/footer.html:18 app/templates/site/_parList.html:49
+#: app/templates/type/type.html:35
+msgid "Поновљени"
+msgstr ""
+
+#: app/templates/include/footer.html:33
+#: app/templates/include/navigation.html:37 app/templates/site/_parList.html:43
+#: app/templates/type/type.html:23
+msgid "Парламентарни"
+msgstr ""
+
+#: app/templates/include/footer.html:53
+#: app/templates/include/navigation.html:49
+msgid "Контакт"
+msgstr ""
+
+#: app/templates/include/footer.html:55
+msgid "Емаил"
+msgstr ""
+
+#: app/templates/include/footer.html:56
+msgid "Тел"
+msgstr ""
+
+#: app/templates/include/navigation.html:48
+msgid "Питања и одговори"
+msgstr ""
+
+#: app/templates/include/navigation.html:50
+msgid "АПИ"
+msgstr ""
+
+#: app/templates/site/_parList.html:15
+msgid "Парламентарни избори"
+msgstr ""
+
+#: app/templates/site/_parList.html:23 app/templates/site/_parList.html:258
+msgid "Покажи све"
+msgstr ""
+
+#: app/templates/site/_parList.html:250 app/templates/site/_presList.html:4
+msgid "Председнички избори"
+msgstr ""
+
+#: app/templates/site/_presList.html:10
+msgid "Drugi krug"
+msgstr ""
+
+#: app/templates/type/_default_first_indicators.html:3
+msgid "Индикатори"
+msgstr ""
+
+#: app/templates/type/_default_first_indicators.html:5
+msgid "Нема података"
+msgstr ""
+
+#: app/templates/type/_indicators.html:3
+msgid "Листа"
+msgstr ""
+
+#: app/templates/type/_indicators.html:4
+msgid "Укупни резултати"
+msgstr ""
+
+#: app/templates/type/_indicators_no_teritory_selected.html:3
+msgid "Србија Резултати за"
+msgstr ""
+
+#: app/templates/type/_indicators_no_teritory_selected.html:3
+msgid "годину"
+msgstr ""
+
+#: app/templates/type/_indicatory_tabs.html:12
+msgid "Резултати"
+msgstr ""
+
+#: app/templates/type/_indicatory_tabs.html:14
+msgid "Друго"
+msgstr ""
+
+#: app/templates/type/_map.html:4
+msgid "Сви резултати"
+msgstr ""
+
+#: app/templates/type/_map.html:11
+msgid "Heatmap"
+msgstr ""
+
+#: app/templates/type/_map.html:29
+msgid "Преузимање"
+msgstr ""
+
+#: app/templates/type/_piechart.html:18
+msgid "Излазност"
+msgstr ""
+
+#: app/templates/type/_table.html:4
+msgid "Резиме"
+msgstr ""
+
+#: app/templates/type/_table.html:5
+msgid "Детаљи"
+msgstr ""
+
+#: app/templates/type/_table_details.html:10
+#: app/templates/type/_table_summary.html:4
+#: app/templates/type/_table_summary.html:13
+msgid "Територија име"
+msgstr ""
+
+#: app/templates/type/_table_summary.html:5
+#: app/templates/type/_table_summary.html:14
+msgid "Име"
+msgstr ""
+
+#: app/templates/type/_table_summary.html:6
+#: app/templates/type/_table_summary.html:15
+msgid "Топ Резултати"
+msgstr ""
+
+#: app/templates/type/_table_summary.html:7
+#: app/templates/type/_table_summary.html:16
+msgid "Укупна излазност"
+msgstr ""
+

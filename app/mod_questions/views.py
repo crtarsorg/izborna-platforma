@@ -6,7 +6,7 @@ from flask import render_template
 import json,urllib
 
 
-mod_questions = Blueprint('questions', __name__, url_prefix="/questions",static_folder="static", template_folder='templates', )
+mod_questions = Blueprint('questions', __name__, url_prefix="/<lang_code>/questions",static_folder="static", template_folder='templates', )
 #get data for all territories selected by year
 @mod_questions.route('/', methods=['GET'])
 def questions_page():

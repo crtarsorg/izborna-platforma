@@ -13,25 +13,26 @@
 	background: url("{{ url_for('static', filename = 'assets/page-loader.gif') }}")  50% 50% no-repeat rgb(249,249,249);
 }
 </style>
+
  <section style="padding-top:100px;padding-bottom: 0px;">
  <div class="row">
         <div class="col-md-12">
             <div class="row">
                 <div class="col-md-12 selected-year-type">
                  {% if typeizbori=="parlamentarni" %}
-                     <span>Парламентарни</span>
+                     <span>{{ _('Парламентарни') }}</span>
                      {% else %}
-                     <span>Председнички</span>
+                     <span>{{ _('Председнички') }}</span>
                  {% endif %}
             <span>{{ year }}</span>
                 {% if krug=="prvi"and status=="none" %}
-                    <span>Први круг</span>
+                    <span>{{ _('Први круг') }}</span>
                {% endif %}
                     {% if krug=="drugi" and status=="none" %}
-                            <span>Други круг</span>
+                            <span>{{ _('Други круг') }}</span>
                     {% endif %}
                     {% if krug=="prvi" and status=="ponovljeni" %}
-                            <span>Поновљени</span>
+                            <span>{{ _('Поновљени') }}</span>
                     {% endif %}
                 </div>
             </div>
@@ -40,7 +41,6 @@
 </section>
 
     <section class="type-initial-results" style="min-height:190px;">
-
     <div class="row">
         <div class="col-md-12">
             <div class="row">

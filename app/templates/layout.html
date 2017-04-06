@@ -1626,6 +1626,8 @@
                     init_summary_table(response);
 
                     default_first_indicators(response);
+
+                    {% if g.current_lang=="sr" %}
                     $('#summary').DataTable({
                         "language": {
                             "url": "{{ url_for("static",filename="data/datatable_translate.json")}}"
@@ -1638,8 +1640,11 @@
                         },
 
                     });
-
-
+                    {% endif %}
+                     {% if g.current_lang!="sr" %}
+                    $('#summary').DataTable();
+                    $('#details').DataTable();
+                    {% endif %}
                     fill_html(response);
                 },
                 error: function (error) {

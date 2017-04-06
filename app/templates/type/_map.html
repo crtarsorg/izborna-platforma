@@ -1,14 +1,14 @@
 
 <div class="col-md-6 col-sm-6 col-xs-6">
     <a href="#" id="all-results" class="disabled-link btn btn-default" disabled>
-        Сви резултати
+        {{ _('Сви резултати') }}
     </a>
 </div>
 
 {% if year==2016 %}
 <div class="col-md-6 col-sm-6 col-xs-6">
     <a href="#" id="heatmap" class="btn btn-default">
-         Heatmap
+        {{ _('Heatmap') }}
     </a>
 </div>
 {% endif %}
@@ -26,7 +26,7 @@
 </style>
 <div id="containerheatmap" class="col-md-12 col-xs-12" style="margin-bottom: 30px;height: 700px;display: none"></div>
 <div class="col-md-12 col-sm-12 col-xs-12" style="margin-top: 20px;margin-bottom: 20px;">
-    <a href="#" id="link_download">Преузимање:</a>
+    <a href="#" id="link_download">{{ _('Преузимање') }}:</a>
         <div class="download_types">
             <a  id="d_csv">CSV</a>
             <a href="#" id="d_json">JSON</a>

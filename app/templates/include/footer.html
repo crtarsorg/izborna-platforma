@@ -10,50 +10,50 @@
                             </div>
                         </div>
                         <div class="col-lg-3 col-md-3  col-sm-12 footer-list">
-                            <h2>Председнички</h2>
+                            <h2>{{ _('Председнички') }}</h2>
                             <div class="col-lg-6 col-md-12 col-sm-12 pres-list">
                                  <ul>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi',status='none') }}">2002-Први круг</a></li>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi',status='none') }}">2002-Други круг</a></li>
-                                   <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi',status='ponovljeni') }}">2002-Поновљени</a></li>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='prvi',status='none') }}">2003-Први круг</a></li>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi',status='none') }}">2008-Први круг</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2002-{{ _('Први круг') }}</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}">2002-{{ _('Други круг') }}</a></li>
+                                   <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi',status='ponovljeni',lang_code=g.current_lang) }}">2002-{{ _('Поновљени') }}</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2003-{{ _('Први круг') }}</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2008-{{ _('Први круг') }}</a></li>
                                 </ul>
                             </div>
                             <div class="col-lg-6 col-md-12 col-sm-12 pres-list">
                                 <ul>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='drugi',status='none') }}">2008-Други круг</a></li>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='prvi',status='none') }}">2012-Први круг</a></li>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi',status='none') }}">2012-Други круг</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}">2008-{{ _('Други круг') }}</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2012-{{ _('Први круг') }}</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}">2012-{{ _('Други круг') }}</a></li>
                                 </ul>
                             </div>
 
                         </div>
                          <div class="col-md-3 col-sm-12 footer-list">
-                                <h2 >Парламентарни</h2>
+                                <h2>{{ _('Парламентарни') }}</h2>
                              <div class="col-md-3">
                                  <ul>
-                                    <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none',status='none') }}">2003</a></li>
-                                     <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='1', krug='none',status='none') }}">2007</a></li>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none',status='none') }}">2008</a></li>
+                                    <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none',status='none',lang_code=g.current_lang) }}">2003</a></li>
+                                     <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='1', krug='none',status='none',lang_code=g.current_lang) }}">2007</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none',status='none',lang_code=g.current_lang) }}">2008</a></li>
 
                                 </ul>
                              </div>
                              <div class="col-md-3">
                                   <ul>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none',status='none') }}">2012</a></li>
-                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none',status='none') }}">2014</a></li>
-                                       <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none',status='none') }}">2016</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none',status='none',lang_code=g.current_lang) }}">2012</a></li>
+                                    <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none',status='none',lang_code=g.current_lang) }}">2014</a></li>
+                                       <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none',status='none',lang_code=g.current_lang) }}">2016</a></li>
                                 </ul>
                              </div>
 
                          </div>
 
                         <div class="col-md-3 col-sm-12 footer-contact footer-list">
-                            <h2>Контакт</h2>
+                            <h2>{{ _('Контакт') }}</h2>
                             <div class="row">
-                                <div class="col-md-12"><p>Емаил: kontakt@gradjaninastrazi.rs </p></div>
-                                <div class="col-md-12"><p>Тел: 011 2400062</p></div>
+                                <div class="col-md-12"><p>{{ _('Емаил') }}: kontakt@gradjaninastrazi.rs </p></div>
+                                <div class="col-md-12"><p>{{ _('Тел') }}: 011 2400062</p></div>
                             </div>
 
                         </div>

@@ -1,6 +1,5 @@
 Flask==0.10.1
 Flask-Mail==0.9.1
-
 Unidecode==0.04.17
 Flask-WTF==0.9.5
 Flask-Testing==0.4.2
@@ -9,5 +8,6 @@ coverage==4.0b1
 cyrtranslit==0.3
 Flask-Cors==2.1.2
 Flask-Babel==0.9
+Babel==2.3.4
 tldextract==1.7.4
 tqdm==4.8.4

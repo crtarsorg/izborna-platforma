@@ -5,46 +5,49 @@
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                 <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
             </button>
-            <a class="" href="{{ url_for('main.index')}}" style="margin-top:0px;">
+            <a class="" href="{{ url_for('main.root',lang_code=g.current_lang)}}" style="margin-top:0px;">
                  <img alt="" src="{{ url_for('static', filename = 'assets/logo_negativ.png') }}" STYLE="height:75px;" class="img-responsive">
             </a>
         </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+             <div class="language-switcher">
+                    <a class="language-switch" >en</a> | <a class="language-switch">sr</a>
+                </div>
             <ul class="nav navbar-nav navbar-right">
                 <div class="btn-group">
                       <button type="button" class="menu-dropdown dropdown-toggle" data-toggle="dropdown">
-                        Председнички<span class="caret"></span>
+                        {{ _('Председнички') }}<span class="caret"></span>
                       </button>
                       <ul class="dropdown-menu menu-items" role="menu">
-                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi',status='none') }}">2002-Први круг</a></li>
-                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi',status='none') }}">2002-Други круг</a></li>
-                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi',status='ponovljeni') }}">2002-Поновљени</a></li>
-                          <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='prvi',status='none') }}">2003-Први круг</a></li>
-                          <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2004, instanca='1', krug='prvi',status='none') }}">2004-Први круг</a></li>
-                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2004, instanca='1', krug='drugi',status='none') }}">2004-Други круг</a></li>
-                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi',status='none') }}">2008-Први круг</a></li>
-                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='drugi',status='none') }}">2008-Други круг</a></li>
-                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='prvi',status='none') }}">2012-Први круг</a></li>
-                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi',status='none') }}">2012-Други круг</a></li>
+                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2002-Први круг</a></li>
+                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}">2002-Други круг</a></li>
+                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2002, instanca='1', krug='prvi',status='ponovljeni',lang_code=g.current_lang) }}">2002-Поновљени</a></li>
+                          <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2003, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2003-Први круг</a></li>
+                          <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2004, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2004-Први круг</a></li>
+                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2004, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}">2004-Други круг</a></li>
+                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2008-Први круг</a></li>
+                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}">2008-Други круг</a></li>
+                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2012-Први круг</a></li>
+                            <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}">2012-Други круг</a></li>
                       </ul>
                 </div>
             <div class="btn-group">
               <button type="button" class="menu-dropdown dropdown-toggle" data-toggle="dropdown">
-                Парламентарни <span class="caret"></span>
+                {{ _('Парламентарни') }} <span class="caret"></span>
               </button>
               <ul class="dropdown-menu menu-items" role="menu">
-                 <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none',status='none') }}">2003</a></li>
-                  <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='1', krug='none',status='none') }}">2007</a></li>
-                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none',status='none') }}">2008</a></li>
-                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none',status='none') }}">2012</a></li>
-                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none',status='none') }}">2014</a></li>
-                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none',status='none') }}">2016</a></li>
+                 <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2003, instanca='1', krug='none',status='none', lang_code=g.current_lang) }}">2003</a></li>
+                  <li> <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='1', krug='none',status='none', lang_code=g.current_lang) }}">2007</a></li>
+                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2008, instanca='1', krug='none',status='none',lang_code=g.current_lang) }}">2008</a></li>
+                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2012, instanca='1', krug='none',status='none',lang_code=g.current_lang) }}">2012</a></li>
+                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2014, instanca='4', krug='none',status='none',lang_code=g.current_lang) }}">2014</a></li>
+                  <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none',status='none',lang_code=g.current_lang) }}">2016</a></li>
               </ul>
             </div>
-                <li class="other-menu-links"><a href="{{ url_for('questions.questions_page') }}">Питања и одговори</a></li>
-                 <li class="other-menu-links"><a href="{{ url_for('contact.contact_page') }}">Контакт</a></li>
-                 <li class="other-menu-links"><a href="{{ url_for('api.api_page') }}">АПИ</a></li>
+                <li class="other-menu-links"><a href="{{ url_for('questions.questions_page',lang_code=g.current_lang) }}">{{ _('Питања и одговори') }}</a></li>
+                 <li class="other-menu-links"><a href="{{ url_for('contact.contact_page',lang_code=g.current_lang) }}">{{ _('Контакт') }}</a></li>
+                 <li class="other-menu-links"><a href="{{ url_for('api.api_page',lang_code=g.current_lang) }}">{{ _('АПИ') }}</a></li>
            </ul>
 
         </div>
@@ -54,6 +57,13 @@
         <!-- /.container-fluid -->
 </nav>
 <style>
+    .language-switcher{
+        float:right;
+    }
+    .language-switcher a{
+        color:white;
+        cursor:pointer;
+    }
 
     #heatmap{
         border-radius:0;
@@ -864,6 +874,16 @@
 
     });
     $(document).ready(function(){
+            $(".language-switch").click(function(){
+                var value = "/"+$( this ).text();
+                var current_lang = "/"+"{{ g.current_lang }}";
+                if(current_lang!=""){
+                    window.location.href = window.location.href.replace(current_lang, value);
+                }else{
+                    window.location.href = window.location.href + value+"/";
+                }
+            });
+
         $('#parlamentarni a').click(function(e){
              e.preventDefault();
              e.stopPropagation();

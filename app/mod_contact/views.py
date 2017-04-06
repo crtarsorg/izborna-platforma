@@ -8,8 +8,9 @@ import json,urllib
 from flask_mail import Message
 from app import mail
 
-mod_contact = Blueprint('contact', __name__, url_prefix="/contact",static_folder="static", template_folder='templates', )
+mod_contact = Blueprint('contact', __name__, url_prefix="/<lang_code>/contact",static_folder="static", template_folder='templates', )
 #get data for all territories selected by year
+
 @mod_contact.route('/', methods=['GET'])
 def contact_page():
     return render_template('contact/contact.html',year=0)

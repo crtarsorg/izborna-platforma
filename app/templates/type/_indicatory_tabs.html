@@ -9,9 +9,9 @@
 </script>
 <div class="tabs_indicators" id="tabs_indicators">
     <ul>
-        <li id="rezultati"><a href="#tabs-results">Резултати</a></li>
+        <li id="rezultati"><a href="#tabs-results">{{ _('Резултати') }}</a></li>
         {% if year in [2008] and typeizbori in ['parlamentarni'] %}
-            <li id="drugo"><a href="#tabs-other">Друго</a></li>
+            <li id="drugo"><a href="#tabs-other">{{ _('Друго') }}</a></li>
         {% endif %}
     </ul>
     <div id="tabs-results">

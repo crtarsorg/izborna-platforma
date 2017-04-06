@@ -1,16 +1,16 @@
-from flask import Flask
+from flask import Flask,request, g, abort
 import os
 import ast
 import ConfigParser
 from logging.handlers import RotatingFileHandler
-
-
+from flask.ext.babel import Babel
 from flask.ext.mail import Mail
 
 
 mail=Mail()
 #Initialize mongo access point
 
+babel = Babel()
 
 def create_app():
     # Here we  create flask instance
@@ -29,8 +29,25 @@ def create_app():
     # Initialize the app to work with MongoDB
 
 
-    return app
 
+    babel.init_app(app)
+
+    # Get local based on domain name used.
+    @babel.localeselector
+    def get_locale():
+        """Direct babel to use the language defined in the session."""
+        return g.get('current_lang', 'en')
+
+
+    @app.before_request
+    def before():
+        if request.view_args and 'lang_code' in request.view_args:
+            if request.view_args['lang_code'] not in ('sr', 'en'):
+                return abort(404)
+            g.current_lang = request.view_args['lang_code']
+            request.view_args.pop('lang_code')
+
+    return app
 
 def load_config(app):
     ''' Reads the config file and loads configuration properties into the Flask app.
