@@ -36,7 +36,7 @@ def create_app():
     @babel.localeselector
     def get_locale():
         """Direct babel to use the language defined in the session."""
-        return g.get('current_lang', 'en')
+        return g.get('current_lang', 'sr')
 
 
     @app.before_request

@@ -12,7 +12,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
              <div class="language-switcher">
-                    <a class="language-switch" >en</a> | <a class="language-switch">sr</a>
+                    <a {% if g.current_lang=="en" %} style="color:red" {% endif %} class="language-switch" >en</a> | <a class="language-switch" {% if g.current_lang=="sr" %} style="color:red" {% endif %}>sr</a>
                 </div>
             <ul class="nav navbar-nav navbar-right">
                 <div class="btn-group">

@@ -8,7 +8,7 @@ mod_main = Blueprint('main', __name__)
 
 @mod_main.route('/', methods=['GET'])
 def index():
-    return redirect("/en", code=302)
+    return redirect("/sr", code=302)
 
 @mod_main.route('/<lang_code>', methods=['GET'])
 def root():
