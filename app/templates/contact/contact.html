@@ -6,7 +6,7 @@
                 <div class="row">
                     <div class="col-md-12 body_pages">
                         <div class="row">
-                            <h4 class="landingpage-h4">Контакт</h4>
+                            <h4 class="landingpage-h4">{{ _('Контакт') }}</h4>
                             <div class="arrow_left_side">
                                 <img alt="elections" src="{{ url_for('static', filename = 'assets/arrow_elections-home.jpg') }}">
                             </div>
@@ -18,7 +18,7 @@
 
     {% for message in messages %}
         <div class="alert alert-success">
-        <strong>Успех! </strong> {{ message.decode('utf-8') }}.
+        <strong>{{ _('Успех') }}! </strong> {{ message.decode('utf-8') }}.
         </div>
 
     {% endfor %}
@@ -28,32 +28,32 @@
                                     <div class="row">
                                             <div class="col-md-6">
                                             <div class="form-group">
-                                                <input type="text" class="form-control" name="Name" autocomplete="off" id="Name" placeholder="Име" required>
+                                                <input type="text" class="form-control" name="Name" autocomplete="off" id="Name" placeholder="{{ _('Име') }}" required>
                                             </div>
                                         </div>
                                             <div class="col-md-6">
                                                 <div class="form-group">
-                                                    <input type="email" class="form-control" name="email" autocomplete="off" id="email" placeholder="Е-маил" required>
+                                                    <input type="email" class="form-control" name="email" autocomplete="off" id="email" placeholder="{{ _('Е-маил') }}" required>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-md-12">
                                                 <div class="form-group">
-                                                    <input type="text" class="form-control" name="subject" autocomplete="off" id="email" placeholder="Teмa" required>
+                                                    <input type="text" class="form-control" name="subject" autocomplete="off" id="email" placeholder="{{ _('Teмa') }}" required>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="row">
                                             <div class="col-md-12">
                                             <div class="form-group">
-                                                <textarea class="form-control textarea" rows="3" name="Message" id="Message" placeholder="Порука" required></textarea>
+                                                <textarea class="form-control textarea" rows="3" name="Message" id="Message" placeholder="{{ _('Порука') }}" required></textarea>
                                             </div>
                                         </div>
                                         </div>
                                         <div class="row">
                                         <div class="col-md-12">
-                                      <button type="submit" class="btn main-btn pull-right" id="btn-email">Пошаљи поруку</button>
+                                      <button type="submit" class="btn main-btn pull-right" id="btn-email">{{ _('Пошаљи поруку') }}</button>
                                       </div>
                                       </div>
                                 </form>

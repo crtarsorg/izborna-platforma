@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-06 16:30+0200\n"
+"POT-Creation-Date: 2017-04-06 17:23+0200\n"
 "PO-Revision-Date: 2017-04-06 13:54+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: en\n"
@@ -18,43 +18,108 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
 
-#: app/templates/include/footer.html:13
+#: app/templates/api/api.html:9 app/templates/include/navigation.html:50
+msgid "АПИ"
+msgstr "API"
+
+#: app/templates/api/api.html:16
+msgid "ОПИС: Користите GET request за преузимање података."
+msgstr "Description: User GET request to get data"
+
+#: app/templates/api/api.html:21 app/templates/include/footer.html:33
+#: app/templates/include/navigation.html:37 app/templates/site/_parList.html:43
+#: app/templates/type/type.html:23
+msgid "Парламентарни"
+msgstr "Parliamentary"
+
+#: app/templates/api/api.html:22
+msgid "Да бисте добили изборне резултате груписане по територији:"
+msgstr "To get election results grouped by territory:"
+
+#: app/templates/api/api.html:26 app/templates/api/api.html:30
+#: app/templates/api/api.html:36 app/templates/api/api.html:38
+msgid "ПРИМЕР"
+msgstr "Example"
+
+#: app/templates/api/api.html:29
+msgid "Да бисте добили изборне резултате за одређену територију:"
+msgstr "To get elections results by selected territory:"
+
+#: app/templates/api/api.html:34 app/templates/include/footer.html:13
 #: app/templates/include/navigation.html:20 app/templates/site/_parList.html:42
 #: app/templates/type/type.html:25
 msgid "Председнички"
 msgstr "Presidential"
 
+#: app/templates/api/api.html:35
+msgid "Да бисте добили изборне резултате груписане по партијама:"
+msgstr "To get election results grouped by political party:"
+
+#: app/templates/api/api.html:39
+msgid "Кратак опис: круг може бити prvi или drugi"
+msgstr "Short description: round can be prvi or drugi"
+
+#: app/templates/contact/contact.html:9 app/templates/include/footer.html:53
+#: app/templates/include/navigation.html:49
+msgid "Контакт"
+msgstr "Contact"
+
+#: app/templates/contact/contact.html:21
+msgid "Успех"
+msgstr "Success"
+
+#: app/templates/contact/contact.html:31
+#: app/templates/type/_table_summary.html:5
+#: app/templates/type/_table_summary.html:14
+msgid "Име"
+msgstr "Name"
+
+#: app/templates/contact/contact.html:36
+msgid "Е-маил"
+msgstr "Email"
+
+#: app/templates/contact/contact.html:43
+msgid "Teмa"
+msgstr "Subject"
+
+#: app/templates/contact/contact.html:50
+msgid "Порука"
+msgstr "Message"
+
+#: app/templates/contact/contact.html:56
+msgid "Пошаљи поруку"
+msgstr "Send message"
+
 #: app/templates/include/footer.html:16 app/templates/include/footer.html:19
 #: app/templates/include/footer.html:20 app/templates/include/footer.html:26
-#: app/templates/site/_parList.html:47 app/templates/site/_parList.html:50
-#: app/templates/site/_parList.html:51 app/templates/site/_parList.html:53
-#: app/templates/site/_parList.html:55 app/templates/type/type.html:29
+#: app/templates/include/navigation.html:23
+#: app/templates/include/navigation.html:26
+#: app/templates/include/navigation.html:27
+#: app/templates/include/navigation.html:29
+#: app/templates/include/navigation.html:31 app/templates/site/_parList.html:47
+#: app/templates/site/_parList.html:50 app/templates/site/_parList.html:51
+#: app/templates/site/_parList.html:53 app/templates/site/_parList.html:55
+#: app/templates/type/type.html:29
 msgid "Први круг"
 msgstr "First Round"
 
 #: app/templates/include/footer.html:17 app/templates/include/footer.html:25
-#: app/templates/include/footer.html:27 app/templates/site/_parList.html:48
+#: app/templates/include/footer.html:27
+#: app/templates/include/navigation.html:24
+#: app/templates/include/navigation.html:28
+#: app/templates/include/navigation.html:30
+#: app/templates/include/navigation.html:32 app/templates/site/_parList.html:48
 #: app/templates/site/_parList.html:52 app/templates/site/_parList.html:54
 #: app/templates/site/_parList.html:56 app/templates/site/_parList.html:275
 #: app/templates/site/_parList.html:327 app/templates/type/type.html:32
 msgid "Други круг"
 msgstr "Second Round"
 
-#: app/templates/include/footer.html:18 app/templates/site/_parList.html:49
+#: app/templates/include/footer.html:18
+#: app/templates/include/navigation.html:25 app/templates/site/_parList.html:49
 #: app/templates/type/type.html:35
 msgid "Поновљени"
 msgstr "Repeated"
-
-#: app/templates/include/footer.html:33
-#: app/templates/include/navigation.html:37 app/templates/site/_parList.html:43
-#: app/templates/type/type.html:23
-msgid "Парламентарни"
-msgstr "Parliamentary"
-
-#: app/templates/include/footer.html:53
-#: app/templates/include/navigation.html:49
-msgid "Контакт"
-msgstr "Contact"
 
 #: app/templates/include/footer.html:55
 msgid "Емаил"
@@ -65,12 +130,96 @@ msgid "Тел"
 msgstr "Tel"
 
 #: app/templates/include/navigation.html:48
+#: app/templates/questions/questions.html:9
 msgid "Питања и одговори"
 msgstr "Questions and answers"
 
-#: app/templates/include/navigation.html:50
-msgid "АПИ"
-msgstr "API"
+#: app/templates/questions/questions.html:17
+msgid "Које податке могу да пронађем на овом порталу?"
+msgstr "What data I can find in this portal?"
+
+#: app/templates/questions/questions.html:18
+msgid ""
+"На овом порталу су доступни резултати председничких избора од 2002. "
+"године и парламентарних избора од 2003. године."
+msgstr ""
+"In this portal are available presidential election results from year 2002"
+" and parliamentary from year. 2003."
+
+#: app/templates/questions/questions.html:22
+msgid "Како могу да користим ове податке?"
+msgstr "How I can use these data?"
+
+#: app/templates/questions/questions.html:23
+msgid "Подаци могу да се користе за анализе и поређења."
+msgstr "Data can be used for analysis and comparisons."
+
+#: app/templates/questions/questions.html:27
+msgid "Шта може да се упореди?"
+msgstr "What can be compared?"
+
+#: app/templates/questions/questions.html:28
+msgid ""
+"Могу да се пореде укупни резултати, појединачни резултати листа и "
+"странака, резултати на нивоу републике и одређеног града/општине, "
+"излазност на изборима…"
+msgstr ""
+"There can be compared total results, individual results and parties list,"
+" results at the republican level and the specific city / "
+"municipality,turnout in the elections .."
+
+#: app/templates/questions/questions.html:31
+msgid "Да ли је могуће преузимање графикона?"
+msgstr "Is it possible to download the chart?"
+
+#: app/templates/questions/questions.html:32
+msgid "Могуће је."
+msgstr "It is possible to."
+
+#: app/templates/questions/questions.html:36
+msgid ""
+"Да ли су доступни само подаци за изборне листе или и за поједничане "
+"странке за парламентарне изборе?"
+msgstr ""
+"Are the data available only for the election list or for parliamentary "
+"parties too?"
+
+#: app/templates/questions/questions.html:37
+msgid "Доступни су резултати само за изборне листе."
+msgstr "There are available results only for election list"
+
+#: app/templates/questions/questions.html:41
+msgid ""
+"Зашто нема података за парламентарне и председничке изборе од 1990. до "
+"2002. године?"
+msgstr ""
+"Why there are no data for parliamentary and presidential elections from "
+"1990 to 2002?"
+
+#: app/templates/questions/questions.html:42
+msgid ""
+"На сајту РИК-а су доступни резултати по бирачким местима за председничке "
+"изборе од 2002. године и за парламентарне изборе од 2003. године. За све "
+"раније изборе доступни су само збирни резултати."
+msgstr ""
+"Data ara available from 2002 presidential and 2003 parliamentary. For "
+"before years ara available only collective results. "
+
+#: app/templates/questions/questions.html:45
+msgid "Како сте дошли до ових података?"
+msgstr "How you came up to these data?"
+
+#: app/templates/questions/questions.html:46
+msgid "Сви подаци су преузети са сајта РИК-а."
+msgstr "All the data are in the site RIK"
+
+#: app/templates/questions/questions.html:49
+msgid "Да ли се коришћење ових података наплаћује?"
+msgstr "Does these data need to be paid for using them?"
+
+#: app/templates/questions/questions.html:50
+msgid "Не, коришћење података је бесплатно."
+msgstr "No, using these data is without payment."
 
 #: app/templates/site/_description.html:2
 msgid ""
@@ -84,7 +233,16 @@ msgid ""
 "    Интерактивна мапа вам нуди визуелни преглед резултата конкретних "
 "избора а табеларни преглед вам омогућава да радите додатне анализе.\n"
 "    Сви подаци су преузети са званичног сајта:"
-msgstr "This portal contains all the information about the results of presidential and parliamentary elections of 2003 until today in an open format. Simple search quickly obtain information on how the candidate or electoral list won the votes or what was the turnout in total or in a particular city / municipality. Also, it's easy to compare the results of certain candidates or electoral lists by various criteria. Interactive map gives you a visual overview of specific choices a tabular overview allows you to do further analysis. All data are taken from the official website:"
+msgstr ""
+"This portal contains all the information about the results of "
+"presidential and parliamentary elections of 2003 until today in an open "
+"format. Simple search quickly obtain information on how the candidate or "
+"electoral list won the votes or what was the turnout in total or in a "
+"particular city / municipality. Also, it's easy to compare the results of"
+" certain candidates or electoral lists by various criteria. Interactive "
+"map gives you a visual overview of specific choices a tabular overview "
+"allows you to do further analysis. All data are taken from the official "
+"website:"
 
 #: app/templates/site/_description.html:7
 msgid "Републичке изборне комисије"
@@ -167,11 +325,6 @@ msgstr "Details"
 #: app/templates/type/_table_summary.html:13
 msgid "Територија име"
 msgstr "Territory name"
-
-#: app/templates/type/_table_summary.html:5
-#: app/templates/type/_table_summary.html:14
-msgid "Име"
-msgstr "Name"
 
 #: app/templates/type/_table_summary.html:6
 #: app/templates/type/_table_summary.html:15

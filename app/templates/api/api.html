@@ -6,39 +6,37 @@
             <div class="row">
                 <div class="col-md-12 body_pages">
                     <div class="row">
-                        <h4 class="landingpage-h4">АПИ</h4>
+                        <h4 class="landingpage-h4">{{ _('АПИ') }}</h4>
                         <div class="arrow_left_side">
                             <img alt="elections" src="{{ url_for('static', filename = 'assets/arrow_elections-home.jpg') }}">
                         </div>
                     </div>
-
-
                                 <div class="form-group">
                                     <!--<h5>OPIS:</h5>-->
-                                    <h2>ОПИС: Користите GET request за преузимање података.</h2>
+                                    <h2>{{ _('ОПИС: Користите GET request за преузимање података.') }}</h2>
                                 </div>
 
                                 <div class="">
                                     <!--<h5>URL POST ZAHTEVA:</h5>-->
-                                    <h2>Парламентарни </h2>
-                                    <span>Да бисте добили изборне резултате груписане по територији:</span><br>
+                                    <h2>{{ _('Парламентарни') }} </h2>
+                                    <span>{{ _('Да бисте добили изборне резултате груписане по територији:') }}</span><br>
 
                                     <span style="word-break:break-all"><b>GET REQUEST URL:</b>   <br>http://datacentar.io/api/izbori/datasource/parlamentarni/godina/int:godina/teritorija/instanca/int:territory_admin_level</span><br><br>
 
-                                    <span style="word-break:break-all"><b>ПРИМЕР GET REQUEST URL</b>: http://datacentar.io/api/izbori/2/parlamentarni/godina/2003/teritorija/instanca/2</span>
+                                    <span style="word-break:break-all"><b>{{ _('ПРИМЕР') }} GET REQUEST URL</b>: http://datacentar.io/api/izbori/2/parlamentarni/godina/2003/teritorija/instanca/2</span>
 
                                     <br><br>
-                                    <span style="word-break:break-all">Да бисте добили изборне резултате за одређену територију:</span><br>
-                                    <span style="word-break:break-all"><b>ПРИМЕР GET REQUEST URL</b>:</span><br>
+                                    <span style="word-break:break-all">{{ _('Да бисте добили изборне резултате за одређену територију:') }}</span><br>
+                                    <span style="word-break:break-all"><b>{{ _('ПРИМЕР') }} GET REQUEST URL</b>:</span><br>
                                     <span style="word-break:break-all">http://datacentar.io/api/izbori/int:data_source_id/parlamentarni/godina/int:godina/teritorija/instanca/int:territory_admin_level/string:territory_slug</span>
 
                                                                         <br><br>
-                                    <h2>Председнички</h2>
-                                    <span style="word-break:break-all">Да бисте добили изборне резултате груписане по партијама:</span><br>
-                                    <span style="word-break:break-all"><b>ПРИМЕР GET REQUEST URL</b>:</span><br>
+                                    <h2>{{ _('Председнички') }}</h2>
+                                    <span style="word-break:break-all">{{ _('Да бисте добили изборне резултате груписане по партијама:') }}</span><br>
+                                    <span style="word-break:break-all"><b>{{ _('ПРИМЕР') }} GET REQUEST URL</b>:</span><br>
                                     <span style="word-break:break-all">http://datacentar.io/api/izbori/int:data_source_id/predsjednicki/godina/int:godina/krug/string:krug/teritorija</span><br><br>
-                                    <span style="word-break:break-all"><b>ПРИМЕР GET REQUEST URL</b>: http://datacentar.io/api/izbori/2/predsjednicki/godina/2003/krug/prvi/teritorija</span><br>
-                                    <span style="word-break:break-all"><b>Кратак опис: круг може бити prvi или drugi<b></b></b></span><b><b>
+                                    <span style="word-break:break-all"><b>{{ _('ПРИМЕР') }} GET REQUEST URL</b>: http://datacentar.io/api/izbori/2/predsjednicki/godina/2003/krug/prvi/teritorija</span><br>
+                                    <span style="word-break:break-all"><b>{{ _('Кратак опис: круг може бити prvi или drugi') }}<b></b></b></span><b><b>
                                 </b></b></div><b><b>
                                 <br>
 
