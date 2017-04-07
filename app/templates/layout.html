@@ -1603,6 +1603,7 @@
             }
         });
         $(".loader").css("display", "none");
+
         {% if year!=0 %}
             $.ajax({
                 type: "GET",
@@ -1616,6 +1617,10 @@
                     url: "{{ url_for("static",filename="data/parlamentarni/") }}{{ year }}.json",
                 {% endif %}
                 //url: "http://0.0.0.0:5006/api/izbori/2/{{ typeizbori }}/godina/{{ year }}/instanca/3/krug/{{ krug }}",
+                beforeSend: function () {
+                        $('.containermap').css('display', 'none');
+                        $('.ajax-loader').css("visibility", "visible");
+                    },
                 async: false,
                 dataType: 'json',
                 success: function (response) {
@@ -1647,6 +1652,9 @@
                     {% endif %}
                     fill_html(response);
                 },
+              complete: function () {
+                        $('.ajax-loader').css("visibility", "hidden");
+                    },
                 error: function (error) {
                     console.log(error);
                 }
