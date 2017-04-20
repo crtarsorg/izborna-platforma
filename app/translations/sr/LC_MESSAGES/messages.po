@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-04-06 17:23+0200\n"
+"POT-Creation-Date: 2017-04-20 11:32+0200\n"
 "PO-Revision-Date: 2017-04-06 13:54+0200\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: sr\n"
@@ -18,6 +18,19 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+
+#: app/templates/layout.html:1283 app/templates/layout.html:1327
+#: app/templates/layout.html:1375 app/templates/type/_piechart.html:18
+msgid "Излазност"
+msgstr ""
+
+#: app/templates/layout.html:1626
+msgid "Укупно Излазност"
+msgstr ""
+
+#: app/templates/layout.html:1662 app/templates/layout.html:1666
+msgid "победник"
+msgstr ""
 
 #: app/templates/api/api.html:9 app/templates/include/navigation.html:50
 msgid "АПИ"
@@ -277,20 +290,16 @@ msgstr ""
 msgid "Друго"
 msgstr ""
 
-#: app/templates/type/_map.html:4
+#: app/templates/type/_map.html:19
 msgid "Сви резултати"
 msgstr ""
 
-#: app/templates/type/_map.html:11
+#: app/templates/type/_map.html:26
 msgid "Heatmap"
 msgstr ""
 
-#: app/templates/type/_map.html:29
+#: app/templates/type/_map.html:49
 msgid "Преузимање"
-msgstr ""
-
-#: app/templates/type/_piechart.html:18
-msgid "Излазност"
 msgstr ""
 
 #: app/templates/type/_table.html:4

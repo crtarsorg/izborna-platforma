@@ -397,10 +397,16 @@
 
 
                  for (var i = 0; i < arrayLength; i++) {
-                     $('.name-list1_' + years[i]).text(response['par_'+years[i]][0]['izbornaLista']);
+                     {% if g.current_lang=="en" %}
+                        $('.name-list1_' + years[i]).text(transliterateToEnglish(response['par_'+years[i]][0]['izbornaLista']));
+                        $('.name-list2_' + years[i]).text(transliterateToEnglish(response['par_'+years[i]][1]['izbornaLista']));
+                     {% else %}
+                         $('.name-list1_' + years[i]).text(response['par_'+years[i]][0]['izbornaLista']);
+                         $('.name-list2_' + years[i]).text(response['par_'+years[i]][1]['izbornaLista']);
+                     {% endif %}
                      $('.name-list1_' + years[i]).css('color',response['par_'+years[i]][0]['boja']);
                       $('.name-list2_' + years[i]).css('color',response['par_'+years[i]][1]['boja']);
-                     $('.name-list2_' + years[i]).text(response['par_'+years[i]][1]['izbornaLista']);
+
                      var nr_votes_1 = response['par_'+years[i]][0]['glasova'].toLocaleString();
                      var nr_votes_2 = response['par_'+years[i]][1]['glasova'].toLocaleString();
                      $('.nr-votes1_' + years[i]).css('color',response['par_'+years[i]][0]['boja']);
@@ -417,9 +423,13 @@
                      $('.percentage2-'+years[i]).html(udeo2.toFixed(2) + '%');
                  }
                 for (var i = 0; i < arrayLength_pres; i++) {
-
-                         $('.name-list1_pres_'+ years_pres[i]).text(response['pres_'+years_pres[i]][0]['kandidat']);
-                         $('.name-list2_pres_'+ years_pres[i]).text(response['pres_'+years_pres[i]][1]['kandidat']);
+                    {% if g.current_lang=="en" %}
+                         $('.name-list1_pres_'+ years_pres[i]).text(transliterateToEnglish(response['pres_'+years_pres[i]][0]['kandidat']));
+                         $('.name-list2_pres_'+ years_pres[i]).text(transliterateToEnglish(response['pres_'+years_pres[i]][1]['kandidat']));
+                    {% else %}
+                        $('.name-list1_pres_'+ years_pres[i]).text(response['pres_'+years_pres[i]][0]['kandidat']);
+                        $('.name-list2_pres_'+ years_pres[i]).text(response['pres_'+years_pres[i]][1]['kandidat']);
+                    {% endif %}
                          $('.name-list1_pres_' + years_pres[i]).css('color',response['pres_'+years_pres[i]][0]['boja']);
                          $('.name-list2_pres_' + years_pres[i]).css('color',response['pres_'+years_pres[i]][1]['boja'])
 
