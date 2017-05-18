@@ -1,4 +1,160 @@
 {
+"pres_2012": [
+{
+"kandidatSlug": "tomislav-nikolic",
+"glasova": 1552063,
+"kandidat": "Томислав Николић",
+"biraciKojiSuGlasali": {
+"broj": 3132679
+},
+"boja": "#1f78b4",
+"udeo": 49.54427185166434
+},
+{
+"kandidatSlug": "boris-tadic",
+"glasova": 1481952,
+"kandidat": "Борис Тадић",
+"biraciKojiSuGlasali": {
+"broj": 3132679
+},
+"boja": "#a6cee3",
+"udeo": 47.30621937325848
+}
+],
+"pres_2017": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"glasova": 2012788,
+"kandidat": "Александар Вучић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#a6cee3",
+"udeo": 55.08429907493513
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"glasova": 597728,
+"kandidat": "Саша Јанковић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#1f78b4",
+"udeo": 16.358120138565425
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"glasova": 344498,
+"kandidat": "Лука Максимовић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#b2df8a",
+"udeo": 9.427933226309477
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"glasova": 206676,
+"kandidat": "Вук Јеремић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#33a02c",
+"udeo": 5.656135964448959
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"glasova": 163802,
+"kandidat": "др Војислав Шешељ",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#fb9a99",
+"udeo": 4.482796179762858
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"glasova": 83523,
+"kandidat": "Бошко Обрадовић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#e31a1c",
+"udeo": 2.285787629713515
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"glasova": 51651,
+"kandidat": "Саша Радуловић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#fdbf6f",
+"udeo": 1.413541382162192
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"glasova": 42193,
+"kandidat": "Милан Стаматовић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#ff7f00",
+"udeo": 1.1547027460759591
+},
+{
+"kandidatSlug": "nenad-canak",
+"glasova": 41070,
+"kandidat": "Ненад Чанак",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#cab2d6",
+"udeo": 1.1239694210257543
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"glasova": 38167,
+"kandidat": "проф. др Александар Поповић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#6a3d9a",
+"udeo": 1.044522544248599
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"glasova": 11540,
+"kandidat": "Мирослав Паровић",
+"biraciKojiSuGlasali": {
+"broj": 3654014
+},
+"boja": "#b15928",
+"udeo": 0.31581707130842956
+}
+],
+"pres_2008": [
+{
+"kandidatSlug": "boris-tadic",
+"glasova": 2304467,
+"kandidat": "Борис Тадић",
+"biraciKojiSuGlasali": {
+"broj": 4580428
+},
+"boja": "#a6cee3",
+"udeo": 50.3111717944262
+},
+{
+"kandidatSlug": "tomislav-nikolic",
+"glasova": 2197155,
+"kandidat": "Томислав Николић",
+"biraciKojiSuGlasali": {
+"broj": 4580428
+},
+"boja": "#1f78b4",
+"udeo": 47.968333963551004
+}
+],
 "par_2014": [
 {
 "izbornaLista": "АЛЕКСАНДАР ВУЧИЋ - СНС, СДПС, НС, СПО, ПС",
@@ -189,28 +345,6 @@
 "boja": "#80b1d3",
 "udeo": 0.08857649883433662,
 "izbornaListaSlug": "koalicija-gradana-svih-naroda-i-narodnosti"
-}
-],
-"pres_2008": [
-{
-"kandidatSlug": "boris-tadic",
-"glasova": 2304467,
-"kandidat": "Борис Тадић",
-"biraciKojiSuGlasali": {
-"broj": 4580428
-},
-"boja": "#a6cee3",
-"udeo": 50.3111717944262
-},
-{
-"kandidatSlug": "tomislav-nikolic",
-"glasova": 2197155,
-"kandidat": "Томислав Николић",
-"biraciKojiSuGlasali": {
-"broj": 4580428
-},
-"boja": "#1f78b4",
-"udeo": 47.968333963551004
 }
 ],
 "par_2016": [
@@ -413,28 +547,6 @@
 "boja": "#1f78b4",
 "udeo": 0.11966372429393242,
 "izbornaListaSlug": "republikanska-stranka-republikanus-part-nikola-sandulovic"
-}
-],
-"pres_2012": [
-{
-"kandidatSlug": "tomislav-nikolic",
-"glasova": 1552063,
-"kandidat": "Томислав Николић",
-"biraciKojiSuGlasali": {
-"broj": 3132679
-},
-"boja": "#1f78b4",
-"udeo": 49.54427185166434
-},
-{
-"kandidatSlug": "boris-tadic",
-"glasova": 1481952,
-"kandidat": "Борис Тадић",
-"biraciKojiSuGlasali": {
-"broj": 3132679
-},
-"boja": "#a6cee3",
-"udeo": 47.30621937325848
 }
 ],
 "par_2012": [

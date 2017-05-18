@@ -76,9 +76,12 @@
         $('#all-results').removeAttr('disabled');
         $('.default-first-indicators').hide();
         $('.party_name').removeClass('select-p-tab');
+        {% if year==2016 %}
         $("a[href*=aleksandar-vucic-srbija-pobeduje]").addClass('select-p-tab');
-
-
+        {% endif %}
+        {% if year==2017 %}
+            $("a[href*=aleksandar-vucic]").addClass('select-p-tab');
+        {% endif %}
         $('#containermap').hide();
         $('#containerheatmap').show();
 
@@ -95,7 +98,12 @@
 
         $.ajax({
             type: "GET",
+                {% if year==2016 %}
             url: "{{ url_for("static",filename="data/parlamentarni/") }}2016.json",
+                {% endif %}
+             {% if year==2017 %}
+            url: "{{ url_for("static",filename="data/presidential/") }}2017-prvi-krug.json",
+             {% endif %}
             async: false,
             dataType: 'json',
             success: function (response) {
@@ -109,6 +117,15 @@
                         var lat = value['coordinates'].split(",")[0];
                         var lng = value['coordinates'].split(",")[1];
                         if (b['izbornaListaSlug'] == "aleksandar-vucic-srbija-pobeduje") {
+                            if (lat != "" && lng != "") {
+                                jsonArr.push({
+                                    lat: lat,
+                                    lng: lng,
+                                    count: b['rezultat']['udeo']
+                                });
+                            }
+                        }
+                         if (b['kandidatSlug'] == "aleksandar-vucic") {
                             if (lat != "" && lng != "") {
                                 jsonArr.push({
                                     lat: lat,
@@ -317,7 +334,7 @@
         $.each(response['candidates'], function (index, value) {
             {% if typeizbori=="parlamentarni" %}
                 {% if g.current_lang=="en" %}
-                    console.log("dgdfgdfg");
+
                     $('#party-list-names').append('<li style="font-size:15px;"><a href=' + value['izbornaListaSlug'] + ' class="party_name">' + transliterateToEnglish(value['izbornaLista']) + '</a></li>');
                         {% else %}
                     $('#party-list-names').append('<li style="font-size:15px;"><a href=' + value['izbornaListaSlug'] + ' class="party_name">' + value['izbornaLista'] + '</a></li>');
@@ -383,14 +400,26 @@
                 };
                 heatmapLayer.setData(data_array);
                 $('.default-first-indicators').hide();
+                {% if year==2016 %}
                 $("a[href*=aleksandar-vucic-srbija-pobeduje]").removeClass('select-p-tab');
                 $("a[href*=aleksandar-vucic-srbija-pobeduje]").addClass('select-p-tab-heatmap');
+                {% endif %}
+               {% if year==2017 %}
+                $("a[href*=aleksandar-vucic]").removeClass('select-p-tab');
+                $("a[href*=aleksandar-vucic]").addClass('select-p-tab-heatmap');
+                {% endif %}
+
                 $('.select-p-tab-heatmap').on('click', function () {
                     $(this).addClass('select-p-tab');
                 })
                 $.ajax({
                     type: "GET",
+                    {%  if year==2016 %}
                     url: "{{ url_for("static",filename="data/parlamentarni/") }}2016.json",
+                    {% endif %}
+                   {%  if year==2017 %}
+                     url: "{{ url_for("static",filename="data/presidential/") }}2017-prvi-krug.json",
+                    {% endif %}
                     async: false,
                     dataType: 'json',
                     success: function (response) {
@@ -403,6 +432,7 @@
                             $(value['rezultat']).each(function (a, b) {
                                 var lat = value['coordinates'].split(",")[0];
                                 var lng = value['coordinates'].split(",")[1];
+                                {% if year==2016 %}
                                 if (b['izbornaListaSlug'] == selected_candidate) {
                                     if (lat != "" && lng != "") {
                                         jsonArr.push({
@@ -412,6 +442,18 @@
                                         });
                                     }
                                 }
+                                {% endif %}
+                                {% if year==2017 %}
+                                    if (b['kandidatSlug'] == selected_candidate) {
+                                    if (lat != "" && lng != "") {
+                                        jsonArr.push({
+                                            lat: lat,
+                                            lng: lng,
+                                            count: b['rezultat']['udeo']
+                                        });
+                                    }
+                                }
+                                {% endif %}
                             })
 
                         })
@@ -1778,7 +1820,7 @@
 
                     borderColor: 'black',
                     borderWidth: 1,
-                    {#  dataLabels: {
+                     {# dataLabels: {
                       enabled: true,
                       color: '#FFFFFF',
                       format: '{point.NAME_2}'

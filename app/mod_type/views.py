@@ -11,7 +11,6 @@ mod_type = Blueprint('type', __name__, url_prefix="/<lang_code>/type",static_fol
 #get data for all territories selected by year
 @mod_type.route('/<int:datasource>/<string:typeizbori>/<int:year>/<int:instanca>/krug/<string:krug>/status/<string:status>', methods=['GET'])
 def electionType(datasource, typeizbori,year, instanca, krug, status):
-
     return render_template('type/type.html',typeizbori=typeizbori,year=year,instanca=instanca, krug=krug, status=status)
 
 

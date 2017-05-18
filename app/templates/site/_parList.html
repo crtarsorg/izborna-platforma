@@ -34,7 +34,6 @@
       <div class="modal-content">
         <div class="modal-header">
           <button type="button" class="close" data-dismiss="modal">&times;</button>
-
         </div>
         <div class="modal-body">
             <div class="tabs-type-elections-modal" id="tabs-modal">
@@ -54,7 +53,7 @@
                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2008, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2008   - {{ _('Други круг') }}</a></li>
                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2012  - {{ _('Први круг') }}</a></li>
                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2012, instanca='1', krug='drugi',status='none',lang_code=g.current_lang) }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2012  - {{ _('Други круг') }}</a></li>
-
+                        <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2017, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}"><img alt="Menu_official" src="{{ url_for('static', filename = 'assets/menu_link_year.png') }}">2017  - {{ _('Први круг') }}</a></li>
                     </ul>
                   </div>
                   <div id="tabs-modal-2"  class="year-list-tabs">
@@ -71,18 +70,13 @@
         {#                <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2007, instanca='4', krug='none') }}">2007</a></li>
                         <li><a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'parlamentarni', year=2016, instanca='4', krug='none') }}">2016</a></li>#}
                         <!-- second data source -->
-
-
                     </ul>
                   </div>
           </div>
         </div>
-
       </div>
-
     </div>
   </div>
-
         <!-- beginning of the year 2014 -->
         <!-- first indicator -->
       <div class="row" style="background: #ffffff;">
@@ -261,12 +255,68 @@
             </a>
         </div>
     </div>
+<!-- 2017 -->
+
+      <div class="row" style="background: #ffffff;">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="row">
+                     <div class="col-md-2">
+                      {% include "site/_site_map_pres_2017.html" %}
+
+                    </div>
+                    <div class="col-md-10 year-data">
+                            <div class="col-md-12 year-list">
+                                <div class="row">
+                                    <h3>
+                                        <a href="{{ url_for('type.electionType', datasource='2', typeizbori = 'predsjednicki', year=2017, instanca='1', krug='prvi',status='none',lang_code=g.current_lang) }}">2017 - {{ _('Први круг') }}</a>
+                                    </h3>
+                                </div>
+                            </div>
+                            <div class="row indicator-row">
+
+                                    <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list1_pres_2017"></div>
+                                    <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                        <p class="nr-votes nr-votes1_pres_2017"></p>
+                                    </div>
+                                    <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                        <div class="progress custom-progress">
+                                            <div class="progress-bar first-progress-pres-2017" style="" role="progressbar" aria-valuenow="" aria-valuemin="0" aria-valuemax="100" >
+                                              <span class="sr-only">Complete</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                 <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage1-pres-2017">
+
+                                    </div>
+                            </div>
+                         <div class="row indicator-row">
+                                     <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12 name-list name-list2_pres_2017"></div>
+                                <div class="col-lg-1 col-md-2 col-sm-4 col-xs-4">
+                                    <p class="nr-votes nr-votes2_pres_2017"></p>
+                                </div>
+                                <div class="col-lg-6 col-md-5 col-sm-4 col-xs-4">
+                                    <div class="progress custom-progress">
+                                        <div class="progress-bar  second-progress-pres-2017" role="progressbar" style="" aria-valuenow="" aria-valuemin="0" aria-valuemax="100">
+                                          <span class="sr-only">Complete</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-2 col-md-2 col-sm-4 col-xs-4 percentage2-pres-2017">
+
+                                </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 <!-- 2012 -->
+
       <div class="row" style="background: #ffffff;">
             <div class="col-md-12 col-sm-12 col-xs-12">
                 <div class="row">
                      <div class="col-md-2">
                       {% include "site/_site_map_pres_2012.html" %}
+
                     </div>
                     <div class="col-md-10 year-data">
                             <div class="col-md-12 year-list">
@@ -375,7 +425,7 @@
         var years = [2012, 2014,2016];
         var arrayLength=years.length;
 
-        var years_pres = [2012, 2008];
+        var years_pres = [2012, 2008,2017];
         var arrayLength_pres=years_pres.length;
 
             $.ajax({
