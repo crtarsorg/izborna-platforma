@@ -3386,115 +3386,6 @@
 {
 "kandidatSlug": "aleksandar-vucic",
 "rezultat": {
-"glasova": 4248,
-"udeo": 62.87744227353463
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 713,
-"udeo": 10.553582001184132
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 647,
-"udeo": 9.57667258732978
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 337,
-"udeo": 4.988158673771462
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 332,
-"udeo": 4.9141503848431025
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 178,
-"udeo": 2.634695085849615
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 83,
-"udeo": 1.2285375962107756
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 39,
-"udeo": 0.5772646536412078
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 37,
-"udeo": 0.5476613380698638
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 20,
-"udeo": 0.2960331557134399
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 17,
-"udeo": 0.2516281823564239
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.2390641,22.1108479",
-"biraciKojiSuGlasali": 6756,
-"brojUpisanihBiracaUBirackiSpisak": 12586,
-"percentage": 53.67869060861274,
-"teritorija": "Ниш",
-"teritorijaSlug": "nis"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
 "glasova": 4278,
 "udeo": 52.484357747515645
 },
@@ -3598,224 +3489,6 @@
 "percentage": 58.4762178061554,
 "teritorija": "Србобран",
 "teritorijaSlug": "srbobran"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 3902,
-"udeo": 83.46524064171122
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 352,
-"udeo": 7.529411764705881
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 90,
-"udeo": 1.9251336898395723
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 90,
-"udeo": 1.9251336898395723
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 87,
-"udeo": 1.8609625668449197
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 65,
-"udeo": 1.3903743315508021
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 14,
-"udeo": 0.2994652406417112
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 9,
-"udeo": 0.19251336898395724
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 7,
-"udeo": 0.1497326203208556
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 3,
-"udeo": 0.0641711229946524
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-}
-],
-"coordinates": "42.2406067,21.0258961",
-"biraciKojiSuGlasali": 4675,
-"brojUpisanihBiracaUBirackiSpisak": 7162,
-"percentage": 65.27506283161128,
-"teritorija": "Штрпце",
-"teritorijaSlug": "strpce"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 4324,
-"udeo": 69.92238033635188
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 524,
-"udeo": 8.473479948253559
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 326,
-"udeo": 5.271668822768435
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 317,
-"udeo": 5.126131953428202
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 290,
-"udeo": 4.6895213454075035
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 112,
-"udeo": 1.8111254851228977
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 82,
-"udeo": 1.3260025873221215
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 51,
-"udeo": 0.8247089262613196
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 39,
-"udeo": 0.630659767141009
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 14,
-"udeo": 0.22639068564036222
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 11,
-"udeo": 0.17787839586028462
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.1025699,22.3687287",
-"biraciKojiSuGlasali": 6184,
-"brojUpisanihBiracaUBirackiSpisak": 9938,
-"percentage": 62.225799959750454,
-"teritorija": "Бабушница",
-"teritorijaSlug": "babusnica"
 },
 {
 "rezultat": [
@@ -4252,6 +3925,224 @@
 "percentage": 56.52613614815751,
 "teritorija": "Ариље",
 "teritorijaSlug": "arilje"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 731,
+"udeo": 81.58482142857143
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 64,
+"udeo": 7.142857142857142
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 29,
+"udeo": 3.2366071428571432
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 21,
+"udeo": 2.34375
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 19,
+"udeo": 2.1205357142857144
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 14,
+"udeo": 1.5625
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 6,
+"udeo": 0.6696428571428571
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 2,
+"udeo": 0.2232142857142857
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.11160714285714285
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 1,
+"udeo": 0.11160714285714285
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+}
+],
+"coordinates": "42.6284992,21.1062448",
+"biraciKojiSuGlasali": 896,
+"brojUpisanihBiracaUBirackiSpisak": 4461,
+"percentage": 20.085182694463125,
+"teritorija": "Косово Поље",
+"teritorijaSlug": "kosovo-polje"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 4931,
+"udeo": 68.2491349480969
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 570,
+"udeo": 7.889273356401384
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 512,
+"udeo": 7.086505190311419
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 368,
+"udeo": 5.093425605536332
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 354,
+"udeo": 4.899653979238754
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 149,
+"udeo": 2.0622837370242215
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 73,
+"udeo": 1.0103806228373702
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 43,
+"udeo": 0.5951557093425606
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 32,
+"udeo": 0.4429065743944637
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 22,
+"udeo": 0.3044982698961938
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 15,
+"udeo": 0.20761245674740486
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+}
+],
+"coordinates": "44.188995, 19.453654",
+"biraciKojiSuGlasali": 7225,
+"brojUpisanihBiracaUBirackiSpisak": 12360,
+"percentage": 58.4546925566343,
+"teritorija": "Љубовија",
+"teritorijaSlug": "ljubovija"
 },
 {
 "rezultat": [
@@ -8291,115 +8182,6 @@
 {
 "kandidatSlug": "aleksandar-vucic",
 "rezultat": {
-"glasova": 8599,
-"udeo": 61.364447298936696
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 1366,
-"udeo": 9.748091058303004
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 1328,
-"udeo": 9.476914293869978
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 833,
-"udeo": 5.944480125597659
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 832,
-"udeo": 5.937343894954685
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 373,
-"udeo": 2.661814029829444
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 237,
-"udeo": 1.6912866623849283
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 93,
-"udeo": 0.6636694497966175
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 69,
-"udeo": 0.4923999143652323
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 44,
-"udeo": 0.31399414829087274
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 32,
-"udeo": 0.2283593805751802
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.3741963,21.8132467",
-"biraciKojiSuGlasali": 14013,
-"brojUpisanihBiracaUBirackiSpisak": 31147,
-"percentage": 44.98988666645263,
-"teritorija": "Ниш",
-"teritorijaSlug": "nis"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
 "glasova": 8742,
 "udeo": 67.10677822983035
 },
@@ -8503,224 +8285,6 @@
 "percentage": 63.91423805318418,
 "teritorija": "Рашка",
 "teritorijaSlug": "raska"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 3367,
-"udeo": 64.60092095165004
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 456,
-"udeo": 8.749040675364544
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 399,
-"udeo": 7.655410590943975
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 367,
-"udeo": 7.041442824251727
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 280,
-"udeo": 5.372217958557176
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 156,
-"udeo": 2.9930928626247124
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 34,
-"udeo": 0.6523407521105142
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 21,
-"udeo": 0.4029163468917882
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 15,
-"udeo": 0.28779739063699156
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 14,
-"udeo": 0.2686108979278588
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 5,
-"udeo": 0.09593246354566384
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "44.538211, 21.222067",
-"biraciKojiSuGlasali": 5212,
-"brojUpisanihBiracaUBirackiSpisak": 12558,
-"percentage": 41.50342411211976,
-"teritorija": "Мало Црниће",
-"teritorijaSlug": "malo-crnice"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 9476,
-"udeo": 67.54579798987811
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 1206,
-"udeo": 8.596478722645948
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 1014,
-"udeo": 7.227885095160026
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 732,
-"udeo": 5.217763204790078
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 567,
-"udeo": 4.041628056169364
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 317,
-"udeo": 2.259605103713736
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 187,
-"udeo": 1.3329531684368094
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 100,
-"udeo": 0.7128091809822511
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 76,
-"udeo": 0.5417349775465108
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 30,
-"udeo": 0.2138427542946753
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 28,
-"udeo": 0.1995865706750303
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "44.469795, 20.024814",
-"biraciKojiSuGlasali": 14029,
-"brojUpisanihBiracaUBirackiSpisak": 23913,
-"percentage": 58.666833939698066,
-"teritorija": "Уб",
-"teritorijaSlug": "ub"
 },
 {
 "rezultat": [
@@ -9266,115 +8830,6 @@
 "percentage": 61.15034908264329,
 "teritorija": "Врњачка Бања",
 "teritorijaSlug": "vrnjacka-banja"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 10027,
-"udeo": 58.08712779515699
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 2869,
-"udeo": 16.62032209477465
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 1065,
-"udeo": 6.1696211331247826
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 741,
-"udeo": 4.292665971498089
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 654,
-"udeo": 3.788668752172402
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 619,
-"udeo": 3.585911250144827
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 481,
-"udeo": 2.7864673850075308
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 205,
-"udeo": 1.1875796547329394
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 61,
-"udeo": 0.3533773606766307
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 49,
-"udeo": 0.28386050283860503
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 44,
-"udeo": 0.2548951454060943
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-}
-],
-"coordinates": "45.585795, 19.922181",
-"biraciKojiSuGlasali": 17262,
-"brojUpisanihBiracaUBirackiSpisak": 33465,
-"percentage": 51.58225011205737,
-"teritorija": "Бечеј",
-"teritorijaSlug": "becej"
 },
 {
 "rezultat": [
@@ -12869,333 +12324,6 @@
 {
 "kandidatSlug": "aleksandar-vucic",
 "rezultat": {
-"glasova": 731,
-"udeo": 81.58482142857143
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 64,
-"udeo": 7.142857142857142
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 29,
-"udeo": 3.2366071428571432
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 21,
-"udeo": 2.34375
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 19,
-"udeo": 2.1205357142857144
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 14,
-"udeo": 1.5625
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 6,
-"udeo": 0.6696428571428571
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 2,
-"udeo": 0.2232142857142857
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.11160714285714285
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 1,
-"udeo": 0.11160714285714285
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 0,
-"udeo": 0
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-}
-],
-"coordinates": "42.6284992,21.1062448",
-"biraciKojiSuGlasali": 896,
-"brojUpisanihBiracaUBirackiSpisak": 4461,
-"percentage": 20.085182694463125,
-"teritorija": "Косово Поље",
-"teritorijaSlug": "kosovo-polje"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 18257,
-"udeo": 53.71759790508136
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 5724,
-"udeo": 16.84173360402507
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 3539,
-"udeo": 10.412804895989643
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 2173,
-"udeo": 6.393621090416925
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 1523,
-"udeo": 4.4811251360814435
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 940,
-"udeo": 2.765763380115927
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 610,
-"udeo": 1.794803895607144
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 360,
-"udeo": 1.0592285285550358
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 193,
-"udeo": 0.5678641833642275
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 123,
-"udeo": 0.3619030805896372
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 90,
-"udeo": 0.26480713213875895
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.3174113,21.96735",
-"biraciKojiSuGlasali": 33987,
-"brojUpisanihBiracaUBirackiSpisak": 66603,
-"percentage": 51.02923291743615,
-"teritorija": "Ниш",
-"teritorijaSlug": "nis"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 4931,
-"udeo": 68.2491349480969
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 570,
-"udeo": 7.889273356401384
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 512,
-"udeo": 7.086505190311419
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 368,
-"udeo": 5.093425605536332
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 354,
-"udeo": 4.899653979238754
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 149,
-"udeo": 2.0622837370242215
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 73,
-"udeo": 1.0103806228373702
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 43,
-"udeo": 0.5951557093425606
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 32,
-"udeo": 0.4429065743944637
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 22,
-"udeo": 0.3044982698961938
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 15,
-"udeo": 0.20761245674740486
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-}
-],
-"coordinates": "44.188995, 19.453654",
-"biraciKojiSuGlasali": 7225,
-"brojUpisanihBiracaUBirackiSpisak": 12360,
-"percentage": 58.4546925566343,
-"teritorija": "Љубовија",
-"teritorijaSlug": "ljubovija"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
 "glasova": 828,
 "udeo": 87.43400211193241
 },
@@ -13305,115 +12433,6 @@
 {
 "kandidatSlug": "aleksandar-vucic",
 "rezultat": {
-"glasova": 4507,
-"udeo": 70.96520233034168
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 596,
-"udeo": 9.384348921429696
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 392,
-"udeo": 6.172256337584632
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 269,
-"udeo": 4.235553456148637
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 254,
-"udeo": 3.999370177924736
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 98,
-"udeo": 1.543064084396158
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 56,
-"udeo": 0.8817509053692332
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 38,
-"udeo": 0.598330971500551
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 24,
-"udeo": 0.3778932451582428
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 21,
-"udeo": 0.33065658951346244
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 8,
-"udeo": 0.1259644150527476
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.410231, 22.116718",
-"biraciKojiSuGlasali": 6351,
-"brojUpisanihBiracaUBirackiSpisak": 11671,
-"percentage": 54.41693085425413,
-"teritorija": "Сврљиг",
-"teritorijaSlug": "svrljig"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
 "glasova": 5649,
 "udeo": 58.99122807017544
 },
@@ -13517,6 +12536,115 @@
 "percentage": 54.41527446300716,
 "teritorija": "Сопот",
 "teritorijaSlug": "sopot"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 4507,
+"udeo": 70.96520233034168
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 596,
+"udeo": 9.384348921429696
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 392,
+"udeo": 6.172256337584632
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 269,
+"udeo": 4.235553456148637
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 254,
+"udeo": 3.999370177924736
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 98,
+"udeo": 1.543064084396158
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 56,
+"udeo": 0.8817509053692332
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 38,
+"udeo": 0.598330971500551
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 24,
+"udeo": 0.3778932451582428
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 21,
+"udeo": 0.33065658951346244
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 8,
+"udeo": 0.1259644150527476
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+}
+],
+"coordinates": "43.410231, 22.116718",
+"biraciKojiSuGlasali": 6351,
+"brojUpisanihBiracaUBirackiSpisak": 11671,
+"percentage": 54.41693085425413,
+"teritorija": "Сврљиг",
+"teritorijaSlug": "svrljig"
 },
 {
 "rezultat": [
@@ -14062,115 +13190,6 @@
 "percentage": 56.15080366910713,
 "teritorija": "Пожаревац",
 "teritorijaSlug": "pozarevac"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 18903,
-"udeo": 42.7689035702973
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 11177,
-"udeo": 25.288474591610484
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 5155,
-"udeo": 11.663423684329608
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 3503,
-"udeo": 7.9256979953844064
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 1524,
-"udeo": 3.4481198244264446
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 1146,
-"udeo": 2.5928775057694917
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 1049,
-"udeo": 2.3734105615638716
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 568,
-"udeo": 1.2851260238019822
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 286,
-"udeo": 0.6470881035340966
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 199,
-"udeo": 0.45024661749400424
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 129,
-"udeo": 0.2918684103353093
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.3174113,21.96735",
-"biraciKojiSuGlasali": 44198,
-"brojUpisanihBiracaUBirackiSpisak": 82168,
-"percentage": 53.78979651445819,
-"teritorija": "Ниш",
-"teritorijaSlug": "nis"
 },
 {
 "rezultat": [
@@ -17120,6 +16139,115 @@
 {
 "kandidatSlug": "aleksandar-vucic",
 "rezultat": {
+"glasova": 10027,
+"udeo": 58.08712779515699
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 2869,
+"udeo": 16.62032209477465
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 1065,
+"udeo": 6.1696211331247826
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 741,
+"udeo": 4.292665971498089
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 654,
+"udeo": 3.788668752172402
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 619,
+"udeo": 3.585911250144827
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 481,
+"udeo": 2.7864673850075308
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 205,
+"udeo": 1.1875796547329394
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 61,
+"udeo": 0.3533773606766307
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 49,
+"udeo": 0.28386050283860503
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 44,
+"udeo": 0.2548951454060943
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+}
+],
+"coordinates": "45.585795, 19.922181",
+"biraciKojiSuGlasali": 17262,
+"brojUpisanihBiracaUBirackiSpisak": 33465,
+"percentage": 51.58225011205737,
+"teritorija": "Бечеј",
+"teritorijaSlug": "becej"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
 "glasova": 11136,
 "udeo": 65.58303886925795
 },
@@ -17992,6 +17120,224 @@
 {
 "kandidatSlug": "aleksandar-vucic",
 "rezultat": {
+"glasova": 3902,
+"udeo": 83.46524064171122
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 352,
+"udeo": 7.529411764705881
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 90,
+"udeo": 1.9251336898395723
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 90,
+"udeo": 1.9251336898395723
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 87,
+"udeo": 1.8609625668449197
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 65,
+"udeo": 1.3903743315508021
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 14,
+"udeo": 0.2994652406417112
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 9,
+"udeo": 0.19251336898395724
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 7,
+"udeo": 0.1497326203208556
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 3,
+"udeo": 0.0641711229946524
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 0,
+"udeo": 0
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+}
+],
+"coordinates": "42.2406067,21.0258961",
+"biraciKojiSuGlasali": 4675,
+"brojUpisanihBiracaUBirackiSpisak": 7162,
+"percentage": 65.27506283161128,
+"teritorija": "Штрпце",
+"teritorijaSlug": "strpce"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 4324,
+"udeo": 69.92238033635188
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 524,
+"udeo": 8.473479948253559
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 326,
+"udeo": 5.271668822768435
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 317,
+"udeo": 5.126131953428202
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 290,
+"udeo": 4.6895213454075035
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 112,
+"udeo": 1.8111254851228977
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 82,
+"udeo": 1.3260025873221215
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 51,
+"udeo": 0.8247089262613196
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 39,
+"udeo": 0.630659767141009
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 14,
+"udeo": 0.22639068564036222
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 11,
+"udeo": 0.17787839586028462
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+}
+],
+"coordinates": "43.1025699,22.3687287",
+"biraciKojiSuGlasali": 6184,
+"brojUpisanihBiracaUBirackiSpisak": 9938,
+"percentage": 62.225799959750454,
+"teritorija": "Бабушница",
+"teritorijaSlug": "babusnica"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
 "glasova": 27993,
 "udeo": 46.17173583162895
 },
@@ -18319,551 +17665,6 @@
 {
 "kandidatSlug": "aleksandar-vucic",
 "rezultat": {
-"glasova": 5825,
-"udeo": 60.48177759318866
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 920,
-"udeo": 9.552486761499326
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 604,
-"udeo": 6.271415221679992
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 584,
-"udeo": 6.063752465995224
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 515,
-"udeo": 5.347315958882774
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 320,
-"udeo": 3.3226040909562866
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 275,
-"udeo": 2.855362890665559
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 177,
-"udeo": 1.8378153878101964
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 129,
-"udeo": 1.3394247741667533
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 88,
-"udeo": 0.9137161250129789
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 32,
-"udeo": 0.3322604090956287
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-}
-],
-"coordinates": "44.9116459,21.3731475",
-"biraciKojiSuGlasali": 9631,
-"brojUpisanihBiracaUBirackiSpisak": 16282,
-"percentage": 59.15120992507063,
-"teritorija": "Бела Црква",
-"teritorijaSlug": "bela-crkva"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 13708,
-"udeo": 51.37545911101117
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 4301,
-"udeo": 16.119481298253504
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 2833,
-"udeo": 10.61764485420883
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 2027,
-"udeo": 7.596881792969043
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 1316,
-"udeo": 4.932164005696724
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 767,
-"udeo": 2.8745971066636686
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 579,
-"udeo": 2.1700022487069934
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 219,
-"udeo": 0.8207780526197436
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 192,
-"udeo": 0.7195862379131999
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 158,
-"udeo": 0.5921595082827374
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 85,
-"udeo": 0.3185668240761562
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.8434771,22.3502804",
-"biraciKojiSuGlasali": 26682,
-"brojUpisanihBiracaUBirackiSpisak": 53364,
-"percentage": 50,
-"teritorija": "Зајечар",
-"teritorijaSlug": "zajecar"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 33479,
-"udeo": 39.37825662498971
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 24341,
-"udeo": 28.630070925322578
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 10572,
-"udeo": 12.434867500205836
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 5893,
-"udeo": 6.931391806537363
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 3121,
-"udeo": 3.670944141897693
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 1977,
-"udeo": 2.3253625660146557
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 1673,
-"udeo": 1.9677954339618202
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 1473,
-"udeo": 1.7325538997165337
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 800,
-"udeo": 0.9409661369811454
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 264,
-"udeo": 0.31051882520377794
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 240,
-"udeo": 0.28228984109434363
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-}
-],
-"coordinates": "44.762321, 20.506989",
-"biraciKojiSuGlasali": 85019,
-"brojUpisanihBiracaUBirackiSpisak": 153679,
-"percentage": 55.32245785045452,
-"teritorija": "Звездара",
-"teritorijaSlug": "zvezdara"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 28482,
-"udeo": 51.5613968391897
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 7269,
-"udeo": 13.159181013414436
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 5639,
-"udeo": 10.208367276742882
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 4930,
-"udeo": 8.924853817049549
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 3988,
-"udeo": 7.219536921378012
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 1819,
-"udeo": 3.2929633049113853
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 1026,
-"udeo": 1.8573833704447946
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 577,
-"udeo": 1.0445518564782128
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 385,
-"udeo": 0.696971342710766
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 130,
-"udeo": 0.23534097286337552
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 91,
-"udeo": 0.16473868100436287
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.897482,20.1854404",
-"biraciKojiSuGlasali": 55239,
-"brojUpisanihBiracaUBirackiSpisak": 99145,
-"percentage": 55.715366382570984,
-"teritorija": "Чачак",
-"teritorijaSlug": "cacak"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 9798,
-"udeo": 62.59902887809865
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 1580,
-"udeo": 10.094556606184513
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 1105,
-"udeo": 7.059800664451828
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 797,
-"udeo": 5.09200102223358
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 602,
-"udeo": 3.8461538461538463
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 433,
-"udeo": 2.766419626884743
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 338,
-"udeo": 2.1594684385382057
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 294,
-"udeo": 1.8783542039355994
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 188,
-"udeo": 1.2011244569384105
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 59,
-"udeo": 0.3769486327625862
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 52,
-"udeo": 0.33222591362126247
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-}
-],
-"coordinates": "45.6479651,19.0657116",
-"biraciKojiSuGlasali": 15652,
-"brojUpisanihBiracaUBirackiSpisak": 26178,
-"percentage": 59.790663916265565,
-"teritorija": "Апатин",
-"teritorijaSlug": "apatin"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
 "glasova": 37920,
 "udeo": 41.81046364187662
 },
@@ -19185,115 +17986,6 @@
 "percentage": 55.82709837618845,
 "teritorija": "Шид",
 "teritorijaSlug": "sid"
-},
-{
-"rezultat": [
-{
-"kandidatSlug": "aleksandar-vucic",
-"rezultat": {
-"glasova": 13138,
-"udeo": 51.9987334758173
-},
-"kandidat": "Александар Вучић",
-"boja": "#a6cee3"
-},
-{
-"kandidatSlug": "sasa-jankovic",
-"rezultat": {
-"glasova": 4318,
-"udeo": 17.09016069025568
-},
-"kandidat": "Саша Јанковић",
-"boja": "#1f78b4"
-},
-{
-"kandidatSlug": "luka-maksimovic",
-"rezultat": {
-"glasova": 2918,
-"udeo": 11.549117390960184
-},
-"kandidat": "Лука Максимовић",
-"boja": "#b2df8a"
-},
-{
-"kandidatSlug": "vuk-jeremic",
-"rezultat": {
-"glasova": 1673,
-"udeo": 6.621546742658118
-},
-"kandidat": "Вук Јеремић",
-"boja": "#33a02c"
-},
-{
-"kandidatSlug": "dr-vojislav-seselj",
-"rezultat": {
-"glasova": 1075,
-"udeo": 4.2547296762447555
-},
-"kandidat": "др Војислав Шешељ",
-"boja": "#fb9a99"
-},
-{
-"kandidatSlug": "bosko-obradovic",
-"rezultat": {
-"glasova": 706,
-"udeo": 2.7942689780733003
-},
-"kandidat": "Бошко Обрадовић",
-"boja": "#e31a1c"
-},
-{
-"kandidatSlug": "sasa-radulovic",
-"rezultat": {
-"glasova": 505,
-"udeo": 1.9987334758173037
-},
-"kandidat": "Саша Радуловић",
-"boja": "#fdbf6f"
-},
-{
-"kandidatSlug": "prof-dr-aleksandar-popovic",
-"rezultat": {
-"glasova": 256,
-"udeo": 1.0132193461568908
-},
-"kandidat": "проф. др Александар Поповић",
-"boja": "#6a3d9a"
-},
-{
-"kandidatSlug": "milan-stamatovic",
-"rezultat": {
-"glasova": 153,
-"udeo": 0.6055568748515792
-},
-"kandidat": "Милан Стаматовић",
-"boja": "#ff7f00"
-},
-{
-"kandidatSlug": "nenad-canak",
-"rezultat": {
-"glasova": 119,
-"udeo": 0.47098868044011716
-},
-"kandidat": "Ненад Чанак",
-"boja": "#cab2d6"
-},
-{
-"kandidatSlug": "miroslav-parovic",
-"rezultat": {
-"glasova": 58,
-"udeo": 0.22955750811367057
-},
-"kandidat": "Мирослав Паровић",
-"boja": "#b15928"
-}
-],
-"coordinates": "43.4294285,21.9137799",
-"biraciKojiSuGlasali": 25266,
-"brojUpisanihBiracaUBirackiSpisak": 45484,
-"percentage": 55.549204115733,
-"teritorija": "Ниш",
-"teritorijaSlug": "nis"
 },
 {
 "rezultat": [
@@ -20820,6 +19512,878 @@
 "percentage": 59.1838458542354,
 "teritorija": "Нови Београд",
 "teritorijaSlug": "novi-beograd"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 5825,
+"udeo": 60.48177759318866
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 920,
+"udeo": 9.552486761499326
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 604,
+"udeo": 6.271415221679992
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 584,
+"udeo": 6.063752465995224
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 515,
+"udeo": 5.347315958882774
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 320,
+"udeo": 3.3226040909562866
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 275,
+"udeo": 2.855362890665559
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 177,
+"udeo": 1.8378153878101964
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 129,
+"udeo": 1.3394247741667533
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 88,
+"udeo": 0.9137161250129789
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 32,
+"udeo": 0.3322604090956287
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+}
+],
+"coordinates": "44.9116459,21.3731475",
+"biraciKojiSuGlasali": 9631,
+"brojUpisanihBiracaUBirackiSpisak": 16282,
+"percentage": 59.15120992507063,
+"teritorija": "Бела Црква",
+"teritorijaSlug": "bela-crkva"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 13708,
+"udeo": 51.37545911101117
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 4301,
+"udeo": 16.119481298253504
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 2833,
+"udeo": 10.61764485420883
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 2027,
+"udeo": 7.596881792969043
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 1316,
+"udeo": 4.932164005696724
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 767,
+"udeo": 2.8745971066636686
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 579,
+"udeo": 2.1700022487069934
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 219,
+"udeo": 0.8207780526197436
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 192,
+"udeo": 0.7195862379131999
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 158,
+"udeo": 0.5921595082827374
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 85,
+"udeo": 0.3185668240761562
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+}
+],
+"coordinates": "43.8434771,22.3502804",
+"biraciKojiSuGlasali": 26682,
+"brojUpisanihBiracaUBirackiSpisak": 53364,
+"percentage": 50,
+"teritorija": "Зајечар",
+"teritorijaSlug": "zajecar"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 33479,
+"udeo": 39.37825662498971
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 24341,
+"udeo": 28.630070925322578
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 10572,
+"udeo": 12.434867500205836
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 5893,
+"udeo": 6.931391806537363
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 3121,
+"udeo": 3.670944141897693
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 1977,
+"udeo": 2.3253625660146557
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 1673,
+"udeo": 1.9677954339618202
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 1473,
+"udeo": 1.7325538997165337
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 800,
+"udeo": 0.9409661369811454
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 264,
+"udeo": 0.31051882520377794
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 240,
+"udeo": 0.28228984109434363
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+}
+],
+"coordinates": "44.762321, 20.506989",
+"biraciKojiSuGlasali": 85019,
+"brojUpisanihBiracaUBirackiSpisak": 153679,
+"percentage": 55.32245785045452,
+"teritorija": "Звездара",
+"teritorijaSlug": "zvezdara"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 28482,
+"udeo": 51.5613968391897
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 7269,
+"udeo": 13.159181013414436
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 5639,
+"udeo": 10.208367276742882
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 4930,
+"udeo": 8.924853817049549
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 3988,
+"udeo": 7.219536921378012
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 1819,
+"udeo": 3.2929633049113853
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 1026,
+"udeo": 1.8573833704447946
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 577,
+"udeo": 1.0445518564782128
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 385,
+"udeo": 0.696971342710766
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 130,
+"udeo": 0.23534097286337552
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 91,
+"udeo": 0.16473868100436287
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+}
+],
+"coordinates": "43.897482,20.1854404",
+"biraciKojiSuGlasali": 55239,
+"brojUpisanihBiracaUBirackiSpisak": 99145,
+"percentage": 55.715366382570984,
+"teritorija": "Чачак",
+"teritorijaSlug": "cacak"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 9798,
+"udeo": 62.59902887809865
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 1580,
+"udeo": 10.094556606184513
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 1105,
+"udeo": 7.059800664451828
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 797,
+"udeo": 5.09200102223358
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 602,
+"udeo": 3.8461538461538463
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 433,
+"udeo": 2.766419626884743
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 338,
+"udeo": 2.1594684385382057
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 294,
+"udeo": 1.8783542039355994
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 188,
+"udeo": 1.2011244569384105
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 59,
+"udeo": 0.3769486327625862
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 52,
+"udeo": 0.33222591362126247
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+}
+],
+"coordinates": "45.6479651,19.0657116",
+"biraciKojiSuGlasali": 15652,
+"brojUpisanihBiracaUBirackiSpisak": 26178,
+"percentage": 59.790663916265565,
+"teritorija": "Апатин",
+"teritorijaSlug": "apatin"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 3367,
+"udeo": 64.60092095165004
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 456,
+"udeo": 8.749040675364544
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 399,
+"udeo": 7.655410590943975
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 367,
+"udeo": 7.041442824251727
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 280,
+"udeo": 5.372217958557176
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 156,
+"udeo": 2.9930928626247124
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 34,
+"udeo": 0.6523407521105142
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 21,
+"udeo": 0.4029163468917882
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 15,
+"udeo": 0.28779739063699156
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 14,
+"udeo": 0.2686108979278588
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 5,
+"udeo": 0.09593246354566384
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+}
+],
+"coordinates": "44.538211, 21.222067",
+"biraciKojiSuGlasali": 5212,
+"brojUpisanihBiracaUBirackiSpisak": 12558,
+"percentage": 41.50342411211976,
+"teritorija": "Мало Црниће",
+"teritorijaSlug": "malo-crnice"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 63145,
+"udeo": 50.83319916277572
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 23260,
+"udeo": 18.724843020447594
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 13625,
+"udeo": 10.968443084849461
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 8514,
+"udeo": 6.853968765094187
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 5291,
+"udeo": 4.259378521977138
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 3343,
+"udeo": 2.6911930445982937
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 2484,
+"udeo": 1.999677990661729
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 1316,
+"udeo": 1.0594107229109644
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 738,
+"udeo": 0.5941072291096442
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 505,
+"udeo": 0.4065367895668974
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 326,
+"udeo": 0.26243761069071003
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+}
+],
+"coordinates": "43.3741963,21.8132467",
+"biraciKojiSuGlasali": 124220,
+"brojUpisanihBiracaUBirackiSpisak": 237988,
+"percentage": 52.195909037430454,
+"teritorija": "Ниш",
+"teritorijaSlug": "nis"
+},
+{
+"rezultat": [
+{
+"kandidatSlug": "aleksandar-vucic",
+"rezultat": {
+"glasova": 9476,
+"udeo": 67.54579798987811
+},
+"kandidat": "Александар Вучић",
+"boja": "#a6cee3"
+},
+{
+"kandidatSlug": "sasa-jankovic",
+"rezultat": {
+"glasova": 1206,
+"udeo": 8.596478722645948
+},
+"kandidat": "Саша Јанковић",
+"boja": "#1f78b4"
+},
+{
+"kandidatSlug": "luka-maksimovic",
+"rezultat": {
+"glasova": 1014,
+"udeo": 7.227885095160026
+},
+"kandidat": "Лука Максимовић",
+"boja": "#b2df8a"
+},
+{
+"kandidatSlug": "vuk-jeremic",
+"rezultat": {
+"glasova": 732,
+"udeo": 5.217763204790078
+},
+"kandidat": "Вук Јеремић",
+"boja": "#33a02c"
+},
+{
+"kandidatSlug": "dr-vojislav-seselj",
+"rezultat": {
+"glasova": 567,
+"udeo": 4.041628056169364
+},
+"kandidat": "др Војислав Шешељ",
+"boja": "#fb9a99"
+},
+{
+"kandidatSlug": "bosko-obradovic",
+"rezultat": {
+"glasova": 317,
+"udeo": 2.259605103713736
+},
+"kandidat": "Бошко Обрадовић",
+"boja": "#e31a1c"
+},
+{
+"kandidatSlug": "prof-dr-aleksandar-popovic",
+"rezultat": {
+"glasova": 187,
+"udeo": 1.3329531684368094
+},
+"kandidat": "проф. др Александар Поповић",
+"boja": "#6a3d9a"
+},
+{
+"kandidatSlug": "sasa-radulovic",
+"rezultat": {
+"glasova": 100,
+"udeo": 0.7128091809822511
+},
+"kandidat": "Саша Радуловић",
+"boja": "#fdbf6f"
+},
+{
+"kandidatSlug": "milan-stamatovic",
+"rezultat": {
+"glasova": 76,
+"udeo": 0.5417349775465108
+},
+"kandidat": "Милан Стаматовић",
+"boja": "#ff7f00"
+},
+{
+"kandidatSlug": "nenad-canak",
+"rezultat": {
+"glasova": 30,
+"udeo": 0.2138427542946753
+},
+"kandidat": "Ненад Чанак",
+"boja": "#cab2d6"
+},
+{
+"kandidatSlug": "miroslav-parovic",
+"rezultat": {
+"glasova": 28,
+"udeo": 0.1995865706750303
+},
+"kandidat": "Мирослав Паровић",
+"boja": "#b15928"
+}
+],
+"coordinates": "44.469795, 20.024814",
+"biraciKojiSuGlasali": 14029,
+"brojUpisanihBiracaUBirackiSpisak": 23913,
+"percentage": 58.666833939698066,
+"teritorija": "Уб",
+"teritorijaSlug": "ub"
 },
 {
 "rezultat": [
